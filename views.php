@@ -75,10 +75,11 @@ $views = array(
 'turkish j. bot.'
 );
 
+/*
 $views = array(
 'edinburgh j. bot.'
 );
-
+*/
 
 foreach ($views as $view)
 {
