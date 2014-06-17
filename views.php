@@ -95,7 +95,6 @@ foreach ($views as $view)
 	$sql = 'SELECT 
 	 Id,
 	 Full_name_without_family_and_authors,
-	 Authors,
 	 Publication,
 	 Collation,
 	 Publication_year_full,
