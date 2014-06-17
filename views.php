@@ -75,6 +75,11 @@ $views = array(
 'turkish j. bot.'
 );
 
+$views = array(
+'edinburgh j. bot.'
+);
+
+
 foreach ($views as $view)
 {
 	$filename = str_replace(' ', '_', $view) . '.tsv';
@@ -88,7 +93,9 @@ foreach ($views as $view)
 	}
 	
 	$sql = 'SELECT * INTO OUTFILE "' . $tmpfile . '"
-FIELDS TERMINATED BY "\t" LINES TERMINATED BY "\n"
+FIELDS ESCAPED BY \'"\'
+TERMINATED BY \',\' ENCLOSED BY \'"\'
+LINES TERMINATED BY "\n" 
 FROM `' . $view . '`;';
 
 	$result = $db->Execute($sql);
