@@ -92,7 +92,11 @@ foreach ($views as $view)
 		unlink($tmpfile);
 	}
 	
-	$sql = 'SELECT 
+	$sql = '
+	SELECT "Id","Full_name_without_family_and_authors","Authors","Publication","Collation",
+	"Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
+	UNION ALL 
+	SELECT 
 	 Id,
 	 Full_name_without_family_and_authors,
 	 Authors,

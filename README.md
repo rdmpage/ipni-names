@@ -4,7 +4,7 @@ Mapping between names in the International Plant Names Index [IPNI](http://www.i
 
 Names and publications are mapped to a series of bibliographic identifiers, including DOIs, article identifiers from [BioStor](http://biostor.org), [JSTOR](http://jstor.org), and [CiNii](http://ci.nii.ac.jp), Handles, URLs, and PDFs. Individual pages may also be mapped to BHL PageIDs.
 
-This repository stores the current mapping for a subset of the  journals in IPNI, these are in the journals folder as tsv (tab separated value) files. For example, the mapping for the Edinburgh Journal of Botany [ISSN 0960-4286](http://www.worldcat.org/issn/0960-4286) is in the file edinburgh j. bot..tsv. This journal has had every name mapped to a DOI, for example
+This repository stores the current mapping for a subset of the  journals in IPNI, these are in the journals folder as csv (comma separated value) files. For example, the mapping for the Edinburgh Journal of Botany [ISSN 0960-4286](http://www.worldcat.org/issn/0960-4286) is in the file [edinburgh j. bot..csv](https://github.com/rdmpage/ipni-names/blob/master/journals/edinburgh_j._bot..csv). This journal has had every name mapped to a DOI, for example
 
 [77104049-1](http://www.ipni.org/ipni/idPlantNameSearch.do?id=77104049-1) _Begonia rubiteae_ was published in article DOI:10.1017/S0960428609990266
 
