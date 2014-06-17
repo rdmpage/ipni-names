@@ -92,7 +92,23 @@ foreach ($views as $view)
 		unlink($tmpfile);
 	}
 	
-	$sql = 'SELECT * INTO OUTFILE "' . $tmpfile . '"
+	$sql = 'SELECT 
+	 Id,
+	 Full_name_without_family_and_authors,
+	 Authors,
+	 Publication,
+	 Collation,
+	 Publication_year_full,
+	 IFNULL(issn,""),
+	 IFNULL(doi,""),
+	 IFNULL(biostor,""),
+	 IFNULL(bhl,""),
+	 IFNULL(jstor,""),
+	 IFNULL(cinii,""),
+	 IFNULL(url,""),
+	 IFNULL(pdf,""),
+	 IFNULL(handle,"")
+	INTO OUTFILE "' . $tmpfile . '"
 FIELDS ESCAPED BY \'"\'
 TERMINATED BY \',\' ENCLOSED BY \'"\'
 LINES TERMINATED BY "\n" 
