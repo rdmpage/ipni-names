@@ -82,7 +82,7 @@ $views = array(
 
 foreach ($views as $view)
 {
-	$filename = str_replace(' ', '_', $view) . '.tsv';
+	$filename = str_replace(' ', '_', $view) . '.csv';
 	
 	$tmpfile = '/tmp/' . $filename;
 	$outfile = $path . '/' . $filename;
@@ -110,7 +110,7 @@ foreach ($views as $view)
 	 IFNULL(handle,"")
 	INTO OUTFILE "' . $tmpfile . '"
 FIELDS ESCAPED BY \'"\'
-TERMINATED BY \',\' ENCLOSED BY \'"\'
+TERMINATED BY \',\' OPTIONALLY ENCLOSED BY \'"\'
 LINES TERMINATED BY "\n" 
 FROM `' . $view . '`;';
 
