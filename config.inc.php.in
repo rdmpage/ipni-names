@@ -15,12 +15,12 @@ global $config;
 date_default_timezone_set('UTC');
 
 // Server-------------------------------------------------------------------------------------------
-$config['web_server']	= 'http://localhost'; //'http://biostor.org';
+$config['web_server']	= 'http://localhost'; 
 $config['site_name']	= 'IPNI';
 
 // Files--------------------------------------------------------------------------------------------
 $config['web_dir']		= dirname(__FILE__) . '/';
-$config['web_root']		= '/~rpage/ipni/';
+$config['web_root']		= '/~rpage/ipni-names/';
 
 
 // Database-----------------------------------------------------------------------------------------
