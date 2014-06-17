@@ -1,6 +1,6 @@
 # ipni-names
 
-Mapping between names in the International Plant Names Index (IPNI) [http://www.ipni.org] names and bibliographic identifiers.
+Mapping between names in the International Plant Names Index [IPNI](http://www.ipni.org) names and bibliographic identifiers.
 
 Names and publications are mapped to a series of bibliographic identifiers, including DOIs, article identifiers from (BioStor)[http://biostor.org], (JSTOR)[http://jstor.org], and (CiNii)[http://ci.nii.ac.jp], Handles, URLs, and PDFs.
 
