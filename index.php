@@ -215,7 +215,7 @@ function display_genus($genus)
 	echo '<div style="position:relative;">';
 	echo '<div style="width:800px;height:400px;overflow:auto;border:1px solid rgb(128,128,128);">';
 
-	echo '<table id="specieslist">';
+	echo '<table id="specieslist" cellspacing="0">';
 	echo '<tbody style="font-size:12px;">';
 	
 	$odd = true;
@@ -224,10 +224,10 @@ function display_genus($genus)
 	{
 		echo '<tr';
 		
-		/*
+		
 		if ($odd)
 		{
-			echo ' style="background-color:#def;"';
+			echo ' style="background-color:#eef;"';
 			$odd = false;
 		}
 		else
@@ -236,11 +236,11 @@ function display_genus($genus)
 			$odd = true;
 		}
 		
-		*/
+		
 		
 		
 		echo '>';
-		echo '<td>' . $sp->id . '</td>';
+		echo '<td>' . '<a href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=' . $sp->id . '" target="_new">' . $sp->id . '</td>';
 		echo '<td>' . $sp->html . '</td>';
 		echo '<td>' . $sp->publication . '</td>';
 		

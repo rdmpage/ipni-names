@@ -16,10 +16,12 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 $path = 'journals';
 
 $views = array(
+'acta bot. yunnan.',
 'acta phytotax. geobot.',
 'amer. j. bot.',
 'amer. midl. naturalist',
 'ann. bot. fenn.',
+'ann. mag. nat. hist.',
 'ann. missouri bot. gard.',
 'ark. bot.',
 'arnaldoa',
@@ -29,6 +31,7 @@ $views = array(
 'bot. jahrb. syst.',
 'bot. mag. (tokyo)',
 'bothalia',
+'brit. fern gaz.',
 'brittonia',
 'brunonia',
 'bull. herb. boissier',
@@ -42,6 +45,7 @@ $views = array(
 'contr. u.s. natl. herb.',
 'edinburgh j. bot.',
 'feddes repert.',
+'fern gaz. (u.k.)',
 'fieldiana, bot.',
 'gayana, bot.',
 'int. j. pl. sci.',
@@ -52,6 +56,7 @@ $views = array(
 'kew bull.',
 'mem. new york bot. gard.',
 'molec. phylogen. evol.',
+'muelleria',
 'nordic j. bot.',
 'novon',
 'pacific sci.',
@@ -60,6 +65,7 @@ $views = array(
 'phytotaxa',
 'pl. syst. evol.',
 'proc. biol. soc. washington',
+'publ. field columb. mus., bot. ser.',
 'repert. spec. nov. regni veg.',
 'revista peru. biol.',
 'rhodora',
@@ -71,15 +77,23 @@ $views = array(
 'taxon',
 'telopea',
 'thai forest bull., bot.',
+'the victorian naturalist',
 'trans. linn. soc. london',
 'turkish j. bot.'
 );
 
-/*
+
 $views = array(
-'edinburgh j. bot.'
+'fern gaz. (u.k.)',
+'acta bot. yunnan.',
+'brit. fern gaz.',
+'the victorian naturalist',
+'muelleria',
+'publ. field columb. mus., bot. ser.',
+'ann. mag. nat. hist.',
+'rhodora'
 );
-*/
+
 
 foreach ($views as $view)
 {
