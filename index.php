@@ -111,6 +111,10 @@ function display_genus($genus)
 	{
 		$record = new stdclass;
 		$record->id = $result->fields['Id'];
+		
+		$record->name = $result->fields['Genus'];
+		
+		
 		$record->html = '<i>' . $result->fields['Genus'] . '</i>';
 		
 		switch ($result->fields['Rank'])
@@ -122,7 +126,9 @@ function display_genus($genus)
 				break;
 				
 			case 'spec.':
-				$record->html .= ' <i>' . $result->fields['Species'] . '</i>';					
+				$record->html .= ' <i>' . $result->fields['Species'] . '</i>';
+				
+				$record->name .= ' ' . $result->fields['Species'];
 				break;
 				
 			case 'f.':
@@ -200,6 +206,33 @@ function display_genus($genus)
 				//$("#details").html("xxx");
 			}
 			
+			function show_biostor(biostor)
+			{
+				$("#details").html("");
+				$.getJSON("pub.php?biostor=" + biostor,
+					function(data){
+						var html = data.html;
+						$("#details").html(html);
+					}
+					
+				);	
+				//$("#details").html("xxx");
+			}
+			
+			function show_bhl(PageID, term)
+			{
+				$("#details").html("");
+				$.getJSON("bhl.php?PageID=" + PageID + "&term=" + term,
+					function(data){
+						var html = data.html;
+						$("#details").html(html);
+					}
+					
+				);	
+			}
+			
+			
+			
 		</script>
 	</head>
 	<body>
@@ -268,26 +301,32 @@ function display_genus($genus)
 		}		
 		echo '</td>';
 		
-		echo '<td>';
-		if (isset($sp->jstor))
-		{
-			echo $sp->jstor;
-		}		
-		echo '</td>';
 
 		echo '<td>';
 		if (isset($sp->biostor))
 		{
+			echo '<span onclick="show_biostor(\'' . $sp->biostor . '\');">';
 			echo $sp->biostor;
+			echo '</span>';
 		}		
 		echo '</td>';
 
 		echo '<td>';
 		if (isset($sp->bhl))
 		{
+			echo '<span onclick="show_bhl(\'' . $sp->bhl . '\',\'' . $sp->name . '\');">';		
 			echo $sp->bhl;
+			echo '</span>';
 		}		
 		echo '</td>';
+		
+		echo '<td>';
+		if (isset($sp->jstor))
+		{
+			echo $sp->jstor;
+		}		
+		echo '</td>';
+		
 
 		echo '<td>';
 		if (isset($sp->cinii))

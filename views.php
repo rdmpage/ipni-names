@@ -94,6 +94,16 @@ $views = array(
 'rhodora'
 );
 
+$views=array(
+'contr. univ. michigan herb.',
+'trans. linn. soc. london, bot.',
+'pl. divers. evol.',
+'bull. nat. hist. mus. london, bot.',
+'bull. mus. natl. hist. nat., b, adansonia',
+'ber. schweiz. bot. ges.',
+'j. fed. malay states mus.'
+);
+
 
 foreach ($views as $view)
 {
