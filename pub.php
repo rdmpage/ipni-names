@@ -3,6 +3,9 @@
 require_once(dirname(__FILE__) . '/lib.php');
 require_once(dirname(__FILE__) . '/adodb5/adodb.inc.php');
 
+require_once(dirname(__FILE__) . '/CiteProc.php');
+
+
 
 //--------------------------------------------------------------------------------------------------
 $db = NewADOConnection('mysql');
@@ -50,6 +53,24 @@ function get_formatted_citation_from_cinii($cinii)
 }
 
 
+//--------------------------------------------------------------------------------------------------
+function get_formatted_citation_from_biostor($biostor)
+{
+	$url = 'http://biostor.org/reference/' . $biostor . '.citeproc';
+
+	$json = get($url);
+		
+	$citeproc_obj = json_decode($json);
+	
+	
+	$csl = file_get_contents(dirname(__FILE__) . '/style/apa.csl');
+
+	$citeproc = new citeproc($csl);
+	$html = $citeproc->render($citeproc_obj, 'bibliography');
+	
+	return $html;
+}
+
 $doi == '';
 $cinii == '';
 
@@ -71,6 +92,18 @@ if (isset($_GET['cinii']))
 	
 	$data = new stdclass;
 	$data->html = get_formatted_citation_from_cinii($cinii);
+	
+	echo json_encode($data);
+	exit();
+		
+}
+
+if (isset($_GET['biostor']))
+{
+	$biostor = $_GET['biostor'];
+	
+	$data = new stdclass;
+	$data->html = get_formatted_citation_from_biostor($biostor);
 	
 	echo json_encode($data);
 	exit();
