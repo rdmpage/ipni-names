@@ -101,7 +101,12 @@ $views=array(
 'bull. nat. hist. mus. london, bot.',
 'bull. mus. natl. hist. nat., b, adansonia',
 'ber. schweiz. bot. ges.',
-'j. fed. malay states mus.'
+'j. fed. malay states mus.',
+'bull. soc. neuchateloise sci. nat.',
+'fl. males.',
+'gard. bull. singapore',
+'fl. yunnan.',
+'wrightia'
 );
 
 
