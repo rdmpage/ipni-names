@@ -64,7 +64,7 @@
 
 	<xsl:attribute name="style">
 		<xsl:text>position:relative;</xsl:text>
-		<xsl:text>border:1px solid rgb(192,192,192);</xsl:text>
+		<xsl:text>border:1px solid rgb(228,228,228);</xsl:text>
 		<xsl:variable name="height" select="@height" />
 		<xsl:variable name="width" select="@width" />
 		<xsl:text>width:</xsl:text><xsl:value-of select="$width * $scale" /><xsl:text>px;</xsl:text>
