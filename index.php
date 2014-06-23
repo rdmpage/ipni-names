@@ -41,7 +41,7 @@ function default_display()
 
 
 //--------------------------------------------------------------------------------------------------
-function display_search($query)
+function display_search($query, $type = 'genus')
 {
 	global $config;
 	global $db;
@@ -50,19 +50,43 @@ function display_search($query)
 	
 	$query = trim(mysql_escape_string($query));
 	
-	if (preg_match('/^\w+$/', $query))
+	if (preg_match('/^\w+/', $query))
 	{
-		$sql = 'SELECT * FROM names WHERE Genus = ' . $db->qstr($query) . ' LIMIT 1';
-	
-		$result = $db->Execute($sql);
-		if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
-		
-		if ($result->NumRows() == 1)
+		switch($type)
 		{
-			$genus = $query;
-			display_genus($query);
-			$found = true;
+			case 'genus':
+				$sql = 'SELECT * FROM names WHERE Genus = ' . $db->qstr($query) . ' LIMIT 1';
+			
+				$result = $db->Execute($sql);
+				if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
+				
+				if ($result->NumRows() == 1)
+				{
+					$genus = $query;
+					display_genus($query);
+					$found = true;
+				}
+				break;
+
+			case 'publication':
+				$sql = 'SELECT * FROM names WHERE Publication = ' . $db->qstr($query) . ' LIMIT 1';
+			
+				$result = $db->Execute($sql);
+				if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
+				
+				if ($result->NumRows() == 1)
+				{
+					$genus = $query;
+					display_publication($query);
+					$found = true;
+				}
+				break;
+		
+			default:
+				break;
 		}
+				
+				
 	}
 	
 	if (!$found)
@@ -92,9 +116,23 @@ function display_search($query)
 
 }
 
+//--------------------------------------------------------------------------------------------------
+function display_publication($publication)
+{
+	$sql = 'SELECT * FROM names WHERE Publication = "' . $publication . '" ORDER BY Collation';
+	display_query($sql);
+}
 
 //--------------------------------------------------------------------------------------------------
 function display_genus($genus)
+{
+	$sql = 'SELECT * FROM names WHERE Genus = "' . $genus . '" ORDER BY Species';
+	display_query($sql);
+}
+
+
+//--------------------------------------------------------------------------------------------------
+function display_query($sql)
 {
 	global $config;
 	global $db;
@@ -103,7 +141,6 @@ function display_genus($genus)
 	$major_group ='';
 	$family = '';
 	
-	$sql = 'SELECT * FROM names WHERE Genus = "' . $genus . '" ORDER BY Species';
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
@@ -142,7 +179,8 @@ function display_genus($genus)
 				break;
 		}
 		$record->html .= ' ' . utf8_encode($result->fields['Authors']);
-		$record->publication = trim(utf8_encode($result->fields['Publication']) . ' ' . utf8_encode($result->fields['Collation']));
+		
+		$record->publication = '<a href="?p=' . trim(utf8_encode($result->fields['Publication'])) . '">' . trim(utf8_encode($result->fields['Publication'])) . '</a> ' . trim(utf8_encode($result->fields['Collation']));
 		if ($result->fields['Page'] != '')
 		{
 			$record->publication .= ' '  . $result->fields['Page'];
@@ -402,13 +440,12 @@ function main()
 		display_search($query);
 	}
 	
-	/*
-	if (isset($_GET['family']))
+
+	if (isset($_GET['p']))
 	{	
-		$family = $_GET['family'];
-		display_family($family);
+		$publication = $_GET['p'];
+		display_search($publication, 'publication');
 	}
-	*/
 
 }
 
