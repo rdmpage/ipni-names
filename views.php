@@ -15,103 +15,13 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
 $path = 'journals';
 
+// http://stackoverflow.com/a/16840245
+// SHOW FULL TABLES IN ipni WHERE TABLE_TYPE LIKE 'VIEW';
 $views = array(
+'acta bot. hung.',
 'acta bot. yunnan.',
 'acta phytotax. geobot.',
-'amer. j. bot.',
-'amer. midl. naturalist',
-'ann. bot. fenn.',
-'ann. mag. nat. hist.',
-'ann. missouri bot. gard.',
-'ark. bot.',
-'arnaldoa',
-'austral. syst. bot.',
-'blumea',
-'bot. gaz.',
-'bot. jahrb. syst.',
-'bot. mag. (tokyo)',
-'bothalia',
-'brit. fern gaz.',
-'brittonia',
-'brunonia',
-'bull. herb. boissier',
-'bull. jard. bot. etat bruxelles',
-'bull. jard. bot. buitenzorg',
-'bull. misc. inform. kew',
-'bull. nat. hist. mus. london, bot.',
-'bull. soc. bot. france',
-'bull. torrey bot. club',
-'candollea',
-'contr. u.s. natl. herb.',
-'edinburgh j. bot.',
-'feddes repert.',
-'fern gaz. (u.k.)',
-'fieldiana, bot.',
-'gayana, bot.',
-'int. j. pl. sci.',
-'j. arnold arbor.',
-'j. linn. soc., bot.',
-'j. syst. evol.',
-'j. wash. acad. sci.',
-'kew bull.',
-'mem. new york bot. gard.',
-'molec. phylogen. evol.',
-'muelleria',
-'nordic j. bot.',
-'novon',
-'pacific sci.',
-'phytokeys',
-'phytologia',
-'phytotaxa',
-'pl. syst. evol.',
-'proc. biol. soc. washington',
-'publ. field columb. mus., bot. ser.',
-'repert. spec. nov. regni veg.',
-'revista peru. biol.',
-'rhodora',
-'s. african j. bot.',
-'sida',
-'smithsonian contr. bot.',
-'syst. bot.',
-'syst. bot. monogr.',
-'taxon',
-'telopea',
-'thai forest bull., bot.',
-'the victorian naturalist',
-'trans. linn. soc. london',
-'turkish j. bot.'
-);
-
-
-$views = array(
-'fern gaz. (u.k.)',
-'acta bot. yunnan.',
-'brit. fern gaz.',
-'the victorian naturalist',
-'muelleria',
-'publ. field columb. mus., bot. ser.',
-'ann. mag. nat. hist.',
-'rhodora'
-);
-
-$views=array(
-'contr. univ. michigan herb.',
-'trans. linn. soc. london, bot.',
-'pl. divers. evol.',
-'bull. nat. hist. mus. london, bot.',
-'bull. mus. natl. hist. nat., b, adansonia',
-'ber. schweiz. bot. ges.',
-'j. fed. malay states mus.',
-'bull. soc. neuchateloise sci. nat.',
-'fl. males.',
-'gard. bull. singapore',
-'fl. yunnan.',
-'wrightia'
-);
-
-$views=array(
-'acta bot. yunnan.',
-'acta phytotax. geobot.',
+'acta phytotax. sin.',
 'amer. j. bot.',
 'amer. midl. naturalist',
 'ann. bot. fenn.',
@@ -146,6 +56,7 @@ $views=array(
 'feddes repert.',
 'fern gaz. (u.k.)',
 'fieldiana, bot.',
+'fl. madagasc.',
 'fl. males.',
 'fl. yunnan.',
 'gard. bull. singapore',
@@ -160,9 +71,11 @@ $views=array(
 'kew bull.',
 'mem. new york bot. gard.',
 'molec. phylogen. evol.',
+'moscosoa',
 'muelleria',
 'nordic j. bot.',
 'novon',
+'nuytsia',
 'opera bot.',
 'pacific sci.',
 'phil. trans. roy. soc. lond., ser. b',
@@ -177,20 +90,22 @@ $views=array(
 'revista peru. biol.',
 'rhodora',
 's. african j. bot.',
+'sendtnera',
 'sida',
 'smithsonian contr. bot.',
 'syst. bot.',
 'syst. bot. monogr.',
+'taiwania',
 'taxon',
 'telopea',
 'thai forest bull., bot.',
 'the victorian naturalist',
 'trans. linn. soc. london',
 'trans. linn. soc. london, bot.',
+'trans. roy. soc. south africa',
 'turkish j. bot.',
 'wrightia'
 );
-
 
 foreach ($views as $view)
 {
@@ -235,8 +150,6 @@ FROM `' . $view . '`;';
 
 
 	rename($tmpfile, $outfile);
-
-	
 
 }
 
