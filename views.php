@@ -22,6 +22,7 @@ $views = array(
 'acta bot. yunnan.',
 'acta phytotax. geobot.',
 'acta phytotax. sin.',
+'amer fern j.',
 'amer. j. bot.',
 'amer. midl. naturalist',
 'ann. bot. fenn.',
@@ -105,6 +106,11 @@ $views = array(
 'trans. roy. soc. south africa',
 'turkish j. bot.',
 'wrightia'
+);
+
+// small updates
+$views = aray(
+'amer fern j.'
 );
 
 foreach ($views as $view)

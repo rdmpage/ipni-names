@@ -405,7 +405,6 @@ function display_query($sql)
 	echo '</div>';
 	
 	echo '</div>';
-	
 	echo
 '	</body>
 </html>';
