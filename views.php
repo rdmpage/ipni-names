@@ -109,7 +109,7 @@ $views = array(
 );
 
 // small updates
-$views = aray(
+$views = array(
 'amer fern j.'
 );
 
