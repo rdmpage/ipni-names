@@ -110,8 +110,9 @@ $views = array(
 
 // small updates
 $views = array(
-'nuytsia',
-'taiwania'
+'bull. soc. bot. france',
+'madrono',
+'blumea'
 );
 
 foreach ($views as $view)
