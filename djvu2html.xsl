@@ -112,11 +112,27 @@
 		<xsl:variable name="maxx" select="substring-before($aftermaxy,',')" />
 		<xsl:variable name="aftermaxx" select="substring-after($aftermaxy,',')" />
 		<xsl:variable name="miny" select="substring-after($aftermaxy,',')" />
-
+		
+		<!-- some DjVu files have five coordinates, some have four (sigh) -->
+		<xsl:choose>
+			<xsl:when test="contains($miny,',')">
+				<!-- five numbers in coords -->
+				<xsl:variable name="miny2" select="substring-before($miny,',')" />
+				<xsl:text>top:</xsl:text><xsl:value-of select="$miny2 * $scale" /><xsl:text>px;</xsl:text>
+				<xsl:text>height:</xsl:text><xsl:value-of select="($maxy - $miny2) * $scale" /><xsl:text>px;</xsl:text>				
+			</xsl:when>
+			<xsl:otherwise>
+				<!-- four -->
+				<xsl:text>top:</xsl:text><xsl:value-of select="$miny * $scale" /><xsl:text>px;</xsl:text>
+				<xsl:text>height:</xsl:text><xsl:value-of select="($maxy - $miny) * $scale" /><xsl:text>px;</xsl:text>
+			</xsl:otherwise>
+		</xsl:choose>
+		
 		<xsl:text>left:</xsl:text><xsl:value-of select="$minx * $scale" /><xsl:text>px;</xsl:text>
 		<xsl:text>width:</xsl:text><xsl:value-of select="($maxx - $minx) * $scale" /><xsl:text>px;</xsl:text>
+		<!--
 		<xsl:text>top:</xsl:text><xsl:value-of select="$miny * $scale" /><xsl:text>px;</xsl:text>
-		<xsl:text>height:</xsl:text><xsl:value-of select="($maxy - $miny) * $scale" /><xsl:text>px;</xsl:text>
+		<xsl:text>height:</xsl:text><xsl:value-of select="($maxy - $miny) * $scale" /><xsl:text>px;</xsl:text> -->
 	</xsl:attribute>
 	
 	
