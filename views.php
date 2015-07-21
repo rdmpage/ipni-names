@@ -116,8 +116,7 @@ $views = array(
 );
 
 $views = array(
-'austrobaileya',
-'syst. bot.'
+'neodiversity'
 );
 
 foreach ($views as $view)
