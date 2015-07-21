@@ -115,6 +115,11 @@ $views = array(
 'blumea'
 );
 
+$views = array(
+'austrobaileya',
+'syst. bot.'
+);
+
 foreach ($views as $view)
 {
 	$filename = str_replace(' ', '_', $view) . '.csv';
