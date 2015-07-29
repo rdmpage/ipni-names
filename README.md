@@ -30,5 +30,11 @@ Any               158,387
 
 There is a simple PHP script index.php for a genus-level browser of the IPNI data (the full dataset isn't included in this repository).
 
+## Examples
+
+### One DOI encloses others
+
+The DOI http://dx.doi.org/10.15553/c2012v671a12 **Notes on the Flora of Madagascar, 22–25** has the page span 137–151, but each note within the span has its own DOI (e.g., **Notes on the Genus Ochna L. (Ochnaceae) in Madagascar No Access** http://dx.doi.org/10.15553/c2012v671a14 ). This violates assumption that article spans are disjoint (or may intersect on the start and end pages).
+
 
 
