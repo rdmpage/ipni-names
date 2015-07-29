@@ -256,6 +256,34 @@ function display_query($sql)
 				);	
 				//$("#details").html("xxx");
 			}
+
+			function show_url(url)
+			{
+				//alert(url);
+				$("#details").html("");
+				$.getJSON("pub.php?url=" + url,
+					function(data){
+						var html = data.html;
+						$("#details").html(html);
+					}
+					
+				);	
+				//$("#details").html("xxx");
+			}
+			
+			function show_jstor(jstor)
+			{
+				$("#details").html("");
+				$.getJSON("pub.php?jstor=" + jstor,
+					function(data){
+						var html = data.html;
+						$("#details").html(html);
+					}
+					
+				);	
+				//$("#details").html("xxx");
+			}
+			
 			
 			function show_bhl(PageID, term)
 			{
@@ -361,7 +389,9 @@ function display_query($sql)
 		echo '<td>';
 		if (isset($sp->jstor))
 		{
+			echo '<span onclick="show_jstor(\'' . $sp->jstor . '\');">';		
 			echo $sp->jstor;
+			echo '</span>';
 		}		
 		echo '</td>';
 		
@@ -378,9 +408,13 @@ function display_query($sql)
 		echo '<td>';
 		if (isset($sp->url))
 		{
-			echo '<a href="' . $sp->url . '" title="' . $sp->url . '">';
+			echo '<span onclick="show_url(\'' . $sp->url . '\');">';
 			echo substr($sp->url, 7, 20) . '...';
-			echo '</a>';
+			echo '</span>';
+
+			//echo '<a href="' . $sp->url . '" title="' . $sp->url . '">';
+			//echo substr($sp->url, 7, 20) . '...';
+			//echo '</a>';
 		}		
 		echo '</td>';
 
@@ -395,6 +429,7 @@ function display_query($sql)
 		
 		
 		echo '</tr>';
+		echo "\n";
 	}
 	echo '</tbody>';
 	echo '</table>';
