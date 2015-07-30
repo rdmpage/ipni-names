@@ -116,7 +116,12 @@ $views = array(
 );
 
 $views = array(
-'neodiversity'
+'acta bot. venez.',
+'bothalia',
+'j. adelaide bot. gard.',
+'syst. geogr. pl.',
+'syst. bot.',
+'webbia'
 );
 
 foreach ($views as $view)
