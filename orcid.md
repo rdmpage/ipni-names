@@ -5,6 +5,8 @@
 
 http://orcid.org/0000-0002-6672-8075 Chris Stapleton self identifies as an IPNI author, URL http://www.ipni.org/ipni/idAuthorSearch.do?id=36142-1
 
+http://orcid.org/0000-0003-1317-9241 Gregory Steenbeeke discovered by searching ORCID for “Telopea”
+
 
 
 ## Phytokeys
