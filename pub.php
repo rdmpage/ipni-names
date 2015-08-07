@@ -56,7 +56,7 @@ function get_formatted_citation_from_cinii($cinii)
 //--------------------------------------------------------------------------------------------------
 function get_formatted_citation_from_biostor($biostor)
 {
-	$url = 'http://biostor.org/reference/' . $biostor . '.citeproc';
+	$url = 'http://direct.biostor.org/reference/' . $biostor . '.citeproc';
 
 	$json = get($url);
 		

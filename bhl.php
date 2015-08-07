@@ -7,9 +7,9 @@ require_once(dirname(__FILE__) . '/lib.php');
 $PageID = $_GET['PageID'];
 $term = $_GET['term'];
 
-$imageUrl = 'http://biostor.org/bhl_image.php?PageID=' . $PageID;
+$imageUrl = 'http://direct.biostor.org/bhl_image.php?PageID=' . $PageID;
 
-$xml = get('http://biostor.org/bhl_page_xml.php?PageID=' . $PageID);
+$xml = get('http://direct.biostor.org/bhl_page_xml.php?PageID=' . $PageID);
 
 if ($xml != '<?xml version="1.0" ?>')
 {
