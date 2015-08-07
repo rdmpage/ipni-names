@@ -125,7 +125,9 @@ $views = array(
 );
 
 $views=array(
-'n. amer. fl.'
+'austral. j. bot.',
+'telopea',
+'selbyana'
 );
 
 foreach ($views as $view)
