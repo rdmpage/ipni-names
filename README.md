@@ -30,6 +30,10 @@ Any               158,387
 
 There is a simple PHP script index.php for a genus-level browser of the IPNI data (the full dataset isn't included in this repository).
 
+## Dump
+
+Dump IPNI (without bibliographic data)
+
 ## Examples
 
 ### One DOI encloses others
