@@ -28,6 +28,8 @@ function get_formatted_citation_from_doi($doi)
 	$url = 'http://dx.doi.org/' . $doi;
 	$text = get($url, '', "text/x-bibliography; style=apa");
 	
+	//echo $url;
+	
 	return $text;
 }
 
