@@ -408,7 +408,7 @@ function display_query($sql)
 		echo '<td>';
 		if (isset($sp->url))
 		{
-			echo '<span onclick="show_url(\'' . $sp->url . '\');">';
+			echo '<span onclick="show_url(\'' . urlencode($sp->url) . '\');">';
 			echo substr($sp->url, 7, 20) . '...';
 			echo '</span>';
 

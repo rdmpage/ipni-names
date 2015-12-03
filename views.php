@@ -19,6 +19,7 @@ $path = 'journals';
 // SHOW FULL TABLES IN ipni WHERE TABLE_TYPE LIKE 'VIEW';
 $views = array(
 'acta bot. hung.',
+'acta bot. venez.',
 'acta bot. yunnan.',
 'acta phytotax. geobot.',
 'acta phytotax. sin.',
@@ -30,7 +31,10 @@ $views = array(
 'ann. missouri bot. gard.',
 'ark. bot.',
 'arnaldoa',
+'austral. j. bot.',
 'austral. syst. bot.',
+'austrobaileya',
+'balduinia',
 'ber. schweiz. bot. ges.',
 'blumea',
 'bot. gaz.',
@@ -51,8 +55,11 @@ $views = array(
 'bull. soc. neuchateloise sci. nat.',
 'bull. torrey bot. club',
 'candollea',
+'collect. bot. barcelona',
+'contr. gray herb.',
 'contr. u.s. natl. herb.',
 'contr. univ. michigan herb.',
+'contributions_from_the_queensland_herbarium',
 'edinburgh j. bot.',
 'feddes repert.',
 'fern gaz. (u.k.)',
@@ -63,6 +70,7 @@ $views = array(
 'gard. bull. singapore',
 'gayana, bot.',
 'int. j. pl. sci.',
+'j. adelaide bot. gard.',
 'j. arnold arbor.',
 'j. fed. malay states mus.',
 'j. int. conifer preserv. soc.',
@@ -70,11 +78,16 @@ $views = array(
 'j. syst. evol.',
 'j. wash. acad. sci.',
 'kew bull.',
+'kirkia',
+'madrono',
 'mem. new york bot. gard.',
 'molec. phylogen. evol.',
 'moscosoa',
 'muelleria',
+'n. amer. fl.',
+'neodiversity',
 'nordic j. bot.',
+'notizbl. bot. gart. berlin-dahlem',
 'novon',
 'nuytsia',
 'opera bot.',
@@ -91,11 +104,13 @@ $views = array(
 'revista peru. biol.',
 'rhodora',
 's. african j. bot.',
+'selbyana',
 'sendtnera',
 'sida',
 'smithsonian contr. bot.',
 'syst. bot.',
 'syst. bot. monogr.',
+'syst. geogr. pl.',
 'taiwania',
 'taxon',
 'telopea',
@@ -104,30 +119,10 @@ $views = array(
 'trans. linn. soc. london',
 'trans. linn. soc. london, bot.',
 'trans. roy. soc. south africa',
+'trans.bot.soc.edinburgh',
 'turkish j. bot.',
+'webbia',
 'wrightia'
-);
-
-// small updates
-$views = array(
-'bull. soc. bot. france',
-'madrono',
-'blumea'
-);
-
-$views = array(
-'acta bot. venez.',
-'bothalia',
-'j. adelaide bot. gard.',
-'syst. geogr. pl.',
-'syst. bot.',
-'webbia'
-);
-
-$views=array(
-'austral. j. bot.',
-'telopea',
-'selbyana'
 );
 
 foreach ($views as $view)

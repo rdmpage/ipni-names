@@ -7,7 +7,8 @@ require_once(dirname(__FILE__) . '/lib.php');
 $PageID = $_GET['PageID'];
 $term = $_GET['term'];
 
-$imageUrl = 'http://direct.biostor.org/bhl_image.php?PageID=' . $PageID;
+//$imageUrl = 'http://direct.biostor.org/bhl_image.php?PageID=' . $PageID;
+$imageUrl = 'http://www.biodiversitylibrary.org/pagethumb/' . $PageID . ',500,500';
 
 $xml = get('http://direct.biostor.org/bhl_page_xml.php?PageID=' . $PageID);
 

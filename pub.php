@@ -139,7 +139,7 @@ if (isset($_GET['url']))
 {
 	$url = $_GET['url'];
 	
-	$url = 'http://localhost/~rpage/microcitation/www/citeproc.php?guid=' . $url;
+	$url = 'http://localhost/~rpage/microcitation/www/citeproc.php?guid=' . urlencode($url);
 
 	$json = get($url);
 		
