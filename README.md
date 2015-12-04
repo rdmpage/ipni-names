@@ -26,6 +26,17 @@ BHL PageID         19,190
 Any               158,387
 ```
 
+Date: 2015-12-04
+
+```
+Identifier   Number of names
+DOI                166,618
+JSTOR               51,576
+BioStor             30,681
+BHL PageID          29,969
+Any                249,529
+```
+
 ## Browser
 
 There is a simple PHP script index.php for a genus-level browser of the IPNI data (the full dataset isn't included in this repository).
@@ -48,6 +59,11 @@ In progress
 ## Taxonomic examples
 
 *Dinebra decipiens* (DOI 10.1093/aob/mcs077, linked to one ORCID), GBIF has as *Leptochloa decipiens* http://www.gbif.org/species/2703867/, link made by OTT https://tree.opentreeoflife.org/opentree/argus/ottol@724661/Dinebra
+
+## IPNI errors
+
+### Mullaghera
+*Mullaghera communis* 509328-1 (and other species in this genus) are linked to Oesterr. Bot. Z. 49:509, etc., but the pages don’t exist. *Mullaghera communis* was published by P. Bubani here: http://biodiversitylibrary.org/page/10609741, see also Index Kewensis http://biodiversitylibrary.org/page/42364805
 
 
 
