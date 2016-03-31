@@ -116,10 +116,11 @@ if (isset($_GET['jstor']))
 {
 	$jstor = $_GET['jstor'];
 	
-	$url = 'http://localhost/~rpage/microcitation/www/citeproc.php?guid=http://www.jstor.org/stable/' . $jstor;
+	$url = 'http://localhost/~rpage/microcitation/www/darwincore.php?guid=http://www.jstor.org/stable/' . $jstor;
 
 	$json = get($url);
-		
+	
+	/*	
 	$citeproc_obj = json_decode($json);
 	
 	
@@ -130,7 +131,8 @@ if (isset($_GET['jstor']))
 	$data = new stdclass;
 	$data->html = $citeproc->render($citeproc_obj, 'bibliography');
 	
-	echo json_encode($data);
+	echo json_encode($data);*/
+	echo $json;
 	exit();
 		
 }
@@ -139,10 +141,12 @@ if (isset($_GET['url']))
 {
 	$url = $_GET['url'];
 	
-	$url = 'http://localhost/~rpage/microcitation/www/citeproc.php?guid=' . urlencode($url);
+	$url = 'http://localhost/~rpage/microcitation/www/pub.php?guid=' . urlencode($url);
+	//$url = 'http://localhost/~rpage/microcitation/www/citeproc.php?guid=' . $url;
 
 	$json = get($url);
 		
+	/*
 	$citeproc_obj = json_decode($json);
 	
 	
@@ -153,7 +157,8 @@ if (isset($_GET['url']))
 	$data = new stdclass;
 	$data->html = $citeproc->render($citeproc_obj, 'bibliography');
 	
-	echo json_encode($data);
+	echo json_encode($data);*/
+	echo $json;
 	exit();
 		
 }

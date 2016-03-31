@@ -189,7 +189,7 @@ function display_query($sql)
 		
 		// identifiers
 		
-		$identifiers = array('issn', 'doi', 'jstor', 'biostor', 'bhl', 'cinii', 'url', 'pdf', 'handle');
+		$identifiers = array('issn', 'doi', 'jstor', 'biostor', 'bhl', 'cinii', 'url', 'pdf', 'handle', 'isbn');
 		foreach ($identifiers as $i)
 		{
 			if ($result->fields[$i] != '')
@@ -218,6 +218,24 @@ function display_query($sql)
 		
 		<script>
 		
+			function show_orcid(doi)
+			{
+				
+				$.getJSON("orcid.php?doi=" + encodeURIComponent(doi),
+					function(data){
+						var html = "<div style=\"padding:4px;font-size:10px;\">";
+					    for (var i in data.results) {
+					    	html += \'<img src="images/orcid.png" align="middle" width="20"/>\' + " " + "<a href=\"http://orcid.org/" + data.results[i].orcid + "\" target=\"_new\">" + data.results[i].orcid + "</a> " + data.results[i].name + "<br/>";
+					    }
+					    html += "</div>";
+						$("#details").html($("#details").html() + html);
+					}
+					
+				);	
+				//$("#details").html("xxx");
+			}
+		
+		
 			function show_doi(doi)
 			{
 				$("#details").html("");
@@ -225,6 +243,7 @@ function display_query($sql)
 					function(data){
 						var html = data.html;
 						$("#details").html(html);
+						show_orcid(doi);
 					}
 					
 				);	
@@ -421,9 +440,20 @@ function display_query($sql)
 		echo '<td>';
 		if (isset($sp->pdf))
 		{
-			echo '<a href="' . $sp->pdf . '" title="' . $sp->pdf . '">';
+			echo '<span onclick="show_url(\'' . urlencode($sp->pdf) . '\');">';
+			//echo '<a href="' . $sp->pdf . '" title="' . $sp->pdf . '">';
 			echo substr($sp->pdf, 7, 20) . '...';
-			echo '</a>';
+			//echo '</a>';
+			echo '</span>';
+		}		
+		echo '</td>';
+
+		echo '<td>';
+		if (isset($sp->isbn))
+		{
+			//echo '<a href="' . $sp->pdf . '" title="' . $sp->pdf . '">';
+			echo $sp->isbn;
+			//echo '</a>';
 		}		
 		echo '</td>';
 		
