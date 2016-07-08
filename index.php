@@ -180,7 +180,7 @@ function display_query($sql)
 		}
 		$record->html .= ' ' . utf8_encode($result->fields['Authors']);
 		
-		$record->publication = '<a href="?p=' . trim(utf8_encode($result->fields['Publication'])) . '">' . trim(utf8_encode($result->fields['Publication'])) . '</a> ' . trim(utf8_encode($result->fields['Collation']));
+		$record->publication = '<a href="?p=' . trim(utf8_encode($result->fields['Publication'])) . '">' . str_replace(' ', '&nbsp;', trim(utf8_encode($result->fields['Publication']))) . '</a> ' . trim(utf8_encode($result->fields['Collation']));
 		if ($result->fields['Page'] != '')
 		{
 			$record->publication .= ' '  . $result->fields['Page'];
@@ -360,6 +360,7 @@ function display_query($sql)
 		echo '>';
 		echo '<td>' . '<a href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=' . $sp->id . '" target="_new">' . $sp->id . '</td>';
 		echo '<td>' . $sp->html . '</td>';
+		//echo '<td>' . str_replace(' ', '&nbsp;', $sp->publication) . '</td>';
 		echo '<td>' . $sp->publication . '</td>';
 		
 		echo '<td>';
