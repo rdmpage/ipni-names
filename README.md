@@ -37,6 +37,16 @@ BHL PageID          29,969
 Any                249,529
 ```
 
+Date: 2016-07-14
+```
+Identifier   Number of names
+DOI                187,068
+JSTOR              105,695
+BioStor             43,627
+BHL PageID          73,609
+Any								 360,917
+```
+
 ## Browser
 
 There is a simple PHP script index.php for a genus-level browser of the IPNI data (the full dataset isn't included in this repository).

@@ -214,6 +214,7 @@ function display_query($sql)
 		<base href="' . $config['web_root'] . '" />
 		<link type="text/css" href="' . $config['web_root'] . 'css/main.css" rel="stylesheet" />
 		<script type="text/javascript" src="' . $config['web_root'] . 'js/jquery-1.4.4.min.js"></script>
+		<script type="text/javascript" src="' . $config['web_root'] . 'js/jquery.tablesorter.js"></script>
 		<title>' . $title . ': ' . $config['site_name'] . '</title>
 		
 		<script>
@@ -331,9 +332,32 @@ function display_query($sql)
 		<h2>Species in genus <i>' . $title . '</i></h2>';
 
 	echo '<div style="position:relative;">';
-	echo '<div style="width:800px;height:400px;overflow:auto;border:1px solid rgb(128,128,128);">';
+//	echo '<div style="width:800px;height:400px;overflow:auto;border:1px solid rgb(128,128,128);">';
+	echo '<div style="width:900px;overflow:auto;border:1px solid rgb(128,128,128);">';
 
 	echo '<table id="specieslist" cellspacing="0">';
+	
+	echo '<thead style="font-size:12px;">';
+	echo '<tr>';
+	
+	echo '<th>Id</th>';
+	echo '<th>Species</th>';
+	echo '<th>Publication</th>';
+	echo '<th>ISSN</th>';
+	echo '<th>DOI</th>';
+	echo '<th>Handle</th>';
+	echo '<th>BioStor</th>';
+	echo '<th>BHL</th>';
+	echo '<th>JSTOR</th>';
+	echo '<th>CiNii</th>';
+	echo '<th>URL</th>';
+	echo '<th>PDF</th>';
+	echo '<th>ISBN</th>';
+	
+	echo '</tr>';
+	echo '</thead>';
+	
+	
 	echo '<tbody style="font-size:12px;">';
 	
 	$odd = true;
@@ -342,7 +366,20 @@ function display_query($sql)
 	{
 		echo '<tr';
 		
+		$haslink = false;
+		if (isset($sp->doi)) $haslink = true;
+		if (isset($sp->biostor)) $haslink = true;
+		if (isset($sp->bhl)) $haslink = true;
+		if (isset($sp->jstor)) $haslink = true;
+		if (isset($sp->doi)) $haslink = true;
+		if (isset($sp->cinii)) $haslink = true;
+		if (isset($sp->url)) $haslink = true;
+		if (isset($sp->pdf)) $haslink = true;
+		if (isset($sp->isbn)) $haslink = true;
 		
+	
+		
+		/*
 		if ($odd)
 		{
 			echo ' style="background-color:#eef;"';
@@ -353,6 +390,26 @@ function display_query($sql)
 			echo ' style="background-color:#fff;"';
 			$odd = true;
 		}
+		*/
+		
+		if ($haslink)
+		{
+			if (isset($sp->doi))
+			{
+				echo ' style="background-color:#00FF80;"';
+			}
+			else
+			{
+				echo ' style="background-color:#FFFF66;"';
+			}
+			
+		}
+		else
+		{
+			echo ' style="background-color:#fff;"';
+		}
+		
+		
 		
 		
 		
@@ -466,11 +523,16 @@ function display_query($sql)
 	echo '</table>';
 	echo '</div>';
 	
-	echo '<div style="font-size:12px;position:absolute;top:0px;left:800px;width:auto;padding-left:10px;">';
+	echo '<div style="font-size:12px;position:absolute;top:0px;left:900px;width:auto;padding-left:10px;">';
 	echo '<p style="padding:0px;margin:0px;" id="details"></p>';
 	echo '</div>';
 	
 	echo '</div>';
+	
+	echo "<script>$(function(){
+  $('#specieslist').tablesorter(); 
+});</script>";
+	
 	echo
 '	</body>
 </html>';
