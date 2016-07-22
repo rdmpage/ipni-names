@@ -215,9 +215,61 @@ function display_query($sql)
 		<link type="text/css" href="' . $config['web_root'] . 'css/main.css" rel="stylesheet" />
 		<script type="text/javascript" src="' . $config['web_root'] . 'js/jquery-1.4.4.min.js"></script>
 		<script type="text/javascript" src="' . $config['web_root'] . 'js/jquery.tablesorter.js"></script>
+
+		
 		<title>' . $title . ': ' . $config['site_name'] . '</title>
 		
 		<script>
+		
+			function show_types(id)
+			{
+				$.getJSON("types.php?id=" + id,
+					function(data){
+					   var html = "No data";
+					   if (data.results) {					   
+						html = "<div>";
+					    for (var i in data.results) {
+					        html += \'<br/><a href="http://www.gbif.org/occurrence/\' + data.results[i].key + \'" target="_new">GBIF</a><br />\';
+					    	html += data.results[i].occurrenceID + "<br/>";
+					    	
+					   		if (data.results[i].decimalLatitude) {
+					     		html += \'<img src="https://maps.googleapis.com/maps/api/staticmap?zoom=4&size=100x100&maptype=terrain&markers=\' + data.results[i].decimalLatitude + \',\' + data.results[i].decimalLongitude + \'&sensor=false" /><br/>\';
+					   		}
+					    	
+					    	
+					    	if (data.results[i].media) {
+					    	   for (var j in data.results[i].media) {
+					    	      if (data.results[i].media[j].identifier) {
+					    	      	html += "<img src=\"" + data.results[i].media[j].identifier + "\" width=\"100\"/>";
+					    	      }
+					    	      if (data.results[i].media[j].references) {
+					    	      	html += "<img src=\"" + data.results[i].media[j].references + "\" width=\"100\"/>";
+					    	      }
+					    	   }
+					    	}
+					    	
+					    }
+					    html += "</div>";
+						$("#details").html(html);
+						}
+					}					
+				);
+			}	
+			
+		
+			function show_altmetric(doi)
+			{
+				$.getJSON("http://api.altmetric.com/v1/doi/" + doi + "?callback?",
+					function(data){
+					   if (data.images) {
+					      var html = \'<br/><a href="\' + data.details_url + \'" target="_new"><img src="\' + data.images["small"] + \'"></a>\';
+						  $("#details").html($("#details").html() + html);
+						}
+					}
+					
+				);	
+			}			
+			
 		
 			function show_orcid(doi)
 			{
@@ -245,6 +297,8 @@ function display_query($sql)
 						var html = data.html;
 						$("#details").html(html);
 						show_orcid(doi);
+						show_altmetric(doi);
+						//show_types();
 					}
 					
 				);	
@@ -332,8 +386,8 @@ function display_query($sql)
 		<h2>Species in genus <i>' . $title . '</i></h2>';
 
 	echo '<div style="position:relative;">';
-//	echo '<div style="width:800px;height:400px;overflow:auto;border:1px solid rgb(128,128,128);">';
-	echo '<div style="width:900px;overflow:auto;border:1px solid rgb(128,128,128);">';
+	echo '<div style="width:800px;height:400px;overflow:auto;border:1px solid rgb(128,128,128);">';
+//	echo '<div style="width:900px;overflow:auto;border:1px solid rgb(128,128,128);">';
 
 	echo '<table id="specieslist" cellspacing="0">';
 	
@@ -341,6 +395,7 @@ function display_query($sql)
 	echo '<tr>';
 	
 	echo '<th>Id</th>';
+	echo '<th>Types</th>';
 	echo '<th>Species</th>';
 	echo '<th>Publication</th>';
 	echo '<th>ISSN</th>';
@@ -416,6 +471,15 @@ function display_query($sql)
 		
 		echo '>';
 		echo '<td>' . '<a href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=' . $sp->id . '" target="_new">' . $sp->id . '</td>';
+		
+		echo '<td>';
+		echo '<span onclick="show_types(\'' . $sp->id . '\');">';
+		echo '◉';
+		echo '</span>';
+				
+		echo '</td>';
+		
+		
 		echo '<td>' . $sp->html . '</td>';
 		//echo '<td>' . str_replace(' ', '&nbsp;', $sp->publication) . '</td>';
 		echo '<td>' . $sp->publication . '</td>';
@@ -523,7 +587,7 @@ function display_query($sql)
 	echo '</table>';
 	echo '</div>';
 	
-	echo '<div style="font-size:12px;position:absolute;top:0px;left:900px;width:auto;padding-left:10px;">';
+	echo '<div style="font-size:12px;position:absolute;top:0px;left:800px;width:auto;padding-left:10px;">';
 	echo '<p style="padding:0px;margin:0px;" id="details"></p>';
 	echo '</div>';
 	
