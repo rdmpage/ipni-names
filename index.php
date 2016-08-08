@@ -223,6 +223,7 @@ function display_query($sql)
 		
 			function show_types(id)
 			{
+				$("#details").html("Looking for types");
 				$.getJSON("types.php?id=" + id,
 					function(data){
 					   var html = "No data";
@@ -231,8 +232,10 @@ function display_query($sql)
 					    for (var i in data.results) {
 					        html += \'<br/><a href="http://www.gbif.org/occurrence/\' + data.results[i].key + \'" target="_new">GBIF</a><br />\';
 					    	html += data.results[i].occurrenceID + "<br/>";
+					    	html += \'<b>\' + data.results[i].institutionCode + " " +  data.results[i].catalogNumber  + "</b><br/>";
 					    	
 					   		if (data.results[i].decimalLatitude) {
+					   			html += data.results[i].decimalLatitude + "," + data.results[i].decimalLongitude + "<br/>";
 					     		html += \'<img src="https://maps.googleapis.com/maps/api/staticmap?zoom=4&size=100x100&maptype=terrain&markers=\' + data.results[i].decimalLatitude + \',\' + data.results[i].decimalLongitude + \'&sensor=false" /><br/>\';
 					   		}
 					    	
@@ -240,12 +243,17 @@ function display_query($sql)
 					    	if (data.results[i].media) {
 					    	   for (var j in data.results[i].media) {
 					    	      if (data.results[i].media[j].identifier) {
-					    	      	html += "<img src=\"" + data.results[i].media[j].identifier + "\" width=\"100\"/>";
-					    	      }
-					    	      if (data.results[i].media[j].references) {
-					    	      	html += "<img src=\"" + data.results[i].media[j].references + "\" width=\"100\"/>";
-					    	      }
+					    	      	html += "<img src=\"http://exeg5le.cloudimg.io/s/height/100/" + data.results[i].media[j].identifier + "\" width=\"100\"/>";
+					    	      } else {
+						    	      if (data.results[i].media[j].references) {
+						    	      	html += "<img src=\"http://exeg5le.cloudimg.io/s/height/100/" + data.results[i].media[j].references + "\" width=\"100\"/>";
+						    	      }
+						    	  }
 					    	   }
+					    	}
+					    	
+					    	if (data.results[i].collectionID) {
+					    		html += data.results[i].collectionID + "<br/>";
 					    	}
 					    	
 					    }

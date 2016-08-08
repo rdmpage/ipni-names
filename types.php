@@ -8,13 +8,17 @@ require_once(dirname(__FILE__) . '/adodb5/adodb.inc.php');
 //----------------------------------------------------------------------------------------
 function clean($code)
 {
+	$code = preg_replace('/et al/u', '', $code);
+
+
 	$code = preg_replace('/[A-Z]\./u', '', $code);
 	$code = preg_replace('/\s[A-Z][A-Z]+\b/u', '', $code);
 	$code = preg_replace('/\b[A-Z]\b/u', '', $code);
 	$code = preg_replace('/;/u', '', $code);
 	$code = preg_replace('/\|/u', '', $code);
-	$code = preg_replace('/\s\s+/u', ' ', $code);
 	$code = finger_print($code);
+	$code = preg_replace('/\s\s+/u', ' ', $code);
+	$code = preg_replace('/^\s+/u', '', $code);
 
 	return $code;
 }
@@ -35,6 +39,8 @@ $name = 'Begonia aequatoguineensis';
 $name = 'Begonia scottii';
 $name = 'Begonia brevipedunculata';
 $name = 'Begonia rantemarioensis';
+
+$name = '';
 
 $ipni_id = '77112438-1';
 //$ipni_id = '1000479-1';
@@ -84,8 +90,9 @@ while (!$result->EOF)
 	$name = $result->fields['nameComplete'];
 
 	$result->MoveNext();	
-
 }
+
+
 
 if ($debug)
 {
@@ -127,6 +134,9 @@ if ($id != 0)
 	//$url = 'http://api.gbif.org/v1/species/' . $id . '/typeSpecimens';
 	
 	$url = 'http://api.gbif.org/v1/occurrence/search?taxonKey=' . $id . '&typeStatus=*';
+	
+	//echo $url;
+	
 	$json = get($url);
 
 	$obj = json_decode($json);
@@ -159,6 +169,21 @@ if ($id != 0)
 				$code = str_replace('Collector Number:', '', $code);
 				break;
 		
+			case 'UEFS':
+				$institutionCode ='HUEFS';
+				if (isset($occurrence->recordedBy))
+				{
+					$code = $occurrence->recordedBy;
+				}
+				if (isset($occurrence->recordNumber))
+				{
+					$code .= ' ' . $occurrence->recordNumber;
+				}
+				if (isset($occurrence->fieldNumber))
+				{
+					$code .= ' ' . $occurrence->fieldNumber;
+				}
+				break;				
 		
 		
 			case 'MO':
@@ -215,6 +240,10 @@ if ($id != 0)
 				{
 					$code .= ' ' . $occurrence->recordNumber;
 				}
+				if (isset($occurrence->fieldNumber))
+				{
+					$code .= ' ' . $occurrence->fieldNumber;
+				}
 				break;
 		}
 		
@@ -258,8 +287,36 @@ foreach ($ipni_types as $k => $v)
 			foreach($gbif_types[$k] as $type)
 			{
 				// for now...
-				$d = levenshtein($ipni_code, $type->code);
-				if ($d < 2)
+				$one = explode(" ", $ipni_code);
+				$two = explode(" ", $type->code);
+				
+				
+				$count = 0;
+				for ($i = 0; $i < count($one); $i++)
+				{
+					if (in_array($one[$i], $two))
+					{
+						$count++;
+					}
+				}
+				
+				/*
+				echo '<pre>';
+				print_r($one);
+				print_r($two);
+				echo $count;
+				echo '</pre>';exit();
+				*/
+				
+				
+				//$d = levenshtein($ipni_code, $type->code);
+				//if ($d < 2)
+				
+				// Minimum number of matches to be a match
+				$min = min(2, count($one));
+				
+				
+				if ($count >= $min)
 				{
 					//$hit = new stdclass;
 					$hit = $type->occurrence;
