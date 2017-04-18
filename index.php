@@ -148,6 +148,7 @@ function display_query($sql)
 	{
 		$record = new stdclass;
 		$record->id = $result->fields['Id'];
+		$record->cluster_id = $result->fields['cluster_id'];
 		
 		$record->name = $result->fields['Genus'];
 		
@@ -403,6 +404,7 @@ function display_query($sql)
 	echo '<tr>';
 	
 	echo '<th>Id</th>';
+	echo '<th>ClusterId</th>';
 	echo '<th>Types</th>';
 	echo '<th>Species</th>';
 	echo '<th>Publication</th>';
@@ -474,11 +476,17 @@ function display_query($sql)
 		
 		
 		
-		
-		
-		
 		echo '>';
 		echo '<td>' . '<a href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=' . $sp->id . '" target="_new">' . $sp->id . '</td>';
+		echo '<td';
+		
+		if ( $sp->id != $sp->cluster_id)
+		{
+			echo ' style="background-color:#f0f;color:#fff;"';
+		}
+		
+		echo '>';
+		echo $sp->cluster_id . '</td>';
 		
 		echo '<td>';
 		echo '<span onclick="show_types(\'' . $sp->id . '\');">';

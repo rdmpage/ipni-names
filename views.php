@@ -17,7 +17,8 @@ $path = 'journals';
 
 // http://stackoverflow.com/a/16840245
 // SHOW FULL TABLES IN ipni WHERE TABLE_TYPE LIKE 'VIEW';
-$views = array('acta amazonica',
+$views = array(
+'acta amazonica',
 'acta bot. brasil.',
 'acta bot. croat.',
 'acta bot. hung.',
@@ -61,6 +62,7 @@ $views = array('acta amazonica',
 'bot. jahrb. syst.',
 'bot. mag. (tokyo)',
 'bot. mus. leafl.',
+'bot. zhurn. (moscow & leningrad)',
 'bothalia',
 'brit. fern gaz.',
 'brittonia',
@@ -70,10 +72,13 @@ $views = array('acta amazonica',
 'bull. jard. bot. buitenzorg',
 'bull. jard. bot. etat bruxelles',
 'bull. jard. bot. natl. belg.',
+'bull. mens. soc. linn. lyon',
+'bull. mens. soc. linn. paris',
 'bull. misc. inform. kew',
 'bull. mus. natl. hist. nat., b, adansonia',
 'bull. nat. hist. mus. london, bot.',
 'bull. natl. mus. nat. sci., tokyo, b.',
+'bull. new york bot. gard.',
 'bull. soc. bot. france',
 'bull. soc. bot. france, lett. bot.',
 'bull. soc. neuchateloise sci. nat.',
@@ -99,6 +104,7 @@ $views = array('acta amazonica',
 'gard. bull. singapore',
 'gayana, bot.',
 'guihaia',
+'harvard pap. bot.',
 'int. j. pl. sci.',
 'j. adelaide bot. gard.',
 'j. arnold arbor.',
@@ -121,11 +127,13 @@ $views = array('acta amazonica',
 'kirkia',
 'korean j. pl. taxon.',
 'lankesteriana',
+'leafl. philipp. bot.',
 'madrono',
 'malayan nat.',
 'meded. bot. mus. herb. rijks univ. utrecht',
 'mem. junta invest. ultramar, 2 ser.',
 'mem. new york bot. gard.',
+'mem. torrey bot. club',
 'molec. phylogen. evol.',
 'moscosoa',
 'muelleria',
@@ -185,9 +193,8 @@ $views = array('acta amazonica',
 'webbia',
 'wentia',
 'willdenowia',
-'wrightia');
-
-$views=array('contr. univ. michigan herb.');
+'wrightia'
+);
 
 foreach ($views as $view)
 {

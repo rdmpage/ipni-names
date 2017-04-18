@@ -12,8 +12,8 @@ function clean($code)
 
 
 	$code = preg_replace('/[A-Z]\./u', '', $code);
-	$code = preg_replace('/\s[A-Z][A-Z]+\b/u', '', $code);
-	$code = preg_replace('/\b[A-Z]\b/u', '', $code);
+	//$code = preg_replace('/\s[A-Z][A-Z]+\b/u', '', $code);
+	//$code = preg_replace('/\b[A-Z]\b/u', '', $code);
 	$code = preg_replace('/;/u', '', $code);
 	$code = preg_replace('/\|/u', '', $code);
 	$code = finger_print($code);
@@ -69,6 +69,8 @@ $db->Connect("localhost", "root", "", "ipni");
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
+$db->EXECUTE("set names 'utf8'"); 
+
 
 $ipni_types = array();
 
@@ -82,6 +84,7 @@ while (!$result->EOF)
 	
 	if (preg_match('/(?<code>.*),\s+(?<herbarium>[A-Z]+)\s+(\((?<typeoftype>\w+)\))?/', $code, $m))
 	{
+		//print_r($m);
 		$code = $m['code'];
 		$code = clean($code);
 		$ipni_types[$m['herbarium']][] = $code;
@@ -100,7 +103,7 @@ if ($debug)
 	print_r($ipni_types);
 	echo '</pre>';
 }
-//exit();
+
 
 //----------------------------------------------------------------------------------------
 // Type data from GBIF
@@ -302,11 +305,14 @@ foreach ($ipni_types as $k => $v)
 				
 				/*
 				echo '<pre>';
+				echo "ipni code";
 				print_r($one);
+				echo "code";
 				print_r($two);
 				echo $count;
 				echo '</pre>';exit();
 				*/
+				
 				
 				
 				//$d = levenshtein($ipni_code, $type->code);
