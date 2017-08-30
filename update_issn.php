@@ -38,6 +38,8 @@ $sql = 'select distinct `Publication` from `names` where updated > "2015-12-06"'
 
 $sql = 'select distinct `Publication` from `names` where updated > "2017-04-16"';
 
+$sql = 'select distinct `Publication` from `names` where updated > "2017-08-28"';
+
 $result = $db->Execute('SET max_heap_table_size = 1024 * 1024 * 1024');
 $result = $db->Execute('SET tmp_table_size = 1024 * 1024 * 1024');
 

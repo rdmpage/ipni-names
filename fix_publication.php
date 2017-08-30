@@ -17,6 +17,9 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
 
 $sql = 'select `Id`, `Publication` from `names` where updated > "2017-04-16"';
+$sql = 'select `Id`, `Publication` from `names` where updated > "2017-08-28"';
+
+$sql = 'select `Id`, `Publication` from `names` where Genus="Billolivia"';
 
 //$sql = 'select `Id`, `Publication` from `names` where Id="77161618-1"';
 
@@ -48,7 +51,7 @@ while (!$result->EOF)
 	
 	if ($matched)
 	{
-		$sql = 'UPDATE `names` SET `Publication`="' . $pub . '" WHERE  `Id`="' .  $result->fields['Id'] . '";'; 
+		$sql = 'UPDATE `names` SET `Publication`="' . addcslashes($pub, '"') . '" WHERE  `Id`="' .  $result->fields['Id'] . '";'; 
 		echo $sql . "\n";
 	}
 	

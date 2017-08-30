@@ -19,7 +19,7 @@ $db->EXECUTE("set names 'utf8'");
 
 
 
-	$name = 'Leptospermum neglectum';
+	$name = 'Billolivia';
 	
 	
 	$cluster_id = '';

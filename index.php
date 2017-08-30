@@ -18,7 +18,34 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 //--------------------------------------------------------------------------------------------------
 function default_display()
 {
-	global $config;
+	global $config; 
+	global $db;
+	
+	/*
+	// some stats
+	$num_names = 0;
+	$num_dois = 0;
+	
+	$sql = 'SELECT COUNT(id) AS c FROM names';
+
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$num_names = $result->fields['c'];
+	}
+
+	$sql = 'SELECT COUNT(id) AS c FROM names WHERE doi IS NOT NULL';
+
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$num_dois = $result->fields['c'];
+	}
+	*/
 	
 	echo '<html>
 	<head>
@@ -34,7 +61,18 @@ function default_display()
 			<input type="submit" value="Search" ></input>
 			</form>
 		</div>
-		<h1>IPNI Browser</h1>
+		<h1>IPNI Browser</h1>';
+		
+	/*
+		
+	$with = 100 * $num_dois/$num_names;
+	$without = 100 - $with;
+	
+	echo '<img src="https://chart.googleapis.com/chart?cht=p3&chs=250x100&chd=t:' . $with . ',' . $without . '&chl=DOI|none" />';
+	*/	
+		
+	echo '
+		
 	</body>
 </html>';
 }
