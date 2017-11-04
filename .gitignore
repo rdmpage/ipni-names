@@ -1,6 +1,6 @@
 config.inc.php
 
-harvest
+harvest/*.sql
 
 junk
 
