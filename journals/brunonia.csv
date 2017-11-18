@@ -1,838 +1,838 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"105027-3","Lepidium genistoides","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"105181-3","Lepidium hypenantion","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"105888-3","Lepidium lyratogynum","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"105979-3","Decaisnina brittenii subsp. brittenii","(Blakely) Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"105988-3","Decaisnina brittenii subsp. speciosa","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"105994-3","Decaisnina congesta","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"106044-3","Decaisnina petiolata subsp. angustata","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"106054-3","Decaisnina petiolata subsp. petiolata","(Barlow) Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"106563-3","Newcastelia cephalantha var. oblonga","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"106634-3","Newcastelia cephalantha var. tephropepla","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"106747-3","Lepidium platypetalum","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"106812-3","Lepidium pseudohyssopifolium","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"106833-3","Newcastelia elliptica","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"106950-3","Newcastelia interrupta","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"107018-3","Newcastelia velutina","Munir","Brunonia","","1978 (29 Dec. 1978)","0313-4245","","","","","","","",""
-"107565-3","Lepidium scandens","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"107748-3","Lepidium xylodes","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"108621-3","Odixia","Orchard","Brunonia","","1982","0313-4245","","","","","","","",""
-"108651-3","Odixia achlaena","Orchard","Brunonia","","1982","0313-4245","","","","","","","",""
-"108684-3","Odixia angusta","(Wakef.) Orchard","Brunonia","","1982","0313-4245","","","","","","","",""
-"111324-3","Homalocalyx aurea","(C.A.Gardner) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111334-3","Homalocalyx chapmanii","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111336-3","Homalocalyx coarctatus","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111343-3","Homalocalyx echinulatus","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111358-3","Homalocalyx grandiflorus","(C.A.Gardner) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111366-3","Homalocalyx inerrabundus","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111402-3","Homalocalyx pulcherrimus","(Ewart & B.Rees) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111410-3","Homalocalyx staminosus","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"111419-3","Homalocalyx thryptomenoides","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"112262-3","Dendrophthoe acacioides subsp. acacioides","(Benth.) Tiegh.","Brunonia","","1983","0313-4245","","","","","","","",""
-"112278-3","Amyema bifurcata var. bifurcata","(Benth.) Tiegh.","Brunonia","","1983","0313-4245","","","","","","","",""
-"112282-3","Amyema bifurcata var. eburnea","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"112286-3","Dendrophthoe acacioides subsp. longifolia","(Specht) Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"112384-3","Amyema congener subsp. divergens","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"112482-3","Amyema dolichopoda","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"112960-3","Amyema microphylla","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"113408-3","Amyema subcapitata","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"113428-3","Amyema tridactyla","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"114696-3","Cryptocarya floydii","Kosterm.","Brunonia","","1979","0313-4245","","","","","","","",""
-"115631-3","Melaleuca citrolens","Barlow","Brunonia","","1987","0313-4245","","","","","","","",""
-"118989-3","Thysanotus fastigiatus","Brittan","Brunonia","","1982","0313-4245","","","","","","","",""
-"120002-3","Cyanostegia corifolia","Munir","Brunonia","","1978 (Feb. 1978)","0313-4245","","","","","","","",""
-"120665-3","Goodenia berardiana","(Gaudich.) Carolin","Brunonia","","1979","0313-4245","","","","","","","",""
-"121278-3","Melaleuca minutifolia subsp. minutifolia","F.Muell.","Brunonia","","1987","0313-4245","","","","","","","",""
-"121286-3","Melaleuca minutifolia subsp. monantha","Barlow","Brunonia","","1987","0313-4245","","","","","","","",""
-"121346-3","Lachnostachys ferruginea forma acutifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"121385-3","Lachnostachys ferruginea var. ferruginea","Hook.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"121429-3","Lachnostachys ferruginea forma ferruginea","Hook.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"121462-3","Lachnostachys ferruginea forma obtusifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"121492-3","Lachnostachys ferruginea var. paniculata","(Ewart) Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"121532-3","Lachnostachys ferruginea forma paniculata","(Ewart) Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"121580-3","Lachnostachys ferruginea forma reticulata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"124780-3","Ranunculus collicolus","Menadue","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"126485-3","Lechenaultia sect. Patenti","D.A.Morrison","Brunonia","","1987","0313-4245","","","","","","","",""
-"126773-3","Lechenaultia brevifolia","D.A.Morrison","Brunonia","","1987","0313-4245","","","","","","","",""
-"126880-3","Cyperochloa","Lazarides & L.Watson","Brunonia","","1987","0313-4245","","","","","","","",""
-"126881-3","Cyperochloa hirsuta","Lazarides & L.Watson","Brunonia","","1987 (16 Mar. 1987)","0313-4245","","","","","","","",""
-"127859-3","Lechenaultia lutescens","D.A.Morrison & Carolin","Brunonia","","1987","0313-4245","","","","","","","",""
-"128109-3","Lechenaultia papillata","D.A.Morrison","Brunonia","","1987","0313-4245","","","","","","","",""
-"129136-3","Glycine arenaria","Tindale","Brunonia","","1987","0313-4245","","","","","","","",""
-"129162-3","Glycine argyrea","Tindale","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"129631-3","Glycine cyrtoloba","Tindale","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"129644-3","Glycine curvata","Tindale","Brunonia","","1987","0313-4245","","","","","","","",""
-"129809-3","Glycine microphylla","(Benth.) Tindale","Brunonia","","1987","0313-4245","","","","","","","",""
-"132932-3","Regelia punicea","(Byrnes) Barlow","Brunonia","","1987","0313-4245","","","","","","","",""
-"135736-3","Calogyne neglecta","Carolin","Brunonia","","1979","0313-4245","","","","","","","",""
-"135768-3","Calogyne porphyrea","Carolin","Brunonia","","1979","0313-4245","","","","","","","",""
-"135812-3","Calogyne quadrifida","Carolin","Brunonia","","1979","0313-4245","","","","","","","",""
-"135843-3","Calogyne symonii","Carolin","Brunonia","","1979","0313-4245","","","","","","","",""
-"136032-3","Gaimardia amblyphylla","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"139332-3","Lysiana filifolia","Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"139461-3","Lysiana maritima","(Barlow) Barlow","Brunonia","","1983","0313-4245","","","","","","","",""
-"139828-3","Luzula poimena","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"140085-3","Franciscodendron","B.Hyland & Steenis","Brunonia","","1987","0313-4245","","","","","","","",""
-"140094-3","Franciscodendron laurifolium","(F.Muell.) B.Hyland & Steenis","Brunonia","","1987","0313-4245","","","","","","","",""
-"141393-3","Dicrastylis sect. Corymbosae","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141406-3","Dicrastylis sect. Dicrastylis","J.R.Drumm. ex Harv.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141427-3","Dicrastylis sect. Pyramidatae","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141447-3","Dicrastylis sect. Spicatae","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141467-3","Dicrastylis sect. Verticillatae","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141502-3","Dicrastylis beveridgei subsp. beveridgei","F.Muell.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141513-3","Dicrastylis beveridgei var. beveridgei","F.Muell.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141535-3","Dicrastylis beveridgei var. lanata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141551-3","Dicrastylis beveridgei subsp. revoluta","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141567-3","Dicrastylis brunnea","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141583-3","Dicrastylis brunnea var. brunnea","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141602-3","Dicrastylis brunnea var. pedunculata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141637-3","Dicrastylis cordifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141649-3","Dicrastylis cordifolia var. barnettii","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141667-3","Dicrastylis cordifolia var. cordifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141684-3","Dicrastylis cordifolia var. purpurea","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141701-3","Dicrastylis corymbosa","(Endl.) Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141731-3","Dicrastylis costelloi var. costelloi","F.M.Bailey","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141749-3","Dicrastylis costelloi var. eriantha","(F.Muell.) Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141763-3","Dicrastylis costelloi var. globulifera","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141783-3","Dicrastylis costelloi var. violacea","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141859-3","Dicrastylis exsuccosa forma albolutea","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141884-3","Dicrastylis exsuccosa subsp. cinerea","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141901-3","Dicrastylis exsuccosa subsp. elliptica","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141912-3","Dicrastylis exsuccosa subsp. exsuccosa","(F.Muell.) Druce","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141931-3","Dicrastylis exsuccosa var. exsuccosa","(F.Muell.) Druce","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141938-3","Dicrastylis exsuccosa forma exsuccosa","(F.Muell.) Druce","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141947-3","Dicrastylis exsuccosa forma lachnophylla","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141962-3","Dicrastylis exsuccosa var. lanceolata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141983-3","Dicrastylis exsuccosa var. tomentosa","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"141995-3","Dicrastylis exsuccosa forma tomentosa","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142015-3","Dicrastylis exsuccosa subsp. wilsonii","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142073-3","Dicrastylis georgei","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142090-3","Dicrastylis georgei var. cuneata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142119-3","Dicrastylis georgei var. georgei","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142164-3","Dicrastylis gilesii var. bagotensis","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142180-3","Dicrastylis gilesii forma bagotensis","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142195-3","Dicrastylis gilesii forma brevipila","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142211-3","Dicrastylis gilesii forma densa","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142227-3","Dicrastylis gilesii var. gilesii","F.Muell.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142245-3","Dicrastylis gilesii forma gilesii","F.Muell.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142258-3","Dicrastylis gilesii forma irregularis","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142281-3","Dicrastylis gilesii var. laxa","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142293-3","Dicrastylis glauca","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142312-3","Dicrastylis incana","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142345-3","Dicrastylis linearifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142360-3","Dicrastylis micrantha","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142378-3","Dicrastylis microphylla","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142394-3","Dicrastylis morrisonii","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142422-3","Dicrastylis obovata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142480-3","Dicrastylis petermannensis","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142537-3","Dicrastylis sessilifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"142597-3","Dicrastylis velutina","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"143602-3","Calytrix acutifolia","(Lindl.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"143622-3","Calytrix amethystina","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"143843-3","Calytrix breviseta subsp. breviseta","Lindl.","Brunonia","","1987","0313-4245","","","","","","","",""
-"143845-3","Calytrix breviseta subsp. stipulosa","(W.Fitzg.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"143851-3","Calytrix brownii","(Schauer) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"143883-3","Calytrix carinata","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"143886-3","Calytrix chrysantha","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144004-3","Calytrix decussata","Craven","Brunonia","","1980","0313-4245","","","","","","","",""
-"144045-3","Calytrix divergens","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144055-3","Calytrix drummondii","(Meisn.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144063-3","Calytrix duplistipulata","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144080-3","Calytrix eneabbensis","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144094-3","Calytrix erosipetala","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144118-3","Calytrix faucicola","Craven","Brunonia","","1980","0313-4245","","","","","","","",""
-"144193-3","Calytrix formosa","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144222-3","Calytrix glaberrima","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144295-3","Calytrix gurulmundensis","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144298-3","Calytrix gypsophila","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144299-3","Calytrix habrantha","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144301-3","Calytrix harvestiana","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144337-3","Calytrix islensis","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144426-3","Calytrix merrelliana","(F.Muell. & Tate) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144436-3","Calytrix micrairoides","Craven","Brunonia","","1980","0313-4245","","","","","","","",""
-"144443-3","Calytrix microcoma","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144482-3","Calytrix mimiana","Craven","Brunonia","","1980","0313-4245","","","","","","","",""
-"144543-3","Calytrix nematoclada","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144556-3","Calytrix parvivallis","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144557-3","Calytrix paucicostata","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144566-3","Calytrix platycheiridia","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144586-3","Calytrix praecipua","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144634-3","Calytrix purpurea","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144639-3","Calytrix rupestris","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144677-3","Calytrix similis","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144691-3","Calytrix simplex subsp. simplex","Lindl.","Brunonia","","1987","0313-4245","","","","","","","",""
-"144696-3","Calytrix simplex subsp. suboppositifolia","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144700-3","Calytrix smeatoniana","(F.Muell.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144798-3","Calytrix surdiviperana","Craven","Brunonia","","1980","0313-4245","","","","","","","",""
-"144804-3","Calytrix sylvana","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144913-3","Calytrix truncatifolia","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144937-3","Calytrix verruculosa","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144944-3","Calytrix verticillata","Craven","Brunonia","","1980","0313-4245","","","","","","","",""
-"144957-3","Calytrix violacea","(Lindl.) Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"144991-3","Calytrix warburtonensis","Craven","Brunonia","","1987","0313-4245","","","","","","","",""
-"145772-3","Camptacra","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"145777-3","Camptacra barbata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"145779-3","Camptacra brachycomoides","(F.Muell.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"145781-3","Camptacra brachycomoides forma arachnoidea","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"145782-3","Camptacra brachycomoides forma brachycomoides","(F.Muell.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"145788-3","Camptacra brachycomoides forma llnata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"145852-3","Digitaria imbricata","R.D.Webster","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"145878-3","Digitaria lanceolata","R.D.Webster","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"146022-3","Digitaria minima","R.D.Webster","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"146024-3","Flindersia oppositifolia","(F.Muell.) T.G.Hartley & Jessup","Brunonia","","1983","0313-4245","","","","","","","",""
-"146065-3","Digitaria oraria","R.D.Webster","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"150685-3","Wurmbea biglandulosa","(R.Br.) T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"150722-3","Wurmbea centralis","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"150770-3","Wurmbea cernua","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"150817-3","Wurmbea densiflora","(Benth.) T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"150857-3","Wurmbea deserticola","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"150889-3","Hygrochloa","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"150901-3","Wurmbea dilatata","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"150926-3","Hygrochloa aquatica","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"150966-3","Hygrochloa cravenii","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"150971-3","Wurmbea dioica subsp. alba","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151004-3","Wurmbea dioica subsp. dioica","(R.Br.) F.Muell.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151108-3","Wurmbea humilis","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151136-3","Wurmbea inframediana","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151170-3","Wurmbea latifolia","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151212-3","Wurmbea monantha","(Endl.) T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151248-3","Wurmbea odorata","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151325-3","Wurmbea sinora","T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151458-3","Symplocos cochinchinensis var. candelabrum","(Brand) Noot.","Brunonia","","1982","0313-4245","","","","","","","",""
-"151465-3","Wurmbea uniflora","(R.Br.) T.D.Macfarl.","Brunonia","","1980","0313-4245","","","","","","","",""
-"151545-3","Symplocos cochinchinensis var. glaberrima","Noot.","Brunonia","","1982","0313-4245","","","","","","","",""
-"151586-3","Symplocos cochinchinensis var. hylandii","Noot.","Brunonia","","1982","0313-4245","","","","","","","",""
-"151658-3","Symplocos cochinchinensis var. pilosiuscula","Noot.","Brunonia","","1982","0313-4245","","","","","","","",""
-"151925-3","Symplocos hylandii","Noot.","Brunonia","","1982","0313-4245","","","","","","","",""
-"152378-3","Banksia oblongifolia var. minor","(Maiden & Camfield) Conran & Clifford","Brunonia","","1987","0313-4245","","","","","","","",""
-"152381-3","Banksia oblongifolia var. oblongifolia","Cav.","Brunonia","","1987","0313-4245","","","","","","","",""
-"152685-3","Thysanotus glaucifolius","Brittan","Brunonia","","1982","0313-4245","","","","","","","",""
-"152713-3","Myriophyllum alpinum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153060-3","Myriophyllum austropygmaeum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153063-3","Myriophyllum balladoniense","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153142-3","Myriophyllum callitrichoides subsp. callitrichoides","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153159-3","Myriophyllum callitrichoides subsp. striatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153174-3","Thysanotus lavanduliflorus","Brittan","Brunonia","","1982","0313-4245","","","","","","","",""
-"153190-3","Myriophyllum caput-medusae","Orchard","Brunonia","","1982","0313-4245","","","","","","","",""
-"153217-3","Myriophyllum costatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153224-3","Myriophyllum crispatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153229-3","Myriophyllum decussatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"153725-3","Thysanotus patersonii subsp. manglesianus","(Kunth) Brittan","Brunonia","","1982","0313-4245","","","","","","","",""
-"153756-3","Thysanotus patersonii subsp. patersonii","R.Br.","Brunonia","","1982","0313-4245","","","","","","","",""
-"154570-3","Thysanotus tuberosus subsp. parviflorus","(Benth.) Brittan","Brunonia","","1982","0313-4245","","","","","","","",""
-"154631-3","Thysanotus tuberosus subsp. tuberosus","R.Br.","Brunonia","","1982","0313-4245","","","","","","","",""
-"157447-3","Whiteochloa airoides","(R.Br.) Lazarides","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"157498-3","Whiteochloa biciliata","Lazarides","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"157551-3","Whiteochloa capillipes","(Benth.) Lazarides","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"157604-3","Whiteochloa multiciliata","Lazarides","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"159378-3","Melaleuca tamariscina subsp. irbyana","Barlow","Brunonia","","1987","0313-4245","","","","","","","",""
-"159390-3","Melaleuca tamariscina subsp. pallescens","(Byrnes) Barlow","Brunonia","","1987","0313-4245","","","","","","","",""
-"159398-3","Melaleuca tamariscina subsp. tamariscina","Hook.","Brunonia","","1987","0313-4245","","","","","","","",""
-"159505-3","Ranunculus jugosus","Menadue","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"160803-3","Carpha curvata","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"160933-3","Carpha rodwayi","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"161451-3","Viscum whitei subsp. flexicaule","(Barlow) Barlow","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"161473-3","Viscum whitei subsp. whitei","Blakely","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"161788-3","Persoonia gunnii var. oblanceolata","Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"162184-3","Persoonia juniperina var. mollis","Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"162290-3","Ranunculus prasinus","Menadue","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"163818-3","Persoonia moscalii","Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"163829-3","Persoonia muelleri","(P.Parm.) Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"163835-3","Persoonia muelleri var. angustifolia","(Benth.) Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"163837-3","Persoonia muelleri var. densifolia","Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"163853-3","Persoonia muelleri var. muelleri","(P.Parm.) Orchard","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"164505-3","Vittadinia subgen. Peripleura","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164523-3","Vittadinia subgen. Vittadinia","A.Rich.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164534-3","Vittadinia arida","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164542-3","Vittadinia australasica","(Turcz.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164545-3","Vittadinia australasica var. australasica","(Turcz.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164553-3","Vittadinia australasica var. oricola","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164557-3","Vittadinia australasica var. subglabra","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164800-3","Vittadinia bicolor","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164975-3","Vittadinia cervicularis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164979-3","Vittadinia cervicularis var. cervicularis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164984-3","Vittadinia cervicularis var. occidentalis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164987-3","Vittadinia cervicularis var. oldfieldii","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164993-3","Vittadinia cervicularis var. subcervicularis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"164998-3","Vittadinia condyloides","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165001-3","Vittadinia constricta","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165019-3","Vittadinia cuneata var. cuneata","DC.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165022-3","Vittadinia cuneata forma cuneata","DC.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165027-3","Vittadinia cuneata var. hirsuta","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165032-3","Vittadinia cuneata forma minor","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165039-3","Vittadinia cuneata var. morrisii","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165044-3","Vittadinia cuneata var. murrayensis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165047-3","Vittadinia decora","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165067-3","Vittadinia diffusa","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165078-3","Vittadinia dissecta","(Benth.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165080-3","Vittadinia dissecta var. dissecta","(Benth.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165082-3","Vittadinia dissecta var. hirta","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165086-3","Vittadinia eremaea","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165087-3","Vittadinia gracilis","(Hook.f.) N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165114-3","Vittadinia hispidula var. hispidula","A.Gray","Brunonia","","1983","0313-4245","","","","","","","",""
-"165121-3","Vittadinia hispidula var. setosa","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165133-3","Vittadinia humerata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165245-3","Vittadinia nullarborensis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165264-3","Vittadinia obovata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165334-3","Vittadinia pustulata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165393-3","Vittadinia sericea","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165443-3","Vittadinia spechtii","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165456-3","Vittadinia spechtii var. kimberleyensis","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165465-3","Vittadinia spechtii var. spechtii","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165487-3","Vittadinia sulcata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"165978-3","Vittadinia virgata","N.T.Burb.","Brunonia","","1983","0313-4245","","","","","","","",""
-"166069-3","Korthalsella emersa","Barlow","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"166078-3","Korthalsella grayi","Barlow","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"166100-3","Korthalsella japonica subsp. brassiana","(C.T.White) Barlow","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"166105-3","Korthalsella leucothrix","Barlow","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"166229-3","Korthalsella rubra subsp. geijericola","Barlow","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"166242-3","Korthalsella rubra subsp. rubra","Endl.","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"167724-1","Cyanostegia corifolia","Munir","Brunonia","1(1): 62","1978","0313-4245","10.1071/bru9780045","","","","","","",""
-"167725-1","Dicrastylis brunnea","Munir","Brunonia","1(4): 546","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167726-1","Dicrastylis cordifolia","Munir","Brunonia","1(4): 461","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167727-1","Dicrastylis corymbosa","(Endl.) Munir","Brunonia","1(4): 500","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167728-1","Dicrastylis georgei","Munir","Brunonia","1(4): 457","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167729-1","Dicrastylis glauca","Munir","Brunonia","1(4): 505","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167730-1","Dicrastylis incana","Munir","Brunonia","1(4): 484","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167731-1","Dicrastylis linearifolia","Munir","Brunonia","1(4): 468","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167732-1","Dicrastylis micrantha","Munir","Brunonia","1(4): 475","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167733-1","Dicrastylis microphylla","Munir","Brunonia","1(4): 451","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167734-1","Dicrastylis morrisonii","Munir","Brunonia","1(4): 485","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167735-1","Dicrastylis obovata","Munir","Brunonia","1(4): 465","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167736-1","Dicrastylis petermannensis","Munir","Brunonia","1(4): 551","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167737-1","Dicrastylis sessilifolia","Munir","Brunonia","1(4): 552","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167738-1","Dicrastylis velutina","Munir","Brunonia","1(4): 496","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167739-1","Mallophora rugosifolia","Munir","Brunonia","1(4): 574","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167741-1","Newcastelia elliptica","Munir","Brunonia","1(4): 609","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167742-1","Newcastelia interrupta","Munir","Brunonia","1(4): 622","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"167743-1","Newcastelia velutina","Munir","Brunonia","1(4): 619","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"18251-1","Hygrochloa","Lazarides","Brunonia","2(1): 86","1979","0313-4245","10.1071/bru9790085","","","","","","",""
-"247516-3","Adenanthos glabrescens subsp. exasperatus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"249372-1","Solenogyne dominii","L.G.Adams","Brunonia","2(1): 58","1979","0313-4245","10.1071/bru9790043","","","","","","",""
-"323898-1","Aceratium sinuatum","Coode","Brunonia","1(2): 145","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"323900-1","Aceratium tomentosum","Coode","Brunonia","1(2): 148","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"323930-1","Dubouzetia galorei","Coode","Brunonia","1(2): 154","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"323932-1","Dubouzetia kairoi","Coode","Brunonia","1(2): 157","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"323983-1","Elaeocarpus badius","Coode","Brunonia","1(2): 214","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"323984-1","Elaeocarpus bakaianus","Coode","Brunonia","1(2): 195","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324018-1","Elaeocarpus buderi","Coode","Brunonia","1(2): 184","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324239-1","Elaeocarpus marafunganus","Coode","Brunonia","1(2): 172","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324270-1","Elaeocarpus murukkai","Coode","Brunonia","1(2): 197","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324276-1","Elaeocarpus neobritannicus","Coode","Brunonia","1(2): 224","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324451-1","Sericolea collinsii","Coode","Brunonia","1(2): 249","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324452-1","Sericolea pachyphylla","Coode","Brunonia","1(2): 256","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324568-1","Sloanea pulleniana","Coode","Brunonia","1(2): 270","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"324585-1","Sloanea streimannii","Coode","Brunonia","1(2): 278","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"365434-1","Homalium bismarckense","Craven","Brunonia","2(1): 108","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365448-1","Homalium caput-avis","Craven","Brunonia","2(1): 111","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365465-1","Homalium dentrecasteauxense","Craven","Brunonia","2(1): 113","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365519-1","Homalium maneauense","Craven","Brunonia","2(1): 115","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365560-1","Homalium reductum","Craven","Brunonia","2(1): 117","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365582-1","Homalium streimannii","Craven","Brunonia","2(1): 119","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365583-1","Homalium subcordatum","Craven","Brunonia","2(1): 120","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"365597-1","Homalium velutinum","Craven","Brunonia","2(1): 122","1979","0313-4245","10.1071/bru9790107","","","","","","",""
-"3689-3","Eucalyptus virens","Brooker & A.R.Bean","Brunonia","","1987 (16 Mar. 1987)","0313-4245","","","","","","","",""
-"383639-1","Calogyne neglecta","Carolin","Brunonia","2(1): 7","1979","0313-4245","10.1071/bru9790001","","","","","","",""
-"383641-1","Calogyne porphyrea","Carolin","Brunonia","2(1): 4","1979","0313-4245","10.1071/bru9790001","","","","","","",""
-"383643-1","Calogyne quadrifida","Carolin","Brunonia","2(1): 15","1979","0313-4245","10.1071/bru9790001","","","","","","",""
-"383645-1","Calogyne symonii","Carolin","Brunonia","2(1): 12","1979","0313-4245","10.1071/bru9790001","","","","","","",""
-"383790-1","Goodenia berardiana","(Gaudich.) Carolin","Brunonia","2(1): 16","1979","0313-4245","10.1071/bru9790001","","","","","","",""
-"405422-1","Hygrochloa aquatica","Lazarides","Brunonia","2(1): 87","1979","0313-4245","10.1071/bru9790085","","","","","","",""
-"405423-1","Hygrochloa cravenii","Lazarides","Brunonia","2(1): 89","1979","0313-4245","10.1071/bru9790085","","","","","","",""
-"408436-1","Micraira adamsii","Lazarides","Brunonia","2(1): 71","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"408437-1","Micraira compacta","Lazarides","Brunonia","2(1): 75","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"408438-1","Micraira dentata","Lazarides","Brunonia","2(1): 76","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"408439-1","Micraira pungens","Lazarides","Brunonia","2(1): 77","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"408440-1","Micraira spinifera","Lazarides","Brunonia","2(1): 78","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"408441-1","Micraira subspicata","Lazarides","Brunonia","2(1): 79","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"408443-1","Micraira tenuis","Lazarides","Brunonia","2(1): 81","1979","0313-4245","10.1071/bru9790067","","","","","","",""
-"42131-1","Dicrastylis sect. Corymbosae","Munir","Brunonia","1(4): 489","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"42132-1","Dicrastylis sect. Pyramidatae","Munir","Brunonia","1(4): 525","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"42133-1","Dicrastylis sect. Spicatae","Munir","Brunonia","1(4): 508","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"42134-1","Dicrastylis sect. Verticillatae","Munir","Brunonia","1(4): 447","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"426733-1","Whiteochloa airoides","(R.Br.) Lazarides","Brunonia","1(1): 73","1978","0313-4245","10.1071/bru9780069","","","","","","",""
-"426734-1","Whiteochloa biciliata","Lazarides","Brunonia","1(1): 85","1978","0313-4245","10.1071/bru9780069","","","","","","",""
-"426735-1","Whiteochloa capillipes","(Benth.) Lazarides","Brunonia","1(1): 79","1978","0313-4245","10.1071/bru9780069","","","","","","",""
-"426736-1","Whiteochloa multiciliata","Lazarides","Brunonia","1(1): 88","1978","0313-4245","10.1071/bru9780069","","","","","","",""
-"430473-1","Myriophyllum triphyllum","Orchard","Brunonia","2(2): 259","1980","0313-4245","10.1071/bru9790247","","","","","","",""
-"44293-1","Adenanthos subsect. Anaclastos","E.C.Nelson","Brunonia","1(3): 332","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"463899-1","Cryptocarya floydii","Kosterm.","Brunonia","2(1): 96","1979","0313-4245","10.1071/bru9790093","","","","","","",""
-"466933-1","Neolitsea australiensis","Kosterm.","Brunonia","2(1): 93","1979","0313-4245","10.1071/bru9790093","","","","","","",""
-"50479-3","Helicia blakei","Foreman","Brunonia","","1983 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"50775-3","Helicia grayi","Foreman","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"50822-3","Helicia lewisensis","Foreman","Brunonia","","1983 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"51505-3","Oreobolus oligocephalus","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"518386-1","Serianthes hooglandii","(Fosb.) A.Kanis","Brunonia","2(2): 307","1980","0313-4245","10.1071/bru9790289","","","","","","",""
-"52967-3","Micraira adamsii","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"53004-3","Micraira compacta","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"53041-3","Micraira dentata","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"53076-3","Micraira pungens","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"53120-3","Micraira spinifera","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"53154-3","Micraira subspicata","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"532122-1","Bulbine alata","Baijnath","Brunonia","1(1): 117","1978","0313-4245","10.1071/bru9780117","","","","","","",""
-"53235-3","Micraira tenuis","Lazarides","Brunonia","","1979","0313-4245","","","","","","","",""
-"53709-3","Dodonaea biloba","J.G.West","Brunonia","","1987 (30 Nov. 1987)","0313-4245","","","","","","","",""
-"57270-3","Yakirra","Lazarides & R.D.Webster","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"57276-3","Yakirra australiensis","(Domin) Lazarides & R.D.Webster","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"57291-3","Yakirra majuscula","(Benth.) Lazarides & R.D.Webster","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"57296-3","Yakirra muelleri","(Hughes) Lazarides & R.D.Webster","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"57299-3","Yakirra nulla","Lazarides & R.D.Webster","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"57304-3","Yakirra pauciflora","(R.Br.) Lazarides & R.D.Webster","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"58023-3","Mallophora rugosifolia","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"58331-3","Centrolepis paludicola","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"58346-3","Centrolepis pedderensis","W.M.Curtis","Brunonia","","1985 (7 Mar. 1985)","0313-4245","","","","","","","",""
-"592882-1","Eucalyptus discreta","Brooker","Brunonia","2(1): 148","1979","0313-4245","10.1071/bru9790125","","","","","","",""
-"592947-1","Eucalyptus fruticosa","Brooker","Brunonia","2(1): 129","1979","0313-4245","10.1071/bru9790125","","","","","","",""
-"60277-3","Ceratopetalum macrophyllum","Hoogland","Brunonia","","1982","0313-4245","","","","","","","",""
-"61672-3","Leptochloa ligulata","Lazarides","Brunonia","","1980","0313-4245","","","","","","","",""
-"702943-1","Adenanthos cacomorphus","E.C.Nelson","Brunonia","1(3): 385","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702949-1","Adenanthos dobagii","E.C.Nelson","Brunonia","1(3): 334","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702953-1","Adenanthos eyrei","E.C.Nelson","Brunonia","1(3): 355","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702958-1","Adenanthos glabrescens","E.C.Nelson","Brunonia","1(3): 345","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702960-1","Adenanthos ileticos","E.C.Nelson","Brunonia","1(3): 384","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702963-1","Adenanthos labillardierei","E.C.Nelson","Brunonia","1(3): 381","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702965-1","Adenanthos macropodianus","E.C.Nelson","Brunonia","1(3): 378","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"702968-1","Adenanthos oreophilus","E.C.Nelson","Brunonia","1(3): 367","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"72805-3","Pimelea axiflora subsp. alpina","(Benth.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"72826-3","Pimelea axiflora subsp. axiflora","Meisn.","Brunonia","","1983","0313-4245","","","","","","","",""
-"72965-3","Pimelea bracteata","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"73751-3","Pimelea curviflora var. acuta","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"73791-3","Pimelea curviflora subsp. curviflora","R.Br.","Brunonia","","1983","0313-4245","","","","","","","",""
-"73794-3","Pimelea curviflora var. divergens","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"73800-3","Pimelea curviflora subsp. gracilis","(R.Br.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"73804-3","Pimelea curviflora var. gracilis","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"73815-3","Pimelea curviflora subsp. micrantha","(Meisn.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"73900-3","Pimelea curviflora var. subglabrata","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"74767-3","Pimelea flava subsp. dichotoma","(Schltdl.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"74806-3","Pimelea flava subsp. flava","R.Br.","Brunonia","","1983","0313-4245","","","","","","","",""
-"76602-3","Lepidium subsect. Diploploca","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"76751-3","Pimelea latifolia subsp. altior","(F.Muell.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"76754-3","Pimelea latifolia var. altior","(F.Muell.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"76758-3","Pimelea latifolia subsp. elliptifolia","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"76761-3","Pimelea latifolia subsp. hirsuta","(Meisn.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"76767-3","Pimelea latifolia subsp. latifolia","R.Br.","Brunonia","","1983","0313-4245","","","","","","","",""
-"76769-3","Pimelea latifolia var. latifolia","R.Br.","Brunonia","","1983","0313-4245","","","","","","","",""
-"76773-3","Pimelea latifolia var. parvifolia","(Domin) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"76791-3","Lepidium subsect. Monoploca","(Bunge) Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"76906-3","Lepidium sect. Oleracea","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"77054-3","Pimelea ligustrina subsp. ciliata","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"77085-3","Lepidium biplicatum","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"77103-3","Pimelea ligustrina subsp. hypericina","(A.Cunn.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"77135-3","Pimelea ligustrina subsp. ligustrina","Labill.","Brunonia","","1983","0313-4245","","","","","","","",""
-"77180-3","Lepidium catapycnon","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"77384-3","Bulbine alata","Baijnath","Brunonia","","1978 (Feb. 1978)","0313-4245","","","","","","","",""
-"77395-3","Pimelea linifolia subsp. caesia","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"77401-3","Pimelea linifolia subsp. collina","(R.Br.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"77436-3","Pimelea linifolia subsp. linifolia","Sm.","Brunonia","","1983","0313-4245","","","","","","","",""
-"77446-3","Pimelea linifolia subsp. linoides","(A.Cunn.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"77697-3","Lepidium echinatum","Hewson","Brunonia","","1982","0313-4245","","","","","","","",""
-"78115-3","Pimelea microcephala subsp. glabra","(J.M.Black) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"78226-3","Pimelea microcephala subsp. microcephala","R.Br.","Brunonia","","1983","0313-4245","","","","","","","",""
-"78583-3","Pimelea neoanglica","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"78659-3","Myriophyllum echinatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"79017-3","Pimelea octophylla subsp. ciliolaris","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"79033-3","Pimelea octophylla subsp. octophylla","R.Br.","Brunonia","","1983","0313-4245","","","","","","","",""
-"79037-3","Pimelea octophylla subsp. petraea","(Meisn.) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"79044-3","Pimelea octophylla subsp. subvillifera","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"80105-3","Pimelea sericostachya subsp. amabilis","(Domin) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"80163-3","Pimelea sericostachya subsp. sericostachya","F.Muell.","Brunonia","","1983","0313-4245","","","","","","","",""
-"80374-3","Pimelea simplex subsp. continua","(J.M.Black) Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"80388-3","Pimelea simplex subsp. simplex","F.Muell.","Brunonia","","1983","0313-4245","","","","","","","",""
-"81182-3","Pimelea venosa","Threlfall","Brunonia","","1983","0313-4245","","","","","","","",""
-"81479-3","Myriophyllum gracile var. gracile","Benth.","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81502-3","Myriophyllum gracile var. laeve","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81511-3","Myriophyllum gracile var. lineare","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81515-3","Myriophyllum implicatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81673-3","Myriophyllum limnophilum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81728-3","Myriophyllum lophatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81863-3","Myriophyllum muricatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81870-3","Myriophyllum papillosum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81902-3","Myriophyllum pedunculatum subsp. longibracteolatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81921-3","Myriophyllum pedunculatum subsp. pedunculatum","Hook.f.","Brunonia","","1980 (1979)","0313-4245","","","","","","","",""
-"81935-3","Myriophyllum petraeum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"81947-3","Myriophyllum porcatum","Orchard","Brunonia","","1981 (30 Nov. 1981)","0313-4245","","","","","","","",""
-"82026-3","Myriophyllum salsugineum","Orchard","Brunonia","","1981 (1982)","0313-4245","","","","","","","",""
-"82038-3","Myriophyllum simulans","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"82044-3","Myriophyllum striatum","Orchard","Brunonia","","1986 (28 Feb. 1986)","0313-4245","","","","","","","",""
-"82129-3","Myriophyllum triphyllum","Orchard","Brunonia","","1979","0313-4245","","","","","","","",""
-"82289-3","Solenogyne dominii","L.G.Adams","Brunonia","","1979","0313-4245","","","","","","","",""
-"82674-3","Dodonaea falcata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"82747-3","Dodonaea glandulosa","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"82804-3","Dodonaea heteromorpha","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"830557-1","Ternstroemia monostigma","W.R.Barker","Brunonia","3(1): 33","1980","0313-4245","10.1071/bru9800001","","","","","","",""
-"83064-3","Dodonaea intricata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"83097-3","Dodonaea lanceolata var. lanceolata","F.Muell.","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"83099-3","Dodonaea lanceolata var. subsessilifolia","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"83311-3","Dodonaea microzyga var. acrolobata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"83314-3","Dodonaea microzyga var. microzyga","F.Muell.","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84088-3","Dodonaea rigida","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84221-3","Dodonaea sinuolata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84227-3","Dodonaea sinuolata subsp. acrodentata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84235-3","Dodonaea sinuolata subsp. sinuolata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84335-3","Dodonaea subglandulifera","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84597-3","Dodonaea uncinata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84715-3","Dodonaea viscosa subsp. angustifolia","(L.f.) J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84738-3","Dodonaea viscosa subsp. angustissima","(DC.) J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84790-3","Dodonaea viscosa subsp. burmanniana","(DC.) J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84805-3","Dodonaea viscosa subsp. cuneata","(Sm.) J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84926-3","Dodonaea viscosa subsp. mucronata","J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84936-3","Dodonaea viscosa subsp. spatulata","(Sm.) J.G.West","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"84971-3","Dodonaea viscosa subsp. viscosa","Jacq.","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"85282-3","Melaleuca acacioides subsp. acacioides","F.Muell.","Brunonia","","1987","0313-4245","","","","","","","",""
-"85287-3","Melaleuca acacioides subsp. alsophila","(Benth.) Barlow","Brunonia","","1987","0313-4245","","","","","","","",""
-"86897-3","Acronychia littoralis","T.G.Hartley & J.B.Williams","Brunonia","","1984 (31 Jan. 1984)","0313-4245","","","","","","","",""
-"87172-3","Acrophyllum australe","(A.Cunn.) Hoogland","Brunonia","","1982","0313-4245","","","","","","","",""
-"876161-1","Dicrastylis beveridgei var. lanata","Munir","Brunonia","1(4): 523","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876162-1","Dicrastylis beveridgei subsp. revoluta","Munir","Brunonia","1(4): 524","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876163-1","Dicrastylis brunnea var. pedunculata","Munir","Brunonia","1(4): 549","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876164-1","Dicrastylis cordifolia var. barnettii","Munir","Brunonia","1(4): 464","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876165-1","Dicrastylis cordifolia var. purpurea","Munir","Brunonia","1(4): 464","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876166-1","Dicrastylis costelloi var. eriantha","(F.Muell.) Munir","Brunonia","1(4): 517","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876167-1","Dicrastylis costelloi var. globulifera","Munir","Brunonia","1(4): 519","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876168-1","Dicrastylis costelloi var. violacea","Munir","Brunonia","1(4): 519","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876169-1","Dicrastylis exsuccosa f. albolutea","Munir","Brunonia","1(4): 539","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876170-1","Dicrastylis exsuccosa subsp. cinerea","Munir","Brunonia","1(4): 540","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876171-1","Dicrastylis exsuccosa subsp. elliptica","Munir","Brunonia","1(4): 542","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876172-1","Dicrastylis exsuccosa f. lachnophylla","Munir","Brunonia","1(4): 537","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876173-1","Dicrastylis exsuccosa var. lanceolata","Munir","Brunonia","1(4): 535","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876174-1","Dicrastylis exsuccosa var. tomentosa","Munir","Brunonia","1(4): 536","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876175-1","Dicrastylis exsuccosa subsp. wilsonii","Munir","Brunonia","1(4): 545","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876176-1","Dicrastylis georgei var. cuneata","Munir","Brunonia","1(4): 459","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876177-1","Dicrastylis gilesii var. bagotensis","Munir","Brunonia","1(4): 561","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876178-1","Dicrastylis gilesii f. brevipila","Munir","Brunonia","1(4): 565","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876179-1","Dicrastylis gilesii f. densa","Munir","Brunonia","1(4): 560","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876180-1","Dicrastylis gilesii f. irregularis","Munir","Brunonia","1(4): 564","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876181-1","Dicrastylis gilesii var. laxa","Munir","Brunonia","1(4): 566","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876182-1","Lachnostachys coolgardiensis f. brevispicata","(E.Pritz.) Munir","Brunonia","1(4): 654","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876183-1","Lachnostachys ferruginea f. acutifolia","Munir","Brunonia","1(4): 659","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876184-1","Lachnostachys ferruginea f. obtusifolia","Munir","Brunonia","1(4): 663","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876185-1","Lachnostachys ferruginea var. paniculata","(Ewart) Munir","Brunonia","1(4): 660","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876186-1","Lachnostachys ferruginea f. reticulata","Munir","Brunonia","1(4): 659","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876187-1","Newcastelia cephalantha var. oblonga","Munir","Brunonia","1(4): 634","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"876188-1","Newcastelia cephalantha var. tephropepla","Munir","Brunonia","1(4): 635","1978","0313-4245","10.1071/bru9780407","","","","","","",""
-"87736-3","Isolepis limbata","W.M.Curtis","Brunonia","","1984 (12 Sep. 1984)","0313-4245","","","","","","","",""
-"880000-1","Elaeocarpus dolichostylus subsp. collinus","Coode","Brunonia","1(2): 188","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"880006-1","Sericolea calophylla subsp. grossiserrata","Coode","Brunonia","1(2): 249","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"880009-1","Sloanea nymanii subsp. morobensis","Coode","Brunonia","1(2): 267","1978","0313-4245","10.1071/bru9780131","","","","","","",""
-"883372-1","Myriophyllum pedunculatum subsp. novae-zelandiae","Orchard","Brunonia","2(2): 274","1980","0313-4245","10.1071/bru9790247","","","","","","",""
-"885804-1","Serianthes hooglandii subsp. floridensis","A.Kanis","Brunonia","2(2): 312","1980","0313-4245","10.1071/bru9790289","","","","","","",""
-"885805-1","Serianthes minahassae subsp. fosbergii","A.Kanis","Brunonia","2(2): 302, nom.","1980","0313-4245","10.1071/bru9790289","","","","","","",""
-"885806-1","Serianthes minahassae subsp. ledermannii","(Harms) A.Kanis","Brunonia","2(2): 300","1980","0313-4245","10.1071/bru9790289","","","","","","",""
-"886552-1","Neuburgia corynocarpa var. sarcantha","(Gilg & Bened.) B.J.Conn","Brunonia","2(1): 104","1979","0313-4245","10.1071/bru9790099","","","","","","",""
-"888725-1","Adenanthos cygnorum subsp. chamaephyton","E.C.Nelson","Brunonia","1(3): 364","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"888726-1","Adenanthos glabrescens subsp. exasperatus","E.C.Nelson","Brunonia","1(3): 346","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"888727-1","Adenanthos pungens subsp. effusa","E.C.Nelson","Brunonia","1(3): 350","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"888728-1","Adenanthos sericeus subsp. sphalmus","E.C.Nelson","Brunonia","1(3): 375","1978","0313-4245","10.1071/bru9780303","","","","","","",""
-"891874-1","Archboldiodendron calosericeum subsp. kaindiense","W.R.Barker","Brunonia","3(1): 53","1980","0313-4245","10.1071/bru9800001","","","","","","",""
-"891875-1","Archboldiodendron calosericeum subsp. merrillianum","(Kobuski) W.R.Barker","Brunonia","3(1): 54","1980","0313-4245","10.1071/bru9800001","","","","","","",""
-"893144-1","Camptacra","N.T.Burb.","Brunonia","5(1): 11 (1982).","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"893203-1","Odixia","Orchard","Brunonia","4(2): 193","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810185","","","","","","",""
-"893503-1","Yakirra","Lazarides & R.D.Webster","Brunonia","7(2): 292 (1985).","1985","0313-4245","10.1071/bru9840289","","","","","","",""
-"893846-1","Eucalyptus ser. Ovulares","Brooker","Brunonia","4(1): 3 (1981).","1981","0313-4245","10.1071/bru9810001","","","","","","",""
-"894057-1","Lepidium subsect. Diploploca","Hewson","Brunonia","4(2): 254","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"894058-1","Lepidium sect. Oleracea","Thell. ex Hewson","Brunonia","4(2): 260","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"894059-1","Lepidium sect. Papillosa","Thell. ex Hewson","Brunonia","4(2): 265","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"894202-1","Vittadinia subgen. Peripleura","N.T.Burb.","Brunonia","5(1): 17 (1982).","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"89607-3","Adenanthos subsect. Anaclastos","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"896379-1","Calytrix decussata","Craven","Brunonia","3(2): 237 (1980)","1980","0313-4245","10.1071/bru9800217","","","","","","",""
-"896380-1","Calytrix faucicola","Craven","Brunonia","3(2): 241 (1980)","1980","0313-4245","10.1071/bru9800217","","","","","","",""
-"896381-1","Calytrix micrairoides","Craven","Brunonia","3(2): 236 (1980)","1980","0313-4245","10.1071/bru9800217","","","","","","",""
-"896382-1","Calytrix mimiana","Craven","Brunonia","3(2): 234 (1980)","1980","0313-4245","10.1071/bru9800217","","","","","","",""
-"896383-1","Calytrix surdiviperana","Craven","Brunonia","3(2): 226 (1980)","1980","0313-4245","10.1071/bru9800217","","","","","","",""
-"896384-1","Calytrix verticillata","Craven","Brunonia","3(2): 225 (1980)","1980","0313-4245","10.1071/bru9800217","","","","","","",""
-"896528-1","Leptochloa ligulata","Lazarides","Brunonia","3(2): 259 (1980)","1980","0313-4245","10.1071/bru9800247","","","","","","",""
-"896815-1","Wurmbea centralis","T.D.Macfarl.","Brunonia","3(2): 188 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896816-1","Wurmbea cernua","T.D.Macfarl.","Brunonia","3(2): 200 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896817-1","Wurmbea deserticola","T.D.Macfarl.","Brunonia","3(2): 185 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896818-1","Wurmbea dilatata","T.D.Macfarl.","Brunonia","3(2): 165 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896819-1","Wurmbea humilis","T.D.Macfarl.","Brunonia","3(2): 173 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896820-1","Wurmbea inframediana","T.D.Macfarl.","Brunonia","3(2): 182 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896821-1","Wurmbea latifolia","T.D.Macfarl.","Brunonia","3(2): 170 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896822-1","Wurmbea odorata","T.D.Macfarl.","Brunonia","3(2): 181 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"896823-1","Wurmbea sinora","T.D.Macfarl.","Brunonia","3(2): 196 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"897717-1","Eucalyptus cyclostoma","Brooker","Brunonia","4(1): 21 (1981)","1981","0313-4245","10.1071/bru9810001","","","","","","",""
-"897718-1","Eucalyptus myriadena","Brooker","Brunonia","4(1): 9 (1981)","1981","0313-4245","10.1071/bru9810001","","","","","","",""
-"898271-1","Myriophyllum caput-medusae","Orchard","Brunonia","4(1): 53 (1981)","1981","0313-4245","10.1071/bru9810027","","","","","","",""
-"898272-1","Myriophyllum porcatum","Orchard","Brunonia","4(1): 59 (1981)","1981","0313-4245","10.1071/bru9810027","","","","","","",""
-"898273-1","Myriophyllum salsugineum","Orchard","Brunonia","4(1): 48 (1981)","1981","0313-4245","10.1071/bru9810027","","","","","","",""
-"89854-3","Adenanthos cacomorphus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"898920-1","Thysanotus fastigiatus","Brittan","Brunonia","4(1): 106 (1981)","1981","0313-4245","10.1071/bru9810067","","","","","","",""
-"898921-1","Thysanotus glaucifolius","Brittan","Brunonia","4(1): 113 (1981)","1981","0313-4245","10.1071/bru9810067","","","","","","",""
-"898922-1","Thysanotus lavanduliflorus","Brittan","Brunonia","4(1): 125 (1981)","1981","0313-4245","10.1071/bru9810067","","","","","","",""
-"89923-3","Adenanthos cygnorum subsp. chamaephyton","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"89935-3","Adenanthos cygnorum subsp. cygnorum","Diels","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"899406-1","Camptacra barbata","N.T.Burb.","Brunonia","5(1): 15 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"899446-1","Ceratopetalum macrophyllum","Hoogland","Brunonia","4(2): 213","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810213","","","","","","",""
-"89965-3","Adenanthos dobagii","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"90006-3","Adenanthos eyrei","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"900172-1","Lepidium catapycnon","Hewson","Brunonia","4(2): 244","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900173-1","Lepidium echinatum","Hewson","Brunonia","4(2): 252","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900174-1","Lepidium genistoides","Hewson","Brunonia","4(2): 249","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900175-1","Lepidium hypenantion","Hewson","Brunonia","4(2): 297","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900176-1","Lepidium lyratogynum","Hewson","Brunonia","4(2): 258","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900177-1","Lepidium maccowagei","Hewson","Brunonia","5(1): 75 (1982)","1982","0313-4245","10.1071/bru9820073","","","","","","",""
-"900178-1","Lepidium platypetalum","Hewson","Brunonia","4(2): 247","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900179-1","Lepidium pseudohyssopifolium","Hewson","Brunonia","4(2): 281","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900180-1","Lepidium scandens","Hewson","Brunonia","4(2): 254","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"900181-1","Lepidium xylodes","Hewson","Brunonia","4(2): 252","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"90072-3","Adenanthos glabrescens","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"900723-1","Ptilotus pedleyanus","Benl & H.Eichler","Brunonia","4(2): 199","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810199","","","","","","",""
-"90084-3","Adenanthos glabrescens subsp. exasperatus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"90091-3","Adenanthos glabrescens subsp. glabrescens","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"901075-1","Symplocos hylandii","Noot.","Brunonia","4(2): 323","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810309","","","","","","",""
-"90115-3","Adenanthos ileticos","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"901239-1","Vittadinia arida","N.T.Burb.","Brunonia","5(1): 24 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901240-1","Vittadinia bicolor","N.T.Burb.","Brunonia","5(1): 25 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901241-1","Vittadinia cervicularis","N.T.Burb.","Brunonia","5(1): 37 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901242-1","Vittadinia condyloides","N.T.Burb.","Brunonia","5(1): 47 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901243-1","Vittadinia constricta","N.T.Burb.","Brunonia","5(1): 33 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901244-1","Vittadinia decora","N.T.Burb.","Brunonia","5(1): 48 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901245-1","Vittadinia diffusa","N.T.Burb.","Brunonia","5(1): 20 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901246-1","Vittadinia eremaea","N.T.Burb.","Brunonia","5(1): 33 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901247-1","Vittadinia humerata","N.T.Burb.","Brunonia","5(1): 35 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901248-1","Vittadinia nullarborensis","N.T.Burb.","Brunonia","5(1): 55 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901249-1","Vittadinia obovata","N.T.Burb.","Brunonia","5(1): 25 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901250-1","Vittadinia pustulata","N.T.Burb.","Brunonia","5(1): 32 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901251-1","Vittadinia sericea","N.T.Burb.","Brunonia","5(1): 26 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901252-1","Vittadinia simulans","N.T.Burb.","Brunonia","5(1): 59 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901253-1","Vittadinia spechtii","N.T.Burb.","Brunonia","5(1): 19 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901254-1","Vittadinia sulcata","N.T.Burb.","Brunonia","5(1): 41 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901255-1","Vittadinia virgata","N.T.Burb.","Brunonia","5(1): 21 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"901437-1","Amyema dolichopoda","Barlow","Brunonia","5(2): 209 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"901438-1","Amyema microphylla","Barlow","Brunonia","5(2): 210 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"901439-1","Amyema subcapitata","Barlow","Brunonia","5(2): 210 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"901440-1","Amyema tridactylum","Barlow","Brunonia","5(2): 211 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"90172-3","Adenanthos labillardierei","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"901884-1","Decaisnina congesta","Barlow","Brunonia","5(2): 204 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"90203-3","Adenanthos macropodianus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"902160-1","Helicia blakei","Foreman","Brunonia","6(1): 66 (1983)","1983","0313-4245","10.1071/bru9830059","","","","","","",""
-"902162-1","Helicia grayi","Foreman","Brunonia","6(1): 64 (1983)","1983","0313-4245","10.1071/bru9830059","","","","","","",""
-"902163-1","Helicia lewisensis","Foreman","Brunonia","6(1): 67 (1983)","1983","0313-4245","10.1071/bru9830059","","","","","","",""
-"902304-1","Korthalsella emersa","Barlow","Brunonia","6(1): 44 (1983)","1983","0313-4245","10.1071/bru9830025","","","","","","",""
-"902305-1","Korthalsella grayi","Barlow","Brunonia","6(11): 46 (1983)","1983","0313-4245","10.1071/bru9830025","","","","","","",""
-"902306-1","Korthalsella leucothrix","Barlow","Brunonia","6(1): 48 (1983)","1983","0313-4245","10.1071/bru9830025","","","","","","",""
-"90232-3","Adenanthos meisneri var. meisneri","Lehm. ex Meisn.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"902493-1","Lysiana filifolia","Barlow","Brunonia","5(2): 206 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"902769-1","Pimelea neoanglica","Threlfall","Brunonia","5(2): 159 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"902770-1","Pimelea venosa","Threlfall","Brunonia","5(2): 196 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"90300-3","Adenanthos oreophilus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"903433-1","Acronychia littoralis","T.G.Hartley & J.Williams","Brunonia","6(2): 251 (1984)","1984","0313-4245","10.1071/bru9830251","","","","","","",""
-"90350-3","Adenanthos pungens subsp. effusus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"90365-3","Adenanthos pungens subsp. pungens","Meisn.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"904039-1","Digitaria imbricata","R.D.Webster","Brunonia","6(2): 184 (1984)","1984","0313-4245","10.1071/bru9830131","","","","","","",""
-"904040-1","Digitaria lanceolata","R.D.Webster","Brunonia","6(2): 187 (1984)","1984","0313-4245","10.1071/bru9830131","","","","","","",""
-"904041-1","Digitaria minima","R.D.Webster","Brunonia","6(2): 192 (1984)","1984","0313-4245","10.1071/bru9830131","","","","","","",""
-"904042-1","Digitaria oraria","R.D.Webster","Brunonia","6(2): 195 (1984)","1984","0313-4245","10.1071/bru9830131","","","","","","",""
-"904059-1","Dodonaea falcata","J.G.West","Brunonia","7(1): 69 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904060-1","Dodonaea glandulosa","J.G.West","Brunonia","7(1): 142 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904061-1","Dodonaea intricata","J.G.West","Brunonia","7(1): 72 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904062-1","Dodonaea rigida","J.G.West","Brunonia","7(1): 111 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904063-1","Dodonaea sinuolata","J.G.West","Brunonia","7(1): 75 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904064-1","Dodonaea subglandulifera","J.G.West","Brunonia","7(1): 105 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904065-1","Dodonaea uncinata","J.G.West","Brunonia","7(1): 80 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"904158-1","Eucalyptus wilcoxii","Boland & Kleinig","Brunonia","6(2): 242 (1984)","1984","0313-4245","10.1071/bru9830241","","","","","","",""
-"904269-1","Glycine argyrea","Tindale","Brunonia","7(1): 210 (1984)","1984","0313-4245","10.1071/bru9840207","","","","","","",""
-"904270-1","Glycine cyrtoloba","Tindale","Brunonia","7(1): 207 (1984)","1984","0313-4245","10.1071/bru9840207","","","","","","",""
-"90436-3","Adenanthos sericeus subsp. sericeus","Labill.","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"90450-3","Adenanthos sericeus subsp. sphalmus","E.C.Nelson","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"904898-1","Persoonia moscalii","Orchard","Brunonia","6(2): 238 (1984)","1984","0313-4245","10.1071/bru9830217","","","","","","",""
-"905819-1","Carpha curvata","W.M.Curtis","Brunonia","7(2): 303 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"905820-1","Carpha rodwayi","W.M.Curtis","Brunonia","7(2): 302 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"905833-1","Centrolepis paludicola","W.M.Curtis","Brunonia","7(2): 298 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"905834-1","Centrolepis pedderensis","W.M.Curtis","Brunonia","7(2): 299 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"906145-1","Gaimardia amblyphylla","W.M.Curtis","Brunonia","7(2): 299 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"906422-1","Isolepis limbata","W.M.Curtis","Brunonia","7(2): 300 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"906557-1","Luzula poimena","W.M.Curtis","Brunonia","7(2): 297 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"906776-1","Oreobolus oligocephalus","W.M.Curtis","Brunonia","7(2): 301 (1985)","1985","0313-4245","10.1071/bru9840297","","","","","","",""
-"907290-1","Yakirra nulla","Lazarides & R.D.Webster","Brunonia","7(2): 295 (1985)","1985","0313-4245","10.1071/bru9840289","","","","","","",""
-"907482-1","Lepidium biplicatum","Hewson","Brunonia","4(2): 258, nom. nov.","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810217","","","","","","",""
-"907578-1","Pimelea bracteata","Threlfall","Brunonia","5(2): 127 (1983), nom. nov.:","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"907650-1","Dodonaea heteromorpha","J.G.West","Brunonia","7(1): 101 (1984), nom. nov.:","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"908229-1","Wurmbea biglandulosa","(R.Br.) T.D.Macfarl.","Brunonia","3(2): 191 (1980):","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"908230-1","Wurmbea densiflora","(Benth.) T.D.Macfarl.","Brunonia","3(2): 198 (1980):","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"908231-1","Wurmbea monantha","(Endl.) T.D.Macfarl.","Brunonia","3(2): 167 (1980):","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"908232-1","Wurmbea uniflora","(R.Br.) T.D.Macfarl.","Brunonia","3(2): 194 (1980):","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"909910-1","Acrophyllum australe","(A.Cunn.) Hoogland","Brunonia","4(2): 216","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810213","","","","","","",""
-"910182-1","Camptacra brachycomoides","(F.Muell.) N.T.Burb.","Brunonia","5(1): 12 (1982):","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"910665-1","Flindersia oppositifolia","(F.Muell.) T.G.Hartley & Jessup","Brunonia","5(1): 109 (1982):","1982","0313-4245","10.1071/bru9820109","","","","","","",""
-"910821-1","Lepidium laeteviride","(P.Royen) Hewson","Brunonia","5(1): 74 (1982):","1982","0313-4245","10.1071/bru9820073","","","","","","",""
-"910822-1","Lepidium minutiflorum","(Ridl.) Hewson","Brunonia","5(1): 74 (1982):","1982","0313-4245","10.1071/bru9820073","","","","","","",""
-"910988-1","Odixia achlaena","(D.I.Morris) Orchard","Brunonia","4(2): 194","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810185","","","","","","",""
-"910989-1","Odixia angusta","(N.A.Wakef.) Orchard","Brunonia","4(2): 194","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810185","","","","","","",""
-"911618-1","Vittadinia australasica","(Turcz.) N.T.Burb.","Brunonia","5(1): 42 (1982):","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"911619-1","Vittadinia dissecta","(Benth.) N.T.Burb.","Brunonia","5(1): 56 (1982):","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"911620-1","Vittadinia gracilis","(Hook.f.) N.T.Burb.","Brunonia","5(1): 54 (1982):","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"912768-1","Lysiana maritima","(Barlow) Barlow","Brunonia","5(2): 207 (1983):","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"91280-3","Lachnostachys coolgardiensis forma brevispicata","Munir","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"91324-3","Lachnostachys coolgardiensis forma coolgardiensis","S.Moore","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"914402-1","Persoonia muelleri","(P.Parm.) Orchard","Brunonia","6(2): 226 (1984):","1984","0313-4245","10.1071/bru9830217","","","","","","",""
-"915597-1","Yakirra australiensis","(Domin) Lazarides & R.D.Webster","Brunonia","7(2): 293 (1985):","1985","0313-4245","10.1071/bru9840289","","","","","","",""
-"915598-1","Yakirra majuscula","(F.Muell. ex Benth.) Lazarides & R.D.Webster","Brunonia","7(2): 295 (1985):","1985","0313-4245","10.1071/bru9840289","","","","","","",""
-"915599-1","Yakirra muelleri","(Hughes) Lazarides & R.D.Webster","Brunonia","7(2): 294 (1985):","1985","0313-4245","10.1071/bru9840289","","","","","","",""
-"915600-1","Yakirra pauciflora","(R.Br.) Lazarides & R.D.Webster","Brunonia","7(2): 294 (1985):","1985","0313-4245","10.1071/bru9840289","","","","","","",""
-"916014-1","Wurmbea dioica subsp. alba","T.D.Macfarl.","Brunonia","3(2): 164 (1980)","1980","0313-4245","10.1071/bru9800145","","","","","","",""
-"916833-1","Camptacra brachycomoides f. arachnoidea","N.T.Burb.","Brunonia","5(1): 14 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"916834-1","Camptacra brachycomoides f. lanata","N.T.Burb.","Brunonia","5(1): 14 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917220-1","Ptilotus pedleyanus var. comosus","Benl & H.Eichler","Brunonia","4(2): 205","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810199","","","","","","",""
-"917423-1","Symplocos cochinchinensis var. glaberrima","Noot.","Brunonia","4(2): 319","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810309","","","","","","",""
-"917424-1","Symplocos cochinchinensis var. pilosiuscula","Noot.","Brunonia","4(2): 320","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810309","","","","","","",""
-"917483-1","Vittadinia australasica var. oricola","N.T.Burb.","Brunonia","5(1): 44 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917484-1","Vittadinia australasica var. subglabra","N.T.Burb.","Brunonia","5(1): 44 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917485-1","Vittadinia cervicularis var. occidentalis","N.T.Burb.","Brunonia","5(1): 39 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917486-1","Vittadinia cervicularis var. oldfieldii","N.T.Burb.","Brunonia","5(1): 40 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917487-1","Vittadinia cervicularis var. subcervicularis","N.T.Burb.","Brunonia","5(1): 39 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917488-1","Vittadinia cuneata var. hirsuta","N.T.Burb.","Brunonia","5(1): 51 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917489-1","Vittadinia cuneata f. minor","N.T.Burb.","Brunonia","5(1): 51 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917490-1","Vittadinia cuneata var. morrisii","N.T.Burb.","Brunonia","5(1): 52 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917491-1","Vittadinia cuneata var. murrayensis","N.T.Burb.","Brunonia","5(1): 53 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917492-1","Vittadinia dissecta var. hirta","N.T.Burb.","Brunonia","5(1): 57 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917493-1","Vittadinia hispidula var. setosa","N.T.Burb.","Brunonia","5(1): 23 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917494-1","Vittadinia spechtii var. kimberleyensis","N.T.Burb.","Brunonia","5(1): 20 (1982)","1982","0313-4245","10.1071/bru9820001","","","","","","",""
-"917551-1","Amyema bifurcata var. eburna","Barlow","Brunonia","5(2): 208 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"917552-1","Amyema congener subsp. divergens","Barlow","Brunonia","5(2): 208 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"917714-1","Decaisnina brittenii subsp. speciosa","Barlow","Brunonia","5(2): 203 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"917715-1","Decaisnina petiolata subsp. angustata","Barlow","Brunonia","5(2): 205 (1983)","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"917831-1","Korthalsella rubra subsp. geijericola","Barlow","Brunonia","6(1): 54 (1983)","1983","0313-4245","10.1071/bru9830025","","","","","","",""
-"917929-1","Pimelea curviflora var. acuta","Threlfall","Brunonia","5(2): 190 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917930-1","Pimelea curviflora var. divergens","Threlfall","Brunonia","5(2): 189 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917931-1","Pimelea curviflora var. subglabrata","Threlfall","Brunonia","5(2): 189 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917932-1","Pimelea latifolia subsp. elliptifolia","Threlfall","Brunonia","5(2): 195 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917933-1","Pimelea ligustrina subsp. ciliata","Threlfall","Brunonia","5(2): 131 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917934-1","Pimelea linifolia subsp. caesia","Threlfall","Brunonia","5(2): 142 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917935-1","Pimelea octophylla subsp. ciliolaris","Threlfall","Brunonia","5(2): 179 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"917936-1","Pimelea octophylla subsp. subvillifera","Threlfall","Brunonia","5(2): 179 (1983)","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"918378-1","Dodonaea lanceolata var. subsessilifolia","J.G.West","Brunonia","7(1): 50 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"918379-1","Dodonaea microzyga var. acrolobata","J.G.West","Brunonia","7(1): 88 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"918380-1","Dodonaea sinuolata subsp. acrodentata","J.G.West","Brunonia","7(1): 77 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"918381-1","Dodonaea viscosa subsp. mucronata","J.G.West","Brunonia","7(1): 42 (1984)","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"918568-1","Persoonia gunnii var. oblanceolata","Orchard","Brunonia","6(2): 236 (1984)","1984","0313-4245","10.1071/bru9830217","","","","","","",""
-"918569-1","Persoonia juniperina var. mollis","Orchard","Brunonia","6(2): 225 (1984)","1984","0313-4245","10.1071/bru9830217","","","","","","",""
-"918570-1","Persoonia muelleri var. densifolia","Orchard","Brunonia","6(2): 230 (1984)","1984","0313-4245","10.1071/bru9830217","","","","","","",""
-"920367-1","Thysanotus patersonii subsp. manglesianus","(Kunth) Brittan","Brunonia","4(1): 139 (1981):","1981","0313-4245","10.1071/bru9810067","","","","","","",""
-"920368-1","Thysanotus tuberosus subsp. parviflorus","(Benth.) Brittan","Brunonia","4(1): 173 (1981):","1981","0313-4245","10.1071/bru9810067","","","","","","",""
-"921592-1","Symplocos cochinchinensis var. candelabrum","(Brand) Noot.","Brunonia","4(2): 323","1982 [1981 publ. 1982]","0313-4245","10.1071/bru9810309","","","","","","",""
-"922048-1","Dendrophthoe acacioides subsp. longifolia","(Specht) Barlow","Brunonia","5(2): 212 (1983):","1983","0313-4245","10.1071/bru9820203","","","","","","",""
-"922301-1","Korthalsella japonica subsp. brassiana","(Blakely) Barlow","Brunonia","6(1): 47 (1983):","1983","0313-4245","10.1071/bru9830025","","","","","","",""
-"922512-1","Pimelea axiflora subsp. alpina","(F.Muell. ex Benth.) Threlfall","Brunonia","5(2): 157 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922513-1","Pimelea curviflora subsp. gracilis","(R.Br.) Threlfall","Brunonia","5(2): 185 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922514-1","Pimelea curviflora subsp. micrantha","(F.Muell. ex Meisn.) Threlfall","Brunonia","5(2): 184 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922515-1","Pimelea flava subsp. dichotoma","(Schlecht.) Threlfall","Brunonia","5(2): 169 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922516-1","Pimelea latifolia subsp. altior","(F.Muell.) Threlfall","Brunonia","5(2): 193 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922517-1","Pimelea latifolia subsp. hirsuta","(Meisn.) Threlfall","Brunonia","5(2): 194 (1983).","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922518-1","Pimelea ligustrina subsp. hypericina","(A.Cunn. ex Hook.) Threlfall","Brunonia","5(2): 130 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922519-1","Pimelea linifolia subsp. collina","(R.Br.) Threlfall","Brunonia","5(2): 141 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922520-1","Pimelea linifolia subsp. linoides","(A.Cunn.) Threlfall","Brunonia","5(2): 142 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922521-1","Pimelea microcephala subsp. glabra","(F.Muell. & Tate ex Black) Threlfall","Brunonia","5(2): 162 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922522-1","Pimelea octophylla subsp. petraea","(Meisn.) Threlfall","Brunonia","5(2): 178 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922523-1","Pimelea sericostachya subsp. amabilis","(Domin) Threlfall","Brunonia","5(2): 150 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922524-1","Pimelea simplex subsp. continua","(J.M.Black) Threlfall","Brunonia","5(2): 152 (1983):","1983","0313-4245","10.1071/bru9820113","","","","","","",""
-"922869-1","Viscum whitei subsp. flexicaule","(Barlow) Barlow","Brunonia","6(1): 34 (1983):","1983","0313-4245","10.1071/bru9830025","","","","","","",""
-"923216-1","Dodonaea viscosa subsp. angustifolia","(L.f.) J.G.West","Brunonia","7(1): 39 (1984):","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"923217-1","Dodonaea viscosa subsp. angustissima","(DC.) J.G.West","Brunonia","7(1): 40 (1984):","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"923218-1","Dodonaea viscosa subsp. burmanniana","(DC.) J.G.West","Brunonia","7(1): 37 (1984):","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"923219-1","Dodonaea viscosa subsp. cuneata","(Sm.) J.G.West","Brunonia","7(1): 41 (1984):","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"923220-1","Dodonaea viscosa subsp. spatulata","(Sm.) J.G.West","Brunonia","7(1): 43 (1984):","1984","0313-4245","10.1071/bru9840001","","","","","","",""
-"923652-1","Persoonia muelleri var. angustifolia","(Benth.) Orchard","Brunonia","6(2): 232 (1984):","1984","0313-4245","10.1071/bru9830217","","","","","","",""
-"925033-1","Cyperochloa","Lazarides & L.Watson","Brunonia","9(2): 216 (1987).","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860215","","","","","","",""
-"925083-1","Franciscodendron","B.Hyland & Steenis","Brunonia","10(2): 212 (1987).","1987","0313-4245","10.1071/bru9870211","","","","","","",""
-"925749-1","Lechenaultia sect. Patentes","D.A.Morrison","Brunonia","9(1): 6 (1987).","1987","0313-4245","10.1071/bru9860001","","","","","","",""
-"92689-1","Agathis atropurpurea","B.Hyland","Brunonia","1(1): 109","1978","0313-4245","10.1071/bru9780103","","","","","","",""
-"929778-1","Myriophyllum simulans","Orchard","Brunonia","8(2): 203 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929779-1","Myriophyllum alpinum","Orchard","Brunonia","8(2): 208 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929780-1","Myriophyllum crispatum","Orchard","Brunonia","8(2): 210 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929781-1","Myriophyllum papillosum","Orchard","Brunonia","8(2): 214 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929782-1","Myriophyllum balladoniense","Orchard","Brunonia","8(2): 221 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929783-1","Myriophyllum muricatum","Orchard","Brunonia","8(2): 223 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929784-1","Myriophyllum implicatum","Orchard","Brunonia","8(2): 240 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929785-1","Myriophyllum striatum","Orchard","Brunonia","8(2): 243 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929786-1","Myriophyllum costatum","Orchard","Brunonia","8(2): 245 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929787-1","Myriophyllum petraeum","Orchard","Brunonia","8(2): 247 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929788-1","Myriophyllum limnophilum","Orchard","Brunonia","8(2): 252 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929789-1","Myriophyllum echinatum","Orchard","Brunonia","8(2): 259 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929790-1","Myriophyllum lophatum","Orchard","Brunonia","8(2): 277 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929791-1","Myriophyllum austropygmaeum","Orchard","Brunonia","8(2): 280 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929792-1","Myriophyllum decussatum","Orchard","Brunonia","8(2): 282 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"929793-1","Ranunculus collicolus","Menadue","Brunonia","8(2): 373 (1986)","1986","0313-4245","10.1071/bru9850373","","","","","","",""
-"929794-1","Ranunculus prasinus","Y.Menadue","Brunonia","8(2): 375 (1986)","1986","0313-4245","10.1071/bru9850373","","","","","","",""
-"929795-1","Ranunculus jugosus","Y.Menadue","Brunonia","8(2): 377 (1986)","1986","0313-4245","10.1071/bru9850373","","","","","","",""
-"931685-1","Lechenaultia papillata","D.A.Morrison","Brunonia","9(1): 12 (1987)","1987","0313-4245","10.1071/bru9860001","","","","","","",""
-"931686-1","Lechenaultia lutescens","D.A.Morrison & Carolin","Brunonia","9(1): 15 (1987)","1987","0313-4245","10.1071/bru9860001","","","","","","",""
-"931687-1","Lechenaultia brevifolia","D.A.Morrison","Brunonia","9(1): 18 (1987)","1987","0313-4245","10.1071/bru9860001","","","","","","",""
-"931688-1","Glycine curvata","Tindale","Brunonia","9(1): 99 (1987)","1987","0313-4245","10.1071/bru9860099","","","","","","",""
-"931689-1","Eucalyptus deuaensis","Boland & P.M.Gilmour","Brunonia","9(1): 105 (1987)","1987","0313-4245","10.1071/bru9860105","","","","","","",""
-"931806-1","Coprosma niphophila","Orchard","Brunonia","9(2): 134 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860119","","","","","","",""
-"931807-1","Melaleuca citrolens","Barlow","Brunonia","9(2): 168 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860163","","","","","","",""
-"931808-1","Glycine arenaria","Tindale","Brunonia","9(2): 187 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860179","","","","","","",""
-"931809-1","Cyperochloa hirsuta","Lazarides & L.Watson","Brunonia","9(2): 216 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860215","","","","","","",""
-"931810-1","Eucalyptus virens","Brooker & A.R.Bean","Brunonia","9(2): 223 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860223","","","","","","",""
-"933263-1","Calytrix warburtonensis","Craven","Brunonia","10(1): 34 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933264-1","Calytrix gypsophila","Craven","Brunonia","10(1): 36 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933265-1","Calytrix erosipetala","Craven","Brunonia","10(1): 37 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933266-1","Calytrix rupestris","Craven","Brunonia","10(1): 46 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933267-1","Calytrix duplistipulata","Craven","Brunonia","10(1): 48 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933268-1","Calytrix praecipua","Craven","Brunonia","10(1): 50 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933269-1","Calytrix verruculosa","Craven","Brunonia","10(1): 51 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933270-1","Calytrix eneabbensis","Craven","Brunonia","10(1): 55 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933271-1","Calytrix divergens","Craven","Brunonia","10(1): 61 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933272-1","Calytrix platycheiridia","Craven","Brunonia","10(1): 62 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933273-1","Calytrix microcoma","Craven","Brunonia","10(1): 70 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933274-1","Calytrix carinata","Craven","Brunonia","10(1): 71 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933275-1","Calytrix gurulmundensis","Craven","Brunonia","10(1): 79 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933276-1","Calytrix islensis","Craven","Brunonia","10(1): 80 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933277-1","Calytrix similis","Craven","Brunonia","10(1): 84 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933278-1","Calytrix chrysantha","Craven","Brunonia","10(1): 90 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933279-1","Calytrix habrantha","Craven","Brunonia","10(1): 96 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933280-1","Calytrix truncatifolia","Craven","Brunonia","10(1): 103 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933281-1","Calytrix formosa","Craven","Brunonia","10(1): 105 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933282-1","Calytrix paucicostata","Craven","Brunonia","10(1): 106 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933283-1","Calytrix amethystina","Craven","Brunonia","10(1): 108 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933284-1","Calytrix parvivallis","Craven","Brunonia","10(1): 120 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"933701-1","Homalocalyx chapmanii","Craven","Brunonia","10(2): 147 (1987)","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"933702-1","Homalocalyx echinulatus","Craven","Brunonia","10(2): 149 (1987)","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"933704-1","Homalocalyx inerrabundus","Craven","Brunonia","10(2): 152 (1987)","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"933705-1","Eucalyptus alaticaulis","R.J.Watson & Ladiges","Brunonia","10(2): 175 (1987)","1987","0313-4245","10.1071/bru9870159","","","","","","",""
-"933706-1","Eucalyptus exilipes","Brooker & A.R.Bean","Brunonia","10(2): 189 (1987)","1987","0313-4245","10.1071/bru9870189","","","","","","",""
-"933707-1","Eucalyptus xanthoclada","Brooker & A.R.Bean","Brunonia","10(2): 193 (1987)","1987","0313-4245","10.1071/bru9870189","","","","","","",""
-"933708-1","Eucalyptus lamprophylla","Brooker & A.R.Bean","Brunonia","10(2): 195 (1987)","1987","0313-4245","10.1071/bru9870189","","","","","","",""
-"933709-1","Eucalyptus fusiformis","Boland & Kleinig","Brunonia","10(2): 202 (1987)","1987","0313-4245","10.1071/bru9870201","","","","","","",""
-"933710-1","Dodonaea biloba","J.G.West","Brunonia","10(2): 219 (1987)","1987","0313-4245","10.1071/bru9870219","","","","","","",""
-"93881-3","Agathis atropurpurea","B.Hyland","Brunonia","","1978 (27 Oct. 1978)","0313-4245","","","","","","","",""
-"940959-1","Calytrix sylvana","Craven","Brunonia","10(1): 117 (1987), nom. nov.","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"940960-1","Calytrix nematoclada","Craven","Brunonia","10(1): 121 (1987), nom. nov.","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"943807-1","Regelia punicea","(Byrnes) Barlow","Brunonia","9(1): 95 (1987):","1987","0313-4245","10.1071/bru9860089","","","","","","",""
-"943862-1","Glycine microphylla","(Benth.) Tindale","Brunonia","9(2): 181 (1987):","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860179","","","","","","",""
-"944707-1","Calytrix glaberrima","(F.Muell.) Craven","Brunonia","10(1): 26 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944708-1","Calytrix smeatoniana","(F.Muell.) Craven","Brunonia","10(1): 27 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944709-1","Calytrix brownii","(Schauer) Craven","Brunonia","10(1): 42 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944710-1","Calytrix purpurea","(F.Muell.) Craven","Brunonia","10(1): 58 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944711-1","Calytrix harvestiana","(F.Muell.) Craven","Brunonia","10(1): 59 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944712-1","Calytrix drummondii","(Meisn.) Craven","Brunonia","10(1): 93 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944713-1","Calytrix merrelliana","(F.Muell. & Tate) Craven","Brunonia","10(1): 118 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944714-1","Calytrix violacea","(Lindl.) Craven","Brunonia","10(1): 119 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944715-1","Calytrix acutifolia","(Lindl.) Craven","Brunonia","10(1): 122 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"944829-1","Homalocalyx aureus","(C.A.Gardner) Craven","Brunonia","10(2): 147 (1987):","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"944830-1","Homalocalyx coarctatus","(F.Muell.) Craven","Brunonia","10(2): 148 (1987):","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"944831-1","Homalocalyx grandiflorus","(C.A.Gardner) Craven","Brunonia","10(2): 151 (1987):","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"944832-1","Homalocalyx pulcherrimus","(Ewart & B.Rees) Craven","Brunonia","10(2): 154 (1987):","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"944833-1","Homalocalyx staminosus","(F.Muell.) Craven","Brunonia","10(2): 155 (1987):","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"944834-1","Homalocalyx thryptomenoides","(F.Muell.) Craven","Brunonia","10(2): 156 (1987):","1987","0313-4245","10.1071/bru9870139","","","","","","",""
-"944835-1","Franciscodendron laurifolium","(F.Muell.) B.Hyland & Steenis","Brunonia","10(2): 212 (1987):","1987","0313-4245","10.1071/bru9870211","","","","","","",""
-"949080-1","Myriophyllum gracile var. lineare","Orchard","Brunonia","8(2): 234 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"949081-1","Myriophyllum gracile var. laeve","Orchard","Brunonia","8(2): 235 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"949082-1","Myriophyllum callitrichoides subsp. striatum","Orchard","Brunonia","8(2): 252 (1986)","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"949708-1","Coprosma perpusilla subsp. subantarctica","Orchard","Brunonia","9(2): 133 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860119","","","","","","",""
-"949851-1","Melaleuca minutifolia subsp. monantha","Barlow","Brunonia","9(2): 176 (1987)","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860163","","","","","","",""
-"950057-1","Calytrix simplex subsp. suboppositifolia","Craven","Brunonia","10(1): 100 (1987)","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"952451-1","Myriophyllum pedunculatum subsp. longibracteolatum","(Schindl.) Orchard","Brunonia","8(2): 273 (1986):","1986","0313-4245","10.1071/bru9850173","","","","","","",""
-"953420-1","Melaleuca acacioides subsp. alsophila","(A.Cunn. ex Benth.) Barlow","Brunonia","9(2): 167 (1987):","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860163","","","","","","",""
-"953421-1","Melaleuca tamariscina subsp. pallescens","(Byrnes) Barlow","Brunonia","9(2): 173 (1987):","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860163","","","","","","",""
-"953422-1","Melaleuca tamariscina subsp. irbyana","(R.T.Baker) Barlow","Brunonia","9(2): 173 (1987):","1987 [16 Mar 1987]","0313-4245","10.1071/bru9860163","","","","","","",""
-"953829-1","Calytrix breviseta subsp. stipulosa","(W.Fitzg.) Craven","Brunonia","10(1): 113 (1987):","1987","0313-4245","10.1071/bru9870001","","","","","","",""
-"953928-1","Banksia oblongifolia var. minor","(Maiden & Camfield) Conran & Clifford","Brunonia","10(2): 186 (1987):","1987","0313-4245","10.1071/bru9870177","","","","","","",""
-"96078-3","Coprosma niphophila","Orchard","Brunonia","","1987","0313-4245","","","","","","","",""
-"96111-3","Coprosma perpusilla subsp. perpusilla","Colenso","Brunonia","","1987","0313-4245","","","","","","","",""
-"96112-3","Coprosma perpusilla subsp. subantarctica","Orchard","Brunonia","","1987","0313-4245","","","","","","","",""
-"97057-3","Ptilotus pedleyanus","Benl & H.Eichler","Brunonia","","1982","0313-4245","","","","","","","",""
-"97089-3","Ptilotus pedleyanus var. comosus","Benl & H.Eichler","Brunonia","","1982","0313-4245","","","","","","","",""
-"97125-3","Ptilotus pedleyanus var. pedleyanus","Benl & H.Eichler","Brunonia","","1982","0313-4245","","","","","","","",""
-"97367-3","Neolitsea australiensis","Kosterm.","Brunonia","","1979","0313-4245","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+105027-3	Lepidium genistoides	Hewson	Brunonia		1982	0313-4245								
+105181-3	Lepidium hypenantion	Hewson	Brunonia		1982	0313-4245								
+105888-3	Lepidium lyratogynum	Hewson	Brunonia		1982	0313-4245								
+105979-3	Decaisnina brittenii subsp. brittenii	(Blakely) Barlow	Brunonia		1983	0313-4245								
+105988-3	Decaisnina brittenii subsp. speciosa	Barlow	Brunonia		1983	0313-4245								
+105994-3	Decaisnina congesta	Barlow	Brunonia		1983	0313-4245								
+106044-3	Decaisnina petiolata subsp. angustata	Barlow	Brunonia		1983	0313-4245								
+106054-3	Decaisnina petiolata subsp. petiolata	(Barlow) Barlow	Brunonia		1983	0313-4245								
+106563-3	Newcastelia cephalantha var. oblonga	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+106634-3	Newcastelia cephalantha var. tephropepla	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+106747-3	Lepidium platypetalum	Hewson	Brunonia		1982	0313-4245								
+106812-3	Lepidium pseudohyssopifolium	Hewson	Brunonia		1982	0313-4245								
+106833-3	Newcastelia elliptica	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+106950-3	Newcastelia interrupta	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+107018-3	Newcastelia velutina	Munir	Brunonia		1978 (29 Dec. 1978)	0313-4245								
+107565-3	Lepidium scandens	Hewson	Brunonia		1982	0313-4245								
+107748-3	Lepidium xylodes	Hewson	Brunonia		1982	0313-4245								
+108621-3	Odixia	Orchard	Brunonia		1982	0313-4245								
+108651-3	Odixia achlaena	Orchard	Brunonia		1982	0313-4245								
+108684-3	Odixia angusta	(Wakef.) Orchard	Brunonia		1982	0313-4245								
+111324-3	Homalocalyx aurea	(C.A.Gardner) Craven	Brunonia		1987	0313-4245								
+111334-3	Homalocalyx chapmanii	Craven	Brunonia		1987	0313-4245								
+111336-3	Homalocalyx coarctatus	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+111343-3	Homalocalyx echinulatus	Craven	Brunonia		1987	0313-4245								
+111358-3	Homalocalyx grandiflorus	(C.A.Gardner) Craven	Brunonia		1987	0313-4245								
+111366-3	Homalocalyx inerrabundus	Craven	Brunonia		1987	0313-4245								
+111402-3	Homalocalyx pulcherrimus	(Ewart & B.Rees) Craven	Brunonia		1987	0313-4245								
+111410-3	Homalocalyx staminosus	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+111419-3	Homalocalyx thryptomenoides	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+112262-3	Dendrophthoe acacioides subsp. acacioides	(Benth.) Tiegh.	Brunonia		1983	0313-4245								
+112278-3	Amyema bifurcata var. bifurcata	(Benth.) Tiegh.	Brunonia		1983	0313-4245								
+112282-3	Amyema bifurcata var. eburnea	Barlow	Brunonia		1983	0313-4245								
+112286-3	Dendrophthoe acacioides subsp. longifolia	(Specht) Barlow	Brunonia		1983	0313-4245								
+112384-3	Amyema congener subsp. divergens	Barlow	Brunonia		1983	0313-4245								
+112482-3	Amyema dolichopoda	Barlow	Brunonia		1983	0313-4245								
+112960-3	Amyema microphylla	Barlow	Brunonia		1983	0313-4245								
+113408-3	Amyema subcapitata	Barlow	Brunonia		1983	0313-4245								
+113428-3	Amyema tridactyla	Barlow	Brunonia		1983	0313-4245								
+114696-3	Cryptocarya floydii	Kosterm.	Brunonia		1979	0313-4245								
+115631-3	Melaleuca citrolens	Barlow	Brunonia		1987	0313-4245								
+118989-3	Thysanotus fastigiatus	Brittan	Brunonia		1982	0313-4245								
+120002-3	Cyanostegia corifolia	Munir	Brunonia		1978 (Feb. 1978)	0313-4245								
+120665-3	Goodenia berardiana	(Gaudich.) Carolin	Brunonia		1979	0313-4245								
+121278-3	Melaleuca minutifolia subsp. minutifolia	F.Muell.	Brunonia		1987	0313-4245								
+121286-3	Melaleuca minutifolia subsp. monantha	Barlow	Brunonia		1987	0313-4245								
+121346-3	Lachnostachys ferruginea forma acutifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+121385-3	Lachnostachys ferruginea var. ferruginea	Hook.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+121429-3	Lachnostachys ferruginea forma ferruginea	Hook.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+121462-3	Lachnostachys ferruginea forma obtusifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+121492-3	Lachnostachys ferruginea var. paniculata	(Ewart) Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+121532-3	Lachnostachys ferruginea forma paniculata	(Ewart) Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+121580-3	Lachnostachys ferruginea forma reticulata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+124780-3	Ranunculus collicolus	Menadue	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+126485-3	Lechenaultia sect. Patenti	D.A.Morrison	Brunonia		1987	0313-4245								
+126773-3	Lechenaultia brevifolia	D.A.Morrison	Brunonia		1987	0313-4245								
+126880-3	Cyperochloa	Lazarides & L.Watson	Brunonia		1987	0313-4245								
+126881-3	Cyperochloa hirsuta	Lazarides & L.Watson	Brunonia		1987 (16 Mar. 1987)	0313-4245								
+127859-3	Lechenaultia lutescens	D.A.Morrison & Carolin	Brunonia		1987	0313-4245								
+128109-3	Lechenaultia papillata	D.A.Morrison	Brunonia		1987	0313-4245								
+129136-3	Glycine arenaria	Tindale	Brunonia		1987	0313-4245								
+129162-3	Glycine argyrea	Tindale	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+129631-3	Glycine cyrtoloba	Tindale	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+129644-3	Glycine curvata	Tindale	Brunonia		1987	0313-4245								
+129809-3	Glycine microphylla	(Benth.) Tindale	Brunonia		1987	0313-4245								
+132932-3	Regelia punicea	(Byrnes) Barlow	Brunonia		1987	0313-4245								
+135736-3	Calogyne neglecta	Carolin	Brunonia		1979	0313-4245								
+135768-3	Calogyne porphyrea	Carolin	Brunonia		1979	0313-4245								
+135812-3	Calogyne quadrifida	Carolin	Brunonia		1979	0313-4245								
+135843-3	Calogyne symonii	Carolin	Brunonia		1979	0313-4245								
+136032-3	Gaimardia amblyphylla	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+139332-3	Lysiana filifolia	Barlow	Brunonia		1983	0313-4245								
+139461-3	Lysiana maritima	(Barlow) Barlow	Brunonia		1983	0313-4245								
+139828-3	Luzula poimena	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+140085-3	Franciscodendron	B.Hyland & Steenis	Brunonia		1987	0313-4245								
+140094-3	Franciscodendron laurifolium	(F.Muell.) B.Hyland & Steenis	Brunonia		1987	0313-4245								
+141393-3	Dicrastylis sect. Corymbosae	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141406-3	Dicrastylis sect. Dicrastylis	J.R.Drumm. ex Harv.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141427-3	Dicrastylis sect. Pyramidatae	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141447-3	Dicrastylis sect. Spicatae	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141467-3	Dicrastylis sect. Verticillatae	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141502-3	Dicrastylis beveridgei subsp. beveridgei	F.Muell.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141513-3	Dicrastylis beveridgei var. beveridgei	F.Muell.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141535-3	Dicrastylis beveridgei var. lanata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141551-3	Dicrastylis beveridgei subsp. revoluta	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141567-3	Dicrastylis brunnea	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141583-3	Dicrastylis brunnea var. brunnea	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141602-3	Dicrastylis brunnea var. pedunculata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141637-3	Dicrastylis cordifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141649-3	Dicrastylis cordifolia var. barnettii	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141667-3	Dicrastylis cordifolia var. cordifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141684-3	Dicrastylis cordifolia var. purpurea	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141701-3	Dicrastylis corymbosa	(Endl.) Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141731-3	Dicrastylis costelloi var. costelloi	F.M.Bailey	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141749-3	Dicrastylis costelloi var. eriantha	(F.Muell.) Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141763-3	Dicrastylis costelloi var. globulifera	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141783-3	Dicrastylis costelloi var. violacea	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141859-3	Dicrastylis exsuccosa forma albolutea	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141884-3	Dicrastylis exsuccosa subsp. cinerea	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141901-3	Dicrastylis exsuccosa subsp. elliptica	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141912-3	Dicrastylis exsuccosa subsp. exsuccosa	(F.Muell.) Druce	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141931-3	Dicrastylis exsuccosa var. exsuccosa	(F.Muell.) Druce	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141938-3	Dicrastylis exsuccosa forma exsuccosa	(F.Muell.) Druce	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141947-3	Dicrastylis exsuccosa forma lachnophylla	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141962-3	Dicrastylis exsuccosa var. lanceolata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141983-3	Dicrastylis exsuccosa var. tomentosa	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+141995-3	Dicrastylis exsuccosa forma tomentosa	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142015-3	Dicrastylis exsuccosa subsp. wilsonii	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142073-3	Dicrastylis georgei	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142090-3	Dicrastylis georgei var. cuneata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142119-3	Dicrastylis georgei var. georgei	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142164-3	Dicrastylis gilesii var. bagotensis	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142180-3	Dicrastylis gilesii forma bagotensis	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142195-3	Dicrastylis gilesii forma brevipila	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142211-3	Dicrastylis gilesii forma densa	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142227-3	Dicrastylis gilesii var. gilesii	F.Muell.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142245-3	Dicrastylis gilesii forma gilesii	F.Muell.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142258-3	Dicrastylis gilesii forma irregularis	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142281-3	Dicrastylis gilesii var. laxa	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142293-3	Dicrastylis glauca	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142312-3	Dicrastylis incana	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142345-3	Dicrastylis linearifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142360-3	Dicrastylis micrantha	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142378-3	Dicrastylis microphylla	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142394-3	Dicrastylis morrisonii	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142422-3	Dicrastylis obovata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142480-3	Dicrastylis petermannensis	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142537-3	Dicrastylis sessilifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+142597-3	Dicrastylis velutina	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+143602-3	Calytrix acutifolia	(Lindl.) Craven	Brunonia		1987	0313-4245								
+143622-3	Calytrix amethystina	Craven	Brunonia		1987	0313-4245								
+143843-3	Calytrix breviseta subsp. breviseta	Lindl.	Brunonia		1987	0313-4245								
+143845-3	Calytrix breviseta subsp. stipulosa	(W.Fitzg.) Craven	Brunonia		1987	0313-4245								
+143851-3	Calytrix brownii	(Schauer) Craven	Brunonia		1987	0313-4245								
+143883-3	Calytrix carinata	Craven	Brunonia		1987	0313-4245								
+143886-3	Calytrix chrysantha	Craven	Brunonia		1987	0313-4245								
+144004-3	Calytrix decussata	Craven	Brunonia		1980	0313-4245								
+144045-3	Calytrix divergens	Craven	Brunonia		1987	0313-4245								
+144055-3	Calytrix drummondii	(Meisn.) Craven	Brunonia		1987	0313-4245								
+144063-3	Calytrix duplistipulata	Craven	Brunonia		1987	0313-4245								
+144080-3	Calytrix eneabbensis	Craven	Brunonia		1987	0313-4245								
+144094-3	Calytrix erosipetala	Craven	Brunonia		1987	0313-4245								
+144118-3	Calytrix faucicola	Craven	Brunonia		1980	0313-4245								
+144193-3	Calytrix formosa	Craven	Brunonia		1987	0313-4245								
+144222-3	Calytrix glaberrima	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+144295-3	Calytrix gurulmundensis	Craven	Brunonia		1987	0313-4245								
+144298-3	Calytrix gypsophila	Craven	Brunonia		1987	0313-4245								
+144299-3	Calytrix habrantha	Craven	Brunonia		1987	0313-4245								
+144301-3	Calytrix harvestiana	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+144337-3	Calytrix islensis	Craven	Brunonia		1987	0313-4245								
+144426-3	Calytrix merrelliana	(F.Muell. & Tate) Craven	Brunonia		1987	0313-4245								
+144436-3	Calytrix micrairoides	Craven	Brunonia		1980	0313-4245								
+144443-3	Calytrix microcoma	Craven	Brunonia		1987	0313-4245								
+144482-3	Calytrix mimiana	Craven	Brunonia		1980	0313-4245								
+144543-3	Calytrix nematoclada	Craven	Brunonia		1987	0313-4245								
+144556-3	Calytrix parvivallis	Craven	Brunonia		1987	0313-4245								
+144557-3	Calytrix paucicostata	Craven	Brunonia		1987	0313-4245								
+144566-3	Calytrix platycheiridia	Craven	Brunonia		1987	0313-4245								
+144586-3	Calytrix praecipua	Craven	Brunonia		1987	0313-4245								
+144634-3	Calytrix purpurea	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+144639-3	Calytrix rupestris	Craven	Brunonia		1987	0313-4245								
+144677-3	Calytrix similis	Craven	Brunonia		1987	0313-4245								
+144691-3	Calytrix simplex subsp. simplex	Lindl.	Brunonia		1987	0313-4245								
+144696-3	Calytrix simplex subsp. suboppositifolia	Craven	Brunonia		1987	0313-4245								
+144700-3	Calytrix smeatoniana	(F.Muell.) Craven	Brunonia		1987	0313-4245								
+144798-3	Calytrix surdiviperana	Craven	Brunonia		1980	0313-4245								
+144804-3	Calytrix sylvana	Craven	Brunonia		1987	0313-4245								
+144913-3	Calytrix truncatifolia	Craven	Brunonia		1987	0313-4245								
+144937-3	Calytrix verruculosa	Craven	Brunonia		1987	0313-4245								
+144944-3	Calytrix verticillata	Craven	Brunonia		1980	0313-4245								
+144957-3	Calytrix violacea	(Lindl.) Craven	Brunonia		1987	0313-4245								
+144991-3	Calytrix warburtonensis	Craven	Brunonia		1987	0313-4245								
+145772-3	Camptacra	N.T.Burb.	Brunonia		1983	0313-4245								
+145777-3	Camptacra barbata	N.T.Burb.	Brunonia		1983	0313-4245								
+145779-3	Camptacra brachycomoides	(F.Muell.) N.T.Burb.	Brunonia		1983	0313-4245								
+145781-3	Camptacra brachycomoides forma arachnoidea	N.T.Burb.	Brunonia		1983	0313-4245								
+145782-3	Camptacra brachycomoides forma brachycomoides	(F.Muell.) N.T.Burb.	Brunonia		1983	0313-4245								
+145788-3	Camptacra brachycomoides forma llnata	N.T.Burb.	Brunonia		1983	0313-4245								
+145852-3	Digitaria imbricata	R.D.Webster	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+145878-3	Digitaria lanceolata	R.D.Webster	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+146022-3	Digitaria minima	R.D.Webster	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+146024-3	Flindersia oppositifolia	(F.Muell.) T.G.Hartley & Jessup	Brunonia		1983	0313-4245								
+146065-3	Digitaria oraria	R.D.Webster	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+150685-3	Wurmbea biglandulosa	(R.Br.) T.D.Macfarl.	Brunonia		1980	0313-4245								
+150722-3	Wurmbea centralis	T.D.Macfarl.	Brunonia		1980	0313-4245								
+150770-3	Wurmbea cernua	T.D.Macfarl.	Brunonia		1980	0313-4245								
+150817-3	Wurmbea densiflora	(Benth.) T.D.Macfarl.	Brunonia		1980	0313-4245								
+150857-3	Wurmbea deserticola	T.D.Macfarl.	Brunonia		1980	0313-4245								
+150889-3	Hygrochloa	Lazarides	Brunonia		1979	0313-4245								
+150901-3	Wurmbea dilatata	T.D.Macfarl.	Brunonia		1980	0313-4245								
+150926-3	Hygrochloa aquatica	Lazarides	Brunonia		1979	0313-4245								
+150966-3	Hygrochloa cravenii	Lazarides	Brunonia		1979	0313-4245								
+150971-3	Wurmbea dioica subsp. alba	T.D.Macfarl.	Brunonia		1980	0313-4245								
+151004-3	Wurmbea dioica subsp. dioica	(R.Br.) F.Muell.	Brunonia		1980	0313-4245								
+151108-3	Wurmbea humilis	T.D.Macfarl.	Brunonia		1980	0313-4245								
+151136-3	Wurmbea inframediana	T.D.Macfarl.	Brunonia		1980	0313-4245								
+151170-3	Wurmbea latifolia	T.D.Macfarl.	Brunonia		1980	0313-4245								
+151212-3	Wurmbea monantha	(Endl.) T.D.Macfarl.	Brunonia		1980	0313-4245								
+151248-3	Wurmbea odorata	T.D.Macfarl.	Brunonia		1980	0313-4245								
+151325-3	Wurmbea sinora	T.D.Macfarl.	Brunonia		1980	0313-4245								
+151458-3	Symplocos cochinchinensis var. candelabrum	(Brand) Noot.	Brunonia		1982	0313-4245								
+151465-3	Wurmbea uniflora	(R.Br.) T.D.Macfarl.	Brunonia		1980	0313-4245								
+151545-3	Symplocos cochinchinensis var. glaberrima	Noot.	Brunonia		1982	0313-4245								
+151586-3	Symplocos cochinchinensis var. hylandii	Noot.	Brunonia		1982	0313-4245								
+151658-3	Symplocos cochinchinensis var. pilosiuscula	Noot.	Brunonia		1982	0313-4245								
+151925-3	Symplocos hylandii	Noot.	Brunonia		1982	0313-4245								
+152378-3	Banksia oblongifolia var. minor	(Maiden & Camfield) Conran & Clifford	Brunonia		1987	0313-4245								
+152381-3	Banksia oblongifolia var. oblongifolia	Cav.	Brunonia		1987	0313-4245								
+152685-3	Thysanotus glaucifolius	Brittan	Brunonia		1982	0313-4245								
+152713-3	Myriophyllum alpinum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153060-3	Myriophyllum austropygmaeum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153063-3	Myriophyllum balladoniense	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153142-3	Myriophyllum callitrichoides subsp. callitrichoides	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153159-3	Myriophyllum callitrichoides subsp. striatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153174-3	Thysanotus lavanduliflorus	Brittan	Brunonia		1982	0313-4245								
+153190-3	Myriophyllum caput-medusae	Orchard	Brunonia		1982	0313-4245								
+153217-3	Myriophyllum costatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153224-3	Myriophyllum crispatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153229-3	Myriophyllum decussatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+153725-3	Thysanotus patersonii subsp. manglesianus	(Kunth) Brittan	Brunonia		1982	0313-4245								
+153756-3	Thysanotus patersonii subsp. patersonii	R.Br.	Brunonia		1982	0313-4245								
+154570-3	Thysanotus tuberosus subsp. parviflorus	(Benth.) Brittan	Brunonia		1982	0313-4245								
+154631-3	Thysanotus tuberosus subsp. tuberosus	R.Br.	Brunonia		1982	0313-4245								
+157447-3	Whiteochloa airoides	(R.Br.) Lazarides	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+157498-3	Whiteochloa biciliata	Lazarides	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+157551-3	Whiteochloa capillipes	(Benth.) Lazarides	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+157604-3	Whiteochloa multiciliata	Lazarides	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+159378-3	Melaleuca tamariscina subsp. irbyana	Barlow	Brunonia		1987	0313-4245								
+159390-3	Melaleuca tamariscina subsp. pallescens	(Byrnes) Barlow	Brunonia		1987	0313-4245								
+159398-3	Melaleuca tamariscina subsp. tamariscina	Hook.	Brunonia		1987	0313-4245								
+159505-3	Ranunculus jugosus	Menadue	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+160803-3	Carpha curvata	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+160933-3	Carpha rodwayi	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+161451-3	Viscum whitei subsp. flexicaule	(Barlow) Barlow	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+161473-3	Viscum whitei subsp. whitei	Blakely	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+161788-3	Persoonia gunnii var. oblanceolata	Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+162184-3	Persoonia juniperina var. mollis	Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+162290-3	Ranunculus prasinus	Menadue	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+163818-3	Persoonia moscalii	Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+163829-3	Persoonia muelleri	(P.Parm.) Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+163835-3	Persoonia muelleri var. angustifolia	(Benth.) Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+163837-3	Persoonia muelleri var. densifolia	Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+163853-3	Persoonia muelleri var. muelleri	(P.Parm.) Orchard	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+164505-3	Vittadinia subgen. Peripleura	N.T.Burb.	Brunonia		1983	0313-4245								
+164523-3	Vittadinia subgen. Vittadinia	A.Rich.	Brunonia		1983	0313-4245								
+164534-3	Vittadinia arida	N.T.Burb.	Brunonia		1983	0313-4245								
+164542-3	Vittadinia australasica	(Turcz.) N.T.Burb.	Brunonia		1983	0313-4245								
+164545-3	Vittadinia australasica var. australasica	(Turcz.) N.T.Burb.	Brunonia		1983	0313-4245								
+164553-3	Vittadinia australasica var. oricola	N.T.Burb.	Brunonia		1983	0313-4245								
+164557-3	Vittadinia australasica var. subglabra	N.T.Burb.	Brunonia		1983	0313-4245								
+164800-3	Vittadinia bicolor	N.T.Burb.	Brunonia		1983	0313-4245								
+164975-3	Vittadinia cervicularis	N.T.Burb.	Brunonia		1983	0313-4245								
+164979-3	Vittadinia cervicularis var. cervicularis	N.T.Burb.	Brunonia		1983	0313-4245								
+164984-3	Vittadinia cervicularis var. occidentalis	N.T.Burb.	Brunonia		1983	0313-4245								
+164987-3	Vittadinia cervicularis var. oldfieldii	N.T.Burb.	Brunonia		1983	0313-4245								
+164993-3	Vittadinia cervicularis var. subcervicularis	N.T.Burb.	Brunonia		1983	0313-4245								
+164998-3	Vittadinia condyloides	N.T.Burb.	Brunonia		1983	0313-4245								
+165001-3	Vittadinia constricta	N.T.Burb.	Brunonia		1983	0313-4245								
+165019-3	Vittadinia cuneata var. cuneata	DC.	Brunonia		1983	0313-4245								
+165022-3	Vittadinia cuneata forma cuneata	DC.	Brunonia		1983	0313-4245								
+165027-3	Vittadinia cuneata var. hirsuta	N.T.Burb.	Brunonia		1983	0313-4245								
+165032-3	Vittadinia cuneata forma minor	N.T.Burb.	Brunonia		1983	0313-4245								
+165039-3	Vittadinia cuneata var. morrisii	N.T.Burb.	Brunonia		1983	0313-4245								
+165044-3	Vittadinia cuneata var. murrayensis	N.T.Burb.	Brunonia		1983	0313-4245								
+165047-3	Vittadinia decora	N.T.Burb.	Brunonia		1983	0313-4245								
+165067-3	Vittadinia diffusa	N.T.Burb.	Brunonia		1983	0313-4245								
+165078-3	Vittadinia dissecta	(Benth.) N.T.Burb.	Brunonia		1983	0313-4245								
+165080-3	Vittadinia dissecta var. dissecta	(Benth.) N.T.Burb.	Brunonia		1983	0313-4245								
+165082-3	Vittadinia dissecta var. hirta	N.T.Burb.	Brunonia		1983	0313-4245								
+165086-3	Vittadinia eremaea	N.T.Burb.	Brunonia		1983	0313-4245								
+165087-3	Vittadinia gracilis	(Hook.f.) N.T.Burb.	Brunonia		1983	0313-4245								
+165114-3	Vittadinia hispidula var. hispidula	A.Gray	Brunonia		1983	0313-4245								
+165121-3	Vittadinia hispidula var. setosa	N.T.Burb.	Brunonia		1983	0313-4245								
+165133-3	Vittadinia humerata	N.T.Burb.	Brunonia		1983	0313-4245								
+165245-3	Vittadinia nullarborensis	N.T.Burb.	Brunonia		1983	0313-4245								
+165264-3	Vittadinia obovata	N.T.Burb.	Brunonia		1983	0313-4245								
+165334-3	Vittadinia pustulata	N.T.Burb.	Brunonia		1983	0313-4245								
+165393-3	Vittadinia sericea	N.T.Burb.	Brunonia		1983	0313-4245								
+165443-3	Vittadinia spechtii	N.T.Burb.	Brunonia		1983	0313-4245								
+165456-3	Vittadinia spechtii var. kimberleyensis	N.T.Burb.	Brunonia		1983	0313-4245								
+165465-3	Vittadinia spechtii var. spechtii	N.T.Burb.	Brunonia		1983	0313-4245								
+165487-3	Vittadinia sulcata	N.T.Burb.	Brunonia		1983	0313-4245								
+165978-3	Vittadinia virgata	N.T.Burb.	Brunonia		1983	0313-4245								
+166069-3	Korthalsella emersa	Barlow	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+166078-3	Korthalsella grayi	Barlow	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+166100-3	Korthalsella japonica subsp. brassiana	(C.T.White) Barlow	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+166105-3	Korthalsella leucothrix	Barlow	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+166229-3	Korthalsella rubra subsp. geijericola	Barlow	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+166242-3	Korthalsella rubra subsp. rubra	Endl.	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+167724-1	Cyanostegia corifolia	Munir	Brunonia	1(1): 62	1978	0313-4245	10.1071/bru9780045							
+167725-1	Dicrastylis brunnea	Munir	Brunonia	1(4): 546	1978	0313-4245	10.1071/bru9780407							
+167726-1	Dicrastylis cordifolia	Munir	Brunonia	1(4): 461	1978	0313-4245	10.1071/bru9780407							
+167727-1	Dicrastylis corymbosa	(Endl.) Munir	Brunonia	1(4): 500	1978	0313-4245	10.1071/bru9780407							
+167728-1	Dicrastylis georgei	Munir	Brunonia	1(4): 457	1978	0313-4245	10.1071/bru9780407							
+167729-1	Dicrastylis glauca	Munir	Brunonia	1(4): 505	1978	0313-4245	10.1071/bru9780407							
+167730-1	Dicrastylis incana	Munir	Brunonia	1(4): 484	1978	0313-4245	10.1071/bru9780407							
+167731-1	Dicrastylis linearifolia	Munir	Brunonia	1(4): 468	1978	0313-4245	10.1071/bru9780407							
+167732-1	Dicrastylis micrantha	Munir	Brunonia	1(4): 475	1978	0313-4245	10.1071/bru9780407							
+167733-1	Dicrastylis microphylla	Munir	Brunonia	1(4): 451	1978	0313-4245	10.1071/bru9780407							
+167734-1	Dicrastylis morrisonii	Munir	Brunonia	1(4): 485	1978	0313-4245	10.1071/bru9780407							
+167735-1	Dicrastylis obovata	Munir	Brunonia	1(4): 465	1978	0313-4245	10.1071/bru9780407							
+167736-1	Dicrastylis petermannensis	Munir	Brunonia	1(4): 551	1978	0313-4245	10.1071/bru9780407							
+167737-1	Dicrastylis sessilifolia	Munir	Brunonia	1(4): 552	1978	0313-4245	10.1071/bru9780407							
+167738-1	Dicrastylis velutina	Munir	Brunonia	1(4): 496	1978	0313-4245	10.1071/bru9780407							
+167739-1	Mallophora rugosifolia	Munir	Brunonia	1(4): 574	1978	0313-4245	10.1071/bru9780407							
+167741-1	Newcastelia elliptica	Munir	Brunonia	1(4): 609	1978	0313-4245	10.1071/bru9780407							
+167742-1	Newcastelia interrupta	Munir	Brunonia	1(4): 622	1978	0313-4245	10.1071/bru9780407							
+167743-1	Newcastelia velutina	Munir	Brunonia	1(4): 619	1978	0313-4245	10.1071/bru9780407							
+18251-1	Hygrochloa	Lazarides	Brunonia	2(1): 86	1979	0313-4245	10.1071/bru9790085							
+247516-3	Adenanthos glabrescens subsp. exasperatus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+249372-1	Solenogyne dominii	L.G.Adams	Brunonia	2(1): 58	1979	0313-4245	10.1071/bru9790043							
+323898-1	Aceratium sinuatum	Coode	Brunonia	1(2): 145	1978	0313-4245	10.1071/bru9780131							
+323900-1	Aceratium tomentosum	Coode	Brunonia	1(2): 148	1978	0313-4245	10.1071/bru9780131							
+323930-1	Dubouzetia galorei	Coode	Brunonia	1(2): 154	1978	0313-4245	10.1071/bru9780131							
+323932-1	Dubouzetia kairoi	Coode	Brunonia	1(2): 157	1978	0313-4245	10.1071/bru9780131							
+323983-1	Elaeocarpus badius	Coode	Brunonia	1(2): 214	1978	0313-4245	10.1071/bru9780131							
+323984-1	Elaeocarpus bakaianus	Coode	Brunonia	1(2): 195	1978	0313-4245	10.1071/bru9780131							
+324018-1	Elaeocarpus buderi	Coode	Brunonia	1(2): 184	1978	0313-4245	10.1071/bru9780131							
+324239-1	Elaeocarpus marafunganus	Coode	Brunonia	1(2): 172	1978	0313-4245	10.1071/bru9780131							
+324270-1	Elaeocarpus murukkai	Coode	Brunonia	1(2): 197	1978	0313-4245	10.1071/bru9780131							
+324276-1	Elaeocarpus neobritannicus	Coode	Brunonia	1(2): 224	1978	0313-4245	10.1071/bru9780131							
+324451-1	Sericolea collinsii	Coode	Brunonia	1(2): 249	1978	0313-4245	10.1071/bru9780131							
+324452-1	Sericolea pachyphylla	Coode	Brunonia	1(2): 256	1978	0313-4245	10.1071/bru9780131							
+324568-1	Sloanea pulleniana	Coode	Brunonia	1(2): 270	1978	0313-4245	10.1071/bru9780131							
+324585-1	Sloanea streimannii	Coode	Brunonia	1(2): 278	1978	0313-4245	10.1071/bru9780131							
+365434-1	Homalium bismarckense	Craven	Brunonia	2(1): 108	1979	0313-4245	10.1071/bru9790107							
+365448-1	Homalium caput-avis	Craven	Brunonia	2(1): 111	1979	0313-4245	10.1071/bru9790107							
+365465-1	Homalium dentrecasteauxense	Craven	Brunonia	2(1): 113	1979	0313-4245	10.1071/bru9790107							
+365519-1	Homalium maneauense	Craven	Brunonia	2(1): 115	1979	0313-4245	10.1071/bru9790107							
+365560-1	Homalium reductum	Craven	Brunonia	2(1): 117	1979	0313-4245	10.1071/bru9790107							
+365582-1	Homalium streimannii	Craven	Brunonia	2(1): 119	1979	0313-4245	10.1071/bru9790107							
+365583-1	Homalium subcordatum	Craven	Brunonia	2(1): 120	1979	0313-4245	10.1071/bru9790107							
+365597-1	Homalium velutinum	Craven	Brunonia	2(1): 122	1979	0313-4245	10.1071/bru9790107							
+3689-3	Eucalyptus virens	Brooker & A.R.Bean	Brunonia		1987 (16 Mar. 1987)	0313-4245								
+383639-1	Calogyne neglecta	Carolin	Brunonia	2(1): 7	1979	0313-4245	10.1071/bru9790001							
+383641-1	Calogyne porphyrea	Carolin	Brunonia	2(1): 4	1979	0313-4245	10.1071/bru9790001							
+383643-1	Calogyne quadrifida	Carolin	Brunonia	2(1): 15	1979	0313-4245	10.1071/bru9790001							
+383645-1	Calogyne symonii	Carolin	Brunonia	2(1): 12	1979	0313-4245	10.1071/bru9790001							
+383790-1	Goodenia berardiana	(Gaudich.) Carolin	Brunonia	2(1): 16	1979	0313-4245	10.1071/bru9790001							
+405422-1	Hygrochloa aquatica	Lazarides	Brunonia	2(1): 87	1979	0313-4245	10.1071/bru9790085							
+405423-1	Hygrochloa cravenii	Lazarides	Brunonia	2(1): 89	1979	0313-4245	10.1071/bru9790085							
+408436-1	Micraira adamsii	Lazarides	Brunonia	2(1): 71	1979	0313-4245	10.1071/bru9790067							
+408437-1	Micraira compacta	Lazarides	Brunonia	2(1): 75	1979	0313-4245	10.1071/bru9790067							
+408438-1	Micraira dentata	Lazarides	Brunonia	2(1): 76	1979	0313-4245	10.1071/bru9790067							
+408439-1	Micraira pungens	Lazarides	Brunonia	2(1): 77	1979	0313-4245	10.1071/bru9790067							
+408440-1	Micraira spinifera	Lazarides	Brunonia	2(1): 78	1979	0313-4245	10.1071/bru9790067							
+408441-1	Micraira subspicata	Lazarides	Brunonia	2(1): 79	1979	0313-4245	10.1071/bru9790067							
+408443-1	Micraira tenuis	Lazarides	Brunonia	2(1): 81	1979	0313-4245	10.1071/bru9790067							
+42131-1	Dicrastylis sect. Corymbosae	Munir	Brunonia	1(4): 489	1978	0313-4245	10.1071/bru9780407							
+42132-1	Dicrastylis sect. Pyramidatae	Munir	Brunonia	1(4): 525	1978	0313-4245	10.1071/bru9780407							
+42133-1	Dicrastylis sect. Spicatae	Munir	Brunonia	1(4): 508	1978	0313-4245	10.1071/bru9780407							
+42134-1	Dicrastylis sect. Verticillatae	Munir	Brunonia	1(4): 447	1978	0313-4245	10.1071/bru9780407							
+426733-1	Whiteochloa airoides	(R.Br.) Lazarides	Brunonia	1(1): 73	1978	0313-4245	10.1071/bru9780069							
+426734-1	Whiteochloa biciliata	Lazarides	Brunonia	1(1): 85	1978	0313-4245	10.1071/bru9780069							
+426735-1	Whiteochloa capillipes	(Benth.) Lazarides	Brunonia	1(1): 79	1978	0313-4245	10.1071/bru9780069							
+426736-1	Whiteochloa multiciliata	Lazarides	Brunonia	1(1): 88	1978	0313-4245	10.1071/bru9780069							
+430473-1	Myriophyllum triphyllum	Orchard	Brunonia	2(2): 259	1980	0313-4245	10.1071/bru9790247							
+44293-1	Adenanthos subsect. Anaclastos	E.C.Nelson	Brunonia	1(3): 332	1978	0313-4245	10.1071/bru9780303							
+463899-1	Cryptocarya floydii	Kosterm.	Brunonia	2(1): 96	1979	0313-4245	10.1071/bru9790093							
+466933-1	Neolitsea australiensis	Kosterm.	Brunonia	2(1): 93	1979	0313-4245	10.1071/bru9790093							
+50479-3	Helicia blakei	Foreman	Brunonia		1983 (31 Jan. 1984)	0313-4245								
+50775-3	Helicia grayi	Foreman	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+50822-3	Helicia lewisensis	Foreman	Brunonia		1983 (31 Jan. 1984)	0313-4245								
+51505-3	Oreobolus oligocephalus	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+518386-1	Serianthes hooglandii	(Fosb.) A.Kanis	Brunonia	2(2): 307	1980	0313-4245	10.1071/bru9790289							
+52967-3	Micraira adamsii	Lazarides	Brunonia		1979	0313-4245								
+53004-3	Micraira compacta	Lazarides	Brunonia		1979	0313-4245								
+53041-3	Micraira dentata	Lazarides	Brunonia		1979	0313-4245								
+53076-3	Micraira pungens	Lazarides	Brunonia		1979	0313-4245								
+53120-3	Micraira spinifera	Lazarides	Brunonia		1979	0313-4245								
+53154-3	Micraira subspicata	Lazarides	Brunonia		1979	0313-4245								
+532122-1	Bulbine alata	Baijnath	Brunonia	1(1): 117	1978	0313-4245	10.1071/bru9780117							
+53235-3	Micraira tenuis	Lazarides	Brunonia		1979	0313-4245								
+53709-3	Dodonaea biloba	J.G.West	Brunonia		1987 (30 Nov. 1987)	0313-4245								
+57270-3	Yakirra	Lazarides & R.D.Webster	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+57276-3	Yakirra australiensis	(Domin) Lazarides & R.D.Webster	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+57291-3	Yakirra majuscula	(Benth.) Lazarides & R.D.Webster	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+57296-3	Yakirra muelleri	(Hughes) Lazarides & R.D.Webster	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+57299-3	Yakirra nulla	Lazarides & R.D.Webster	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+57304-3	Yakirra pauciflora	(R.Br.) Lazarides & R.D.Webster	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+58023-3	Mallophora rugosifolia	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+58331-3	Centrolepis paludicola	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+58346-3	Centrolepis pedderensis	W.M.Curtis	Brunonia		1985 (7 Mar. 1985)	0313-4245								
+592882-1	Eucalyptus discreta	Brooker	Brunonia	2(1): 148	1979	0313-4245	10.1071/bru9790125							
+592947-1	Eucalyptus fruticosa	Brooker	Brunonia	2(1): 129	1979	0313-4245	10.1071/bru9790125							
+60277-3	Ceratopetalum macrophyllum	Hoogland	Brunonia		1982	0313-4245								
+61672-3	Leptochloa ligulata	Lazarides	Brunonia		1980	0313-4245								
+702943-1	Adenanthos cacomorphus	E.C.Nelson	Brunonia	1(3): 385	1978	0313-4245	10.1071/bru9780303							
+702949-1	Adenanthos dobagii	E.C.Nelson	Brunonia	1(3): 334	1978	0313-4245	10.1071/bru9780303							
+702953-1	Adenanthos eyrei	E.C.Nelson	Brunonia	1(3): 355	1978	0313-4245	10.1071/bru9780303							
+702958-1	Adenanthos glabrescens	E.C.Nelson	Brunonia	1(3): 345	1978	0313-4245	10.1071/bru9780303							
+702960-1	Adenanthos ileticos	E.C.Nelson	Brunonia	1(3): 384	1978	0313-4245	10.1071/bru9780303							
+702963-1	Adenanthos labillardierei	E.C.Nelson	Brunonia	1(3): 381	1978	0313-4245	10.1071/bru9780303							
+702965-1	Adenanthos macropodianus	E.C.Nelson	Brunonia	1(3): 378	1978	0313-4245	10.1071/bru9780303							
+702968-1	Adenanthos oreophilus	E.C.Nelson	Brunonia	1(3): 367	1978	0313-4245	10.1071/bru9780303							
+72805-3	Pimelea axiflora subsp. alpina	(Benth.) Threlfall	Brunonia		1983	0313-4245								
+72826-3	Pimelea axiflora subsp. axiflora	Meisn.	Brunonia		1983	0313-4245								
+72965-3	Pimelea bracteata	Threlfall	Brunonia		1983	0313-4245								
+73751-3	Pimelea curviflora var. acuta	Threlfall	Brunonia		1983	0313-4245								
+73791-3	Pimelea curviflora subsp. curviflora	R.Br.	Brunonia		1983	0313-4245								
+73794-3	Pimelea curviflora var. divergens	Threlfall	Brunonia		1983	0313-4245								
+73800-3	Pimelea curviflora subsp. gracilis	(R.Br.) Threlfall	Brunonia		1983	0313-4245								
+73804-3	Pimelea curviflora var. gracilis	Threlfall	Brunonia		1983	0313-4245								
+73815-3	Pimelea curviflora subsp. micrantha	(Meisn.) Threlfall	Brunonia		1983	0313-4245								
+73900-3	Pimelea curviflora var. subglabrata	Threlfall	Brunonia		1983	0313-4245								
+74767-3	Pimelea flava subsp. dichotoma	(Schltdl.) Threlfall	Brunonia		1983	0313-4245								
+74806-3	Pimelea flava subsp. flava	R.Br.	Brunonia		1983	0313-4245								
+76602-3	Lepidium subsect. Diploploca	Hewson	Brunonia		1982	0313-4245								
+76751-3	Pimelea latifolia subsp. altior	(F.Muell.) Threlfall	Brunonia		1983	0313-4245								
+76754-3	Pimelea latifolia var. altior	(F.Muell.) Threlfall	Brunonia		1983	0313-4245								
+76758-3	Pimelea latifolia subsp. elliptifolia	Threlfall	Brunonia		1983	0313-4245								
+76761-3	Pimelea latifolia subsp. hirsuta	(Meisn.) Threlfall	Brunonia		1983	0313-4245								
+76767-3	Pimelea latifolia subsp. latifolia	R.Br.	Brunonia		1983	0313-4245								
+76769-3	Pimelea latifolia var. latifolia	R.Br.	Brunonia		1983	0313-4245								
+76773-3	Pimelea latifolia var. parvifolia	(Domin) Threlfall	Brunonia		1983	0313-4245								
+76791-3	Lepidium subsect. Monoploca	(Bunge) Hewson	Brunonia		1982	0313-4245								
+76906-3	Lepidium sect. Oleracea	Hewson	Brunonia		1982	0313-4245								
+77054-3	Pimelea ligustrina subsp. ciliata	Threlfall	Brunonia		1983	0313-4245								
+77085-3	Lepidium biplicatum	Hewson	Brunonia		1982	0313-4245								
+77103-3	Pimelea ligustrina subsp. hypericina	(A.Cunn.) Threlfall	Brunonia		1983	0313-4245								
+77135-3	Pimelea ligustrina subsp. ligustrina	Labill.	Brunonia		1983	0313-4245								
+77180-3	Lepidium catapycnon	Hewson	Brunonia		1982	0313-4245								
+77384-3	Bulbine alata	Baijnath	Brunonia		1978 (Feb. 1978)	0313-4245								
+77395-3	Pimelea linifolia subsp. caesia	Threlfall	Brunonia		1983	0313-4245								
+77401-3	Pimelea linifolia subsp. collina	(R.Br.) Threlfall	Brunonia		1983	0313-4245								
+77436-3	Pimelea linifolia subsp. linifolia	Sm.	Brunonia		1983	0313-4245								
+77446-3	Pimelea linifolia subsp. linoides	(A.Cunn.) Threlfall	Brunonia		1983	0313-4245								
+77697-3	Lepidium echinatum	Hewson	Brunonia		1982	0313-4245								
+78115-3	Pimelea microcephala subsp. glabra	(J.M.Black) Threlfall	Brunonia		1983	0313-4245								
+78226-3	Pimelea microcephala subsp. microcephala	R.Br.	Brunonia		1983	0313-4245								
+78583-3	Pimelea neoanglica	Threlfall	Brunonia		1983	0313-4245								
+78659-3	Myriophyllum echinatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+79017-3	Pimelea octophylla subsp. ciliolaris	Threlfall	Brunonia		1983	0313-4245								
+79033-3	Pimelea octophylla subsp. octophylla	R.Br.	Brunonia		1983	0313-4245								
+79037-3	Pimelea octophylla subsp. petraea	(Meisn.) Threlfall	Brunonia		1983	0313-4245								
+79044-3	Pimelea octophylla subsp. subvillifera	Threlfall	Brunonia		1983	0313-4245								
+80105-3	Pimelea sericostachya subsp. amabilis	(Domin) Threlfall	Brunonia		1983	0313-4245								
+80163-3	Pimelea sericostachya subsp. sericostachya	F.Muell.	Brunonia		1983	0313-4245								
+80374-3	Pimelea simplex subsp. continua	(J.M.Black) Threlfall	Brunonia		1983	0313-4245								
+80388-3	Pimelea simplex subsp. simplex	F.Muell.	Brunonia		1983	0313-4245								
+81182-3	Pimelea venosa	Threlfall	Brunonia		1983	0313-4245								
+81479-3	Myriophyllum gracile var. gracile	Benth.	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81502-3	Myriophyllum gracile var. laeve	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81511-3	Myriophyllum gracile var. lineare	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81515-3	Myriophyllum implicatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81673-3	Myriophyllum limnophilum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81728-3	Myriophyllum lophatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81863-3	Myriophyllum muricatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81870-3	Myriophyllum papillosum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81902-3	Myriophyllum pedunculatum subsp. longibracteolatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81921-3	Myriophyllum pedunculatum subsp. pedunculatum	Hook.f.	Brunonia		1980 (1979)	0313-4245								
+81935-3	Myriophyllum petraeum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+81947-3	Myriophyllum porcatum	Orchard	Brunonia		1981 (30 Nov. 1981)	0313-4245								
+82026-3	Myriophyllum salsugineum	Orchard	Brunonia		1981 (1982)	0313-4245								
+82038-3	Myriophyllum simulans	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+82044-3	Myriophyllum striatum	Orchard	Brunonia		1986 (28 Feb. 1986)	0313-4245								
+82129-3	Myriophyllum triphyllum	Orchard	Brunonia		1979	0313-4245								
+82289-3	Solenogyne dominii	L.G.Adams	Brunonia		1979	0313-4245								
+82674-3	Dodonaea falcata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+82747-3	Dodonaea glandulosa	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+82804-3	Dodonaea heteromorpha	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+830557-1	Ternstroemia monostigma	W.R.Barker	Brunonia	3(1): 33	1980	0313-4245	10.1071/bru9800001							
+83064-3	Dodonaea intricata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+83097-3	Dodonaea lanceolata var. lanceolata	F.Muell.	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+83099-3	Dodonaea lanceolata var. subsessilifolia	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+83311-3	Dodonaea microzyga var. acrolobata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+83314-3	Dodonaea microzyga var. microzyga	F.Muell.	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84088-3	Dodonaea rigida	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84221-3	Dodonaea sinuolata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84227-3	Dodonaea sinuolata subsp. acrodentata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84235-3	Dodonaea sinuolata subsp. sinuolata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84335-3	Dodonaea subglandulifera	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84597-3	Dodonaea uncinata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84715-3	Dodonaea viscosa subsp. angustifolia	(L.f.) J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84738-3	Dodonaea viscosa subsp. angustissima	(DC.) J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84790-3	Dodonaea viscosa subsp. burmanniana	(DC.) J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84805-3	Dodonaea viscosa subsp. cuneata	(Sm.) J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84926-3	Dodonaea viscosa subsp. mucronata	J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84936-3	Dodonaea viscosa subsp. spatulata	(Sm.) J.G.West	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+84971-3	Dodonaea viscosa subsp. viscosa	Jacq.	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+85282-3	Melaleuca acacioides subsp. acacioides	F.Muell.	Brunonia		1987	0313-4245								
+85287-3	Melaleuca acacioides subsp. alsophila	(Benth.) Barlow	Brunonia		1987	0313-4245								
+86897-3	Acronychia littoralis	T.G.Hartley & J.B.Williams	Brunonia		1984 (31 Jan. 1984)	0313-4245								
+87172-3	Acrophyllum australe	(A.Cunn.) Hoogland	Brunonia		1982	0313-4245								
+876161-1	Dicrastylis beveridgei var. lanata	Munir	Brunonia	1(4): 523	1978	0313-4245	10.1071/bru9780407							
+876162-1	Dicrastylis beveridgei subsp. revoluta	Munir	Brunonia	1(4): 524	1978	0313-4245	10.1071/bru9780407							
+876163-1	Dicrastylis brunnea var. pedunculata	Munir	Brunonia	1(4): 549	1978	0313-4245	10.1071/bru9780407							
+876164-1	Dicrastylis cordifolia var. barnettii	Munir	Brunonia	1(4): 464	1978	0313-4245	10.1071/bru9780407							
+876165-1	Dicrastylis cordifolia var. purpurea	Munir	Brunonia	1(4): 464	1978	0313-4245	10.1071/bru9780407							
+876166-1	Dicrastylis costelloi var. eriantha	(F.Muell.) Munir	Brunonia	1(4): 517	1978	0313-4245	10.1071/bru9780407							
+876167-1	Dicrastylis costelloi var. globulifera	Munir	Brunonia	1(4): 519	1978	0313-4245	10.1071/bru9780407							
+876168-1	Dicrastylis costelloi var. violacea	Munir	Brunonia	1(4): 519	1978	0313-4245	10.1071/bru9780407							
+876169-1	Dicrastylis exsuccosa f. albolutea	Munir	Brunonia	1(4): 539	1978	0313-4245	10.1071/bru9780407							
+876170-1	Dicrastylis exsuccosa subsp. cinerea	Munir	Brunonia	1(4): 540	1978	0313-4245	10.1071/bru9780407							
+876171-1	Dicrastylis exsuccosa subsp. elliptica	Munir	Brunonia	1(4): 542	1978	0313-4245	10.1071/bru9780407							
+876172-1	Dicrastylis exsuccosa f. lachnophylla	Munir	Brunonia	1(4): 537	1978	0313-4245	10.1071/bru9780407							
+876173-1	Dicrastylis exsuccosa var. lanceolata	Munir	Brunonia	1(4): 535	1978	0313-4245	10.1071/bru9780407							
+876174-1	Dicrastylis exsuccosa var. tomentosa	Munir	Brunonia	1(4): 536	1978	0313-4245	10.1071/bru9780407							
+876175-1	Dicrastylis exsuccosa subsp. wilsonii	Munir	Brunonia	1(4): 545	1978	0313-4245	10.1071/bru9780407							
+876176-1	Dicrastylis georgei var. cuneata	Munir	Brunonia	1(4): 459	1978	0313-4245	10.1071/bru9780407							
+876177-1	Dicrastylis gilesii var. bagotensis	Munir	Brunonia	1(4): 561	1978	0313-4245	10.1071/bru9780407							
+876178-1	Dicrastylis gilesii f. brevipila	Munir	Brunonia	1(4): 565	1978	0313-4245	10.1071/bru9780407							
+876179-1	Dicrastylis gilesii f. densa	Munir	Brunonia	1(4): 560	1978	0313-4245	10.1071/bru9780407							
+876180-1	Dicrastylis gilesii f. irregularis	Munir	Brunonia	1(4): 564	1978	0313-4245	10.1071/bru9780407							
+876181-1	Dicrastylis gilesii var. laxa	Munir	Brunonia	1(4): 566	1978	0313-4245	10.1071/bru9780407							
+876182-1	Lachnostachys coolgardiensis f. brevispicata	(E.Pritz.) Munir	Brunonia	1(4): 654	1978	0313-4245	10.1071/bru9780407							
+876183-1	Lachnostachys ferruginea f. acutifolia	Munir	Brunonia	1(4): 659	1978	0313-4245	10.1071/bru9780407							
+876184-1	Lachnostachys ferruginea f. obtusifolia	Munir	Brunonia	1(4): 663	1978	0313-4245	10.1071/bru9780407							
+876185-1	Lachnostachys ferruginea var. paniculata	(Ewart) Munir	Brunonia	1(4): 660	1978	0313-4245	10.1071/bru9780407							
+876186-1	Lachnostachys ferruginea f. reticulata	Munir	Brunonia	1(4): 659	1978	0313-4245	10.1071/bru9780407							
+876187-1	Newcastelia cephalantha var. oblonga	Munir	Brunonia	1(4): 634	1978	0313-4245	10.1071/bru9780407							
+876188-1	Newcastelia cephalantha var. tephropepla	Munir	Brunonia	1(4): 635	1978	0313-4245	10.1071/bru9780407							
+87736-3	Isolepis limbata	W.M.Curtis	Brunonia		1984 (12 Sep. 1984)	0313-4245								
+880000-1	Elaeocarpus dolichostylus subsp. collinus	Coode	Brunonia	1(2): 188	1978	0313-4245	10.1071/bru9780131							
+880006-1	Sericolea calophylla subsp. grossiserrata	Coode	Brunonia	1(2): 249	1978	0313-4245	10.1071/bru9780131							
+880009-1	Sloanea nymanii subsp. morobensis	Coode	Brunonia	1(2): 267	1978	0313-4245	10.1071/bru9780131							
+883372-1	Myriophyllum pedunculatum subsp. novae-zelandiae	Orchard	Brunonia	2(2): 274	1980	0313-4245	10.1071/bru9790247							
+885804-1	Serianthes hooglandii subsp. floridensis	A.Kanis	Brunonia	2(2): 312	1980	0313-4245	10.1071/bru9790289							
+885805-1	Serianthes minahassae subsp. fosbergii	A.Kanis	Brunonia	2(2): 302, nom.	1980	0313-4245	10.1071/bru9790289							
+885806-1	Serianthes minahassae subsp. ledermannii	(Harms) A.Kanis	Brunonia	2(2): 300	1980	0313-4245	10.1071/bru9790289							
+886552-1	Neuburgia corynocarpa var. sarcantha	(Gilg & Bened.) B.J.Conn	Brunonia	2(1): 104	1979	0313-4245	10.1071/bru9790099							
+888725-1	Adenanthos cygnorum subsp. chamaephyton	E.C.Nelson	Brunonia	1(3): 364	1978	0313-4245	10.1071/bru9780303							
+888726-1	Adenanthos glabrescens subsp. exasperatus	E.C.Nelson	Brunonia	1(3): 346	1978	0313-4245	10.1071/bru9780303							
+888727-1	Adenanthos pungens subsp. effusa	E.C.Nelson	Brunonia	1(3): 350	1978	0313-4245	10.1071/bru9780303							
+888728-1	Adenanthos sericeus subsp. sphalmus	E.C.Nelson	Brunonia	1(3): 375	1978	0313-4245	10.1071/bru9780303							
+891874-1	Archboldiodendron calosericeum subsp. kaindiense	W.R.Barker	Brunonia	3(1): 53	1980	0313-4245	10.1071/bru9800001							
+891875-1	Archboldiodendron calosericeum subsp. merrillianum	(Kobuski) W.R.Barker	Brunonia	3(1): 54	1980	0313-4245	10.1071/bru9800001							
+893144-1	Camptacra	N.T.Burb.	Brunonia	5(1): 11 (1982).	1982	0313-4245	10.1071/bru9820001							
+893203-1	Odixia	Orchard	Brunonia	4(2): 193	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810185							
+893503-1	Yakirra	Lazarides & R.D.Webster	Brunonia	7(2): 292 (1985).	1985	0313-4245	10.1071/bru9840289							
+893846-1	Eucalyptus ser. Ovulares	Brooker	Brunonia	4(1): 3 (1981).	1981	0313-4245	10.1071/bru9810001							
+894057-1	Lepidium subsect. Diploploca	Hewson	Brunonia	4(2): 254	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+894058-1	Lepidium sect. Oleracea	Thell. ex Hewson	Brunonia	4(2): 260	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+894059-1	Lepidium sect. Papillosa	Thell. ex Hewson	Brunonia	4(2): 265	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+894202-1	Vittadinia subgen. Peripleura	N.T.Burb.	Brunonia	5(1): 17 (1982).	1982	0313-4245	10.1071/bru9820001							
+89607-3	Adenanthos subsect. Anaclastos	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+896379-1	Calytrix decussata	Craven	Brunonia	3(2): 237 (1980)	1980	0313-4245	10.1071/bru9800217							
+896380-1	Calytrix faucicola	Craven	Brunonia	3(2): 241 (1980)	1980	0313-4245	10.1071/bru9800217							
+896381-1	Calytrix micrairoides	Craven	Brunonia	3(2): 236 (1980)	1980	0313-4245	10.1071/bru9800217							
+896382-1	Calytrix mimiana	Craven	Brunonia	3(2): 234 (1980)	1980	0313-4245	10.1071/bru9800217							
+896383-1	Calytrix surdiviperana	Craven	Brunonia	3(2): 226 (1980)	1980	0313-4245	10.1071/bru9800217							
+896384-1	Calytrix verticillata	Craven	Brunonia	3(2): 225 (1980)	1980	0313-4245	10.1071/bru9800217							
+896528-1	Leptochloa ligulata	Lazarides	Brunonia	3(2): 259 (1980)	1980	0313-4245	10.1071/bru9800247							
+896815-1	Wurmbea centralis	T.D.Macfarl.	Brunonia	3(2): 188 (1980)	1980	0313-4245	10.1071/bru9800145							
+896816-1	Wurmbea cernua	T.D.Macfarl.	Brunonia	3(2): 200 (1980)	1980	0313-4245	10.1071/bru9800145							
+896817-1	Wurmbea deserticola	T.D.Macfarl.	Brunonia	3(2): 185 (1980)	1980	0313-4245	10.1071/bru9800145							
+896818-1	Wurmbea dilatata	T.D.Macfarl.	Brunonia	3(2): 165 (1980)	1980	0313-4245	10.1071/bru9800145							
+896819-1	Wurmbea humilis	T.D.Macfarl.	Brunonia	3(2): 173 (1980)	1980	0313-4245	10.1071/bru9800145							
+896820-1	Wurmbea inframediana	T.D.Macfarl.	Brunonia	3(2): 182 (1980)	1980	0313-4245	10.1071/bru9800145							
+896821-1	Wurmbea latifolia	T.D.Macfarl.	Brunonia	3(2): 170 (1980)	1980	0313-4245	10.1071/bru9800145							
+896822-1	Wurmbea odorata	T.D.Macfarl.	Brunonia	3(2): 181 (1980)	1980	0313-4245	10.1071/bru9800145							
+896823-1	Wurmbea sinora	T.D.Macfarl.	Brunonia	3(2): 196 (1980)	1980	0313-4245	10.1071/bru9800145							
+897717-1	Eucalyptus cyclostoma	Brooker	Brunonia	4(1): 21 (1981)	1981	0313-4245	10.1071/bru9810001							
+897718-1	Eucalyptus myriadena	Brooker	Brunonia	4(1): 9 (1981)	1981	0313-4245	10.1071/bru9810001							
+898271-1	Myriophyllum caput-medusae	Orchard	Brunonia	4(1): 53 (1981)	1981	0313-4245	10.1071/bru9810027							
+898272-1	Myriophyllum porcatum	Orchard	Brunonia	4(1): 59 (1981)	1981	0313-4245	10.1071/bru9810027							
+898273-1	Myriophyllum salsugineum	Orchard	Brunonia	4(1): 48 (1981)	1981	0313-4245	10.1071/bru9810027							
+89854-3	Adenanthos cacomorphus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+898920-1	Thysanotus fastigiatus	Brittan	Brunonia	4(1): 106 (1981)	1981	0313-4245	10.1071/bru9810067							
+898921-1	Thysanotus glaucifolius	Brittan	Brunonia	4(1): 113 (1981)	1981	0313-4245	10.1071/bru9810067							
+898922-1	Thysanotus lavanduliflorus	Brittan	Brunonia	4(1): 125 (1981)	1981	0313-4245	10.1071/bru9810067							
+89923-3	Adenanthos cygnorum subsp. chamaephyton	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+89935-3	Adenanthos cygnorum subsp. cygnorum	Diels	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+899406-1	Camptacra barbata	N.T.Burb.	Brunonia	5(1): 15 (1982)	1982	0313-4245	10.1071/bru9820001							
+899446-1	Ceratopetalum macrophyllum	Hoogland	Brunonia	4(2): 213	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810213							
+89965-3	Adenanthos dobagii	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+90006-3	Adenanthos eyrei	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+900172-1	Lepidium catapycnon	Hewson	Brunonia	4(2): 244	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900173-1	Lepidium echinatum	Hewson	Brunonia	4(2): 252	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900174-1	Lepidium genistoides	Hewson	Brunonia	4(2): 249	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900175-1	Lepidium hypenantion	Hewson	Brunonia	4(2): 297	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900176-1	Lepidium lyratogynum	Hewson	Brunonia	4(2): 258	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900177-1	Lepidium maccowagei	Hewson	Brunonia	5(1): 75 (1982)	1982	0313-4245	10.1071/bru9820073							
+900178-1	Lepidium platypetalum	Hewson	Brunonia	4(2): 247	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900179-1	Lepidium pseudohyssopifolium	Hewson	Brunonia	4(2): 281	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900180-1	Lepidium scandens	Hewson	Brunonia	4(2): 254	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+900181-1	Lepidium xylodes	Hewson	Brunonia	4(2): 252	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+90072-3	Adenanthos glabrescens	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+900723-1	Ptilotus pedleyanus	Benl & H.Eichler	Brunonia	4(2): 199	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810199							
+90084-3	Adenanthos glabrescens subsp. exasperatus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+90091-3	Adenanthos glabrescens subsp. glabrescens	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+901075-1	Symplocos hylandii	Noot.	Brunonia	4(2): 323	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810309							
+90115-3	Adenanthos ileticos	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+901239-1	Vittadinia arida	N.T.Burb.	Brunonia	5(1): 24 (1982)	1982	0313-4245	10.1071/bru9820001							
+901240-1	Vittadinia bicolor	N.T.Burb.	Brunonia	5(1): 25 (1982)	1982	0313-4245	10.1071/bru9820001							
+901241-1	Vittadinia cervicularis	N.T.Burb.	Brunonia	5(1): 37 (1982)	1982	0313-4245	10.1071/bru9820001							
+901242-1	Vittadinia condyloides	N.T.Burb.	Brunonia	5(1): 47 (1982)	1982	0313-4245	10.1071/bru9820001							
+901243-1	Vittadinia constricta	N.T.Burb.	Brunonia	5(1): 33 (1982)	1982	0313-4245	10.1071/bru9820001							
+901244-1	Vittadinia decora	N.T.Burb.	Brunonia	5(1): 48 (1982)	1982	0313-4245	10.1071/bru9820001							
+901245-1	Vittadinia diffusa	N.T.Burb.	Brunonia	5(1): 20 (1982)	1982	0313-4245	10.1071/bru9820001							
+901246-1	Vittadinia eremaea	N.T.Burb.	Brunonia	5(1): 33 (1982)	1982	0313-4245	10.1071/bru9820001							
+901247-1	Vittadinia humerata	N.T.Burb.	Brunonia	5(1): 35 (1982)	1982	0313-4245	10.1071/bru9820001							
+901248-1	Vittadinia nullarborensis	N.T.Burb.	Brunonia	5(1): 55 (1982)	1982	0313-4245	10.1071/bru9820001							
+901249-1	Vittadinia obovata	N.T.Burb.	Brunonia	5(1): 25 (1982)	1982	0313-4245	10.1071/bru9820001							
+901250-1	Vittadinia pustulata	N.T.Burb.	Brunonia	5(1): 32 (1982)	1982	0313-4245	10.1071/bru9820001							
+901251-1	Vittadinia sericea	N.T.Burb.	Brunonia	5(1): 26 (1982)	1982	0313-4245	10.1071/bru9820001							
+901252-1	Vittadinia simulans	N.T.Burb.	Brunonia	5(1): 59 (1982)	1982	0313-4245	10.1071/bru9820001							
+901253-1	Vittadinia spechtii	N.T.Burb.	Brunonia	5(1): 19 (1982)	1982	0313-4245	10.1071/bru9820001							
+901254-1	Vittadinia sulcata	N.T.Burb.	Brunonia	5(1): 41 (1982)	1982	0313-4245	10.1071/bru9820001							
+901255-1	Vittadinia virgata	N.T.Burb.	Brunonia	5(1): 21 (1982)	1982	0313-4245	10.1071/bru9820001							
+901437-1	Amyema dolichopoda	Barlow	Brunonia	5(2): 209 (1983)	1983	0313-4245	10.1071/bru9820203							
+901438-1	Amyema microphylla	Barlow	Brunonia	5(2): 210 (1983)	1983	0313-4245	10.1071/bru9820203							
+901439-1	Amyema subcapitata	Barlow	Brunonia	5(2): 210 (1983)	1983	0313-4245	10.1071/bru9820203							
+901440-1	Amyema tridactylum	Barlow	Brunonia	5(2): 211 (1983)	1983	0313-4245	10.1071/bru9820203							
+90172-3	Adenanthos labillardierei	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+901884-1	Decaisnina congesta	Barlow	Brunonia	5(2): 204 (1983)	1983	0313-4245	10.1071/bru9820203							
+90203-3	Adenanthos macropodianus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+902160-1	Helicia blakei	Foreman	Brunonia	6(1): 66 (1983)	1983	0313-4245	10.1071/bru9830059							
+902162-1	Helicia grayi	Foreman	Brunonia	6(1): 64 (1983)	1983	0313-4245	10.1071/bru9830059							
+902163-1	Helicia lewisensis	Foreman	Brunonia	6(1): 67 (1983)	1983	0313-4245	10.1071/bru9830059							
+902304-1	Korthalsella emersa	Barlow	Brunonia	6(1): 44 (1983)	1983	0313-4245	10.1071/bru9830025							
+902305-1	Korthalsella grayi	Barlow	Brunonia	6(11): 46 (1983)	1983	0313-4245	10.1071/bru9830025							
+902306-1	Korthalsella leucothrix	Barlow	Brunonia	6(1): 48 (1983)	1983	0313-4245	10.1071/bru9830025							
+90232-3	Adenanthos meisneri var. meisneri	Lehm. ex Meisn.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+902493-1	Lysiana filifolia	Barlow	Brunonia	5(2): 206 (1983)	1983	0313-4245	10.1071/bru9820203							
+902769-1	Pimelea neoanglica	Threlfall	Brunonia	5(2): 159 (1983)	1983	0313-4245	10.1071/bru9820113							
+902770-1	Pimelea venosa	Threlfall	Brunonia	5(2): 196 (1983)	1983	0313-4245	10.1071/bru9820113							
+90300-3	Adenanthos oreophilus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+903433-1	Acronychia littoralis	T.G.Hartley & J.Williams	Brunonia	6(2): 251 (1984)	1984	0313-4245	10.1071/bru9830251							
+90350-3	Adenanthos pungens subsp. effusus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+90365-3	Adenanthos pungens subsp. pungens	Meisn.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+904039-1	Digitaria imbricata	R.D.Webster	Brunonia	6(2): 184 (1984)	1984	0313-4245	10.1071/bru9830131							
+904040-1	Digitaria lanceolata	R.D.Webster	Brunonia	6(2): 187 (1984)	1984	0313-4245	10.1071/bru9830131							
+904041-1	Digitaria minima	R.D.Webster	Brunonia	6(2): 192 (1984)	1984	0313-4245	10.1071/bru9830131							
+904042-1	Digitaria oraria	R.D.Webster	Brunonia	6(2): 195 (1984)	1984	0313-4245	10.1071/bru9830131							
+904059-1	Dodonaea falcata	J.G.West	Brunonia	7(1): 69 (1984)	1984	0313-4245	10.1071/bru9840001							
+904060-1	Dodonaea glandulosa	J.G.West	Brunonia	7(1): 142 (1984)	1984	0313-4245	10.1071/bru9840001							
+904061-1	Dodonaea intricata	J.G.West	Brunonia	7(1): 72 (1984)	1984	0313-4245	10.1071/bru9840001							
+904062-1	Dodonaea rigida	J.G.West	Brunonia	7(1): 111 (1984)	1984	0313-4245	10.1071/bru9840001							
+904063-1	Dodonaea sinuolata	J.G.West	Brunonia	7(1): 75 (1984)	1984	0313-4245	10.1071/bru9840001							
+904064-1	Dodonaea subglandulifera	J.G.West	Brunonia	7(1): 105 (1984)	1984	0313-4245	10.1071/bru9840001							
+904065-1	Dodonaea uncinata	J.G.West	Brunonia	7(1): 80 (1984)	1984	0313-4245	10.1071/bru9840001							
+904158-1	Eucalyptus wilcoxii	Boland & Kleinig	Brunonia	6(2): 242 (1984)	1984	0313-4245	10.1071/bru9830241							
+904269-1	Glycine argyrea	Tindale	Brunonia	7(1): 210 (1984)	1984	0313-4245	10.1071/bru9840207							
+904270-1	Glycine cyrtoloba	Tindale	Brunonia	7(1): 207 (1984)	1984	0313-4245	10.1071/bru9840207							
+90436-3	Adenanthos sericeus subsp. sericeus	Labill.	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+90450-3	Adenanthos sericeus subsp. sphalmus	E.C.Nelson	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+904898-1	Persoonia moscalii	Orchard	Brunonia	6(2): 238 (1984)	1984	0313-4245	10.1071/bru9830217							
+905819-1	Carpha curvata	W.M.Curtis	Brunonia	7(2): 303 (1985)	1985	0313-4245	10.1071/bru9840297							
+905820-1	Carpha rodwayi	W.M.Curtis	Brunonia	7(2): 302 (1985)	1985	0313-4245	10.1071/bru9840297							
+905833-1	Centrolepis paludicola	W.M.Curtis	Brunonia	7(2): 298 (1985)	1985	0313-4245	10.1071/bru9840297							
+905834-1	Centrolepis pedderensis	W.M.Curtis	Brunonia	7(2): 299 (1985)	1985	0313-4245	10.1071/bru9840297							
+906145-1	Gaimardia amblyphylla	W.M.Curtis	Brunonia	7(2): 299 (1985)	1985	0313-4245	10.1071/bru9840297							
+906422-1	Isolepis limbata	W.M.Curtis	Brunonia	7(2): 300 (1985)	1985	0313-4245	10.1071/bru9840297							
+906557-1	Luzula poimena	W.M.Curtis	Brunonia	7(2): 297 (1985)	1985	0313-4245	10.1071/bru9840297							
+906776-1	Oreobolus oligocephalus	W.M.Curtis	Brunonia	7(2): 301 (1985)	1985	0313-4245	10.1071/bru9840297							
+907290-1	Yakirra nulla	Lazarides & R.D.Webster	Brunonia	7(2): 295 (1985)	1985	0313-4245	10.1071/bru9840289							
+907482-1	Lepidium biplicatum	Hewson	Brunonia	4(2): 258, nom. nov.	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810217							
+907578-1	Pimelea bracteata	Threlfall	Brunonia	5(2): 127 (1983), nom. nov.:	1983	0313-4245	10.1071/bru9820113							
+907650-1	Dodonaea heteromorpha	J.G.West	Brunonia	7(1): 101 (1984), nom. nov.:	1984	0313-4245	10.1071/bru9840001							
+908229-1	Wurmbea biglandulosa	(R.Br.) T.D.Macfarl.	Brunonia	3(2): 191 (1980):	1980	0313-4245	10.1071/bru9800145							
+908230-1	Wurmbea densiflora	(Benth.) T.D.Macfarl.	Brunonia	3(2): 198 (1980):	1980	0313-4245	10.1071/bru9800145							
+908231-1	Wurmbea monantha	(Endl.) T.D.Macfarl.	Brunonia	3(2): 167 (1980):	1980	0313-4245	10.1071/bru9800145							
+908232-1	Wurmbea uniflora	(R.Br.) T.D.Macfarl.	Brunonia	3(2): 194 (1980):	1980	0313-4245	10.1071/bru9800145							
+909910-1	Acrophyllum australe	(A.Cunn.) Hoogland	Brunonia	4(2): 216	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810213							
+910182-1	Camptacra brachycomoides	(F.Muell.) N.T.Burb.	Brunonia	5(1): 12 (1982):	1982	0313-4245	10.1071/bru9820001							
+910665-1	Flindersia oppositifolia	(F.Muell.) T.G.Hartley & Jessup	Brunonia	5(1): 109 (1982):	1982	0313-4245	10.1071/bru9820109							
+910821-1	Lepidium laeteviride	(P.Royen) Hewson	Brunonia	5(1): 74 (1982):	1982	0313-4245	10.1071/bru9820073							
+910822-1	Lepidium minutiflorum	(Ridl.) Hewson	Brunonia	5(1): 74 (1982):	1982	0313-4245	10.1071/bru9820073							
+910988-1	Odixia achlaena	(D.I.Morris) Orchard	Brunonia	4(2): 194	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810185							
+910989-1	Odixia angusta	(N.A.Wakef.) Orchard	Brunonia	4(2): 194	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810185							
+911618-1	Vittadinia australasica	(Turcz.) N.T.Burb.	Brunonia	5(1): 42 (1982):	1982	0313-4245	10.1071/bru9820001							
+911619-1	Vittadinia dissecta	(Benth.) N.T.Burb.	Brunonia	5(1): 56 (1982):	1982	0313-4245	10.1071/bru9820001							
+911620-1	Vittadinia gracilis	(Hook.f.) N.T.Burb.	Brunonia	5(1): 54 (1982):	1982	0313-4245	10.1071/bru9820001							
+912768-1	Lysiana maritima	(Barlow) Barlow	Brunonia	5(2): 207 (1983):	1983	0313-4245	10.1071/bru9820203							
+91280-3	Lachnostachys coolgardiensis forma brevispicata	Munir	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+91324-3	Lachnostachys coolgardiensis forma coolgardiensis	S.Moore	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+914402-1	Persoonia muelleri	(P.Parm.) Orchard	Brunonia	6(2): 226 (1984):	1984	0313-4245	10.1071/bru9830217							
+915597-1	Yakirra australiensis	(Domin) Lazarides & R.D.Webster	Brunonia	7(2): 293 (1985):	1985	0313-4245	10.1071/bru9840289							
+915598-1	Yakirra majuscula	(F.Muell. ex Benth.) Lazarides & R.D.Webster	Brunonia	7(2): 295 (1985):	1985	0313-4245	10.1071/bru9840289							
+915599-1	Yakirra muelleri	(Hughes) Lazarides & R.D.Webster	Brunonia	7(2): 294 (1985):	1985	0313-4245	10.1071/bru9840289							
+915600-1	Yakirra pauciflora	(R.Br.) Lazarides & R.D.Webster	Brunonia	7(2): 294 (1985):	1985	0313-4245	10.1071/bru9840289							
+916014-1	Wurmbea dioica subsp. alba	T.D.Macfarl.	Brunonia	3(2): 164 (1980)	1980	0313-4245	10.1071/bru9800145							
+916833-1	Camptacra brachycomoides f. arachnoidea	N.T.Burb.	Brunonia	5(1): 14 (1982)	1982	0313-4245	10.1071/bru9820001							
+916834-1	Camptacra brachycomoides f. lanata	N.T.Burb.	Brunonia	5(1): 14 (1982)	1982	0313-4245	10.1071/bru9820001							
+917220-1	Ptilotus pedleyanus var. comosus	Benl & H.Eichler	Brunonia	4(2): 205	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810199							
+917423-1	Symplocos cochinchinensis var. glaberrima	Noot.	Brunonia	4(2): 319	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810309							
+917424-1	Symplocos cochinchinensis var. pilosiuscula	Noot.	Brunonia	4(2): 320	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810309							
+917483-1	Vittadinia australasica var. oricola	N.T.Burb.	Brunonia	5(1): 44 (1982)	1982	0313-4245	10.1071/bru9820001							
+917484-1	Vittadinia australasica var. subglabra	N.T.Burb.	Brunonia	5(1): 44 (1982)	1982	0313-4245	10.1071/bru9820001							
+917485-1	Vittadinia cervicularis var. occidentalis	N.T.Burb.	Brunonia	5(1): 39 (1982)	1982	0313-4245	10.1071/bru9820001							
+917486-1	Vittadinia cervicularis var. oldfieldii	N.T.Burb.	Brunonia	5(1): 40 (1982)	1982	0313-4245	10.1071/bru9820001							
+917487-1	Vittadinia cervicularis var. subcervicularis	N.T.Burb.	Brunonia	5(1): 39 (1982)	1982	0313-4245	10.1071/bru9820001							
+917488-1	Vittadinia cuneata var. hirsuta	N.T.Burb.	Brunonia	5(1): 51 (1982)	1982	0313-4245	10.1071/bru9820001							
+917489-1	Vittadinia cuneata f. minor	N.T.Burb.	Brunonia	5(1): 51 (1982)	1982	0313-4245	10.1071/bru9820001							
+917490-1	Vittadinia cuneata var. morrisii	N.T.Burb.	Brunonia	5(1): 52 (1982)	1982	0313-4245	10.1071/bru9820001							
+917491-1	Vittadinia cuneata var. murrayensis	N.T.Burb.	Brunonia	5(1): 53 (1982)	1982	0313-4245	10.1071/bru9820001							
+917492-1	Vittadinia dissecta var. hirta	N.T.Burb.	Brunonia	5(1): 57 (1982)	1982	0313-4245	10.1071/bru9820001							
+917493-1	Vittadinia hispidula var. setosa	N.T.Burb.	Brunonia	5(1): 23 (1982)	1982	0313-4245	10.1071/bru9820001							
+917494-1	Vittadinia spechtii var. kimberleyensis	N.T.Burb.	Brunonia	5(1): 20 (1982)	1982	0313-4245	10.1071/bru9820001							
+917551-1	Amyema bifurcata var. eburna	Barlow	Brunonia	5(2): 208 (1983)	1983	0313-4245	10.1071/bru9820203							
+917552-1	Amyema congener subsp. divergens	Barlow	Brunonia	5(2): 208 (1983)	1983	0313-4245	10.1071/bru9820203							
+917714-1	Decaisnina brittenii subsp. speciosa	Barlow	Brunonia	5(2): 203 (1983)	1983	0313-4245	10.1071/bru9820203							
+917715-1	Decaisnina petiolata subsp. angustata	Barlow	Brunonia	5(2): 205 (1983)	1983	0313-4245	10.1071/bru9820203							
+917831-1	Korthalsella rubra subsp. geijericola	Barlow	Brunonia	6(1): 54 (1983)	1983	0313-4245	10.1071/bru9830025							
+917929-1	Pimelea curviflora var. acuta	Threlfall	Brunonia	5(2): 190 (1983)	1983	0313-4245	10.1071/bru9820113							
+917930-1	Pimelea curviflora var. divergens	Threlfall	Brunonia	5(2): 189 (1983)	1983	0313-4245	10.1071/bru9820113							
+917931-1	Pimelea curviflora var. subglabrata	Threlfall	Brunonia	5(2): 189 (1983)	1983	0313-4245	10.1071/bru9820113							
+917932-1	Pimelea latifolia subsp. elliptifolia	Threlfall	Brunonia	5(2): 195 (1983)	1983	0313-4245	10.1071/bru9820113							
+917933-1	Pimelea ligustrina subsp. ciliata	Threlfall	Brunonia	5(2): 131 (1983)	1983	0313-4245	10.1071/bru9820113							
+917934-1	Pimelea linifolia subsp. caesia	Threlfall	Brunonia	5(2): 142 (1983)	1983	0313-4245	10.1071/bru9820113							
+917935-1	Pimelea octophylla subsp. ciliolaris	Threlfall	Brunonia	5(2): 179 (1983)	1983	0313-4245	10.1071/bru9820113							
+917936-1	Pimelea octophylla subsp. subvillifera	Threlfall	Brunonia	5(2): 179 (1983)	1983	0313-4245	10.1071/bru9820113							
+918378-1	Dodonaea lanceolata var. subsessilifolia	J.G.West	Brunonia	7(1): 50 (1984)	1984	0313-4245	10.1071/bru9840001							
+918379-1	Dodonaea microzyga var. acrolobata	J.G.West	Brunonia	7(1): 88 (1984)	1984	0313-4245	10.1071/bru9840001							
+918380-1	Dodonaea sinuolata subsp. acrodentata	J.G.West	Brunonia	7(1): 77 (1984)	1984	0313-4245	10.1071/bru9840001							
+918381-1	Dodonaea viscosa subsp. mucronata	J.G.West	Brunonia	7(1): 42 (1984)	1984	0313-4245	10.1071/bru9840001							
+918568-1	Persoonia gunnii var. oblanceolata	Orchard	Brunonia	6(2): 236 (1984)	1984	0313-4245	10.1071/bru9830217							
+918569-1	Persoonia juniperina var. mollis	Orchard	Brunonia	6(2): 225 (1984)	1984	0313-4245	10.1071/bru9830217							
+918570-1	Persoonia muelleri var. densifolia	Orchard	Brunonia	6(2): 230 (1984)	1984	0313-4245	10.1071/bru9830217							
+920367-1	Thysanotus patersonii subsp. manglesianus	(Kunth) Brittan	Brunonia	4(1): 139 (1981):	1981	0313-4245	10.1071/bru9810067							
+920368-1	Thysanotus tuberosus subsp. parviflorus	(Benth.) Brittan	Brunonia	4(1): 173 (1981):	1981	0313-4245	10.1071/bru9810067							
+921592-1	Symplocos cochinchinensis var. candelabrum	(Brand) Noot.	Brunonia	4(2): 323	1982 [1981 publ. 1982]	0313-4245	10.1071/bru9810309							
+922048-1	Dendrophthoe acacioides subsp. longifolia	(Specht) Barlow	Brunonia	5(2): 212 (1983):	1983	0313-4245	10.1071/bru9820203							
+922301-1	Korthalsella japonica subsp. brassiana	(Blakely) Barlow	Brunonia	6(1): 47 (1983):	1983	0313-4245	10.1071/bru9830025							
+922512-1	Pimelea axiflora subsp. alpina	(F.Muell. ex Benth.) Threlfall	Brunonia	5(2): 157 (1983):	1983	0313-4245	10.1071/bru9820113							
+922513-1	Pimelea curviflora subsp. gracilis	(R.Br.) Threlfall	Brunonia	5(2): 185 (1983):	1983	0313-4245	10.1071/bru9820113							
+922514-1	Pimelea curviflora subsp. micrantha	(F.Muell. ex Meisn.) Threlfall	Brunonia	5(2): 184 (1983):	1983	0313-4245	10.1071/bru9820113							
+922515-1	Pimelea flava subsp. dichotoma	(Schlecht.) Threlfall	Brunonia	5(2): 169 (1983):	1983	0313-4245	10.1071/bru9820113							
+922516-1	Pimelea latifolia subsp. altior	(F.Muell.) Threlfall	Brunonia	5(2): 193 (1983):	1983	0313-4245	10.1071/bru9820113							
+922517-1	Pimelea latifolia subsp. hirsuta	(Meisn.) Threlfall	Brunonia	5(2): 194 (1983).	1983	0313-4245	10.1071/bru9820113							
+922518-1	Pimelea ligustrina subsp. hypericina	(A.Cunn. ex Hook.) Threlfall	Brunonia	5(2): 130 (1983):	1983	0313-4245	10.1071/bru9820113							
+922519-1	Pimelea linifolia subsp. collina	(R.Br.) Threlfall	Brunonia	5(2): 141 (1983):	1983	0313-4245	10.1071/bru9820113							
+922520-1	Pimelea linifolia subsp. linoides	(A.Cunn.) Threlfall	Brunonia	5(2): 142 (1983):	1983	0313-4245	10.1071/bru9820113							
+922521-1	Pimelea microcephala subsp. glabra	(F.Muell. & Tate ex Black) Threlfall	Brunonia	5(2): 162 (1983):	1983	0313-4245	10.1071/bru9820113							
+922522-1	Pimelea octophylla subsp. petraea	(Meisn.) Threlfall	Brunonia	5(2): 178 (1983):	1983	0313-4245	10.1071/bru9820113							
+922523-1	Pimelea sericostachya subsp. amabilis	(Domin) Threlfall	Brunonia	5(2): 150 (1983):	1983	0313-4245	10.1071/bru9820113							
+922524-1	Pimelea simplex subsp. continua	(J.M.Black) Threlfall	Brunonia	5(2): 152 (1983):	1983	0313-4245	10.1071/bru9820113							
+922869-1	Viscum whitei subsp. flexicaule	(Barlow) Barlow	Brunonia	6(1): 34 (1983):	1983	0313-4245	10.1071/bru9830025							
+923216-1	Dodonaea viscosa subsp. angustifolia	(L.f.) J.G.West	Brunonia	7(1): 39 (1984):	1984	0313-4245	10.1071/bru9840001							
+923217-1	Dodonaea viscosa subsp. angustissima	(DC.) J.G.West	Brunonia	7(1): 40 (1984):	1984	0313-4245	10.1071/bru9840001							
+923218-1	Dodonaea viscosa subsp. burmanniana	(DC.) J.G.West	Brunonia	7(1): 37 (1984):	1984	0313-4245	10.1071/bru9840001							
+923219-1	Dodonaea viscosa subsp. cuneata	(Sm.) J.G.West	Brunonia	7(1): 41 (1984):	1984	0313-4245	10.1071/bru9840001							
+923220-1	Dodonaea viscosa subsp. spatulata	(Sm.) J.G.West	Brunonia	7(1): 43 (1984):	1984	0313-4245	10.1071/bru9840001							
+923652-1	Persoonia muelleri var. angustifolia	(Benth.) Orchard	Brunonia	6(2): 232 (1984):	1984	0313-4245	10.1071/bru9830217							
+925033-1	Cyperochloa	Lazarides & L.Watson	Brunonia	9(2): 216 (1987).	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860215							
+925083-1	Franciscodendron	B.Hyland & Steenis	Brunonia	10(2): 212 (1987).	1987	0313-4245	10.1071/bru9870211							
+925749-1	Lechenaultia sect. Patentes	D.A.Morrison	Brunonia	9(1): 6 (1987).	1987	0313-4245	10.1071/bru9860001							
+92689-1	Agathis atropurpurea	B.Hyland	Brunonia	1(1): 109	1978	0313-4245	10.1071/bru9780103							
+929778-1	Myriophyllum simulans	Orchard	Brunonia	8(2): 203 (1986)	1986	0313-4245	10.1071/bru9850173							
+929779-1	Myriophyllum alpinum	Orchard	Brunonia	8(2): 208 (1986)	1986	0313-4245	10.1071/bru9850173							
+929780-1	Myriophyllum crispatum	Orchard	Brunonia	8(2): 210 (1986)	1986	0313-4245	10.1071/bru9850173							
+929781-1	Myriophyllum papillosum	Orchard	Brunonia	8(2): 214 (1986)	1986	0313-4245	10.1071/bru9850173							
+929782-1	Myriophyllum balladoniense	Orchard	Brunonia	8(2): 221 (1986)	1986	0313-4245	10.1071/bru9850173							
+929783-1	Myriophyllum muricatum	Orchard	Brunonia	8(2): 223 (1986)	1986	0313-4245	10.1071/bru9850173							
+929784-1	Myriophyllum implicatum	Orchard	Brunonia	8(2): 240 (1986)	1986	0313-4245	10.1071/bru9850173							
+929785-1	Myriophyllum striatum	Orchard	Brunonia	8(2): 243 (1986)	1986	0313-4245	10.1071/bru9850173							
+929786-1	Myriophyllum costatum	Orchard	Brunonia	8(2): 245 (1986)	1986	0313-4245	10.1071/bru9850173							
+929787-1	Myriophyllum petraeum	Orchard	Brunonia	8(2): 247 (1986)	1986	0313-4245	10.1071/bru9850173							
+929788-1	Myriophyllum limnophilum	Orchard	Brunonia	8(2): 252 (1986)	1986	0313-4245	10.1071/bru9850173							
+929789-1	Myriophyllum echinatum	Orchard	Brunonia	8(2): 259 (1986)	1986	0313-4245	10.1071/bru9850173							
+929790-1	Myriophyllum lophatum	Orchard	Brunonia	8(2): 277 (1986)	1986	0313-4245	10.1071/bru9850173							
+929791-1	Myriophyllum austropygmaeum	Orchard	Brunonia	8(2): 280 (1986)	1986	0313-4245	10.1071/bru9850173							
+929792-1	Myriophyllum decussatum	Orchard	Brunonia	8(2): 282 (1986)	1986	0313-4245	10.1071/bru9850173							
+929793-1	Ranunculus collicolus	Menadue	Brunonia	8(2): 373 (1986)	1986	0313-4245	10.1071/bru9850373							
+929794-1	Ranunculus prasinus	Y.Menadue	Brunonia	8(2): 375 (1986)	1986	0313-4245	10.1071/bru9850373							
+929795-1	Ranunculus jugosus	Y.Menadue	Brunonia	8(2): 377 (1986)	1986	0313-4245	10.1071/bru9850373							
+931685-1	Lechenaultia papillata	D.A.Morrison	Brunonia	9(1): 12 (1987)	1987	0313-4245	10.1071/bru9860001							
+931686-1	Lechenaultia lutescens	D.A.Morrison & Carolin	Brunonia	9(1): 15 (1987)	1987	0313-4245	10.1071/bru9860001							
+931687-1	Lechenaultia brevifolia	D.A.Morrison	Brunonia	9(1): 18 (1987)	1987	0313-4245	10.1071/bru9860001							
+931688-1	Glycine curvata	Tindale	Brunonia	9(1): 99 (1987)	1987	0313-4245	10.1071/bru9860099							
+931689-1	Eucalyptus deuaensis	Boland & P.M.Gilmour	Brunonia	9(1): 105 (1987)	1987	0313-4245	10.1071/bru9860105							
+931806-1	Coprosma niphophila	Orchard	Brunonia	9(2): 134 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860119							
+931807-1	Melaleuca citrolens	Barlow	Brunonia	9(2): 168 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860163							
+931808-1	Glycine arenaria	Tindale	Brunonia	9(2): 187 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860179							
+931809-1	Cyperochloa hirsuta	Lazarides & L.Watson	Brunonia	9(2): 216 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860215							
+931810-1	Eucalyptus virens	Brooker & A.R.Bean	Brunonia	9(2): 223 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860223							
+933263-1	Calytrix warburtonensis	Craven	Brunonia	10(1): 34 (1987)	1987	0313-4245	10.1071/bru9870001							
+933264-1	Calytrix gypsophila	Craven	Brunonia	10(1): 36 (1987)	1987	0313-4245	10.1071/bru9870001							
+933265-1	Calytrix erosipetala	Craven	Brunonia	10(1): 37 (1987)	1987	0313-4245	10.1071/bru9870001							
+933266-1	Calytrix rupestris	Craven	Brunonia	10(1): 46 (1987)	1987	0313-4245	10.1071/bru9870001							
+933267-1	Calytrix duplistipulata	Craven	Brunonia	10(1): 48 (1987)	1987	0313-4245	10.1071/bru9870001							
+933268-1	Calytrix praecipua	Craven	Brunonia	10(1): 50 (1987)	1987	0313-4245	10.1071/bru9870001							
+933269-1	Calytrix verruculosa	Craven	Brunonia	10(1): 51 (1987)	1987	0313-4245	10.1071/bru9870001							
+933270-1	Calytrix eneabbensis	Craven	Brunonia	10(1): 55 (1987)	1987	0313-4245	10.1071/bru9870001							
+933271-1	Calytrix divergens	Craven	Brunonia	10(1): 61 (1987)	1987	0313-4245	10.1071/bru9870001							
+933272-1	Calytrix platycheiridia	Craven	Brunonia	10(1): 62 (1987)	1987	0313-4245	10.1071/bru9870001							
+933273-1	Calytrix microcoma	Craven	Brunonia	10(1): 70 (1987)	1987	0313-4245	10.1071/bru9870001							
+933274-1	Calytrix carinata	Craven	Brunonia	10(1): 71 (1987)	1987	0313-4245	10.1071/bru9870001							
+933275-1	Calytrix gurulmundensis	Craven	Brunonia	10(1): 79 (1987)	1987	0313-4245	10.1071/bru9870001							
+933276-1	Calytrix islensis	Craven	Brunonia	10(1): 80 (1987)	1987	0313-4245	10.1071/bru9870001							
+933277-1	Calytrix similis	Craven	Brunonia	10(1): 84 (1987)	1987	0313-4245	10.1071/bru9870001							
+933278-1	Calytrix chrysantha	Craven	Brunonia	10(1): 90 (1987)	1987	0313-4245	10.1071/bru9870001							
+933279-1	Calytrix habrantha	Craven	Brunonia	10(1): 96 (1987)	1987	0313-4245	10.1071/bru9870001							
+933280-1	Calytrix truncatifolia	Craven	Brunonia	10(1): 103 (1987)	1987	0313-4245	10.1071/bru9870001							
+933281-1	Calytrix formosa	Craven	Brunonia	10(1): 105 (1987)	1987	0313-4245	10.1071/bru9870001							
+933282-1	Calytrix paucicostata	Craven	Brunonia	10(1): 106 (1987)	1987	0313-4245	10.1071/bru9870001							
+933283-1	Calytrix amethystina	Craven	Brunonia	10(1): 108 (1987)	1987	0313-4245	10.1071/bru9870001							
+933284-1	Calytrix parvivallis	Craven	Brunonia	10(1): 120 (1987)	1987	0313-4245	10.1071/bru9870001							
+933701-1	Homalocalyx chapmanii	Craven	Brunonia	10(2): 147 (1987)	1987	0313-4245	10.1071/bru9870139							
+933702-1	Homalocalyx echinulatus	Craven	Brunonia	10(2): 149 (1987)	1987	0313-4245	10.1071/bru9870139							
+933704-1	Homalocalyx inerrabundus	Craven	Brunonia	10(2): 152 (1987)	1987	0313-4245	10.1071/bru9870139							
+933705-1	Eucalyptus alaticaulis	R.J.Watson & Ladiges	Brunonia	10(2): 175 (1987)	1987	0313-4245	10.1071/bru9870159							
+933706-1	Eucalyptus exilipes	Brooker & A.R.Bean	Brunonia	10(2): 189 (1987)	1987	0313-4245	10.1071/bru9870189							
+933707-1	Eucalyptus xanthoclada	Brooker & A.R.Bean	Brunonia	10(2): 193 (1987)	1987	0313-4245	10.1071/bru9870189							
+933708-1	Eucalyptus lamprophylla	Brooker & A.R.Bean	Brunonia	10(2): 195 (1987)	1987	0313-4245	10.1071/bru9870189							
+933709-1	Eucalyptus fusiformis	Boland & Kleinig	Brunonia	10(2): 202 (1987)	1987	0313-4245	10.1071/bru9870201							
+933710-1	Dodonaea biloba	J.G.West	Brunonia	10(2): 219 (1987)	1987	0313-4245	10.1071/bru9870219							
+93881-3	Agathis atropurpurea	B.Hyland	Brunonia		1978 (27 Oct. 1978)	0313-4245								
+940959-1	Calytrix sylvana	Craven	Brunonia	10(1): 117 (1987), nom. nov.	1987	0313-4245	10.1071/bru9870001							
+940960-1	Calytrix nematoclada	Craven	Brunonia	10(1): 121 (1987), nom. nov.	1987	0313-4245	10.1071/bru9870001							
+943807-1	Regelia punicea	(Byrnes) Barlow	Brunonia	9(1): 95 (1987):	1987	0313-4245	10.1071/bru9860089							
+943862-1	Glycine microphylla	(Benth.) Tindale	Brunonia	9(2): 181 (1987):	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860179							
+944707-1	Calytrix glaberrima	(F.Muell.) Craven	Brunonia	10(1): 26 (1987):	1987	0313-4245	10.1071/bru9870001							
+944708-1	Calytrix smeatoniana	(F.Muell.) Craven	Brunonia	10(1): 27 (1987):	1987	0313-4245	10.1071/bru9870001							
+944709-1	Calytrix brownii	(Schauer) Craven	Brunonia	10(1): 42 (1987):	1987	0313-4245	10.1071/bru9870001							
+944710-1	Calytrix purpurea	(F.Muell.) Craven	Brunonia	10(1): 58 (1987):	1987	0313-4245	10.1071/bru9870001							
+944711-1	Calytrix harvestiana	(F.Muell.) Craven	Brunonia	10(1): 59 (1987):	1987	0313-4245	10.1071/bru9870001							
+944712-1	Calytrix drummondii	(Meisn.) Craven	Brunonia	10(1): 93 (1987):	1987	0313-4245	10.1071/bru9870001							
+944713-1	Calytrix merrelliana	(F.Muell. & Tate) Craven	Brunonia	10(1): 118 (1987):	1987	0313-4245	10.1071/bru9870001							
+944714-1	Calytrix violacea	(Lindl.) Craven	Brunonia	10(1): 119 (1987):	1987	0313-4245	10.1071/bru9870001							
+944715-1	Calytrix acutifolia	(Lindl.) Craven	Brunonia	10(1): 122 (1987):	1987	0313-4245	10.1071/bru9870001							
+944829-1	Homalocalyx aureus	(C.A.Gardner) Craven	Brunonia	10(2): 147 (1987):	1987	0313-4245	10.1071/bru9870139							
+944830-1	Homalocalyx coarctatus	(F.Muell.) Craven	Brunonia	10(2): 148 (1987):	1987	0313-4245	10.1071/bru9870139							
+944831-1	Homalocalyx grandiflorus	(C.A.Gardner) Craven	Brunonia	10(2): 151 (1987):	1987	0313-4245	10.1071/bru9870139							
+944832-1	Homalocalyx pulcherrimus	(Ewart & B.Rees) Craven	Brunonia	10(2): 154 (1987):	1987	0313-4245	10.1071/bru9870139							
+944833-1	Homalocalyx staminosus	(F.Muell.) Craven	Brunonia	10(2): 155 (1987):	1987	0313-4245	10.1071/bru9870139							
+944834-1	Homalocalyx thryptomenoides	(F.Muell.) Craven	Brunonia	10(2): 156 (1987):	1987	0313-4245	10.1071/bru9870139							
+944835-1	Franciscodendron laurifolium	(F.Muell.) B.Hyland & Steenis	Brunonia	10(2): 212 (1987):	1987	0313-4245	10.1071/bru9870211							
+949080-1	Myriophyllum gracile var. lineare	Orchard	Brunonia	8(2): 234 (1986)	1986	0313-4245	10.1071/bru9850173							
+949081-1	Myriophyllum gracile var. laeve	Orchard	Brunonia	8(2): 235 (1986)	1986	0313-4245	10.1071/bru9850173							
+949082-1	Myriophyllum callitrichoides subsp. striatum	Orchard	Brunonia	8(2): 252 (1986)	1986	0313-4245	10.1071/bru9850173							
+949708-1	Coprosma perpusilla subsp. subantarctica	Orchard	Brunonia	9(2): 133 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860119							
+949851-1	Melaleuca minutifolia subsp. monantha	Barlow	Brunonia	9(2): 176 (1987)	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860163							
+950057-1	Calytrix simplex subsp. suboppositifolia	Craven	Brunonia	10(1): 100 (1987)	1987	0313-4245	10.1071/bru9870001							
+952451-1	Myriophyllum pedunculatum subsp. longibracteolatum	(Schindl.) Orchard	Brunonia	8(2): 273 (1986):	1986	0313-4245	10.1071/bru9850173							
+953420-1	Melaleuca acacioides subsp. alsophila	(A.Cunn. ex Benth.) Barlow	Brunonia	9(2): 167 (1987):	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860163							
+953421-1	Melaleuca tamariscina subsp. pallescens	(Byrnes) Barlow	Brunonia	9(2): 173 (1987):	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860163							
+953422-1	Melaleuca tamariscina subsp. irbyana	(R.T.Baker) Barlow	Brunonia	9(2): 173 (1987):	1987 [16 Mar 1987]	0313-4245	10.1071/bru9860163							
+953829-1	Calytrix breviseta subsp. stipulosa	(W.Fitzg.) Craven	Brunonia	10(1): 113 (1987):	1987	0313-4245	10.1071/bru9870001							
+953928-1	Banksia oblongifolia var. minor	(Maiden & Camfield) Conran & Clifford	Brunonia	10(2): 186 (1987):	1987	0313-4245	10.1071/bru9870177							
+96078-3	Coprosma niphophila	Orchard	Brunonia		1987	0313-4245								
+96111-3	Coprosma perpusilla subsp. perpusilla	Colenso	Brunonia		1987	0313-4245								
+96112-3	Coprosma perpusilla subsp. subantarctica	Orchard	Brunonia		1987	0313-4245								
+97057-3	Ptilotus pedleyanus	Benl & H.Eichler	Brunonia		1982	0313-4245								
+97089-3	Ptilotus pedleyanus var. comosus	Benl & H.Eichler	Brunonia		1982	0313-4245								
+97125-3	Ptilotus pedleyanus var. pedleyanus	Benl & H.Eichler	Brunonia		1982	0313-4245								
+97367-3	Neolitsea australiensis	Kosterm.	Brunonia		1979	0313-4245								

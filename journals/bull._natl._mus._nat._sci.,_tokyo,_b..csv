@@ -1,140 +1,163 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"77086836-1","Coryphopteris seramensis","M.Kato","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 18 (fig. 1)","2007 [22 Mar 2007]","1881-9060","","","","","110007184957","","http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624",""
-"77086837-1","Plesioneuron murkelense","M.Kato","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 20 (-22; fig. 2)","2007 [22 Mar 2007]","1881-9060","","","","","110007184957","","http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624",""
-"77086838-1","Plesioneuron saxicola","M.Kato","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 23 (fig. 3)","2007 [22 Mar 2007]","1881-9060","","","","","110007184957","","http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624",""
-"77086839-1","Plesioneuron translucens var. seramense","M.Kato","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 23 (25-26; fig. 4)","2007 [22 Mar 2007]","1881-9060","","","","","110007184957","","http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624",""
-"77086840-1","Cirsium subsect. Littoralicola","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 30","2007 [22 Mar 2007]","1881-9060","","","","","","","",""
-"77086841-1","Cirsium togaense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 30 (-33; figs. 1-2, map)","2007 [22 Mar 2007]","1881-9060","","","","","","","",""
-"77086842-1","Cirsium domonii","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 33 (-35; figs. 3-4, map)","2007 [22 Mar 2007]","1881-9060","","","","","","","",""
-"77086843-1","Cirsium katoanum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 35 (37-40; figs. 5-7, map)","2007 [22 Mar 2007]","1881-9060","","","","","","","",""
-"77086844-1","Cirsium takahashii","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(1): 40 (-44; figs. 8-10, map)","2007 [22 Mar 2007]","1881-9060","","","","","","","",""
-"77102768-1","Saxifraga dhwojii","(Harry Sm.) S.Akiyama & H.Ohba","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","33(3-4): 97","2007 [21 Dec 2007]","1881-9060","","","","","","","",""
-"77102769-1","Cirsium ito-kojianum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(1): 32 (-35; figs. 1-2, map)","2008 [21 Mar 2008]","1881-9060","","","","","","","",""
-"77102770-1","Cirsium yoshidae","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(1): 35 (-40; figs. 4-6, map)","2008 [21 Mar 2008]","1881-9060","","","","","","","",""
-"77102771-1","Cymbidium Ã— nomachianum","T.Yukawa & Nob.Tanaka","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(2): 86 (83-87; figs. 1-2)","2008 [23 Jun 2008]","1881-9060","","","","","","","",""
-"77102772-1","Impatiens biluoxueshanensis","S.Akiyama & S.K.Wu","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(3): 95 (-101; figs. 1-3, map)","2008 [22 Sep 2008]","1881-9060","","","","","","","",""
-"77102773-1","Cirsium kirishimense","Kadota & Mas.Saito","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(4): 136 (-140; figs. 1-2, map)","2008 [22 Dec 2008]","1881-9060","","","","","","","",""
-"77102774-1","Cirsium kujuense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(4): 140 (-143; figs. 3-4, map)","2008 [22 Dec 2008]","1881-9060","","","","","","","",""
-"77102775-1","Cirsium unzenense","Kadota & Mas.Saito","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(4): 143 (-146; figs. 5-6, map)","2008 [22 Dec 2008]","1881-9060","","","","","","","",""
-"77102776-1","Cirsium akimotoi","Kadota & Mas.Saito","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","34(4): 146 (-149; figs. 7-8, map)","2008 [22 Dec 2008]","1881-9060","","","","","","","",""
-"77112451-1","Cirsium myokoense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(1): 41 (-44, 47; figs. 1-2, 5)","2009 [22 Mar 2009]","1881-9060","","","","","","","",""
-"77112452-1","Cirsium nagisoense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(1): 44 (-48; figs. 3-5, 6A)","2009 [22 Mar 2009]","1881-9060","","","","","","","",""
-"77112460-1","Cirsium spinuliferum","(Kitam.) Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(1): 47","2009 [22 Mar 2009]","1881-9060","","","","","","","",""
-"77112462-1","Cirsium kisoense","(T.Yamaz. & K.Asano) Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(1): 48","2009 [22 Mar 2009]","1881-9060","","","","","","","",""
-"77112482-1","Impatiens recticalcarata","S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(2): 51 (-55; figs. 1a-c, 2-4)","2009 [22 Jun 2009]","1881-9060","","","","","","","",""
-"77112483-1","Impatiens recticalcarata f. alba","S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(2): 56 (52; figs. 1d-e)","2009 [22 Jun 2009]","1881-9060","","","","","","","",""
-"77112484-1","Neottia furusei","T.Yukawa & Yagame","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(2): 61","2009 [22 Jun 2009]","1881-9060","","","","","","","",""
-"77112485-1","Cirsium shimae","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(3): 106 (-110; figs. 1-4)","2009 [22 Sep 2009]","1881-9060","","","","","","","",""
-"77112486-1","Cirsium akimontanum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(4): 190 (-192, 195; figs. 1-2, 5)","2009 [22 Dec 2009]","1881-9060","","","","","","","",""
-"77112487-1","Cirsium nagatoense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(4): 190 (193-196; figs. 3-5)","2009 [22 Dec 2009]","1881-9060","","","","","","","",""
-"77112488-1","Cirsium yuzawae","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(4): 196 (-199; figs. 6-7)","2009 [22 Dec 2009]","1881-9060","","","","","","","",""
-"77112489-1","Cirsium yamauchii","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(4): 199 (-202; figs. 8-9)","2009 [22 Dec 2009]","1881-9060","","","","","","","",""
-"77112490-1","Iris sanguinea var. tobataensis","S.Akiyama & Iwashina","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","35(4): 207 (-208; figs. 1-2)","2009 [22 Dec 2009]","1881-9060","","","","","","","",""
-"77112491-1","Hymenophyllum applanatum","(A.M.Gray & R.G.Williams) Ebihara & K.Iwats.","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","36(2): 43","2010 [22 May 2010]","1881-9060","","","","","","","",""
-"77112492-1","Prunus topkegolensis","H.Ohba & S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","36(4): 134 (-135; fig. 1)","2010 [22 Nov 2010]","1881-9060","","","","","","","",""
-"77112493-1","Prunus harae","H.Ohba & S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","36(4): 135 (-136; fig. 2)","2010 [22 Nov 2010]","1881-9060","","","","","","","",""
-"77112494-1","Prunus taplejungnica","H.Ohba & S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","36(4): 135 (-138; fig. 3)","2010 [22 Nov 2010]","1881-9060","","","","","","","",""
-"77112495-1","Prunus singalilaensis","H.Ohba & S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","36(4): 138 (-140; fig. 4)","2010 [22 Nov 2010]","1881-9060","","","","","","","",""
-"77112496-1","Ophioglossum indicum","B.L.Yadav & H.K.Goswami","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","36(4): 155 (-159; figs.)","2010 [22 Nov 2010]","1881-9060","","","","","","","",""
-"77126266-1","Phanerophlebiopsis balansae","(Christ) Fraser-Jenk. & Baishya","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(4): 175","2012 [22 Nov 2012]","1881-9060","","","","","","","",""
-"77126311-1","Ophiorrhiza yamashitae","(T.Yamaz.) Kokub., Koh Nakam. & Yokota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","37(1): 19","2011 [22 Feb 2011]","1881-9060","","","","","","","http://www.kahaku.go.jp/research/publication/botany/download/37_1/BNMNS_B370102.pdf",""
-"77126312-1","Cirsium funagataense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","37(1): 31","2011 [22 Feb 2011]","1881-9060","","","","","","","",""
-"77126313-1","Cirsium hasunumae","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","37(1): 34","2011 [22 Feb 2011]","1881-9060","","","","","","","",""
-"77126314-1","Cirsium kasaianum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","37(1): 38","2011 [22 Feb 2011]","1881-9060","","","","","","","",""
-"77126315-1","Cirsium nasuense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","37(1): 41","2011 [22 Feb 2011]","1881-9060","","","","","","","",""
-"77126317-1","Astilbe longipedicellata","(Hatus.) S.Akiyama & Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","37(4): 189","2011 [22 Dec 2011]","1881-9060","","","","","","","",""
-"77126318-1","Cirsium tamastoloniferum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(1): 2","2012 [22 Feb 2012]","1881-9060","","","","","","","",""
-"77126321-1","Acrosorus sclerophyllus","(Alderw.) Parris","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126322-1","Acrosorus subtriangularis","(Alderw.) Parris","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126323-1","Deparia lancea var. rheophila","(M.Kato, Darnaedi & K.Iwats.) M.Kato","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126324-1","Diplopterygium angustilobum","(Holttum) Parris","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126325-1","Diplopterygium clemensiae","(Copel.) Parris","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126326-1","Diplopterygium deflexum","(Holttum) Parris","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126327-1","Goniophlebium someyae","(Yatabe) Ebihara","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126328-1","Odontosoria minutula","(Sa.Kurata) Ebihara","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126329-1","Odontosoria yaeyamensis","(S.J.Lin, M.Kato & K.Iwats.) Ebihara","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126330-1","Phanerophlebiopsis polyodon","(Ching) Fraser-Jenk.","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126331-1","Xiphopterella murudensis","(Copel.) Parris","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 119","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126336-1","Podocarpus macrophyllus f. spontaneus","H.Ohba & S.Akiyama","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(3): 128","2012 [22 Aug 2012]","1881-9060","","","","","","","",""
-"77126537-1","Azolla filiculoides subsp. cristata","(Kaulf.) Fraser-Jenk.","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","38(4): 178","2012 [22 Nov 2012]","1881-9060","","","","","","","",""
-"77137254-1","Cirsium ser. Glandulosa","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","39(3): 117","2013","1881-9060","","","","","","","",""
-"77143887-1","Cirsium subsect. Rubicola","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 74","2014","1881-9060","","","","","","","",""
-"77137257-1","Cirsium austrohidakaense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","39(3): 121","2013","1881-9060","","","","","","","",""
-"77137255-1","Cirsium chikabumiense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","39(3): 117","2013","1881-9060","","","","","","","",""
-"77143893-1","Cirsium hagurosanense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 89","2014","1881-9060","","","","","","","",""
-"77137256-1","Cirsium kenji-horieanum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","39(3): 118","2013","1881-9060","","","","","","","",""
-"77143888-1","Cirsium makinoi","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 74","2014","1881-9060","","","","","","","",""
-"77143890-1","Cirsium makinoi var. abukumense","(Kadota) Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 78","2014","1881-9060","","","","","","","",""
-"77143889-1","Cirsium makinoi var. shiroumense","(Kadota) Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 78","2014","1881-9060","","","","","","","",""
-"77143891-1","Cirsium sendaicum f. albiflorum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 84","2014","1881-9060","","","","","","","",""
-"77137253-1","Cirsium teshioense","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","39(3): 117","2013","1881-9060","","","","","","","",""
-"77137252-1","Cirsium yezoalpinum","H.Koidz. ex Kadota & S.Umezawa","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","39(3): 108","2013","1881-9060","","","","","","","",""
-"77143892-1","Cirsium yuki-uenoanum","Kadota","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(2): 86","2014","1881-9060","","","","","","","",""
-"77147922-1","Osmolindsaea yakushimensis","Ebihara & Nakato","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","41(1): 17","2015","1881-9060","","","","","","","",""
-"77147917-1","Botrychium silvicola","(Sahashi) Ebihara","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","41(1): 15","2015","1881-9060","","","","","","","",""
-"77145768-1","Preptanthe cardioglossa","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145769-1","Preptanthe elmeri","(Ames) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145770-1","Preptanthe hirsuta","(Seidenf.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145771-1","Preptanthe labrosa","(Rchb.f.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145772-1","Preptanthe papuana","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145773-1","Preptanthe punctata","(Kurzweil) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145774-1","Preptanthe rosea","(Lindl.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145775-1","Preptanthe succedanea","(Gagnep.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 146","2014","1881-9060","","","","","","","",""
-"77145776-1","Styloglossum alboluteum","(Ridl.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145777-1","Styloglossum angustifolium","(Blume) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145778-1","Styloglossum aquamarinum","(Schuit. & de Vogel) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145779-1","Styloglossum aurantiacum","(Ridl.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145780-1","Styloglossum aureiflorum","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145781-1","Styloglossum balansae","(Finet) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145782-1","Styloglossum carrii","(Govaerts) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145783-1","Styloglossum caulescens","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145784-1","Styloglossum caulodes","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145785-1","Styloglossum chevalieri","(Gagnep.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145786-1","Styloglossum chrysanthum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 147","2014","1881-9060","","","","","","","",""
-"77145788-1","Styloglossum chrysoleucum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145789-1","Styloglossum clavatum","(Lindl.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145790-1","Styloglossum clavicalcar","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145791-1","Styloglossum cleistogamum","(Holttum) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145792-1","Styloglossum cruciatum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145793-1","Styloglossum densiflorum","(Lindl.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145794-1","Styloglossum duyanum","(Aver.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145795-1","Styloglossum ecallosum","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145796-1","Styloglossum englishii","(Rolfe) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145797-1","Styloglossum epiphyticum","(Carr) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145798-1","Styloglossum habbemense","(Ormerod & P.J.Cribb) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145799-1","Styloglossum halconense","(Ames) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145800-1","Styloglossum hololeucum","(Rchb.f.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145801-1","Styloglossum hyacinthinum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145802-1","Styloglossum inflatum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 148","2014","1881-9060","","","","","","","",""
-"77145803-1","Styloglossum johorense","(Holttum) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145804-1","Styloglossum lancilabre","(Ormerod & P.J.Cribb) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145807-1","Styloglossum leucosceptrum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145809-1","Styloglossum leucosceptrum var. bisubuliferum","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145810-1","Styloglossum longifolium","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145811-1","Styloglossum lyroglossum","(Rchb.f.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145813-1","Styloglossum lyroglossum var. actinomorphum","(Fukuy.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145812-1","Styloglossum lyroglossum var. longibracteatum","(P.O'Byrne) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145814-1","Styloglossum maquilingense","(Ames) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145815-1","Styloglossum microglossum","(Ridl.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145816-1","Styloglossum musa-amanii","(J.J.Wood) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145817-1","Styloglossum neohibernicum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 149","2014","1881-9060","","","","","","","",""
-"77145818-1","Styloglossum nicolae","(P.O'Byrne) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145819-1","Styloglossum oreadum","(Rendle) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145820-1","Styloglossum parvilabre","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145821-1","Styloglossum pulchrum","(Blume) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145822-1","Styloglossum rhodochilum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145823-1","Styloglossum rhodochilum var. reconditiflorum","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145824-1","Styloglossum rigidum","(Carr) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145826-1","Styloglossum ruttenii","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145827-1","Styloglossum saccatum","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145828-1","Styloglossum salaccense","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145829-1","Styloglossum speciosum","(Blume) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 150","2014","1881-9060","","","","","","","",""
-"77145830-1","Styloglossum stella","(P.J.Cribb) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 151","2014","1881-9060","","","","","","","",""
-"77145831-1","Styloglossum stenophyllum","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 151","2014","1881-9060","","","","","","","",""
-"77145846-1","Styloglossum truncicola","(Schltr.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 151","2014","1881-9060","","","","","","","",""
-"77145833-1","Styloglossum tunense","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 151","2014","1881-9060","","","","","","","",""
-"77145834-1","Styloglossum ventilabrum","(Rchb.f.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 151","2014","1881-9060","","","","","","","",""
-"77145845-1","Styloglossum versteegii","(J.J.Sm.) T.Yukawa & P.J.Cribb","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","40(4): 151","2014","1881-9060","","","","","","","",""
-"77147926-1","Pteris pseudosefuricola","Ebihara, Nakato & S.Matsumoto","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","41(1): 18","2015","1881-9060","","","","","","","",""
-"77157777-1","Hedychium villosum var. kachinense","Nob.Tanaka","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","42(2): 61","2016","1881-9060","","","","","","","",""
-"77157778-1","Hedychium natmataungense","Nob.Tanaka","Bull. Natl. Mus. Nat. Sci., Tokyo, B.","42(2): 63","2016","1881-9060","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+77086836-1	Coryphopteris seramensis	M.Kato	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 18 (fig. 1)	2007 [22 Mar 2007]	1881-9060					110007184957		http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624	
+77086837-1	Plesioneuron murkelense	M.Kato	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 20 (-22; fig. 2)	2007 [22 Mar 2007]	1881-9060					110007184957		http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624	
+77086838-1	Plesioneuron saxicola	M.Kato	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 23 (fig. 3)	2007 [22 Mar 2007]	1881-9060					110007184957		http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624	
+77086839-1	Plesioneuron translucens var. seramense	M.Kato	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 23 (25-26; fig. 4)	2007 [22 Mar 2007]	1881-9060					110007184957		http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0009141624	
+77086840-1	Cirsium subsect. Littoralicola	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 30	2007 [22 Mar 2007]	1881-9060								
+77086841-1	Cirsium togaense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 30 (-33; figs. 1-2, map)	2007 [22 Mar 2007]	1881-9060								
+77086842-1	Cirsium domonii	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 33 (-35; figs. 3-4, map)	2007 [22 Mar 2007]	1881-9060								
+77086843-1	Cirsium katoanum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 35 (37-40; figs. 5-7, map)	2007 [22 Mar 2007]	1881-9060								
+77086844-1	Cirsium takahashii	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(1): 40 (-44; figs. 8-10, map)	2007 [22 Mar 2007]	1881-9060								
+77102768-1	Saxifraga dhwojii	(Harry Sm.) S.Akiyama & H.Ohba	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	33(3-4): 97	2007 [21 Dec 2007]	1881-9060								
+77102769-1	Cirsium ito-kojianum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(1): 32 (-35; figs. 1-2, map)	2008 [21 Mar 2008]	1881-9060								
+77102770-1	Cirsium yoshidae	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(1): 35 (-40; figs. 4-6, map)	2008 [21 Mar 2008]	1881-9060								
+77102771-1	Cymbidium × nomachianum	T.Yukawa & Nob.Tanaka	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(2): 86 (83-87; figs. 1-2)	2008 [23 Jun 2008]	1881-9060								
+77102772-1	Impatiens biluoxueshanensis	S.Akiyama & S.K.Wu	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(3): 95 (-101; figs. 1-3, map)	2008 [22 Sep 2008]	1881-9060								
+77102773-1	Cirsium kirishimense	Kadota & Mas.Saito	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(4): 136 (-140; figs. 1-2, map)	2008 [22 Dec 2008]	1881-9060								
+77102774-1	Cirsium kujuense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(4): 140 (-143; figs. 3-4, map)	2008 [22 Dec 2008]	1881-9060								
+77102775-1	Cirsium unzenense	Kadota & Mas.Saito	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(4): 143 (-146; figs. 5-6, map)	2008 [22 Dec 2008]	1881-9060								
+77102776-1	Cirsium akimotoi	Kadota & Mas.Saito	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	34(4): 146 (-149; figs. 7-8, map)	2008 [22 Dec 2008]	1881-9060								
+77112451-1	Cirsium myokoense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(1): 41 (-44, 47; figs. 1-2, 5)	2009 [22 Mar 2009]	1881-9060								
+77112452-1	Cirsium nagisoense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(1): 44 (-48; figs. 3-5, 6A)	2009 [22 Mar 2009]	1881-9060								
+77112460-1	Cirsium spinuliferum	(Kitam.) Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(1): 47	2009 [22 Mar 2009]	1881-9060								
+77112462-1	Cirsium kisoense	(T.Yamaz. & K.Asano) Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(1): 48	2009 [22 Mar 2009]	1881-9060								
+77112482-1	Impatiens recticalcarata	S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(2): 51 (-55; figs. 1a-c, 2-4)	2009 [22 Jun 2009]	1881-9060								
+77112483-1	Impatiens recticalcarata f. alba	S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(2): 56 (52; figs. 1d-e)	2009 [22 Jun 2009]	1881-9060								
+77112484-1	Neottia furusei	T.Yukawa & Yagame	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(2): 61	2009 [22 Jun 2009]	1881-9060								
+77112485-1	Cirsium shimae	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(3): 106 (-110; figs. 1-4)	2009 [22 Sep 2009]	1881-9060								
+77112486-1	Cirsium akimontanum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(4): 190 (-192, 195; figs. 1-2, 5)	2009 [22 Dec 2009]	1881-9060								
+77112487-1	Cirsium nagatoense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(4): 190 (193-196; figs. 3-5)	2009 [22 Dec 2009]	1881-9060								
+77112488-1	Cirsium yuzawae	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(4): 196 (-199; figs. 6-7)	2009 [22 Dec 2009]	1881-9060								
+77112489-1	Cirsium yamauchii	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(4): 199 (-202; figs. 8-9)	2009 [22 Dec 2009]	1881-9060								
+77112490-1	Iris sanguinea var. tobataensis	S.Akiyama & Iwashina	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	35(4): 207 (-208; figs. 1-2)	2009 [22 Dec 2009]	1881-9060								
+77112491-1	Hymenophyllum applanatum	(A.M.Gray & R.G.Williams) Ebihara & K.Iwats.	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	36(2): 43	2010 [22 May 2010]	1881-9060								
+77112492-1	Prunus topkegolensis	H.Ohba & S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	36(4): 134 (-135; fig. 1)	2010 [22 Nov 2010]	1881-9060								
+77112493-1	Prunus harae	H.Ohba & S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	36(4): 135 (-136; fig. 2)	2010 [22 Nov 2010]	1881-9060								
+77112494-1	Prunus taplejungnica	H.Ohba & S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	36(4): 135 (-138; fig. 3)	2010 [22 Nov 2010]	1881-9060								
+77112495-1	Prunus singalilaensis	H.Ohba & S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	36(4): 138 (-140; fig. 4)	2010 [22 Nov 2010]	1881-9060								
+77112496-1	Ophioglossum indicum	B.L.Yadav & H.K.Goswami	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	36(4): 155 (-159; figs.)	2010 [22 Nov 2010]	1881-9060								
+77126266-1	Phanerophlebiopsis balansae	(Christ) Fraser-Jenk. & Baishya	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(4): 175	2012 [22 Nov 2012]	1881-9060								
+77126311-1	Ophiorrhiza yamashitae	(T.Yamaz.) Kokub., Koh Nakam. & Yokota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	37(1): 19	2011 [22 Feb 2011]	1881-9060							http://www.kahaku.go.jp/research/publication/botany/download/37_1/BNMNS_B370102.pdf	
+77126312-1	Cirsium funagataense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	37(1): 31	2011 [22 Feb 2011]	1881-9060								
+77126313-1	Cirsium hasunumae	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	37(1): 34	2011 [22 Feb 2011]	1881-9060								
+77126314-1	Cirsium kasaianum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	37(1): 38	2011 [22 Feb 2011]	1881-9060								
+77126315-1	Cirsium nasuense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	37(1): 41	2011 [22 Feb 2011]	1881-9060								
+77126317-1	Astilbe longipedicellata	(Hatus.) S.Akiyama & Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	37(4): 189	2011 [22 Dec 2011]	1881-9060								
+77126318-1	Cirsium tamastoloniferum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(1): 2	2012 [22 Feb 2012]	1881-9060								
+77126321-1	Acrosorus sclerophyllus	(Alderw.) Parris	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126322-1	Acrosorus subtriangularis	(Alderw.) Parris	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126323-1	Deparia lancea var. rheophila	(M.Kato, Darnaedi & K.Iwats.) M.Kato	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126324-1	Diplopterygium angustilobum	(Holttum) Parris	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126325-1	Diplopterygium clemensiae	(Copel.) Parris	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126326-1	Diplopterygium deflexum	(Holttum) Parris	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126327-1	Goniophlebium someyae	(Yatabe) Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126328-1	Odontosoria minutula	(Sa.Kurata) Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126329-1	Odontosoria yaeyamensis	(S.J.Lin, M.Kato & K.Iwats.) Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126330-1	Phanerophlebiopsis polyodon	(Ching) Fraser-Jenk.	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126331-1	Xiphopterella murudensis	(Copel.) Parris	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 119	2012 [22 Aug 2012]	1881-9060								
+77126336-1	Podocarpus macrophyllus f. spontaneus	H.Ohba & S.Akiyama	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(3): 128	2012 [22 Aug 2012]	1881-9060								
+77126537-1	Azolla filiculoides subsp. cristata	(Kaulf.) Fraser-Jenk.	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	38(4): 178	2012 [22 Nov 2012]	1881-9060								
+77137254-1	Cirsium ser. Glandulosa	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	39(3): 117	2013	1881-9060								
+77143887-1	Cirsium subsect. Rubicola	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 74	2014	1881-9060								
+77137257-1	Cirsium austrohidakaense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	39(3): 121	2013	1881-9060								
+77137255-1	Cirsium chikabumiense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	39(3): 117	2013	1881-9060								
+77143893-1	Cirsium hagurosanense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 89	2014	1881-9060								
+77137256-1	Cirsium kenji-horieanum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	39(3): 118	2013	1881-9060								
+77143888-1	Cirsium makinoi	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 74	2014	1881-9060								
+77143890-1	Cirsium makinoi var. abukumense	(Kadota) Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 78	2014	1881-9060								
+77143889-1	Cirsium makinoi var. shiroumense	(Kadota) Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 78	2014	1881-9060								
+77143891-1	Cirsium sendaicum f. albiflorum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 84	2014	1881-9060								
+77137253-1	Cirsium teshioense	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	39(3): 117	2013	1881-9060								
+77137252-1	Cirsium yezoalpinum	H.Koidz. ex Kadota & S.Umezawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	39(3): 108	2013	1881-9060								
+77143892-1	Cirsium yuki-uenoanum	Kadota	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(2): 86	2014	1881-9060								
+77147922-1	Osmolindsaea yakushimensis	Ebihara & Nakato	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	41(1): 17	2015	1881-9060								
+77147917-1	Botrychium silvicola	(Sahashi) Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	41(1): 15	2015	1881-9060								
+77145768-1	Preptanthe cardioglossa	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145769-1	Preptanthe elmeri	(Ames) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145770-1	Preptanthe hirsuta	(Seidenf.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145771-1	Preptanthe labrosa	(Rchb.f.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145772-1	Preptanthe papuana	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145773-1	Preptanthe punctata	(Kurzweil) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145774-1	Preptanthe rosea	(Lindl.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145775-1	Preptanthe succedanea	(Gagnep.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 146	2014	1881-9060								
+77145776-1	Styloglossum alboluteum	(Ridl.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145777-1	Styloglossum angustifolium	(Blume) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145778-1	Styloglossum aquamarinum	(Schuit. & de Vogel) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145779-1	Styloglossum aurantiacum	(Ridl.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145780-1	Styloglossum aureiflorum	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145781-1	Styloglossum balansae	(Finet) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145782-1	Styloglossum carrii	(Govaerts) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145783-1	Styloglossum caulescens	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145784-1	Styloglossum caulodes	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145785-1	Styloglossum chevalieri	(Gagnep.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145786-1	Styloglossum chrysanthum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 147	2014	1881-9060								
+77145788-1	Styloglossum chrysoleucum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145789-1	Styloglossum clavatum	(Lindl.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145790-1	Styloglossum clavicalcar	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145791-1	Styloglossum cleistogamum	(Holttum) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145792-1	Styloglossum cruciatum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145793-1	Styloglossum densiflorum	(Lindl.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145794-1	Styloglossum duyanum	(Aver.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145795-1	Styloglossum ecallosum	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145796-1	Styloglossum englishii	(Rolfe) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145797-1	Styloglossum epiphyticum	(Carr) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145798-1	Styloglossum habbemense	(Ormerod & P.J.Cribb) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145799-1	Styloglossum halconense	(Ames) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145800-1	Styloglossum hololeucum	(Rchb.f.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145801-1	Styloglossum hyacinthinum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145802-1	Styloglossum inflatum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 148	2014	1881-9060								
+77145803-1	Styloglossum johorense	(Holttum) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145804-1	Styloglossum lancilabre	(Ormerod & P.J.Cribb) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145807-1	Styloglossum leucosceptrum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145809-1	Styloglossum leucosceptrum var. bisubuliferum	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145810-1	Styloglossum longifolium	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145811-1	Styloglossum lyroglossum	(Rchb.f.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145813-1	Styloglossum lyroglossum var. actinomorphum	(Fukuy.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145812-1	Styloglossum lyroglossum var. longibracteatum	(P.O'Byrne) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145814-1	Styloglossum maquilingense	(Ames) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145815-1	Styloglossum microglossum	(Ridl.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145816-1	Styloglossum musa-amanii	(J.J.Wood) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145817-1	Styloglossum neohibernicum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 149	2014	1881-9060								
+77145818-1	Styloglossum nicolae	(P.O'Byrne) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145819-1	Styloglossum oreadum	(Rendle) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145820-1	Styloglossum parvilabre	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145821-1	Styloglossum pulchrum	(Blume) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145822-1	Styloglossum rhodochilum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145823-1	Styloglossum rhodochilum var. reconditiflorum	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145824-1	Styloglossum rigidum	(Carr) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145826-1	Styloglossum ruttenii	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145827-1	Styloglossum saccatum	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145828-1	Styloglossum salaccense	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145829-1	Styloglossum speciosum	(Blume) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 150	2014	1881-9060								
+77145830-1	Styloglossum stella	(P.J.Cribb) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 151	2014	1881-9060								
+77145831-1	Styloglossum stenophyllum	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 151	2014	1881-9060								
+77145846-1	Styloglossum truncicola	(Schltr.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 151	2014	1881-9060								
+77145833-1	Styloglossum tunense	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 151	2014	1881-9060								
+77145834-1	Styloglossum ventilabrum	(Rchb.f.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 151	2014	1881-9060								
+77145845-1	Styloglossum versteegii	(J.J.Sm.) T.Yukawa & P.J.Cribb	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	40(4): 151	2014	1881-9060								
+77147926-1	Pteris pseudosefuricola	Ebihara, Nakato & S.Matsumoto	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	41(1): 18	2015	1881-9060								
+77157777-1	Hedychium villosum var. kachinense	Nob.Tanaka	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(2): 61	2016	1881-9060								
+77157778-1	Hedychium natmataungense	Nob.Tanaka	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(2): 63	2016	1881-9060								
+77163446-1	Cyrtomium falcatum subsp. australe	S.Matsumoto ex S.Matsumoto & Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	43(1): 24	2017	1881-9060								
+77163443-1	Cyrtomium falcatum subsp. littorale	S.Matsumoto ex S.Matsumoto & Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	43(1): 21	2017	1881-9060								
+77163417-1	Odontochilus muricatus	(J.J.Sm.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163418-1	Odontochilus nakaianus	(F.Maek.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163419-1	Odontochilus occultus	(Blume) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163420-1	Odontochilus papuanus	(J.J.Sm.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163421-1	Odontochilus pectiniferus	(Schltr.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163422-1	Odontochilus perpusillus	(Ames) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163423-1	Odontochilus philippinensis	(Ames) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163424-1	Odontochilus puberulus	(Schltr.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163425-1	Odontochilus pubescens	(Blume) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163426-1	Odontochilus quadrilobatus	(Schltr.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163427-1	Odontochilus rajanus	(J.J.Sm.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163428-1	Odontochilus seranicus	(J.J.Sm.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163429-1	Odontochilus sibelae	(Ormerod) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163430-1	Odontochilus spicatus	(Blume) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163431-1	Odontochilus tsukusianus	(Masam.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163432-1	Odontochilus urceolatus	(Tang & K.Y.Lang) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163433-1	Odontochilus whiteheadii	(Rendle) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163435-1	Odontochilus yakushimensis	(Yamam.) T.Yukawa	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 108	2016	1881-9060								
+77163436-1	Yoania pingbianensis	(Z.J.Liu, G.Q.Zhang & M.He Li) T.Yukawa & Freudenst.	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	42(3): 110	2016	1881-9060								
+77163438-1	Athyrium otophorum f. okanum	(Sa.Kurata) Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	43(1): 19	2017	1881-9060								
+77163441-1	Athyrium wardii f. inadae	(Tagawa) Ebihara	Bull. Natl. Mus. Nat. Sci., Tokyo, B.	43(1): 20	2017	1881-9060								

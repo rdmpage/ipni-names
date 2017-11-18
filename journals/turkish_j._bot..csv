@@ -1,152 +1,153 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"1008912-1","Alopecurus myosuroides subsp. tonsus","(C.I.Blanche ex Boiss.) DoÄŸan","Turkish J. Bot.","23(4): 250 (1999):","1999","1300-008X","","","","","","","",""
-"1008913-1","Alopecurus gerardii subsp. cassius","(Boiss.) DoÄŸan","Turkish J. Bot.","23(4): 257 (1999):","1999","1300-008X","","","","","","","",""
-"1008914-1","Alopecurus borealis subsp. glaucus","(Less.) DoÄŸan","Turkish J. Bot.","23(4): 259 (1999):","1999","1300-008X","","","","","","","",""
-"1013699-1","Salvia aytachii","Vural & AdÄ±gÃ¼zel","Turkish J. Bot.","20: 531 (1996)","1996","1300-008X","","","","","","","",""
-"1013700-1","Aristolochia baseri","Malyer & S.Erken","Turkish J. Bot.","21(6): 381 (1997)","1997","1300-008X","","","","","","","",""
-"1013701-1","Sideritis caesarea","H.Duman, AytaÃ§ & BaÈ™er","Turkish J. Bot.","22: 51 (1998)","1998","1300-008X","","","","","","","",""
-"1013702-1","Sideritis vuralii","H.Duman & BaÈ™er","Turkish J. Bot.","22: 53 (1998)","1998","1300-008X","","","","","","","",""
-"1013703-1","Origanum Ã— adanense","BaÈ™er & H.Duman","Turkish J. Bot.","22: 55 (1998)","1998","1300-008X","","","","","","","",""
-"1015555-1","Bromus tomentellus subsp. nivalis","(Bornm.) H.Scholz & Byfield","Turkish J. Bot.","24(4): 263 (2000):","2000","1300-008X","","","","","","","",""
-"1015556-1","Poa asiae-minoris","H.Scholz & Byfield","Turkish J. Bot.","24(4): 265 (2000)","2000","1300-008X","","","","","","","",""
-"1016795-1","Stachys cydni","Kotschy ex Gemici & Leblebici","Turkish J. Bot.","22(5): 359 (1998)","1998","1300-008X","","","","","","","",""
-"1016796-1","Astragalus densifolius subsp. amasiensis","(Freyn & Bornm.) AytaÃ§ & Ekim","Turkish J. Bot.","21(1): 40 (1997), without basionym ref.","1997","1300-008X","","","","","","","",""
-"1016797-1","Aethionema karamanicum","K.ErtuÄŸrul & BeyazoÄŸlu","Turkish J. Bot.","21(2): 99 (1997), as 'karamanicus'","1997","1300-008X","","","","","","","",""
-"1016798-1","Astragalus akmanii","AytaÃ§ & H.Duman","Turkish J. Bot.","19(4): 477 (1995)","1995","1300-008X","","","","","","","",""
-"1016799-1","Silene caryophylloides subsp. binbogaensis","H.Duman & Vural","Turkish J. Bot.","19(4): 478 (1995), as 'binbogaense'","1995","1300-008X","","","","","","","",""
-"1016800-1","Aethionema dumanii","Vural & AdÄ±gÃ¼zel","Turkish J. Bot.","19(4): 481 (1995)","1995","1300-008X","","","","","","","",""
-"1016801-1","Lythrum anatolicum","Leblebici & SeÃ§men","Turkish J. Bot.","19(5): 559 (1995)","1995","1300-008X","","","","","","","",""
-"1016802-1","Bunium elegans var. pachypus","Ã–.Saya","Turkish J. Bot.","16(3): 424 (1992)","1992","1300-008X","","","","","","","",""
-"1016803-1","Bunium elegans var. involucratum","Ã–.Saya","Turkish J. Bot.","16(3): 425 (1992)","1992","1300-008X","","","","","","","",""
-"1016804-1","Bunium elegans var. latilobum","Ã–.Saya","Turkish J. Bot.","16(3): 426 (1992)","1992","1300-008X","","","","","","","",""
-"1016940-1","Ornithogalum demirizianum","Malyer & Koyuncu","Turkish J. Bot.","13(2): 301 (1989)","1989","1300-008X","","","","","","","",""
-"1016941-1","Geranium cinereum subsp. lazicum","(Woronow) GÃ¼ner","Turkish J. Bot.","12(3): 240 (1988):","1988","1300-008X","","","","","","","",""
-"1016942-1","Geranium cinereum var. lazicum","(Woronow) GÃ¼ner","Turkish J. Bot.","12(3): 240 (1988):","1988","1300-008X","","","","","","","",""
-"1016943-1","Isatis cappadocica subsp. gudrunensis","(Boiss.) YÄ±ld.","Turkish J. Bot.","12(3): 352 (1988):","1988","1300-008X","","","","","","","",""
-"1016944-1","Isatis glauca subsp. galatica","YÄ±ld.","Turkish J. Bot.","12(3): 379 (1988)","1988","1300-008X","","","","","","","",""
-"1016945-1","Isatis glauca subsp. sivasica","(P.H.Davis) YÄ±ld.","Turkish J. Bot.","12(3): 379 (1988):","1988","1300-008X","","","","","","","",""
-"1016946-1","Isatis ermenekensis","YÄ±ld.","Turkish J. Bot.","12(3): 381 (1988)","1988","1300-008X","","","","","","","",""
-"1017083-1","Sedum yildizianum","SÃ¼mbÃ¼l","Turkish J. Bot.","14(1): 55 (1990)","1990","1300-008X","","","","","","","",""
-"1017084-1","Stachys anamurensis","SÃ¼mbÃ¼l","Turkish J. Bot.","14(1): 57 (1990)","1990","1300-008X","","","","","","","",""
-"1019242-1","Ribes anatolicum","BehÃ§et","Turkish J. Bot.","25(2): 103 (2001), as 'anatolica'","2001","1300-008X","","","","","","","",""
-"1021579-1","Onobrychis fallax var. longifolia","Aktoklu","Turkish J. Bot.","25(5): 359 (2001)","2001","1300-008X","","","","","","","",""
-"1021580-1","Onobrychis atropatana var. grandiflora","Aktoklu","Turkish J. Bot.","25(5): 360 (2001)","2001","1300-008X","","","","","","","",""
-"60435762-2","Verbascum Ã— obtusifoliiforme","SutorÃ½","Turkish J. Bot.","28(1-2): 261","2004","1300-008X","","","","","","","",""
-"60435764-2","Verbascum Ã— kovadanum","SutorÃ½","Turkish J. Bot.","28(1-2): 261","2004","1300-008X","","","","","","","",""
-"60459055-2","Silene choruhensis","HamzaoÄŸlu","Turkish J. Bot.","36(2): 138","2012 [3 Mar 2012]","1300-008X","10.3906/bot-1012-112","","","","","","",""
-"60462527-2","Rafflesia sharifah-hapsahiae","J.H.Adam, Rahmah, Aizat-Juhari & K.L.Wan","Turkish J. Bot.","37: 2, fig. 2","2013","1300-008X","10.3906/bot-1210-34","","","","","","",""
-"77068521-1","Eryngium subgen. Fruticosa","(H.Wolff) WÃ¶rz","Turkish J. Bot.","28(1-2): 87","2004","1300-008X","","","","","","","",""
-"77080685-1","Juniperus oxycedrus var. spilinana","Yalt., EliÃ§in & TerzioÄŸlu","Turkish J. Bot.","31(1): 38 (37-40; figs. 1-2)","2007","1300-008X","","","","","","","",""
-"77085724-1","Iris nezahatiae","GÃ¼ner & H.Duman","Turkish J. Bot.","31(4): 311 (-315; figs. 1-3)","2007","1300-008X","","","","","","","",""
-"77085728-1","Pseudosempervivum amanum","(Contandr. & QuÃ©zel) Al-Shehbaz, Mutlu & DÃ¶nmez","Turkish J. Bot.","31(4): 329","2007","1300-008X","","","","","","","",""
-"77085729-1","Pseudosempervivum gurulkanii","(YÄ±ld.) Mutlu, Al-Shehbaz & DÃ¶nmez","Turkish J. Bot.","31(4): 329","2007","1300-008X","","","","","","","",""
-"77087354-1","Nasturtiopsis integrifolia","(Boulos) Abdel Khalik & F.T.Bakker","Turkish J. Bot.","31(6): 571","2007","1300-008X","","","","","","","",""
-"77088176-1","Silene duralii","BaÄŸcÄ±","Turkish J. Bot.","32(1): 11 (-15; figs., map)","2008","1300-008X","","","","","","","",""
-"77091469-1","Gagea sivasica","HamzaoÄŸlu","Turkish J. Bot.","32(4): 261 (-264; fig.)","2008","1300-008X","","","","","","","",""
-"77096581-1","Centaurea dursunbeyensis","Uysal & KÃ¶se","Turkish J. Bot.","33(1): 42 (41-46; figs. 1-2, map)","2009","1300-008X","","","","","","","",""
-"77100044-1","Ornithogalum nurdaniae","BaÄŸcÄ± & Savran","Turkish J. Bot.","33(3): 165 (163-167; fig. 1, map)","2009 [Jun 2009]","1300-008X","","","","","","","",""
-"77102295-1","Senecio inops subsp. karamanicus","HamzaoÄŸlu & Budak","Turkish J. Bot.","33(4): 286 (285-289; fig. 1, map)","2009 [14 Sep 2009]","1300-008X","","","","","","","",""
-"77104626-1","Silene bayburtensis","HamzaoÄŸlu & Aksoy","Turkish J. Bot.","34(1): 48 (47-50; figs.)","2010 [20 Jan 2010]","1300-008X","","","","","","","",""
-"77104767-1","Lophanthus turcicus","Dirmenci, YÄ±ldÄ±z & Hedge","Turkish J. Bot.","34(2): 125 (-128; figs. 2-3, map)","2010 [30 Mar 2010]","1300-008X","","","","","","","",""
-"77104768-1","Stachys cretica subsp. kutahyensis","AkÃ§iÃ§ek","Turkish J. Bot.","34(2): 132 (131-136; figs. 2-3, map)","2010 [30 Mar 2010]","1300-008X","","","","","","","",""
-"77106928-1","Onosma beyazoglui","Kandemir & TÃ¼rkmen","Turkish J. Bot.","34(4): 277 (-282; figs. 1-2)","2010 [30 Jul 2010]","1300-008X","","","","","","","",""
-"77108669-1","Echinops dumanii","C.Vural","Turkish J. Bot.","34(6): 514 (513-519; figs.)","2010 [22 Nov 2010]","1300-008X","","","","","","","",""
-"77110744-1","Silene gevasica","HamzaoÄŸlu","Turkish J. Bot.","35(1): 68 (67-70; fig. 1, map)","2011 [13 Jan 2011]","1300-008X","","","","","","","",""
-"77110745-1","Cicer uludereensis","DÃ¶nmez","Turkish J. Bot.","35(1): 72 (71-76; figs. 1-2, map)","2011 [13 Jan 2011]","1300-008X","","","","","","","",""
-"77110746-1","Anthemis pauciloba var. alba","HamzaoÄŸlu & Budak","Turkish J. Bot.","35(1): 86 (85-88; fig.)","2011 [13 Jan 2011]","1300-008X","","","","","","","",""
-"77111605-1","Onosma aksoyii","AytaÃ§ & TÃ¼rkmen","Turkish J. Bot.","35(3): 270 (-273; fig. 1)","2011 [13 Apr 2011]","1300-008X","","","","","","","",""
-"77111606-1","Verbascum ergin-hamzaoglui","Karavel.","Turkish J. Bot.","35(3): 277 (-278; fig. 1, map)","2011 [13 Apr 2011]","1300-008X","","","","","","","",""
-"77111607-1","Silene hamzaoglui","Budak","Turkish J. Bot.","35(3): 286 (-288; fig. 1, map)","2011 [13 Apr 2011]","1300-008X","","","","","","","",""
-"77112985-1","Cota hamzaoglui","Ã–zbek & Vural","Turkish J. Bot.","35(4): 332 (331-336; figs. 1-3, map)","2011 [16 Jun 2011]","1300-008X","","","","","","","",""
-"77112986-1","Minuartia turcica","KoÃ§","Turkish J. Bot.","35(4): 338 (337-341; figs. 1-2, map)","2011 [16 Jun 2011]","1300-008X","","","","","","","",""
-"77112987-1","Salvia brachyantha subsp. tankutiana","Bagh., Celep, Kahraman & DoÄŸan","Turkish J. Bot.","35(4): 345 (343-350; figs. 3-5)","2011 [16 Jun 2011]","1300-008X","","","","","","","",""
-"77114804-1","Turanecio","HamzaoÄŸlu","Turkish J. Bot.","35(5): 484","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114805-1","Turanecio cariensis","(Boiss.) HamzaoÄŸlu","Turkish J. Bot.","35(5): 486","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114806-1","Turanecio hypochionaeus","(Boiss.) HamzaoÄŸlu","Turkish J. Bot.","35(5): 487","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114807-1","Turanecio lazicus","(Boiss. & Balansa) HamzaoÄŸlu","Turkish J. Bot.","35(5): 490","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114808-1","Turanecio pandurifolius","(K.Koch) HamzaoÄŸlu","Turkish J. Bot.","35(5): 492","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114809-1","Turanecio lorentii","(Hochst.) HamzaoÄŸlu","Turkish J. Bot.","35(5): 493","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114810-1","Turanecio eriospermus","(DC.) HamzaoÄŸlu","Turkish J. Bot.","35(5): 495","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114811-1","Turanecio taraxacifolius","(M.Bieb.) HamzaoÄŸlu","Turkish J. Bot.","35(5): 498 (-499)","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114812-1","Turanecio taraxacifolius var. discoideus","(V.A.Matthews) HamzaoÄŸlu","Turkish J. Bot.","35(5): 500","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114813-1","Turanecio davisii","(V.A.Matthews) HamzaoÄŸlu","Turkish J. Bot.","35(5): 500","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114814-1","Turanecio jurineifolius","(Boiss. & Balansa) HamzaoÄŸlu","Turkish J. Bot.","35(5): 504","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77114849-1","Turanecio bulghardaghensis","HamzaoÄŸlu","Turkish J. Bot.","35(5): 502","2011 [5 Sep 2011]","1300-008X","","","","","","","",""
-"77116193-1","Bromus psammophilus var. robustus","Ã‡akan & H.Scholz","Turkish J. Bot.","35(6): 714 (713-716; fig. 1)","2011 [25 Oct 2011]","1300-008X","10.3906/bot-1009-79","","","","","","",""
-"77118246-1","Eryngium babadaghense","G.E.GenÃ§, AkalÄ±n & WÃ¶rz","Turkish J. Bot.","36(1): 2 (1-8; figs., map)","2012 [15 Jan 2012]","1300-008X","10.3906/bot-1006-6","","","","","","",""
-"77118247-1","Primula Ã— uzungolensis","TerzioÄŸlu & CoÈ™kunÃ§.","Turkish J. Bot.","36(1): 12 (9-19; figs.)","2012 [15 Jan 2012]","1300-008X","10.3906/bot-1011-19","","","","","","",""
-"77118248-1","Ornithogalum malatyanum","Mutlu","Turkish J. Bot.","36(2): 126 (125-132; figs., map)","2012 [3 Mar 2012]","1300-008X","10.3906/bot-1102-18","","","","","","",""
-"77118249-1","Gypsophila turcica","HamzaoÄŸlu","Turkish J. Bot.","36(2): 136 (135-139; fig.)","2012 [3 Mar 2012]","1300-008X","10.3906/bot-1012-112","","","","","","",""
-"77119118-1","Stachys minor","(Boiss.) AkÃ§iÃ§ek & Dirmenci","Turkish J. Bot.","36(3): 225","2012 [20 Mar 2012]","1300-008X","10.3906/bot-1102-19","","","","","","",""
-"77119119-1","Vinca soneri","Koyuncu","Turkish J. Bot.","36(3): 248","2012 [20 Mar 2012]","1300-008X","10.3906/bot-1103-19","","","","","","",""
-"77121210-1","Scorzonera zorkunensis","CoÈ™kunÃ§. & Makbul","Turkish J. Bot.","36(4): 302","2012 [2 Jul 2012]","1300-008X","","","","","","","",""
-"77121221-1","Cephalaria davisiana","GÃ¶ktÃ¼rk & SÃ¼mbÃ¼l","Turkish J. Bot.","36(4): 313","2012 [2 Jul 2012]","1300-008X","10.3906/bot-1101-4","","","","","","",""
-"77121222-1","Cephalaria sumbuliana","GÃ¶ktÃ¼rk","Turkish J. Bot.","36(4): 316","2012 [2 Jul 2012]","1300-008X","10.3906/bot-1101-4","","","","","","",""
-"77121223-1","Verbascum hasbenlii","AytaÃ§ & H.Duman","Turkish J. Bot.","36(4): 323","2012 [2 Jul 2012]","1300-008X","10.3906/bot-1108-9","","","","","","",""
-"77122481-1","Pseudodelphinium","H.Duman, Vural, AytaÃ§ & AdÄ±gÃ¼zel","Turkish J. Bot.","36(5): 428","2012 [5 Sep 2012]","1300-008X","10.3906/bot-1105-16","","","","","","",""
-"77122482-1","Pseudodelphinium turcicum","H.Duman, Vural, AytaÃ§ & AdÄ±gÃ¼zel","Turkish J. Bot.","36(5): 428","2012 [5 Sep 2012]","1300-008X","10.3906/bot-1105-16","","","","","","",""
-"77122483-1","Iberis halophila","Vural & H.Duman","Turkish J. Bot.","36(5): 429","2012 [5 Sep 2012]","1300-008X","10.3906/bot-1105-16","","","","","","",""
-"77122484-1","Frankenia salsuginea","AdÄ±gÃ¼zel & AytaÃ§","Turkish J. Bot.","36(5): 430","2012 [5 Sep 2012]","1300-008X","10.3906/bot-1105-16","","","","","","",""
-"77122485-1","Marrubium sivasense","AytaÃ§, AkgÃ¼l & Ekici","Turkish J. Bot.","36(5): 444","2012 [5 Sep 2012]","1300-008X","10.3906/bot-1101-9","","","","","","",""
-"77122486-1","Allium shirnakiense","BehÃ§et & RÃ¼stem.","Turkish J. Bot.","36(5): 451","2012 [5 Sep 2012]","1300-008X","10.3906/bot-1107-14","","","","","","",""
-"77125618-1","Allium cyrilli subsp. asumaniae","Ã–zhatay & I.GenÃ§","Turkish J. Bot.","37(1): 42","2012 [26 Dec 2012]","1300-008X","10.3906/bot-1110-7","","","","","","",""
-"77125619-1","Allium cyrilli subsp. fritschii","Ã–zhatay & I.GenÃ§","Turkish J. Bot.","37(1): 42","2012 [26 Dec 2012]","1300-008X","10.3906/bot-1110-7","","","","","","",""
-"77125620-1","Asperula anatolica","M.Ã–ztÃ¼rk","Turkish J. Bot.","37(1): 47","2012 [26 Dec 2012]","1300-008X","10.3906/bot-1207-5","","","","","","",""
-"77127926-1","Dianthus vanensis","BehÃ§et & Ä°lÃ§im","Turkish J. Bot.","37(2): 219","2013 [15 Mar 2013]","1300-008X","10.3906/bot-1203-39","","","","","","",""
-"77129450-1","Minuartia hamzaoglui","KoÃ§ & Aksoy","Turkish J. Bot.","37(3): 428","2013 [15 May 2013]","1300-008X","10.3906/bot-1112-30","","","","","","",""
-"77131013-1","Adenocalymma apterospermum","(Sandwith) Udulutsch & Assis","Turkish J. Bot.","37(4): 641","2013 [2 Jul 2013]","1300-008X","10.3906/bot-1207-55","","","","","","",""
-"77131014-1","Bellevalia malatyaensis","Uzunh. & H.Duman","Turkish J. Bot.","37(4): 652","2013 [2 Jul 2013]","1300-008X","10.3906/bot-1209-29","","","","","","",""
-"77131015-1","Magnolia kwangnanensis","S.G.Chen & Q.W.Zeng","Turkish J. Bot.","37(4): 657","2013 [2 Jul 2013]","1300-008X","10.3906/bot-1209-22","","","","","","",""
-"77142471-1","Allium efeae","Ã–zhatay & Ä°.GenÃ§","Turkish J. Bot.","38(5):","2014","1300-008X","","","","","","","",""
-"77134522-1","Seseli corymbosum subsp. phrygium","(Pimenov & Kljuykov) E.DoÄŸan & H.Duman","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77134523-1","Seseli marashicum","E.DoÄŸan & H.Duman","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77134524-1","Seseli serpentinum","B.L.Burtt ex H.Duman & E.DoÄŸan","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77150765-1","Aristolochia altanii","Ä°lÃ§im & BehÃ§et","Turkish J. Bot.","39(5): 836","2015","1300-008X","10.3906/bot-1407-69","","","","","","",""
-"77145299-1","Artemisia bashkalensis","KurÅŸat & Civelek","Turkish J. Bot.","39(1): 89","2015","1300-008X","10.3906/bot-1311-33","","","","","","",""
-"77142467-1","Centaurea joharchii","Ranjbar & Negaresh","Turkish J. Bot.","38(5): 977","2014","1300-008X","","","","","","","",""
-"77142468-1","Centaurea kermanshahensis","(Wagenitz) Ranjbar & Negaresh","Turkish J. Bot.","38(5): 980","2014","1300-008X","","","","","","","",""
-"77134627-1","Cirsium balikesirense","YÄ±ldÄ±z, ArabacÄ± & Dirmenci","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77134628-1","Cirsium nerimaniae","YÄ±ldÄ±z, Dirmenci & ArabacÄ±","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77133990-1","Inula tuzgoluensis","M.Ã–ztÃ¼rk & Ã–.Ã‡etin","Turkish J. Bot.","37(5): 827","2013","1300-008X","","","","","","","",""
-"77137693-1","Onopordum hasankeyfense","PÄ±nar & BehÃ§et","Turkish J. Bot.","38(2): 228","2014","1300-008X","","","","","","","",""
-"77145293-1","Pilosella ilgazensis","Vladimir., CoÈ™kunÃ§. & Kit Tan","Turkish J. Bot.","39(1): 70","2015","1300-008X","10.3906/bot-1401-92","","","","","","",""
-"77145294-1","Pilosella leontocephala","(HalÃ¡csy) Vladimir., CoÈ™kunÃ§. & Kit Tan","Turkish J. Bot.","39(1): 74","2015","1300-008X","10.3906/bot-1401-92","","","","","","",""
-"77145298-1","Scorzonera sect. Anatolia","Makbul & CoÈ™kunÃ§.","Turkish J. Bot.","39(1): 77","2015","1300-008X","10.3906/bot-1401-10","","","","","","",""
-"77145300-1","Tanacetum erzincanense","Korkmaz, Kandemir & Ilhan","Turkish J. Bot.","39(1): 97","2015","1300-008X","10.3906/bot-1311-2","","","","","","",""
-"60469413-2","Paracaryum bingoelianum","BehÃ§et & Ä°lÃ§im","Turkish J. Bot.","39(2): 334, figs. 1-6","2015","1300-008X","10.3906/bot-1309-58","","","","","","",""
-"77134630-1","Erysimum cheiri subsp. inexpectans","VÃ©la, Ouarmim & Dubset","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77149399-1","Sisymbrium malatyanum","Mutlu & KarakuÅŸ","Turkish J. Bot.","39(2): 330","2015","1300-008X","10.3906/bot-1404-28","","","","","","",""
-"77147985-1","Vella pseudocytisus subsp. orcensis","Vivero, SimÃ³n-Porcar, PÃ©rez-Coll. & CatalÃ¡n","Turkish J. Bot.","39(3): 484","2015","1300-008X","10.3906/bot-1406-87","","","","","","",""
-"77134629-1","Campanula aktascii","AytaÃ§ & H.Duman","Turkish J. Bot.","37(6):","2013","1300-008X","","","","","","","",""
-"77135225-1","Campanula alisan-kilincii","YÄ±ldÄ±rÄ±m & Åženol","Turkish J. Bot.","38(1): 23","2013","1300-008X","","","","","","","",""
-"77140446-1","Arenaria microcalyx","KoÃ§ & HamzaoÄŸlu","Turkish J. Bot.","38(4): 653","2014","1300-008X","","","","","","","",""
-"77142466-1","Cephalaria demirizii","GÃ¶ktÃ¼rk & SÃ¼mbÃ¼l","Turkish J. Bot.","38(5): 943","2014","1300-008X","","","","","","","",""
-"77133992-1","Astragalus silifkeensis","DinÃ§, AytaÃ§ & DoÄŸu","Turkish J. Bot.","37(5): 841","2013","1300-008X","","","","","","","",""
-"77133991-1","Astragalus yukselii","Karaman & AytaÃ§","Turkish J. Bot.","37(5): 836","2013","1300-008X","","","","","","","",""
-"77140447-1","Onobrychis alamutensis","Amirahm., Kaz.Osaloo & Charkhch.","Turkish J. Bot.","38(4): 659","2014","1300-008X","","","","","","","",""
-"77142469-1","Prosthechea chixoyensis","E.MÃ³ & Cetzal","Turkish J. Bot.","38(5): 989","2014","1300-008X","","","","","","","",""
-"77147986-1","Prosthechea tinukiana","BogarÃ­n & Karremans","Turkish J. Bot.","39(3): 500","2015","1300-008X","10.3906/bot-1408-38","","","","","","",""
-"77134626-1","Rafflesia sharifah-hapsahiae","J.H.Adam, R.Mohamed, Aizat-Juhari & K.L.Wan","Turkish J. Bot.","37(6):","2013","1300-008X","10.3906/bot-1210-34","","","","","","",""
-"77142470-1","Reseda malatyana","YÄ±ldÄ±rÄ±m & Åženol","Turkish J. Bot.","38(5):","2014","1300-008X","","","","","","","",""
-"77150767-1","Pyrus cordata subsp. boissieriana","(Buhse) UÄŸurlu & DÃ¶nmez","Turkish J. Bot.","39(5): 846","2015","1300-008X","10.3906/bot-1411-34","","","","","","",""
-"77150766-1","Pyrus syriaca var. pseudosyriaca","(Gladkova) UÄŸurlu & DÃ¶nmez","Turkish J. Bot.","39(5): 844","2015","1300-008X","10.3906/bot-1411-34","","","","","","",""
-"77157124-1","Plectranthus hijazensis","Abdel Khalik","Turkish J. Bot.","40(5): 507","2016","1300-008X","10.3906/bot-1601-8","","","","","","",""
-"77157073-1","Prospero cudidaghense","FÄ±rat & YÄ±ldÄ±rÄ±m","Turkish J. Bot.","40(4): 380","2016","1300-008X","10.3906/bot-1508-3","","","","","","",""
-"77157072-1","Muscari elmasii","YÄ±ldÄ±rÄ±m","Turkish J. Bot.","40(4): 380","2016","1300-008X","10.3906/bot-1507-17","","","","","","",""
-"77157074-1","Bellevalia vuralii","B.Åžahin & Aslan","Turkish J. Bot.","40(4): 395","2016","1300-008X","10.3906/bot-1505-6","","","","","","",""
-"77157095-1","Astragalus unalii","Ã‡eÃ§en, AytaÃ§ & H.Misirdali","Turkish J. Bot.","40(1): 81","2016","1300-008X","10.3906/bot-1407-9","","","","","","",""
-"77157094-1","Astragalus topalanense","BehÃ§et & Ä°lÃ§im","Turkish J. Bot.","40(1): 75","2016","1300-008X","10.3906/bot-1409-22","","","","","","",""
-"77157080-1","Astragalus narmanicus","Karaman & AytaÃ§","Turkish J. Bot.","40(4): 415","2016","1300-008X","10.3906/bot-1501-55","","","","","","",""
-"77157096-1","Hesperis tosyaensis","A.Duran","Turkish J. Bot.","40(1): 88","2016","1300-008X","10.3906/bot-1407-71","","","","","","",""
-"77157075-1","Alyssum amasianum","Karabacak & A.Duran","Turkish J. Bot.","40(4): 403","2016","1300-008X","10.3906/bot-1508-2","","","","","","",""
-"77157107-1","Onosma malatyana","Binzet","Turkish J. Bot.","40(2): 195","2016","1300-008X","10.3906/bot-1410-23","","","","","","",""
-"77157071-1","Achillea baltae","H.Duman & AytaÃ§","Turkish J. Bot.","40(4): 376","2016","1300-008X","10.3906/bot-1504-19","","","","","","",""
-"77157070-1","Achillea adeniae","AytaÃ§ & Ekici","Turkish J. Bot.","40(4): 373","2016","1300-008X","10.3906/bot-1504-19","","","","","","",""
-"77157102-1","Neomuretia pisidica","(Kit Tan) Kljuykov, Degtjareva & Zakharova","Turkish J. Bot.","40(2): 191","2016","1300-008X","10.3906/bot-1504-40","","","","","","",""
-"77157101-1","Neomuretia amplifolia","(Boiss. & Hausskn. ex Boiss.) Kljuykov, Degtjareva & Zakharova","Turkish J. Bot.","40(2): 190","2016","1300-008X","10.3906/bot-1504-40","","","","","","",""
-"77157100-1","Neomuretia","Kljuykov, Degtjareva & Zakharova","Turkish J. Bot.","40(2): 190","2016","1300-008X","10.3906/bot-1504-40","","","","","","",""
-"77157099-1","Hellenocarum depressum","(Hartvig & Kit Tan) Kljuykov & Zakharova","Turkish J. Bot.","40(2): 189","2016","1300-008X","10.3906/bot-1504-40","","","","","","",""
-"77157118-1","Dichoropetalum alanyensis","Bilgili, SaÄŸÄ±roÄŸlu & H.Duman","Turkish J. Bot.","40(2): 202","2016","1300-008X","10.3906/bot-1410-45","","","","","","",""
-"77161546-1","Scilla bilgineri","YÄ±ldÄ±rÄ±m","Turkish J. Bot.","41: 89","2017","1300-008X","10.3906/bot-1601-25","","","","","","",""
-"77161548-1","Tetraena hamiensis var. mandavillei","(Hadidi) Alzahrani & Albokhari","Turkish J. Bot.","41: 104","2017","1300-008X","10.3906/bot-1603-11","","","","","","",""
-"77161547-1","Tetraena hamiensis var. qatarensis","(Hadidi) Alzahrani & Albokhari","Turkish J. Bot.","41: 104","2017","1300-008X","10.3906/bot-1603-11","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+1008912-1	Alopecurus myosuroides subsp. tonsus	(C.I.Blanche ex Boiss.) Do?an	Turkish J. Bot.	23(4): 250 (1999):	1999	1300-008X								
+1008913-1	Alopecurus gerardii subsp. cassius	(Boiss.) Do?an	Turkish J. Bot.	23(4): 257 (1999):	1999	1300-008X								
+1008914-1	Alopecurus borealis subsp. glaucus	(Less.) Do?an	Turkish J. Bot.	23(4): 259 (1999):	1999	1300-008X								
+1013699-1	Salvia aytachii	Vural & Ad?güzel	Turkish J. Bot.	20: 531 (1996)	1996	1300-008X								
+1013700-1	Aristolochia baseri	Malyer & S.Erken	Turkish J. Bot.	21(6): 381 (1997)	1997	1300-008X								
+1013701-1	Sideritis caesarea	H.Duman, Aytaç & Ba?er	Turkish J. Bot.	22: 51 (1998)	1998	1300-008X								
+1013702-1	Sideritis vuralii	H.Duman & Ba?er	Turkish J. Bot.	22: 53 (1998)	1998	1300-008X								
+1013703-1	Origanum × adanense	Ba?er & H.Duman	Turkish J. Bot.	22: 55 (1998)	1998	1300-008X								
+1015555-1	Bromus tomentellus subsp. nivalis	(Bornm.) H.Scholz & Byfield	Turkish J. Bot.	24(4): 263 (2000):	2000	1300-008X								
+1015556-1	Poa asiae-minoris	H.Scholz & Byfield	Turkish J. Bot.	24(4): 265 (2000)	2000	1300-008X								
+1016795-1	Stachys cydni	Kotschy ex Gemici & Leblebici	Turkish J. Bot.	22(5): 359 (1998)	1998	1300-008X								
+1016796-1	Astragalus densifolius subsp. amasiensis	(Freyn & Bornm.) Aytaç & Ekim	Turkish J. Bot.	21(1): 40 (1997), without basionym ref.	1997	1300-008X								
+1016797-1	Aethionema karamanicum	K.Ertu?rul & Beyazo?lu	Turkish J. Bot.	21(2): 99 (1997), as 'karamanicus'	1997	1300-008X								
+1016798-1	Astragalus akmanii	Aytaç & H.Duman	Turkish J. Bot.	19(4): 477 (1995)	1995	1300-008X								
+1016799-1	Silene caryophylloides subsp. binbogaensis	H.Duman & Vural	Turkish J. Bot.	19(4): 478 (1995), as 'binbogaense'	1995	1300-008X								
+1016800-1	Aethionema dumanii	Vural & Ad?güzel	Turkish J. Bot.	19(4): 481 (1995)	1995	1300-008X								
+1016801-1	Lythrum anatolicum	Leblebici & Seçmen	Turkish J. Bot.	19(5): 559 (1995)	1995	1300-008X								
+1016802-1	Bunium elegans var. pachypus	Ö.Saya	Turkish J. Bot.	16(3): 424 (1992)	1992	1300-008X								
+1016803-1	Bunium elegans var. involucratum	Ö.Saya	Turkish J. Bot.	16(3): 425 (1992)	1992	1300-008X								
+1016804-1	Bunium elegans var. latilobum	Ö.Saya	Turkish J. Bot.	16(3): 426 (1992)	1992	1300-008X								
+1016940-1	Ornithogalum demirizianum	Malyer & Koyuncu	Turkish J. Bot.	13(2): 301 (1989)	1989	1300-008X								
+1016941-1	Geranium cinereum subsp. lazicum	(Woronow) Güner	Turkish J. Bot.	12(3): 240 (1988):	1988	1300-008X								
+1016942-1	Geranium cinereum var. lazicum	(Woronow) Güner	Turkish J. Bot.	12(3): 240 (1988):	1988	1300-008X								
+1016943-1	Isatis cappadocica subsp. gudrunensis	(Boiss.) Y?ld.	Turkish J. Bot.	12(3): 352 (1988):	1988	1300-008X								
+1016944-1	Isatis glauca subsp. galatica	Y?ld.	Turkish J. Bot.	12(3): 379 (1988)	1988	1300-008X								
+1016945-1	Isatis glauca subsp. sivasica	(P.H.Davis) Y?ld.	Turkish J. Bot.	12(3): 379 (1988):	1988	1300-008X								
+1016946-1	Isatis ermenekensis	Y?ld.	Turkish J. Bot.	12(3): 381 (1988)	1988	1300-008X								
+1017083-1	Sedum yildizianum	Sümbül	Turkish J. Bot.	14(1): 55 (1990)	1990	1300-008X								
+1017084-1	Stachys anamurensis	Sümbül	Turkish J. Bot.	14(1): 57 (1990)	1990	1300-008X								
+1019242-1	Ribes anatolicum	Behçet	Turkish J. Bot.	25(2): 103 (2001), as 'anatolica'	2001	1300-008X								
+1021579-1	Onobrychis fallax var. longifolia	Aktoklu	Turkish J. Bot.	25(5): 359 (2001)	2001	1300-008X								
+1021580-1	Onobrychis atropatana var. grandiflora	Aktoklu	Turkish J. Bot.	25(5): 360 (2001)	2001	1300-008X								
+60435762-2	Verbascum × obtusifoliiforme	Sutorý	Turkish J. Bot.	28(1-2): 261	2004	1300-008X								
+60435764-2	Verbascum × kovadanum	Sutorý	Turkish J. Bot.	28(1-2): 261	2004	1300-008X								
+60459055-2	Silene choruhensis	Hamzao?lu	Turkish J. Bot.	36(2): 138	2012 [3 Mar 2012]	1300-008X	10.3906/bot-1012-112							
+60462527-2	Rafflesia sharifah-hapsahiae	J.H.Adam, Rahmah, Aizat-Juhari & K.L.Wan	Turkish J. Bot.	37: 2, fig. 2	2013	1300-008X	10.3906/bot-1210-34							
+77068521-1	Eryngium subgen. Fruticosa	(H.Wolff) Wörz	Turkish J. Bot.	28(1-2): 87	2004	1300-008X								
+77080685-1	Juniperus oxycedrus var. spilinana	Yalt., Eliçin & Terzio?lu	Turkish J. Bot.	31(1): 38 (37-40; figs. 1-2)	2007	1300-008X								
+77085724-1	Iris nezahatiae	Güner & H.Duman	Turkish J. Bot.	31(4): 311 (-315; figs. 1-3)	2007	1300-008X								
+77085728-1	Pseudosempervivum amanum	(Contandr. & Quézel) Al-Shehbaz, Mutlu & Dönmez	Turkish J. Bot.	31(4): 329	2007	1300-008X								
+77085729-1	Pseudosempervivum gurulkanii	(Y?ld.) Mutlu, Al-Shehbaz & Dönmez	Turkish J. Bot.	31(4): 329	2007	1300-008X								
+77087354-1	Nasturtiopsis integrifolia	(Boulos) Abdel Khalik & F.T.Bakker	Turkish J. Bot.	31(6): 571	2007	1300-008X								
+77088176-1	Silene duralii	Ba?c?	Turkish J. Bot.	32(1): 11 (-15; figs., map)	2008	1300-008X								
+77091469-1	Gagea sivasica	Hamzao?lu	Turkish J. Bot.	32(4): 261 (-264; fig.)	2008	1300-008X								
+77096581-1	Centaurea dursunbeyensis	Uysal & Köse	Turkish J. Bot.	33(1): 42 (41-46; figs. 1-2, map)	2009	1300-008X								
+77100044-1	Ornithogalum nurdaniae	Ba?c? & Savran	Turkish J. Bot.	33(3): 165 (163-167; fig. 1, map)	2009 [Jun 2009]	1300-008X								
+77102295-1	Senecio inops subsp. karamanicus	Hamzao?lu & Budak	Turkish J. Bot.	33(4): 286 (285-289; fig. 1, map)	2009 [14 Sep 2009]	1300-008X								
+77104626-1	Silene bayburtensis	Hamzao?lu & Aksoy	Turkish J. Bot.	34(1): 48 (47-50; figs.)	2010 [20 Jan 2010]	1300-008X								
+77104767-1	Lophanthus turcicus	Dirmenci, Y?ld?z & Hedge	Turkish J. Bot.	34(2): 125 (-128; figs. 2-3, map)	2010 [30 Mar 2010]	1300-008X								
+77104768-1	Stachys cretica subsp. kutahyensis	Akçiçek	Turkish J. Bot.	34(2): 132 (131-136; figs. 2-3, map)	2010 [30 Mar 2010]	1300-008X								
+77106928-1	Onosma beyazoglui	Kandemir & Türkmen	Turkish J. Bot.	34(4): 277 (-282; figs. 1-2)	2010 [30 Jul 2010]	1300-008X								
+77108669-1	Echinops dumanii	C.Vural	Turkish J. Bot.	34(6): 514 (513-519; figs.)	2010 [22 Nov 2010]	1300-008X								
+77110744-1	Silene gevasica	Hamzao?lu	Turkish J. Bot.	35(1): 68 (67-70; fig. 1, map)	2011 [13 Jan 2011]	1300-008X								
+77110745-1	Cicer uludereensis	Dönmez	Turkish J. Bot.	35(1): 72 (71-76; figs. 1-2, map)	2011 [13 Jan 2011]	1300-008X								
+77110746-1	Anthemis pauciloba var. alba	Hamzao?lu & Budak	Turkish J. Bot.	35(1): 86 (85-88; fig.)	2011 [13 Jan 2011]	1300-008X								
+77111605-1	Onosma aksoyii	Aytaç & Türkmen	Turkish J. Bot.	35(3): 270 (-273; fig. 1)	2011 [13 Apr 2011]	1300-008X								
+77111606-1	Verbascum ergin-hamzaoglui	Karavel.	Turkish J. Bot.	35(3): 277 (-278; fig. 1, map)	2011 [13 Apr 2011]	1300-008X								
+77111607-1	Silene hamzaoglui	Budak	Turkish J. Bot.	35(3): 286 (-288; fig. 1, map)	2011 [13 Apr 2011]	1300-008X								
+77112985-1	Cota hamzaoglui	Özbek & Vural	Turkish J. Bot.	35(4): 332 (331-336; figs. 1-3, map)	2011 [16 Jun 2011]	1300-008X								
+77112986-1	Minuartia turcica	Koç	Turkish J. Bot.	35(4): 338 (337-341; figs. 1-2, map)	2011 [16 Jun 2011]	1300-008X								
+77112987-1	Salvia brachyantha subsp. tankutiana	Bagh., Celep, Kahraman & Do?an	Turkish J. Bot.	35(4): 345 (343-350; figs. 3-5)	2011 [16 Jun 2011]	1300-008X								
+77114804-1	Turanecio	Hamzao?lu	Turkish J. Bot.	35(5): 484	2011 [5 Sep 2011]	1300-008X								
+77114805-1	Turanecio cariensis	(Boiss.) Hamzao?lu	Turkish J. Bot.	35(5): 486	2011 [5 Sep 2011]	1300-008X								
+77114806-1	Turanecio hypochionaeus	(Boiss.) Hamzao?lu	Turkish J. Bot.	35(5): 487	2011 [5 Sep 2011]	1300-008X								
+77114807-1	Turanecio lazicus	(Boiss. & Balansa) Hamzao?lu	Turkish J. Bot.	35(5): 490	2011 [5 Sep 2011]	1300-008X								
+77114808-1	Turanecio pandurifolius	(K.Koch) Hamzao?lu	Turkish J. Bot.	35(5): 492	2011 [5 Sep 2011]	1300-008X								
+77114809-1	Turanecio lorentii	(Hochst.) Hamzao?lu	Turkish J. Bot.	35(5): 493	2011 [5 Sep 2011]	1300-008X								
+77114810-1	Turanecio eriospermus	(DC.) Hamzao?lu	Turkish J. Bot.	35(5): 495	2011 [5 Sep 2011]	1300-008X								
+77114811-1	Turanecio taraxacifolius	(M.Bieb.) Hamzao?lu	Turkish J. Bot.	35(5): 498 (-499)	2011 [5 Sep 2011]	1300-008X								
+77114812-1	Turanecio taraxacifolius var. discoideus	(V.A.Matthews) Hamzao?lu	Turkish J. Bot.	35(5): 500	2011 [5 Sep 2011]	1300-008X								
+77114813-1	Turanecio davisii	(V.A.Matthews) Hamzao?lu	Turkish J. Bot.	35(5): 500	2011 [5 Sep 2011]	1300-008X								
+77114814-1	Turanecio jurineifolius	(Boiss. & Balansa) Hamzao?lu	Turkish J. Bot.	35(5): 504	2011 [5 Sep 2011]	1300-008X								
+77114849-1	Turanecio bulghardaghensis	Hamzao?lu	Turkish J. Bot.	35(5): 502	2011 [5 Sep 2011]	1300-008X								
+77116193-1	Bromus psammophilus var. robustus	Çakan & H.Scholz	Turkish J. Bot.	35(6): 714 (713-716; fig. 1)	2011 [25 Oct 2011]	1300-008X	10.3906/bot-1009-79							
+77118246-1	Eryngium babadaghense	G.E.Genç, Akal?n & Wörz	Turkish J. Bot.	36(1): 2 (1-8; figs., map)	2012 [15 Jan 2012]	1300-008X	10.3906/bot-1006-6							
+77118247-1	Primula × uzungolensis	Terzio?lu & Co?kunç.	Turkish J. Bot.	36(1): 12 (9-19; figs.)	2012 [15 Jan 2012]	1300-008X	10.3906/bot-1011-19							
+77118248-1	Ornithogalum malatyanum	Mutlu	Turkish J. Bot.	36(2): 126 (125-132; figs., map)	2012 [3 Mar 2012]	1300-008X	10.3906/bot-1102-18							
+77118249-1	Gypsophila turcica	Hamzao?lu	Turkish J. Bot.	36(2): 136 (135-139; fig.)	2012 [3 Mar 2012]	1300-008X	10.3906/bot-1012-112							
+77119118-1	Stachys minor	(Boiss.) Akçiçek & Dirmenci	Turkish J. Bot.	36(3): 225	2012 [20 Mar 2012]	1300-008X	10.3906/bot-1102-19							
+77119119-1	Vinca soneri	Koyuncu	Turkish J. Bot.	36(3): 248	2012 [20 Mar 2012]	1300-008X	10.3906/bot-1103-19							
+77121210-1	Scorzonera zorkunensis	Co?kunç. & Makbul	Turkish J. Bot.	36(4): 302	2012 [2 Jul 2012]	1300-008X								
+77121221-1	Cephalaria davisiana	Göktürk & Sümbül	Turkish J. Bot.	36(4): 313	2012 [2 Jul 2012]	1300-008X	10.3906/bot-1101-4							
+77121222-1	Cephalaria sumbuliana	Göktürk	Turkish J. Bot.	36(4): 316	2012 [2 Jul 2012]	1300-008X	10.3906/bot-1101-4							
+77121223-1	Verbascum hasbenlii	Aytaç & H.Duman	Turkish J. Bot.	36(4): 323	2012 [2 Jul 2012]	1300-008X	10.3906/bot-1108-9							
+77122481-1	Pseudodelphinium	H.Duman, Vural, Aytaç & Ad?güzel	Turkish J. Bot.	36(5): 428	2012 [5 Sep 2012]	1300-008X	10.3906/bot-1105-16							
+77122482-1	Pseudodelphinium turcicum	H.Duman, Vural, Aytaç & Ad?güzel	Turkish J. Bot.	36(5): 428	2012 [5 Sep 2012]	1300-008X	10.3906/bot-1105-16							
+77122483-1	Iberis halophila	Vural & H.Duman	Turkish J. Bot.	36(5): 429	2012 [5 Sep 2012]	1300-008X	10.3906/bot-1105-16							
+77122484-1	Frankenia salsuginea	Ad?güzel & Aytaç	Turkish J. Bot.	36(5): 430	2012 [5 Sep 2012]	1300-008X	10.3906/bot-1105-16							
+77122485-1	Marrubium sivasense	Aytaç, Akgül & Ekici	Turkish J. Bot.	36(5): 444	2012 [5 Sep 2012]	1300-008X	10.3906/bot-1101-9							
+77122486-1	Allium shirnakiense	Behçet & Rüstem.	Turkish J. Bot.	36(5): 451	2012 [5 Sep 2012]	1300-008X	10.3906/bot-1107-14							
+77125618-1	Allium cyrilli subsp. asumaniae	Özhatay & I.Genç	Turkish J. Bot.	37(1): 42	2012 [26 Dec 2012]	1300-008X	10.3906/bot-1110-7							
+77125619-1	Allium cyrilli subsp. fritschii	Özhatay & I.Genç	Turkish J. Bot.	37(1): 42	2012 [26 Dec 2012]	1300-008X	10.3906/bot-1110-7							
+77125620-1	Asperula anatolica	M.Öztürk	Turkish J. Bot.	37(1): 47	2012 [26 Dec 2012]	1300-008X	10.3906/bot-1207-5							
+77127926-1	Dianthus vanensis	Behçet & ?lçim	Turkish J. Bot.	37(2): 219	2013 [15 Mar 2013]	1300-008X	10.3906/bot-1203-39							
+77129450-1	Minuartia hamzaoglui	Koç & Aksoy	Turkish J. Bot.	37(3): 428	2013 [15 May 2013]	1300-008X	10.3906/bot-1112-30							
+77131013-1	Adenocalymma apterospermum	(Sandwith) Udulutsch & Assis	Turkish J. Bot.	37(4): 641	2013 [2 Jul 2013]	1300-008X	10.3906/bot-1207-55							
+77131014-1	Bellevalia malatyaensis	Uzunh. & H.Duman	Turkish J. Bot.	37(4): 652	2013 [2 Jul 2013]	1300-008X	10.3906/bot-1209-29							
+77131015-1	Magnolia kwangnanensis	S.G.Chen & Q.W.Zeng	Turkish J. Bot.	37(4): 657	2013 [2 Jul 2013]	1300-008X	10.3906/bot-1209-22							
+77142471-1	Allium efeae	Özhatay & ?.Genç	Turkish J. Bot.	38(5):	2014	1300-008X								
+77134522-1	Seseli corymbosum subsp. phrygium	(Pimenov & Kljuykov) E.Do?an & H.Duman	Turkish J. Bot.	37(6):	2013	1300-008X								
+77134523-1	Seseli marashicum	E.Do?an & H.Duman	Turkish J. Bot.	37(6):	2013	1300-008X								
+77134524-1	Seseli serpentinum	B.L.Burtt ex H.Duman & E.Do?an	Turkish J. Bot.	37(6):	2013	1300-008X								
+77150765-1	Aristolochia altanii	?lçim & Behçet	Turkish J. Bot.	39(5): 836	2015	1300-008X	10.3906/bot-1407-69							
+77145299-1	Artemisia bashkalensis	Kur?at & Civelek	Turkish J. Bot.	39(1): 89	2015	1300-008X	10.3906/bot-1311-33							
+77142467-1	Centaurea joharchii	Ranjbar & Negaresh	Turkish J. Bot.	38(5): 977	2014	1300-008X								
+77142468-1	Centaurea kermanshahensis	(Wagenitz) Ranjbar & Negaresh	Turkish J. Bot.	38(5): 980	2014	1300-008X								
+77134627-1	Cirsium balikesirense	Y?ld?z, Arabac? & Dirmenci	Turkish J. Bot.	37(6):	2013	1300-008X								
+77134628-1	Cirsium nerimaniae	Y?ld?z, Dirmenci & Arabac?	Turkish J. Bot.	37(6):	2013	1300-008X								
+77133990-1	Inula tuzgoluensis	M.Öztürk & Ö.Çetin	Turkish J. Bot.	37(5): 827	2013	1300-008X								
+77137693-1	Onopordum hasankeyfense	P?nar & Behçet	Turkish J. Bot.	38(2): 228	2014	1300-008X								
+77145293-1	Pilosella ilgazensis	Vladimir., Co?kunç. & Kit Tan	Turkish J. Bot.	39(1): 70	2015	1300-008X	10.3906/bot-1401-92							
+77145294-1	Pilosella leontocephala	(Halácsy) Vladimir., Co?kunç. & Kit Tan	Turkish J. Bot.	39(1): 74	2015	1300-008X	10.3906/bot-1401-92							
+77145298-1	Scorzonera sect. Anatolia	Makbul & Co?kunç.	Turkish J. Bot.	39(1): 77	2015	1300-008X	10.3906/bot-1401-10							
+77145300-1	Tanacetum erzincanense	Korkmaz, Kandemir & Ilhan	Turkish J. Bot.	39(1): 97	2015	1300-008X	10.3906/bot-1311-2							
+60469413-2	Paracaryum bingoelianum	Behçet & ?lçim	Turkish J. Bot.	39(2): 334, figs. 1-6	2015	1300-008X	10.3906/bot-1309-58							
+77134630-1	Erysimum cheiri subsp. inexpectans	Véla, Ouarmim & Dubset	Turkish J. Bot.	37(6):	2013	1300-008X								
+77149399-1	Sisymbrium malatyanum	Mutlu & Karaku?	Turkish J. Bot.	39(2): 330	2015	1300-008X	10.3906/bot-1404-28							
+77147985-1	Vella pseudocytisus subsp. orcensis	Vivero, Simón-Porcar, Pérez-Coll. & Catalán	Turkish J. Bot.	39(3): 484	2015	1300-008X	10.3906/bot-1406-87							
+77134629-1	Campanula aktascii	Aytaç & H.Duman	Turkish J. Bot.	37(6):	2013	1300-008X								
+77135225-1	Campanula alisan-kilincii	Y?ld?r?m & ?enol	Turkish J. Bot.	38(1): 23	2013	1300-008X								
+77140446-1	Arenaria microcalyx	Koç & Hamzao?lu	Turkish J. Bot.	38(4): 653	2014	1300-008X								
+77142466-1	Cephalaria demirizii	Göktürk & Sümbül	Turkish J. Bot.	38(5): 943	2014	1300-008X								
+77133992-1	Astragalus silifkeensis	Dinç, Aytaç & Do?u	Turkish J. Bot.	37(5): 841	2013	1300-008X								
+77133991-1	Astragalus yukselii	Karaman & Aytaç	Turkish J. Bot.	37(5): 836	2013	1300-008X								
+77140447-1	Onobrychis alamutensis	Amirahm., Kaz.Osaloo & Charkhch.	Turkish J. Bot.	38(4): 659	2014	1300-008X								
+77142469-1	Prosthechea chixoyensis	E.Mó & Cetzal	Turkish J. Bot.	38(5): 989	2014	1300-008X								
+77147986-1	Prosthechea tinukiana	Bogarín & Karremans	Turkish J. Bot.	39(3): 500	2015	1300-008X	10.3906/bot-1408-38							
+77134626-1	Rafflesia sharifah-hapsahiae	J.H.Adam, R.Mohamed, Aizat-Juhari & K.L.Wan	Turkish J. Bot.	37(6):	2013	1300-008X	10.3906/bot-1210-34							
+77142470-1	Reseda malatyana	Y?ld?r?m & ?enol	Turkish J. Bot.	38(5):	2014	1300-008X								
+77150767-1	Pyrus cordata subsp. boissieriana	(Buhse) U?urlu & Dönmez	Turkish J. Bot.	39(5): 846	2015	1300-008X	10.3906/bot-1411-34							
+77150766-1	Pyrus syriaca var. pseudosyriaca	(Gladkova) U?urlu & Dönmez	Turkish J. Bot.	39(5): 844	2015	1300-008X	10.3906/bot-1411-34							
+77157124-1	Plectranthus hijazensis	Abdel Khalik	Turkish J. Bot.	40(5): 507	2016	1300-008X	10.3906/bot-1601-8							
+77157073-1	Prospero cudidaghense	F?rat & Y?ld?r?m	Turkish J. Bot.	40(4): 380	2016	1300-008X	10.3906/bot-1508-3							
+77157072-1	Muscari elmasii	Y?ld?r?m	Turkish J. Bot.	40(4): 380	2016	1300-008X	10.3906/bot-1507-17							
+77157074-1	Bellevalia vuralii	B.?ahin & Aslan	Turkish J. Bot.	40(4): 395	2016	1300-008X	10.3906/bot-1505-6							
+77157095-1	Astragalus unalii	Çeçen, Aytaç & H.Misirdali	Turkish J. Bot.	40(1): 81	2016	1300-008X	10.3906/bot-1407-9							
+77157094-1	Astragalus topalanense	Behçet & ?lçim	Turkish J. Bot.	40(1): 75	2016	1300-008X	10.3906/bot-1409-22							
+77157080-1	Astragalus narmanicus	Karaman & Aytaç	Turkish J. Bot.	40(4): 415	2016	1300-008X	10.3906/bot-1501-55							
+77157096-1	Hesperis tosyaensis	A.Duran	Turkish J. Bot.	40(1): 88	2016	1300-008X	10.3906/bot-1407-71							
+77157075-1	Alyssum amasianum	Karabacak & A.Duran	Turkish J. Bot.	40(4): 403	2016	1300-008X	10.3906/bot-1508-2							
+77157107-1	Onosma malatyana	Binzet	Turkish J. Bot.	40(2): 195	2016	1300-008X	10.3906/bot-1410-23							
+77157071-1	Achillea baltae	H.Duman & Aytaç	Turkish J. Bot.	40(4): 376	2016	1300-008X	10.3906/bot-1504-19							
+77157070-1	Achillea adeniae	Aytaç & Ekici	Turkish J. Bot.	40(4): 373	2016	1300-008X	10.3906/bot-1504-19							
+77157102-1	Neomuretia pisidica	(Kit Tan) Kljuykov, Degtjareva & Zakharova	Turkish J. Bot.	40(2): 191	2016	1300-008X	10.3906/bot-1504-40							
+77157101-1	Neomuretia amplifolia	(Boiss. & Hausskn. ex Boiss.) Kljuykov, Degtjareva & Zakharova	Turkish J. Bot.	40(2): 190	2016	1300-008X	10.3906/bot-1504-40							
+77157100-1	Neomuretia	Kljuykov, Degtjareva & Zakharova	Turkish J. Bot.	40(2): 190	2016	1300-008X	10.3906/bot-1504-40							
+77157099-1	Hellenocarum depressum	(Hartvig & Kit Tan) Kljuykov & Zakharova	Turkish J. Bot.	40(2): 189	2016	1300-008X	10.3906/bot-1504-40							
+77157118-1	Dichoropetalum alanyensis	Bilgili, Sa??ro?lu & H.Duman	Turkish J. Bot.	40(2): 202	2016	1300-008X	10.3906/bot-1410-45							
+77161546-1	Scilla bilgineri	Y?ld?r?m	Turkish J. Bot.	41: 89	2017	1300-008X	10.3906/bot-1601-25							
+77161548-1	Tetraena hamiensis var. mandavillei	(Hadidi) Alzahrani & Albokhari	Turkish J. Bot.	41: 104	2017	1300-008X	10.3906/bot-1603-11							
+77161547-1	Tetraena hamiensis var. qatarensis	(Hadidi) Alzahrani & Albokhari	Turkish J. Bot.	41: 104	2017	1300-008X	10.3906/bot-1603-11							
+60474654-2	Acer orthocampestre	G.W.Grimm & Denk	Turkish J. Bot.	38: 1059, figs. 4-5, 7-8	2014	1300-008X	10.3906/bot-1403-87							

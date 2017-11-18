@@ -19,19 +19,24 @@ $path = 'journals';
 // SHOW FULL TABLES IN ipni WHERE TABLE_TYPE LIKE 'VIEW';
 $views = array(
 'acta amazonica',
+'acta bot. boreal.-occid. sin.',
 'acta bot. brasil.',
 'acta bot. croat.',
 'acta bot. hung.',
+'acta bot. malac.',
 'acta bot. mex.',
 'acta bot. neerl.',
 'acta bot. venez.',
 'acta bot. yunnan.',
+'acta horti berg.',
 'acta phytotax. geobot.',
 'acta phytotax. sin.',
 'aliso',
+'allertonia',
 'amer fern j.',
 'amer. j. bot.',
 'amer. midl. naturalist',
+'anales jard. bot. madrid',
 'ann. bot. (rome)',
 'ann. bot. fenn.',
 'ann. mag. nat. hist.',
@@ -57,6 +62,8 @@ $views = array(
 'biol. diversity conservation',
 'blumea',
 'blumea, suppl.',
+'bol. mus. paraense "emilio goeldi," n.s., bot.',
+'boston j. nat. hist.',
 'bot. bull. acad. sin. (taipei)',
 'bot. gaz.',
 'bot. jahrb. syst.',
@@ -64,6 +71,7 @@ $views = array(
 'bot. mus. leafl.',
 'bot. zhurn. (moscow & leningrad)',
 'bothalia',
+'bouteloua',
 'brit. fern gaz.',
 'brittonia',
 'brunonia',
@@ -83,14 +91,17 @@ $views = array(
 'bull. soc. bot. france, lett. bot.',
 'bull. soc. neuchateloise sci. nat.',
 'bull. torrey bot. club',
+'cact. succ. j. (los angeles)',
 'canad. j. bot.',
 'candollea',
+'carniv. pl. newslett.',
 'collect. bot. barcelona',
 'contr. gray herb.',
 'contr. u.s. natl. herb.',
 'contr. univ. michigan herb.',
 'contributions from the herbarium australiense',
 'contributions_from_the_queensland_herbarium',
+'curtis\'s bot. mag.',
 'darwiniana',
 'edinburgh j. bot.',
 'eur. j. taxon.',
@@ -103,6 +114,7 @@ $views = array(
 'fl. yunnan.',
 'gard. bull. singapore',
 'gayana, bot.',
+'great basin naturalist',
 'guihaia',
 'harvard pap. bot.',
 'int. j. pl. sci.',
@@ -122,30 +134,36 @@ $views = array(
 'j. trop. subtrop. bot.',
 'j. wash. acad. sci.',
 'j. wuhan bot. res.',
+'journ. agric. trop. & bot. appliq.',
 'journ. jap. bot.',
 'kew bull.',
 'kirkia',
 'korean j. pl. taxon.',
 'lankesteriana',
 'leafl. philipp. bot.',
+'met. ecol. sist.',
 'madrono',
 'malayan nat.',
 'meded. bot. mus. herb. rijks univ. utrecht',
 'mem. junta invest. ultramar, 2 ser.',
 'mem. new york bot. gard.',
 'mem. torrey bot. club',
+'mitt. bot. staatssamml. munchen',
 'molec. phylogen. evol.',
 'moscosoa',
 'muelleria',
 'n. amer. fl.',
 'neodiversity',
+'new j. bot.',
 'nordic j. bot.',
 'notizbl. bot. gart. berlin-dahlem',
 'novon',
+'novosti sist. vyssh. rast.',
 'nuytsia',
 'oesterr. bot. wochenbl.',
 'oesterr. bot. z.',
 'opera bot.',
+'organisms diversity evol.',
 'orquideologia',
 'pacific sci.',
 'phil. trans. roy. soc. lond., ser. b',
@@ -173,8 +191,10 @@ $views = array(
 'selbyana',
 'sendtnera',
 'sida',
+'sida, bot. misc.',
 'smithsonian contr. bot.',
 'smithsonian misc. collect.',
+'southw. naturalist',
 'syst. bot.',
 'syst. bot. monogr.',
 'syst. geogr. pl.',
@@ -189,24 +209,27 @@ $views = array(
 'trans. roy. soc. south africa',
 'trans. san diego soc. nat. hist.',
 'trans.bot.soc.edinburgh',
+'turczaninowia',
 'turkish j. bot.',
+'utafiti',
 'webbia',
 'wentia',
 'willdenowia',
 'wrightia'
 );
 
+
 foreach ($views as $view)
 {
+	$keys = array("Id","Full_name_without_family_and_authors","Authors","Publication","Collation",
+	"Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle");
+
 	$filename = str_replace(' ', '_', $view) . '.csv';
 	
-	$tmpfile = '/tmp/' . $filename;
+	//$tmpfile = '/tmp/' . $filename;
 	$outfile = $path . '/' . $filename;
-
-	if (file_exists($tmpfile))
-	{
-		unlink($tmpfile);
-	}
+	
+	file_put_contents($outfile, '');
 	
 	$sql = '
 	SELECT "Id","Full_name_without_family_and_authors","Authors","Publication","Collation",
@@ -228,17 +251,26 @@ foreach ($views as $view)
 	 IFNULL(url,""),
 	 IFNULL(pdf,""),
 	 IFNULL(handle,"")
-	INTO OUTFILE "' . $tmpfile . '"
-FIELDS ESCAPED BY \'"\'
-TERMINATED BY \',\' OPTIONALLY ENCLOSED BY \'"\'
-LINES TERMINATED BY "\n" 
 FROM `' . $view . '`;';
 
 	$result = $db->Execute($sql);
-	if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
+	if ($result == false) die("failed [" . __LINE__ . "]: " . $sql . "\n" . $db->ErrorMsg());
 
+	while (!$result->EOF) 
+	{
+		$values = array();
+		
+		foreach ($keys as $key)
+		{
+			$values[] = $result->fields[$key];
+		}
+		
+		file_put_contents($outfile, join("\t", $values) . "\n", FILE_APPEND);
 
-	rename($tmpfile, $outfile);
+	
+		$result->MoveNext();
+	}
+	
 
 }
 

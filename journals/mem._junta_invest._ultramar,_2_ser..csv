@@ -1,72 +1,72 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"294462-1","Zehneria marlothii","(Cogn.) R.Fern. & A.Fern.","Mem. Junta Invest. Ultramar, 2 Ser.","34: 120 (1962)","","0870-0915","","","","","","","",""
-"294485-1","Zehneria tridactyla","(Hook.f.) R.Fern. & A.Fern.","Mem. Junta Invest. Ultramar, 2 Ser.","34: 118 (1962)","","0870-0915","","","","","","","",""
-"35688-1","Diphasiopsis","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 81 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"472251-1","Adenolobus mossamedensis","Torre, Hillc. & Torre","Mem. Junta Invest. Ultramar, 2 Ser.","38: 61 (1962), descr. ampl. et emend.","","0870-0915","","","","","","","",""
-"481949-1","Bolusia ervoides","(Welw. ex Baker) Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 49 (1960)","","0870-0915","","","","","","","",""
-"487780-1","Crotalaria alemanniana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 34 (1960)","","0870-0915","","","","","","","",""
-"487883-1","Crotalaria bondii","Baker f. ex Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 38 (1960)","","0870-0915","","","","","","","",""
-"487937-1","Crotalaria carrissoana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 44 (1960)","","0870-0915","","","","","","","",""
-"487984-1","Crotalaria corymbosa","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 42 (1960)","","0870-0915","","","","","","","",""
-"488012-1","Crotalaria dalensis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 26 (1960)","","0870-0915","","","","","","","",""
-"488099-1","Crotalaria ericoides","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 43 (1960)","","0870-0915","","","","","","","",""
-"488122-1","Crotalaria fenarolii","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 24 (1960)","","0870-0915","","","","","","","",""
-"488291-1","Crotalaria johannis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 46 (1960)","","0870-0915","","","","","","","",""
-"488351-1","Crotalaria lancifoliolata","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 48 (1960)","","0870-0915","","","","","","","",""
-"488417-1","Crotalaria lotononis","Welw. ex Baker & Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 40 (1960), descr. ampl.","","0870-0915","","","","","","","",""
-"488426-1","Crotalaria lundensis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 29 (1960)","","0870-0915","","","","","","","",""
-"488438-1","Crotalaria luteoviolacea","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 31 (1960)","","0870-0915","","","","","","","",""
-"488490-1","Crotalaria mendesii","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 39 (1960)","","0870-0915","","","","","","","",""
-"488491-1","Crotalaria mendoncae","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 45 (1960)","","0870-0915","","","","","","","",""
-"488533-1","Crotalaria multicaulis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 35 (1960)","","0870-0915","","","","","","","",""
-"488554-1","Crotalaria newtoniana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 30 (1960)","","0870-0915","","","","","","","",""
-"488609-1","Crotalaria paracistoides","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 27 (1960)","","0870-0915","","","","","","","",""
-"488668-1","Crotalaria pittardiana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 41 (1960)","","0870-0915","","","","","","","",""
-"488708-1","Crotalaria pseudodelicata","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 47 (1960)","","0870-0915","","","","","","","",""
-"488715-1","Crotalaria pseudoquangensis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 30 (1960)","","0870-0915","","","","","","","",""
-"488717-1","Crotalaria pseudotenuirama","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 36 (1960)","","0870-0915","","","","","","","",""
-"488718-1","Crotalaria pseudovirgultalis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 25 (1960)","","0870-0915","","","","","","","",""
-"488724-1","Crotalaria pterospartioides","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 24 (1960)","","0870-0915","","","","","","","",""
-"488786-1","Crotalaria robinsoniana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 23 (1960)","","0870-0915","","","","","","","",""
-"488886-1","Crotalaria spathulato-foliolata","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 33 (1960)","","0870-0915","","","","","","","",""
-"488935-1","Crotalaria subumbellata","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 32 (1960)","","0870-0915","","","","","","","",""
-"488947-1","Crotalaria teixeirae","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 37 (1960)","","0870-0915","","","","","","","",""
-"488963-1","Crotalaria tetraptera","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 39 (1960)","","0870-0915","","","","","","","",""
-"489081-1","Crotalaria xassenguensis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 28 (1960)","","0870-0915","","","","","","","",""
-"489237-1","Cyamopsis dentata","(N.E.Br.) Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 49 (1960)","","0870-0915","","","","","","","",""
-"490314-1","Dalbergia malangensis","E.P.Sousa","Mem. Junta Invest. Ultramar, 2 Ser.","38: 55 (1962)","","0870-0915","","","","","","","",""
-"499078-1","Indigofera breviracemosa","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 51 (1960)","","0870-0915","","","","","","","",""
-"499180-1","Indigofera corallinosperma","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 56 (1960)","","0870-0915","","","","","","","",""
-"499202-1","Indigofera cunenensis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 58 (1960)","","0870-0915","","","","","","","",""
-"499239-1","Indigofera desertorum","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 53 (1960)","","0870-0915","","","","","","","",""
-"499327-1","Indigofera exellii","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 50 (1960)","","0870-0915","","","","","","","",""
-"499424-1","Indigofera guerrana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 61 (1960)","","0870-0915","","","","","","","",""
-"499646-1","Indigofera mendesii","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 55 (1960)","","0870-0915","","","","","","","",""
-"499667-1","Indigofera mildrediana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 52 (1960)","","0870-0915","","","","","","","",""
-"499702-1","Indigofera mupensis","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 54 (1960)","","0870-0915","","","","","","","",""
-"499783-1","Indigofera paraglaucifolia","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 56 (1960)","","0870-0915","","","","","","","",""
-"499784-1","Indigofera paraoxalidea","Torre.","Mem. Junta Invest. Ultramar, 2 Ser.","19: 58 (1960)","","0870-0915","","","","","","","",""
-"499860-1","Indigofera procumbens","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 50","1960","0870-0915","","","","","","","",""
-"499950-1","Indigofera santosii","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 53 (1960)","","0870-0915","","","","","","","",""
-"500074-1","Indigofera taruffiana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 60 (1960)","","0870-0915","","","","","","","",""
-"500076-1","Indigofera teixeirae","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 59 (1960)","","0870-0915","","","","","","","",""
-"503307-1","Lotononis eriosemoides","(Ficalho & Hiern) Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 23 (1960)","","0870-0915","","","","","","","",""
-"507463-1","Millettia nutans","Welw. ex E.P.Sousa","Mem. Junta Invest. Ultramar, 2 Ser.","19: 18 (1960)","","0870-0915","","","","","","","",""
-"520768-1","Tephrosia newtoniana","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 62 (1960)","","0870-0915","","","","","","","",""
-"521012-1","Tephrosia youngii","Torre","Mem. Junta Invest. Ultramar, 2 Ser.","19: 63 (1960)","","0870-0915","","","","","","","",""
-"611224-1","Olinia huillensis","Welw. ex A.Fern. & R.Fern.","Mem. Junta Invest. Ultramar, 2 Ser.","38: 15 (1962)","","0870-0915","","","","","","","",""
-"720161-1","Acioa dawei","Mendes","Mem. Junta Invest. Ultramar, 2 Ser.","19: 11 (1960)","","0870-0915","","","","","","","",""
-"726219-1","Magnistipula katangensis","(Hauman) Mendes","Mem. Junta Invest. Ultramar, 2 Ser.","19: 11 (1960), in adnot.","","0870-0915","","","","","","","",""
-"726222-1","Magnistipula youngii","Mendes","Mem. Junta Invest. Ultramar, 2 Ser.","19: 11 (1960)","","0870-0915","","","","","","","",""
-"745747-1","Carinta ioides","(K.Schum.) Garcia","Mem. Junta Invest. Ultramar, 2 Ser.","6: 44 (1959)","","0870-0915","","","","","","","",""
-"748420-1","Diodia natalensis","(Hochst.) Garcia","Mem. Junta Invest. Ultramar, 2 Ser.","6: 47 (1959)","","0870-0915","","","","","","","",""
-"766988-1","Spermacoce subvulgata","(K.Schum.) Garcia","Mem. Junta Invest. Ultramar, 2 Ser.","6: 49 (1959)","","0870-0915","","","","","","","",""
-"77088458-1","Rhus longipes var. schinoides","R.Fern.","Mem. Junta Invest. Ultramar, 2 Ser.","38: 39","1962","0870-0915","","","","","","","",""
-"772632-1","Diphasiopsis whitei","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 81 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"775322-1","Teclea rogersii","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 85 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"775478-1","Vepris carringtoniana","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 83 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"775484-1","Vepris drummondii","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 84 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"775487-1","Vepris fanshawei","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 84 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"775526-1","Vepris termitaria","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 83 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"775530-1","Vepris whitei","MendonÃ§a","Mem. Junta Invest. Ultramar, 2 Ser.","28: 82 (1961)","","0870-0915","","","","","","http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87","http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf",""
-"794932-1","Vahlia verbasciflora","(Oliv) Mendes","Mem. Junta Invest. Ultramar, 2 Ser.","19: 12 (1960)","","0870-0915","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+294462-1	Zehneria marlothii	(Cogn.) R.Fern. & A.Fern.	Mem. Junta Invest. Ultramar, 2 Ser.	34: 120 (1962)		0870-0915								
+294485-1	Zehneria tridactyla	(Hook.f.) R.Fern. & A.Fern.	Mem. Junta Invest. Ultramar, 2 Ser.	34: 118 (1962)		0870-0915								
+35688-1	Diphasiopsis	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 81 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+472251-1	Adenolobus mossamedensis	Torre, Hillc. & Torre	Mem. Junta Invest. Ultramar, 2 Ser.	38: 61 (1962), descr. ampl. et emend.		0870-0915								
+481949-1	Bolusia ervoides	(Welw. ex Baker) Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 49 (1960)		0870-0915								
+487780-1	Crotalaria alemanniana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 34 (1960)		0870-0915								
+487883-1	Crotalaria bondii	Baker f. ex Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 38 (1960)		0870-0915								
+487937-1	Crotalaria carrissoana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 44 (1960)		0870-0915								
+487984-1	Crotalaria corymbosa	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 42 (1960)		0870-0915								
+488012-1	Crotalaria dalensis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 26 (1960)		0870-0915								
+488099-1	Crotalaria ericoides	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 43 (1960)		0870-0915								
+488122-1	Crotalaria fenarolii	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 24 (1960)		0870-0915								
+488291-1	Crotalaria johannis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 46 (1960)		0870-0915								
+488351-1	Crotalaria lancifoliolata	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 48 (1960)		0870-0915								
+488417-1	Crotalaria lotononis	Welw. ex Baker & Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 40 (1960), descr. ampl.		0870-0915								
+488426-1	Crotalaria lundensis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 29 (1960)		0870-0915								
+488438-1	Crotalaria luteoviolacea	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 31 (1960)		0870-0915								
+488490-1	Crotalaria mendesii	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 39 (1960)		0870-0915								
+488491-1	Crotalaria mendoncae	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 45 (1960)		0870-0915								
+488533-1	Crotalaria multicaulis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 35 (1960)		0870-0915								
+488554-1	Crotalaria newtoniana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 30 (1960)		0870-0915								
+488609-1	Crotalaria paracistoides	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 27 (1960)		0870-0915								
+488668-1	Crotalaria pittardiana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 41 (1960)		0870-0915								
+488708-1	Crotalaria pseudodelicata	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 47 (1960)		0870-0915								
+488715-1	Crotalaria pseudoquangensis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 30 (1960)		0870-0915								
+488717-1	Crotalaria pseudotenuirama	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 36 (1960)		0870-0915								
+488718-1	Crotalaria pseudovirgultalis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 25 (1960)		0870-0915								
+488724-1	Crotalaria pterospartioides	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 24 (1960)		0870-0915								
+488786-1	Crotalaria robinsoniana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 23 (1960)		0870-0915								
+488886-1	Crotalaria spathulato-foliolata	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 33 (1960)		0870-0915								
+488935-1	Crotalaria subumbellata	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 32 (1960)		0870-0915								
+488947-1	Crotalaria teixeirae	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 37 (1960)		0870-0915								
+488963-1	Crotalaria tetraptera	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 39 (1960)		0870-0915								
+489081-1	Crotalaria xassenguensis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 28 (1960)		0870-0915								
+489237-1	Cyamopsis dentata	(N.E.Br.) Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 49 (1960)		0870-0915								
+490314-1	Dalbergia malangensis	E.P.Sousa	Mem. Junta Invest. Ultramar, 2 Ser.	38: 55 (1962)		0870-0915								
+499078-1	Indigofera breviracemosa	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 51 (1960)		0870-0915								
+499180-1	Indigofera corallinosperma	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 56 (1960)		0870-0915								
+499202-1	Indigofera cunenensis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 58 (1960)		0870-0915								
+499239-1	Indigofera desertorum	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 53 (1960)		0870-0915								
+499327-1	Indigofera exellii	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 50 (1960)		0870-0915								
+499424-1	Indigofera guerrana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 61 (1960)		0870-0915								
+499646-1	Indigofera mendesii	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 55 (1960)		0870-0915								
+499667-1	Indigofera mildrediana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 52 (1960)		0870-0915								
+499702-1	Indigofera mupensis	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 54 (1960)		0870-0915								
+499783-1	Indigofera paraglaucifolia	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 56 (1960)		0870-0915								
+499784-1	Indigofera paraoxalidea	Torre.	Mem. Junta Invest. Ultramar, 2 Ser.	19: 58 (1960)		0870-0915								
+499860-1	Indigofera procumbens	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 50	1960	0870-0915								
+499950-1	Indigofera santosii	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 53 (1960)		0870-0915								
+500074-1	Indigofera taruffiana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 60 (1960)		0870-0915								
+500076-1	Indigofera teixeirae	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 59 (1960)		0870-0915								
+503307-1	Lotononis eriosemoides	(Ficalho & Hiern) Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 23 (1960)		0870-0915								
+507463-1	Millettia nutans	Welw. ex E.P.Sousa	Mem. Junta Invest. Ultramar, 2 Ser.	19: 18 (1960)		0870-0915								
+520768-1	Tephrosia newtoniana	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 62 (1960)		0870-0915								
+521012-1	Tephrosia youngii	Torre	Mem. Junta Invest. Ultramar, 2 Ser.	19: 63 (1960)		0870-0915								
+611224-1	Olinia huillensis	Welw. ex A.Fern. & R.Fern.	Mem. Junta Invest. Ultramar, 2 Ser.	38: 15 (1962)		0870-0915								
+720161-1	Acioa dawei	Mendes	Mem. Junta Invest. Ultramar, 2 Ser.	19: 11 (1960)		0870-0915								
+726219-1	Magnistipula katangensis	(Hauman) Mendes	Mem. Junta Invest. Ultramar, 2 Ser.	19: 11 (1960), in adnot.		0870-0915								
+726222-1	Magnistipula youngii	Mendes	Mem. Junta Invest. Ultramar, 2 Ser.	19: 11 (1960)		0870-0915								
+745747-1	Carinta ioides	(K.Schum.) Garcia	Mem. Junta Invest. Ultramar, 2 Ser.	6: 44 (1959)		0870-0915								
+748420-1	Diodia natalensis	(Hochst.) Garcia	Mem. Junta Invest. Ultramar, 2 Ser.	6: 47 (1959)		0870-0915								
+766988-1	Spermacoce subvulgata	(K.Schum.) Garcia	Mem. Junta Invest. Ultramar, 2 Ser.	6: 49 (1959)		0870-0915								
+77088458-1	Rhus longipes var. schinoides	R.Fern.	Mem. Junta Invest. Ultramar, 2 Ser.	38: 39	1962	0870-0915								
+772632-1	Diphasiopsis whitei	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 81 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+775322-1	Teclea rogersii	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 85 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+775478-1	Vepris carringtoniana	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 83 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+775484-1	Vepris drummondii	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 84 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+775487-1	Vepris fanshawei	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 84 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+775526-1	Vepris termitaria	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 83 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+775530-1	Vepris whitei	Mendonça	Mem. Junta Invest. Ultramar, 2 Ser.	28: 82 (1961)		0870-0915						http://memoria-africa.ua.pt/Library/ShowImage.aspx?q=/MJIU/MJIU-N028&p=87	http://bionames.org/bionames-archive/issn/0870-0915/28/79.pdf	
+794932-1	Vahlia verbasciflora	(Oliv) Mendes	Mem. Junta Invest. Ultramar, 2 Ser.	19: 12 (1960)		0870-0915								

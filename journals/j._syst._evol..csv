@@ -1,149 +1,149 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"60450439-2","Musa chunii","HÃ¤kkinen","J. Syst. Evol.","47(1): 87 (-91; fig. 1)","2009 [18 Jan 2009]","1674-4918","","","","","","","",""
-"60459985-2","Lathyrus tefennicus","GenÃ§ & Sahin","J. Syst. Evol.","49(5): 505","2011 [Sep 2011]","1674-4918","","","","","","","",""
-"60460313-2","Aspidistra hezhouensis","Q.Gao & Yan Liu","J. Syst. Evol.","49(5): 506","2011 [Sep 2011]","1674-4918","","","","","","","",""
-"60460314-2","Callicarpa bodinieri var. iteophylla","C.Y.Wu","J. Syst. Evol.","49(5): 508","2011 [Sep 2011]","1674-4918","","","","","","","",""
-"77091008-1","Mussaenda lancipetala","X.F.Deng & D.X.Zhang","J. Syst. Evol.","46(2): 223 (220-225; figs. 1-2)","2008 [Mar 2008]","1674-4918","","","","","","","",""
-"77091009-1","Carex damiaoshanensis","X.F.Jin & C.Z.Zheng","J. Syst. Evol.","46(2): 226 (-229; fig. 1)","2008 [Mar 2008]","1674-4918","","","","","","","",""
-"77093349-1","subtrib. Ypsilorchidinae","Z.J.Liu, S.C.Chen & L.J.Chen","J. Syst. Evol.","46(4): 623","2008 [Jul 2008]","1674-4918","","","","","","","",""
-"77093351-1","Ypsilorchis","Z.J.Liu, S.C.Chen & L.J.Chen","J. Syst. Evol.","46(4): 623","2008 [Jul 2008]","1674-4918","","","","","","","",""
-"77093352-1","Ypsilorchis fissipetala","(Finet) Z.J.Liu, S.C.Chen & L.J.Chen","J. Syst. Evol.","46(4): 623","2008 [Jul 2008]","1674-4918","","","","","","","",""
-"77096336-1","Fagopyrum crispatifolium","J.L.Liu","J. Syst. Evol.","46(6): 930 (-932; fig. 2)","2008 [Nov 2008]","1674-4918","","","","","","","",""
-"77098185-1","Curcuma sattayasaiorum","Chaveer. & Sudmoon","J. Syst. Evol.","46(1): 82 (-84, 86; figs. 4, 6A-B)","2008 [Jan 2008]","1674-4918","","","","","","","",""
-"77098186-1","Curcuma zedoarioides","Chaveer. & Tanee","J. Syst. Evol.","46(1): 86 (-87, 85; figs. 5, 6C-D)","2008 [Jan 2008]","1674-4918","","","","","","","",""
-"77098698-1","Leymus racemosus var. crassinervius","(Kar. & Kir.) C.Yen & J.L.Yang","J. Syst. Evol.","47(1): 74","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098699-1","Leymus racemosus var. cylindraceus","(Roshev.) C.Yen & J.L.Yang","J. Syst. Evol.","47(1): 74","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098700-1","Leymus racemosus var. sabulosus","(M.Bieb.) C.Yen & J.L.Yang","J. Syst. Evol.","47(1): 74","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098738-1","Leymus alaicus var. karataviensis","(Roshev.) C.Yen, J.L.Yang & B.R.Baum","J. Syst. Evol.","47(1): 75","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098739-1","Leymus alaicus var. petraeus","(Nevski) C.Yen, J.L.Yang & B.R.Baum","J. Syst. Evol.","47(1): 76","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098740-1","Leymus salina var. salmonis","(C.L.Hitchc.) C.Yen & J.L.Yang","J. Syst. Evol.","47(1): 81","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098741-1","Leymus salina var. mojavensis","(Barkworth & R.J.Atkins) C.Yen & J.L.Yang","J. Syst. Evol.","47(1): 81","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098742-1","Leymus secalinus var. ligulatus","(Keng) C.Yen & J.L.Yang","J. Syst. Evol.","47(1): 81","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098745-1","Leymus sibiricus","(Trautv.) J.L.Yang & C.Yen","J. Syst. Evol.","47(1): 82","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098746-1","Leymus sect. Silvicola","C.Yen, J.L.Yang & B.R.Baum","J. Syst. Evol.","47(1): 83","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098749-1","Leymus duthiei","(Stapf ex Hook.f.) C.Yen, J.L.Yang & B.R.Baum","J. Syst. Evol.","47(1): 83","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098750-1","Leymus duthiei var. japonicus","(Hack.) C.Yen, J.L.Yang & B.R.Baum","J. Syst. Evol.","47(1): 83","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098751-1","Leymus duthiei var. longe-aristatus","(Hack.) C.Yen, J.L.Yang & B.R.Baum","J. Syst. Evol.","47(1): 83","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098752-1","Leymus komarovii","(Roshev.) J.L.Yang & C.Yen","J. Syst. Evol.","47(1): 84","2009 [Jan 2009]","1674-4918","","","","","","","",""
-"77098852-1","Anemone sect. Leptothece","W.T.Wang & Bing Liu","J. Syst. Evol.","46(5): 738 (-739)","2008 [Sep 2008]","1674-4918","","","","","","","",""
-"77098853-1","Anemone xiaowutaishanica","W.T.Wang & Bing Liu","J. Syst. Evol.","46(5): 739 (-741; figs. 1-2)","2008 [Sep 2008]","1674-4918","","","","","","","",""
-"77098854-1","Glycosmis longipetala","F.J.Mou & D.X.Zhang","J. Syst. Evol.","47(2): 165 (162-167; figs. 1-3)","2009 [Mar 2009]","1674-4918","","","","","","","",""
-"77098855-1","Veronica erciyasdagi","(M.A.Fisch.) C.Vural","J. Syst. Evol.","47(2): 170","2009 [Mar 2009]","1674-4918","","","","","","","",""
-"77104028-1","Clematis ser. Occidentales","W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 562","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104029-1","Clematis ser. Alpinae","W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 567","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104031-1","Clematis ser. Koreanae","W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 574","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104032-1","Clematis ser. Tomentosae","W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 577","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104035-1","Clematis ser. Macropetalae","W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 577","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104037-1","Singchia","Z.J.Liu & L.J.Chen","J. Syst. Evol.","47(6): 600","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104039-1","Singchia malipoensis","Z.J.Liu & L.J.Chen","J. Syst. Evol.","47(6): 602 (fig. 2)","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104040-1","Gunnaria","S.C.Chen ex Z.J.Liu & L.J.Chen","J. Syst. Evol.","47(6): 602","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104041-1","Gunnaria pussila","(Aver.) Z.J.Liu & L.J.Chen","J. Syst. Evol.","47(6): 602","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104209-1","Clematis alpina var. iliensis","(Y.S.Hou & W.H.Hou) W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 570","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77104211-1","Clematis alpina var. umbrosa","(Nakai) W.J.Yang & L.Q.Li","J. Syst. Evol.","47(6): 573","2009 [Nov 2009]","1674-4918","","","","","","","",""
-"77105961-1","Hedychium menghaiense","X.Hu & N.Liu","J. Syst. Evol.","48(2): 148 (146-151; figs. 2-3)","2010 [Mar 2010]","1674-4918","","","","","","","",""
-"77110006-1","Paphiopedilum guangdongense","Z.J.Liu & L.J.Chen","J. Syst. Evol.","48(5): 355 (350-355; figs.)","2010 [Sep 2010]","1674-4918","","","","","","","",""
-"77110008-1","Elaeagnus magna var. nanchuanensis","(C.Y.Chang) M.Sun & Q.Lin","J. Syst. Evol.","48(5): 387","2010 [Sep 2010]","1674-4918","","","","","","","",""
-"77110009-1","Elaeagnus magna var. wushanensis","(C.Y.Chang) M.Sun & Q.Lin","J. Syst. Evol.","48(5): 387","2010 [Sep 2010]","1674-4918","","","","","","","",""
-"77110011-1","Adenophora potaninii subsp. wawreana","(Zahlbr.) S.Ge & D.Y.Hong","J. Syst. Evol.","48(6): 452","2010 [Nov 2010]","1674-4918","","","","","","","",""
-"77112929-1","Microchirita","(C.B.Clarke) Yin Z.Wang","J. Syst. Evol.","49(1): 59","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77112930-1","Microchirita caliginosa","(C.B.Clarke) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77112931-1","Microchirita involucrata","(Craib) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77112932-1","Microchirita lavandulacea","(Stapf) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77112958-1","Microchirita caerulea","(R.Br.) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77112959-1","Microchirita hamosa","(R.Br.) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77112969-1","Primulina brachytricha","(W.T.Wang & D.Y.Chen) R.B.Mao & Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113016-1","Primulina fimbrisepala","(Hand.-Mazz.) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113021-1","Primulina fordii","(Hemsl.) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113024-1","Primulina glandulosa","(D.Fang, L.Zeng & D.H.Qin) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113045-1","Primulina longgangensis","(W.T.Wang) Yan Liu & Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113080-1","Primulina repanda","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113167-1","Petrocodon coccineus","(C.Y.Wu) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113168-1","Petrocodon fangianus","(Y.G.Wei) J.M.Li & Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113169-1","Petrocodon scopulorum","(Chun) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113170-1","Primulina baishouensis","(Y.G.Wei, H.Q.Wen & S.H.Zhong) Yin Z.Wang","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113171-1","Primulina bipinnatifida","(W.T.Wang) Yin Z.Wang & J.M.Li","J. Syst. Evol.","49(1): 60","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113172-1","Primulina carnosifolia","(C.Y.Wu ex H.W.Li) Yin Z.Wang","J. Syst. Evol.","49(1): 60 (-61)","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113173-1","Primulina cordifolia","(D.Fang & W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113174-1","Primulina eburnea","(Hance) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113175-1","Primulina gemella","(D.Wood) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113176-1","Primulina gueilinensis","(W.T.Wang) Yin Z.Wang & Yan Liu","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113177-1","Primulina hedyotidea","(Chun) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113178-1","Primulina heterotricha","(Merr.) Y.Dong & Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113179-1","Primulina jiuwanshanica","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113180-1","Primulina langshanica","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113181-1","Primulina laxiflora","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113182-1","Primulina leiophylla","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113183-1","Primulina linearifolia","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113184-1","Primulina liujiangensis","(D.Fang & D.H.Qin) Yan Liu","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113185-1","Primulina longii","(Z.Yu Li) Z.Yu Li","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113186-1","Primulina minutimaculata","(D.Fang & W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113187-1","Primulina mollifolia","(D.Fang & W.T.Wang) J.M.Li & Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113188-1","Primulina ophiopogoides","(D.Fang & W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113189-1","Primulina parvifolia","(W.T.Wang) Yin Z.Wang & J.M.Li","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113190-1","Primulina pinnata","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113191-1","Primulina pinnatifida","(Hand.-Mazz.) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113192-1","Primulina pteropoda","(W.T.Wang) Yan Liu","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113193-1","Primulina renifolia","(D.Fang & D.H.Qin) J.M.Li & Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113194-1","Primulina sclerophylla","(W.T.Wang) Yan Liu","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113195-1","Primulina shouchengensis","(Z.Yu Li) Z.Yu Li","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113196-1","Primulina spinulosa","(D.Fang & W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113197-1","Primulina subrhomboidea","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113198-1","Primulina tenuifolia","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113199-1","Primulina tenuituba","(W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113200-1","Primulina varicolor","(D.Fang & D.H.Qin) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113201-1","Primulina wentsaii","(D.Fang & L.Zeng) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113202-1","Primulina sinensis","(Lindl.) Yin Z.Wang","J. Syst. Evol.","49(1): 62","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77113203-1","Primulina medica","(D.Fang ex W.T.Wang) Yin Z.Wang","J. Syst. Evol.","49(1): 61","2011 [Jan 2011]","1674-4918","10.1111/j.1759-6831.2010.00113.x","","","","","","",""
-"77130672-1","Gynura dissecta","(F.G.Davies) Vanij. & Kadereit","J. Syst. Evol.","49(4): 293","2011","1674-4918","10.1111/j.1759-6831.2011.00139.x","","","","","","",""
-"77130673-1","Gynura siamensis","Vanij. & Kadereit","J. Syst. Evol.","49(4): 293","2011","1674-4918","10.1111/j.1759-6831.2011.00139.x","","","","","","",""
-"77130674-1","Gynura annua","(F.G.Davies) Vanij. & Kadereit","J. Syst. Evol.","49(4): 297","2011","1674-4918","","","","","","","",""
-"77130675-1","Gynura villosa","Vanij. & Kadereit","J. Syst. Evol.","49(4): 302","2011","1674-4918","","","","","","","",""
-"77130676-1","Gynura daviesiae","Vanij. & Kadereit","J. Syst. Evol.","49(4): 309","2011","1674-4918","10.1111/j.1759-6831.2011.00139.x","","","","","","",""
-"77130679-1","Gynura aurantiaca subsp. parviflora","(F.G.Davies) Vanij. & Kadereit","J. Syst. Evol.","49(4): 313","2011","1674-4918","10.1111/j.1759-6831.2011.00139.x","","","","","","",""
-"77144604-1","Hydrocotyle peltiformis","R.Li & H.Li","J. Syst. Evol.","51(2): 223","2013","1674-4918","","","","","","","",""
-"60466992-2","Arisaema guangxiense","G.W.Hu & H.Li","J. Syst. Evol.","50(6): 577","2012","1674-4918","","","","","","","",""
-"77144955-1","Pankycodon","D.Y.Hong & H.Sun","J. Syst. Evol.","52(5): 546","2014","1674-4918","","","","","","","",""
-"77144640-1","Tupistra hongheensis","G.W.Hu & H.Li","J. Syst. Evol.","51(2): 230","2013","1674-4918","","","","","","","",""
-"60466991-2","Liparis nanlingensis","H.Z.Tian & F.W.Xing","J. Syst. Evol.","50(6): 577","2012","1674-4918","","","","","","","",""
-"77133993-1","Nujiangia","X.H.Jin & D.Z.Li","J. Syst. Evol.","50(1): 68","2012","1674-4918","","","","","","","",""
-"77133994-1","Nujiangia griffithii","(Hook.f.) X.H.Jin & D.Z.Li","J. Syst. Evol.","50(1): 68","2012","1674-4918","","","","","","","",""
-"60464127-2","Piper protrusum","Chaveer. & Tanee","J. Syst. Evol.","49(5): 468 (â€“475)","2011","1674-4918","","","","","","","",""
-"60468283-2","subtrib. Calothecinae","Soreng","J. Syst. Evol.","53(2): 130","2015","1674-4918","","","","","","","",""
-"60468284-2","trib. Littledaleeae","(RÃ¶ser) Soreng & J.I.Davis","J. Syst. Evol.","53(2): 130","2015","1674-4918","","","","","","","",""
-"60468282-2","Dupontiopsis","Soreng, L.J.Gillespie & Koba","J. Syst. Evol.","53(2): 154","2015","1674-4918","","","","","","","",""
-"60468285-2","Dupontiopsis hayachinensis","(Koidz.) Soreng, L.J.Gillespie & Koba","J. Syst. Evol.","53(2): 155, figs. 1-8","2015","1674-4918","","","","","","","",""
-"77145136-1","Lemmaphyllum carnosum var. drymoglossoides","(Baker) X.P.Wei","J. Syst. Evol.","51(4): 493","2013","1674-4918","","","","","","","",""
-"77145135-1","Lemmaphyllum carnosum var. microphyllum","(C.Presl) X.P.Wei","J. Syst. Evol.","51(4): 493","2013","1674-4918","","","","","","","",""
-"60466772-2","Prunus sect. Persica","S.L.Zhou & X.Quan","J. Syst. Evol.","49(2):138","2011","1674-4918","","","","","","","",""
-"77145349-1","Symplocos lucida subsp. howii","(Merr. & Chun ex H.L.Li) Bo Liu & H.N.Qin","J. Syst. Evol.","51(1): 107","2012","1674-4918","","","","","","","",""
-"77144635-1","Elatostema ser. Adenophora","W.T.Wang","J. Syst. Evol.","51(2): 227","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144634-1","Elatostema ser. Melanocarpa","W.T.Wang","J. Syst. Evol.","51(2): 226","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144632-1","Elatostema ser. Odontoptera","W.T.Wang","J. Syst. Evol.","51(2): 225","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144636-1","Elatostema ser. Purpureolineolata","W.T.Wang","J. Syst. Evol.","51(2): 227","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144633-1","Elatostema ser. Quinquetepala","W.T.Wang","J. Syst. Evol.","51(2): 225","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"60466998-2","Elatostema actinodromum","W.T.Wang","J. Syst. Evol.","50(6): 575","2012","1674-4918","","","","","","","",""
-"77144629-1","Elatostema adenophorum var. gymnocephalum","W.T.Wang","J. Syst. Evol.","51(2): 227","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144616-1","Elatostema caudatoacuminatum","W.T.Wang","J. Syst. Evol.","51(2): 226","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144627-1","Elatostema chiwuanum","W.T.Wang","J. Syst. Evol.","51(2): 227","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144630-1","Elatostema fulvobracteolatum","W.T.Wang","J. Syst. Evol.","51(2): 227","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144609-1","Elatostema hygrophilifolium","W.T.Wang","J. Syst. Evol.","51(2): 225","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144614-1","Elatostema melanocarpum","W.T.Wang","J. Syst. Evol.","51(2): 226","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144626-1","Elatostema menghaiense","W.T.Wang","J. Syst. Evol.","51(2): 226","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144607-1","Elatostema odontopterum","W.T.Wang","J. Syst. Evol.","51(2): 225","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77141431-1","Elatostema pseudo-oblongifolium","W.T.Wang","J. Syst. Evol.","50(6): 575","2012","1674-4918","","","","","","","",""
-"77144631-1","Elatostema purpureolineolatum","W.T.Wang","J. Syst. Evol.","51(2): 228","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144611-1","Elatostema quinquetepalum","W.T.Wang","J. Syst. Evol.","51(2): 225","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144628-1","Elatostema simaoense","W.T.Wang","J. Syst. Evol.","51(2): 227","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"60466996-2","Elatostema tenuibracteatum","W.T.Wang","J. Syst. Evol.","50(6): 574","2012","1674-4918","","","","","","","",""
-"60466997-2","Elatostema tricostatum","W.T.Wang","J. Syst. Evol.","50(6): 574","2012","1674-4918","","","","","","","",""
-"60466995-2","Elatostema wugangense","W.T.Wang","J. Syst. Evol.","50(6): 574","2012","1674-4918","","","","","","","",""
-"77144619-1","Elatostema yongtianianum","W.T.Wang","J. Syst. Evol.","51(2): 226","2013","1674-4918","10.1111/jse.12008_3","","","","","","",""
-"77144605-1","Viscum bandipurense","Thriveni, Shivam., Amruthesh, Vijay & Sadanand","J. Syst. Evol.","51(2): 224","2013","1674-4918","","","","","","","",""
-"77133995-1","Zingiber shuanglongensis","C.L.Yeh & S.W.Chung","J. Syst. Evol.","50(2): 168","2012","1674-4918","","","","","","","",""
-"60470513-2","Wurmbea novae-zelandiae","(Hook.f. ex Kirk) Lekhak, Survesw. & S.R.Yadav","J. Syst. Evol.","54(1): 81","2015","1674-4918","","","","","","","",""
-"77157684-1","Wangia saccopetaloides","(W.T.Wang) X.Guo & R.M.K.Saunders","J. Syst. Evol.","52(1): 10","2014","1674-4918","10.1111/jse.12064","","","","","","",""
-"77157683-1","Wangia","X.Guo & R.M.K.Saunders","J. Syst. Evol.","52(1): 10","2014","1674-4918","10.1111/jse.12064","","","","","","",""
-"77159947-1","Saussurea megaphylla","(X.Y.Wu) Y.S.Chen","J. Syst. Evol.","49(2): 160","2011","1674-4918","10.1111/j.1759-6831.2011.00121.x","","","","","","",""
-"77159946-1","Saussurea zhuxiensis","Y.S.Chen & Q.L.Gan","J. Syst. Evol.","49(2): 160","2011","1674-4918","10.1111/j.1759-6831.2011.00121.x","","","","","","",""
-"77161514-1","Foonchewia","R.J.Wang","J. Syst. Evol.","50(5): 469","2012","1674-4918","10.1111/j.1759-6831.2012.00196.x","","","","","","",""
-"77161516-1","Foonchewia guangdongensis","R.J.Wang & H.Z.Wen","J. Syst. Evol.","50(5): 469","2012","1674-4918","10.1111/j.1759-6831.2012.00196.x","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+60450439-2	Musa chunii	Häkkinen	J. Syst. Evol.	47(1): 87 (-91; fig. 1)	2009 [18 Jan 2009]	1674-4918								
+60459985-2	Lathyrus tefennicus	Genç & Sahin	J. Syst. Evol.	49(5): 505	2011 [Sep 2011]	1674-4918								
+60460313-2	Aspidistra hezhouensis	Q.Gao & Yan Liu	J. Syst. Evol.	49(5): 506	2011 [Sep 2011]	1674-4918								
+60460314-2	Callicarpa bodinieri var. iteophylla	C.Y.Wu	J. Syst. Evol.	49(5): 508	2011 [Sep 2011]	1674-4918								
+77091008-1	Mussaenda lancipetala	X.F.Deng & D.X.Zhang	J. Syst. Evol.	46(2): 223 (220-225; figs. 1-2)	2008 [Mar 2008]	1674-4918								
+77091009-1	Carex damiaoshanensis	X.F.Jin & C.Z.Zheng	J. Syst. Evol.	46(2): 226 (-229; fig. 1)	2008 [Mar 2008]	1674-4918								
+77093349-1	subtrib. Ypsilorchidinae	Z.J.Liu, S.C.Chen & L.J.Chen	J. Syst. Evol.	46(4): 623	2008 [Jul 2008]	1674-4918								
+77093351-1	Ypsilorchis	Z.J.Liu, S.C.Chen & L.J.Chen	J. Syst. Evol.	46(4): 623	2008 [Jul 2008]	1674-4918								
+77093352-1	Ypsilorchis fissipetala	(Finet) Z.J.Liu, S.C.Chen & L.J.Chen	J. Syst. Evol.	46(4): 623	2008 [Jul 2008]	1674-4918								
+77096336-1	Fagopyrum crispatifolium	J.L.Liu	J. Syst. Evol.	46(6): 930 (-932; fig. 2)	2008 [Nov 2008]	1674-4918								
+77098185-1	Curcuma sattayasaiorum	Chaveer. & Sudmoon	J. Syst. Evol.	46(1): 82 (-84, 86; figs. 4, 6A-B)	2008 [Jan 2008]	1674-4918								
+77098186-1	Curcuma zedoarioides	Chaveer. & Tanee	J. Syst. Evol.	46(1): 86 (-87, 85; figs. 5, 6C-D)	2008 [Jan 2008]	1674-4918								
+77098698-1	Leymus racemosus var. crassinervius	(Kar. & Kir.) C.Yen & J.L.Yang	J. Syst. Evol.	47(1): 74	2009 [Jan 2009]	1674-4918								
+77098699-1	Leymus racemosus var. cylindraceus	(Roshev.) C.Yen & J.L.Yang	J. Syst. Evol.	47(1): 74	2009 [Jan 2009]	1674-4918								
+77098700-1	Leymus racemosus var. sabulosus	(M.Bieb.) C.Yen & J.L.Yang	J. Syst. Evol.	47(1): 74	2009 [Jan 2009]	1674-4918								
+77098738-1	Leymus alaicus var. karataviensis	(Roshev.) C.Yen, J.L.Yang & B.R.Baum	J. Syst. Evol.	47(1): 75	2009 [Jan 2009]	1674-4918								
+77098739-1	Leymus alaicus var. petraeus	(Nevski) C.Yen, J.L.Yang & B.R.Baum	J. Syst. Evol.	47(1): 76	2009 [Jan 2009]	1674-4918								
+77098740-1	Leymus salina var. salmonis	(C.L.Hitchc.) C.Yen & J.L.Yang	J. Syst. Evol.	47(1): 81	2009 [Jan 2009]	1674-4918								
+77098741-1	Leymus salina var. mojavensis	(Barkworth & R.J.Atkins) C.Yen & J.L.Yang	J. Syst. Evol.	47(1): 81	2009 [Jan 2009]	1674-4918								
+77098742-1	Leymus secalinus var. ligulatus	(Keng) C.Yen & J.L.Yang	J. Syst. Evol.	47(1): 81	2009 [Jan 2009]	1674-4918								
+77098745-1	Leymus sibiricus	(Trautv.) J.L.Yang & C.Yen	J. Syst. Evol.	47(1): 82	2009 [Jan 2009]	1674-4918								
+77098746-1	Leymus sect. Silvicola	C.Yen, J.L.Yang & B.R.Baum	J. Syst. Evol.	47(1): 83	2009 [Jan 2009]	1674-4918								
+77098749-1	Leymus duthiei	(Stapf ex Hook.f.) C.Yen, J.L.Yang & B.R.Baum	J. Syst. Evol.	47(1): 83	2009 [Jan 2009]	1674-4918								
+77098750-1	Leymus duthiei var. japonicus	(Hack.) C.Yen, J.L.Yang & B.R.Baum	J. Syst. Evol.	47(1): 83	2009 [Jan 2009]	1674-4918								
+77098751-1	Leymus duthiei var. longe-aristatus	(Hack.) C.Yen, J.L.Yang & B.R.Baum	J. Syst. Evol.	47(1): 83	2009 [Jan 2009]	1674-4918								
+77098752-1	Leymus komarovii	(Roshev.) J.L.Yang & C.Yen	J. Syst. Evol.	47(1): 84	2009 [Jan 2009]	1674-4918								
+77098852-1	Anemone sect. Leptothece	W.T.Wang & Bing Liu	J. Syst. Evol.	46(5): 738 (-739)	2008 [Sep 2008]	1674-4918								
+77098853-1	Anemone xiaowutaishanica	W.T.Wang & Bing Liu	J. Syst. Evol.	46(5): 739 (-741; figs. 1-2)	2008 [Sep 2008]	1674-4918								
+77098854-1	Glycosmis longipetala	F.J.Mou & D.X.Zhang	J. Syst. Evol.	47(2): 165 (162-167; figs. 1-3)	2009 [Mar 2009]	1674-4918								
+77098855-1	Veronica erciyasdagi	(M.A.Fisch.) C.Vural	J. Syst. Evol.	47(2): 170	2009 [Mar 2009]	1674-4918								
+77104028-1	Clematis ser. Occidentales	W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 562	2009 [Nov 2009]	1674-4918								
+77104029-1	Clematis ser. Alpinae	W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 567	2009 [Nov 2009]	1674-4918								
+77104031-1	Clematis ser. Koreanae	W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 574	2009 [Nov 2009]	1674-4918								
+77104032-1	Clematis ser. Tomentosae	W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 577	2009 [Nov 2009]	1674-4918								
+77104035-1	Clematis ser. Macropetalae	W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 577	2009 [Nov 2009]	1674-4918								
+77104037-1	Singchia	Z.J.Liu & L.J.Chen	J. Syst. Evol.	47(6): 600	2009 [Nov 2009]	1674-4918								
+77104039-1	Singchia malipoensis	Z.J.Liu & L.J.Chen	J. Syst. Evol.	47(6): 602 (fig. 2)	2009 [Nov 2009]	1674-4918								
+77104040-1	Gunnaria	S.C.Chen ex Z.J.Liu & L.J.Chen	J. Syst. Evol.	47(6): 602	2009 [Nov 2009]	1674-4918								
+77104041-1	Gunnaria pussila	(Aver.) Z.J.Liu & L.J.Chen	J. Syst. Evol.	47(6): 602	2009 [Nov 2009]	1674-4918								
+77104209-1	Clematis alpina var. iliensis	(Y.S.Hou & W.H.Hou) W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 570	2009 [Nov 2009]	1674-4918								
+77104211-1	Clematis alpina var. umbrosa	(Nakai) W.J.Yang & L.Q.Li	J. Syst. Evol.	47(6): 573	2009 [Nov 2009]	1674-4918								
+77105961-1	Hedychium menghaiense	X.Hu & N.Liu	J. Syst. Evol.	48(2): 148 (146-151; figs. 2-3)	2010 [Mar 2010]	1674-4918								
+77110006-1	Paphiopedilum guangdongense	Z.J.Liu & L.J.Chen	J. Syst. Evol.	48(5): 355 (350-355; figs.)	2010 [Sep 2010]	1674-4918								
+77110008-1	Elaeagnus magna var. nanchuanensis	(C.Y.Chang) M.Sun & Q.Lin	J. Syst. Evol.	48(5): 387	2010 [Sep 2010]	1674-4918								
+77110009-1	Elaeagnus magna var. wushanensis	(C.Y.Chang) M.Sun & Q.Lin	J. Syst. Evol.	48(5): 387	2010 [Sep 2010]	1674-4918								
+77110011-1	Adenophora potaninii subsp. wawreana	(Zahlbr.) S.Ge & D.Y.Hong	J. Syst. Evol.	48(6): 452	2010 [Nov 2010]	1674-4918								
+77112929-1	Microchirita	(C.B.Clarke) Yin Z.Wang	J. Syst. Evol.	49(1): 59	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77112930-1	Microchirita caliginosa	(C.B.Clarke) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77112931-1	Microchirita involucrata	(Craib) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77112932-1	Microchirita lavandulacea	(Stapf) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77112958-1	Microchirita caerulea	(R.Br.) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77112959-1	Microchirita hamosa	(R.Br.) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77112969-1	Primulina brachytricha	(W.T.Wang & D.Y.Chen) R.B.Mao & Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113016-1	Primulina fimbrisepala	(Hand.-Mazz.) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113021-1	Primulina fordii	(Hemsl.) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113024-1	Primulina glandulosa	(D.Fang, L.Zeng & D.H.Qin) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113045-1	Primulina longgangensis	(W.T.Wang) Yan Liu & Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113080-1	Primulina repanda	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113167-1	Petrocodon coccineus	(C.Y.Wu) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113168-1	Petrocodon fangianus	(Y.G.Wei) J.M.Li & Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113169-1	Petrocodon scopulorum	(Chun) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113170-1	Primulina baishouensis	(Y.G.Wei, H.Q.Wen & S.H.Zhong) Yin Z.Wang	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113171-1	Primulina bipinnatifida	(W.T.Wang) Yin Z.Wang & J.M.Li	J. Syst. Evol.	49(1): 60	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113172-1	Primulina carnosifolia	(C.Y.Wu ex H.W.Li) Yin Z.Wang	J. Syst. Evol.	49(1): 60 (-61)	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113173-1	Primulina cordifolia	(D.Fang & W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113174-1	Primulina eburnea	(Hance) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113175-1	Primulina gemella	(D.Wood) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113176-1	Primulina gueilinensis	(W.T.Wang) Yin Z.Wang & Yan Liu	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113177-1	Primulina hedyotidea	(Chun) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113178-1	Primulina heterotricha	(Merr.) Y.Dong & Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113179-1	Primulina jiuwanshanica	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113180-1	Primulina langshanica	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113181-1	Primulina laxiflora	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113182-1	Primulina leiophylla	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113183-1	Primulina linearifolia	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113184-1	Primulina liujiangensis	(D.Fang & D.H.Qin) Yan Liu	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113185-1	Primulina longii	(Z.Yu Li) Z.Yu Li	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113186-1	Primulina minutimaculata	(D.Fang & W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113187-1	Primulina mollifolia	(D.Fang & W.T.Wang) J.M.Li & Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113188-1	Primulina ophiopogoides	(D.Fang & W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113189-1	Primulina parvifolia	(W.T.Wang) Yin Z.Wang & J.M.Li	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113190-1	Primulina pinnata	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113191-1	Primulina pinnatifida	(Hand.-Mazz.) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113192-1	Primulina pteropoda	(W.T.Wang) Yan Liu	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113193-1	Primulina renifolia	(D.Fang & D.H.Qin) J.M.Li & Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113194-1	Primulina sclerophylla	(W.T.Wang) Yan Liu	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113195-1	Primulina shouchengensis	(Z.Yu Li) Z.Yu Li	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113196-1	Primulina spinulosa	(D.Fang & W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113197-1	Primulina subrhomboidea	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113198-1	Primulina tenuifolia	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113199-1	Primulina tenuituba	(W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113200-1	Primulina varicolor	(D.Fang & D.H.Qin) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113201-1	Primulina wentsaii	(D.Fang & L.Zeng) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113202-1	Primulina sinensis	(Lindl.) Yin Z.Wang	J. Syst. Evol.	49(1): 62	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77113203-1	Primulina medica	(D.Fang ex W.T.Wang) Yin Z.Wang	J. Syst. Evol.	49(1): 61	2011 [Jan 2011]	1674-4918	10.1111/j.1759-6831.2010.00113.x							
+77130672-1	Gynura dissecta	(F.G.Davies) Vanij. & Kadereit	J. Syst. Evol.	49(4): 293	2011	1674-4918	10.1111/j.1759-6831.2011.00139.x							
+77130673-1	Gynura siamensis	Vanij. & Kadereit	J. Syst. Evol.	49(4): 293	2011	1674-4918	10.1111/j.1759-6831.2011.00139.x							
+77130674-1	Gynura annua	(F.G.Davies) Vanij. & Kadereit	J. Syst. Evol.	49(4): 297	2011	1674-4918								
+77130675-1	Gynura villosa	Vanij. & Kadereit	J. Syst. Evol.	49(4): 302	2011	1674-4918								
+77130676-1	Gynura daviesiae	Vanij. & Kadereit	J. Syst. Evol.	49(4): 309	2011	1674-4918	10.1111/j.1759-6831.2011.00139.x							
+77130679-1	Gynura aurantiaca subsp. parviflora	(F.G.Davies) Vanij. & Kadereit	J. Syst. Evol.	49(4): 313	2011	1674-4918	10.1111/j.1759-6831.2011.00139.x							
+77144604-1	Hydrocotyle peltiformis	R.Li & H.Li	J. Syst. Evol.	51(2): 223	2013	1674-4918								
+60466992-2	Arisaema guangxiense	G.W.Hu & H.Li	J. Syst. Evol.	50(6): 577	2012	1674-4918								
+77144955-1	Pankycodon	D.Y.Hong & H.Sun	J. Syst. Evol.	52(5): 546	2014	1674-4918								
+77144640-1	Tupistra hongheensis	G.W.Hu & H.Li	J. Syst. Evol.	51(2): 230	2013	1674-4918								
+60466991-2	Liparis nanlingensis	H.Z.Tian & F.W.Xing	J. Syst. Evol.	50(6): 577	2012	1674-4918								
+77133993-1	Nujiangia	X.H.Jin & D.Z.Li	J. Syst. Evol.	50(1): 68	2012	1674-4918								
+77133994-1	Nujiangia griffithii	(Hook.f.) X.H.Jin & D.Z.Li	J. Syst. Evol.	50(1): 68	2012	1674-4918								
+60464127-2	Piper protrusum	Chaveer. & Tanee	J. Syst. Evol.	49(5): 468 (–475)	2011	1674-4918								
+60468283-2	subtrib. Calothecinae	Soreng	J. Syst. Evol.	53(2): 130	2015	1674-4918								
+60468284-2	trib. Littledaleeae	(Röser) Soreng & J.I.Davis	J. Syst. Evol.	53(2): 130	2015	1674-4918								
+60468282-2	Dupontiopsis	Soreng, L.J.Gillespie & Koba	J. Syst. Evol.	53(2): 154	2015	1674-4918								
+60468285-2	Dupontiopsis hayachinensis	(Koidz.) Soreng, L.J.Gillespie & Koba	J. Syst. Evol.	53(2): 155, figs. 1-8	2015	1674-4918								
+77145136-1	Lemmaphyllum carnosum var. drymoglossoides	(Baker) X.P.Wei	J. Syst. Evol.	51(4): 493	2013	1674-4918								
+77145135-1	Lemmaphyllum carnosum var. microphyllum	(C.Presl) X.P.Wei	J. Syst. Evol.	51(4): 493	2013	1674-4918								
+60466772-2	Prunus sect. Persica	S.L.Zhou & X.Quan	J. Syst. Evol.	49(2):138	2011	1674-4918								
+77145349-1	Symplocos lucida subsp. howii	(Merr. & Chun ex H.L.Li) Bo Liu & H.N.Qin	J. Syst. Evol.	51(1): 107	2012	1674-4918								
+77144635-1	Elatostema ser. Adenophora	W.T.Wang	J. Syst. Evol.	51(2): 227	2013	1674-4918	10.1111/jse.12008_3							
+77144634-1	Elatostema ser. Melanocarpa	W.T.Wang	J. Syst. Evol.	51(2): 226	2013	1674-4918	10.1111/jse.12008_3							
+77144632-1	Elatostema ser. Odontoptera	W.T.Wang	J. Syst. Evol.	51(2): 225	2013	1674-4918	10.1111/jse.12008_3							
+77144636-1	Elatostema ser. Purpureolineolata	W.T.Wang	J. Syst. Evol.	51(2): 227	2013	1674-4918	10.1111/jse.12008_3							
+77144633-1	Elatostema ser. Quinquetepala	W.T.Wang	J. Syst. Evol.	51(2): 225	2013	1674-4918	10.1111/jse.12008_3							
+60466998-2	Elatostema actinodromum	W.T.Wang	J. Syst. Evol.	50(6): 575	2012	1674-4918								
+77144629-1	Elatostema adenophorum var. gymnocephalum	W.T.Wang	J. Syst. Evol.	51(2): 227	2013	1674-4918	10.1111/jse.12008_3							
+77144616-1	Elatostema caudatoacuminatum	W.T.Wang	J. Syst. Evol.	51(2): 226	2013	1674-4918	10.1111/jse.12008_3							
+77144627-1	Elatostema chiwuanum	W.T.Wang	J. Syst. Evol.	51(2): 227	2013	1674-4918	10.1111/jse.12008_3							
+77144630-1	Elatostema fulvobracteolatum	W.T.Wang	J. Syst. Evol.	51(2): 227	2013	1674-4918	10.1111/jse.12008_3							
+77144609-1	Elatostema hygrophilifolium	W.T.Wang	J. Syst. Evol.	51(2): 225	2013	1674-4918	10.1111/jse.12008_3							
+77144614-1	Elatostema melanocarpum	W.T.Wang	J. Syst. Evol.	51(2): 226	2013	1674-4918	10.1111/jse.12008_3							
+77144626-1	Elatostema menghaiense	W.T.Wang	J. Syst. Evol.	51(2): 226	2013	1674-4918	10.1111/jse.12008_3							
+77144607-1	Elatostema odontopterum	W.T.Wang	J. Syst. Evol.	51(2): 225	2013	1674-4918	10.1111/jse.12008_3							
+77141431-1	Elatostema pseudo-oblongifolium	W.T.Wang	J. Syst. Evol.	50(6): 575	2012	1674-4918								
+77144631-1	Elatostema purpureolineolatum	W.T.Wang	J. Syst. Evol.	51(2): 228	2013	1674-4918	10.1111/jse.12008_3							
+77144611-1	Elatostema quinquetepalum	W.T.Wang	J. Syst. Evol.	51(2): 225	2013	1674-4918	10.1111/jse.12008_3							
+77144628-1	Elatostema simaoense	W.T.Wang	J. Syst. Evol.	51(2): 227	2013	1674-4918	10.1111/jse.12008_3							
+60466996-2	Elatostema tenuibracteatum	W.T.Wang	J. Syst. Evol.	50(6): 574	2012	1674-4918								
+60466997-2	Elatostema tricostatum	W.T.Wang	J. Syst. Evol.	50(6): 574	2012	1674-4918								
+60466995-2	Elatostema wugangense	W.T.Wang	J. Syst. Evol.	50(6): 574	2012	1674-4918								
+77144619-1	Elatostema yongtianianum	W.T.Wang	J. Syst. Evol.	51(2): 226	2013	1674-4918	10.1111/jse.12008_3							
+77144605-1	Viscum bandipurense	Thriveni, Shivam., Amruthesh, Vijay & Sadanand	J. Syst. Evol.	51(2): 224	2013	1674-4918								
+77133995-1	Zingiber shuanglongensis	C.L.Yeh & S.W.Chung	J. Syst. Evol.	50(2): 168	2012	1674-4918								
+60470513-2	Wurmbea novae-zelandiae	(Hook.f. ex Kirk) Lekhak, Survesw. & S.R.Yadav	J. Syst. Evol.	54(1): 81	2015	1674-4918								
+77157684-1	Wangia saccopetaloides	(W.T.Wang) X.Guo & R.M.K.Saunders	J. Syst. Evol.	52(1): 10	2014	1674-4918	10.1111/jse.12064							
+77157683-1	Wangia	X.Guo & R.M.K.Saunders	J. Syst. Evol.	52(1): 10	2014	1674-4918	10.1111/jse.12064							
+77159947-1	Saussurea megaphylla	(X.Y.Wu) Y.S.Chen	J. Syst. Evol.	49(2): 160	2011	1674-4918	10.1111/j.1759-6831.2011.00121.x							
+77159946-1	Saussurea zhuxiensis	Y.S.Chen & Q.L.Gan	J. Syst. Evol.	49(2): 160	2011	1674-4918	10.1111/j.1759-6831.2011.00121.x							
+77161514-1	Foonchewia	R.J.Wang	J. Syst. Evol.	50(5): 469	2012	1674-4918	10.1111/j.1759-6831.2012.00196.x							
+77161516-1	Foonchewia guangdongensis	R.J.Wang & H.Z.Wen	J. Syst. Evol.	50(5): 469	2012	1674-4918	10.1111/j.1759-6831.2012.00196.x							

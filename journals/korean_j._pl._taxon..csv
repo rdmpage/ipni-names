@@ -1,123 +1,132 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"1000911-1","Corydalis wandoensis","Y.N.Lee","Korean J. Pl. Taxon.","28(1): 26 (1998)","1998","1225-8318","","","","","","","",""
-"1000912-1","Euphorbia ebracteolata f. magna","Y.N.Lee","Korean J. Pl. Taxon.","28(1): 28","1998","1225-8318","","","","","","","",""
-"1000913-1","Impatiens kojeensis","Y.N.Lee","Korean J. Pl. Taxon.","28(1): 28 (1998)","1998","1225-8318","","","","","","","",""
-"1000914-1","Viola woosanensis","Y.N.Lee & J.Kim","Korean J. Pl. Taxon.","28(1): 30 (1998)","1998","1225-8318","","","","","","","",""
-"1000915-1","Elsholtzia splendens f. albiflora","Y.N.Lee","Korean J. Pl. Taxon.","28(1): 31 (1998)","1998","1225-8318","","","","","","","",""
-"1000916-1","Aster magnus","Y.N.Lee & C.Kim","Korean J. Pl. Taxon.","28(1): 31 (1998)","1998","1225-8318","","","","","","","",""
-"1000917-1","Aster magnus f. albiflorus","Y.N.Lee & C.Kim","Korean J. Pl. Taxon.","28(1): 33 (1998)","1998","1225-8318","","","","","","","",""
-"1000918-1","Arundinaria munsuensis","Y.N.Lee","Korean J. Pl. Taxon.","28(1): 33 (1998)","1998","1225-8318","","","","","","","",""
-"1000919-1","Habenaria chejuensis","Y.N.Lee & K.Lee","Korean J. Pl. Taxon.","28(1): 34 (1998)","1998","1225-8318","","","","","","","",""
-"1000920-1","Polygonatum grandicaule","Y.S.Kim, B.U.Oh & C.G.Jang","Korean J. Pl. Taxon.","28(1): 42 (1998)","1998","1225-8318","","","","","","","",""
-"1002746-1","Polygonatum infundiflorum","Y.S.Kim, B.U.Oh & C.G.Jang","Korean J. Pl. Taxon.","28(2): 210 (1998)","1998","1225-8318","","","","","","","",""
-"1003333-1","Adenophora racemosa","J.Lee & S.Lee","Korean J. Pl. Taxon.","20(2): 122 (1990)","1990","1225-8318","","","","","","","",""
-"1003533-1","Lycoris flavescens","M.Kim & S.Lee","Korean J. Pl. Taxon.","21(2): 127 (1991), with two types cited","1991","1225-8318","","","","","","","",""
-"1003534-1","Philadelphus seoulensis","Y.H.Chung & H.Shin","Korean J. Pl. Taxon.","21(3): 212 (1991)","1991","1225-8318","","","","","","","",""
-"1003535-1","Iris rossii var. latifolia","J.K.Sim & Y.S.Kim","Korean J. Pl. Taxon.","22(1): 1 (1992)","1992","1225-8318","","","","","","","",""
-"1003536-1","Sisyrinchium angustifolium f. album","J.K.Sim & Y.S.Kim","Korean J. Pl. Taxon.","22(1): 3 (1992)","1992","1225-8318","","","","","","","",""
-"1003537-1","Sedum latiovalifolium","Y.N.Lee","Korean J. Pl. Taxon.","22(1): 8 (1992)","1992","1225-8318","","","","","","","",""
-"1003538-1","Hibiscus syriacus var. micranthus","Y.N.Lee & K.B.Yim","Korean J. Pl. Taxon.","22(1): 8 (1992)","1992","1225-8318","","","","","","","",""
-"1003539-1","Geranium taebaek","S.J.Park & Y.S.Kim","Korean J. Pl. Taxon.","27(2): 189 (1997)","1997","1225-8318","","","","","","","",""
-"1003540-1","Geranium wlassovianum var. maximowiczii","(Regel & Maack) S.J.Park","Korean J. Pl. Taxon.","27(2): 213 (1997):","1997","1225-8318","","","","","","","",""
-"1003541-1","Adenophora remotiflora var. hirticalyx","S.Lee, Y.Chung & Joongku Lee","Korean J. Pl. Taxon.","20(3): 192 (1990)","1990","1225-8318","","","","","","","",""
-"1003783-1","Scutellaria pekinensis var. maxima","S.Kim & S.Lee","Korean J. Pl. Taxon.","25(2): 98 (1995)","1995","1225-8318","","","","","","","",""
-"1003784-1","Lamium album f. barbatum","(Siebold & Zucc.) Y.S.Kim & S.J.Park","Korean J. Pl. Taxon.","25(2): 114 (1995):","1995","1225-8318","","","","","","","",""
-"1008926-1","Pimpinella brachycarpa var. uchiyamana","(Nakai) G.Jang, W.K.Paik & W.Lee","Korean J. Pl. Taxon.","29(2): 161 (1999):","1999","1225-8318","","","","","","","",""
-"1008927-1","Pimpinella hallaisanensis","(W.Lee & G.Jang) G.Jang, W.K.Paik & W.Lee","Korean J. Pl. Taxon.","29(2): 163 (1999):","1999","1225-8318","","","","","","","",""
-"17526580-1","Isoetes coreana","Y.H.Chung & H.K.Choi","Korean J. Pl. Taxon.","16(1): 2 (1986)","1986","1225-8318","","","","","","","",""
-"17534990-1","Athyriopsis oldhamii","(Hook. & Baker) Y.C.Oh & C.S.Lee","Korean J. Pl. Taxon.","16(1): 13","1986","1225-8318","","","","","","","",""
-"20001534-1","Cymopterus melanotilingia","(H.Boissieu) C.Y.Yoon","Korean J. Pl. Taxon.","31(3): 258 (2001)","2001","1225-8318","","","","","","","",""
-"20001535-1","Acer pictum var. truncatum","(Bunge) Chin S.Chang","Korean J. Pl. Taxon.","31(3): 302 (2001)","2001","1225-8318","","","","","","","",""
-"20005344-1","Geranium koraiense var. chejuense","S.J.Park & K.J.Kim","Korean J. Pl. Taxon.","32(1): 3 (2002)","2002","1225-8318","","","","","","","",""
-"20008385-1","Ilex Ã— wandoensis","C.F.Mill. & M.Kim","Korean J. Pl. Taxon.","32(3): 294 (2002)","2002","1225-8318","","","","","","","",""
-"20012422-1","Allium linearifolium","H.J.Choi & B.U.Oh","Korean J. Pl. Taxon.","33(1): 72 (2003)","2003","1225-8318","","","","","","","",""
-"327947-2","Allium linearifolium","H.J.Choi & B.U.Oh","Korean J. Pl. Taxon.","33(1): 72 (71-77; figs. 1-2)","2003 [31 Mar 2003]","1225-8318","","","","","","","",""
-"60429228-2","Allium thunbergii var. deltoides","(S.O.Yu, S.Lee & W.Lee) H.J.Choi & B.U.Oh","Korean J. Pl. Taxon.","33(4): 351 (Dec. 2003)","2003","1225-8318","","","","","","","",""
-"60433266-2","Lycoris flavescens","M.Kim & S.Lee","Korean J. Pl. Taxon.","34(1): 13 (-14, 21; figs. 1-4)","2004 [March 2004]","1225-8318","","","","","","","",""
-"60433267-2","Lycoris uydoensis","M.Kim","Korean J. Pl. Taxon.","34(1): 14 (-15, 22; fig. 5)","2004 [March 2004]","1225-8318","","","","","","","",""
-"77061411-1","Allium koreanum","H.J.Choi & B.U.Oh","Korean J. Pl. Taxon.","34(2): 76 (-78; fig. 1)","2004 [June 2004]","1225-8318","","","","","","","",""
-"77061412-1","Allium thunbergii var. teretifolium","H.J.Choi & B.U.Oh","Korean J. Pl. Taxon.","34(2): 79 (-82; fig. 2)","2004 [June 2004]","1225-8318","","","","","","","",""
-"77063911-1","Prunus sargentii var. verecunda","(Koidz.) Chin S.Chang","Korean J. Pl. Taxon.","34(3): 238","2004 [Sept 2004]","1225-8318","","","","","","","",""
-"77063912-1","Corydalis namdoensis","B.U.Oh & J.G.Kim","Korean J. Pl. Taxon.","34(3): 266 (265-270; figs. 1-2)","2004 [Sept 2004]","1225-8318","","","","","","","",""
-"77079707-1","Arisaema thunbergii subsp. geomundoense","S.Ko","Korean J. Pl. Taxon.","36(3): 213 (209-216; figs.)","2006 [Sep 2006]","1225-8318","","","","","","","",""
-"77079708-1","Prunus choreiana","Nakai ex Im","Korean J. Pl. Taxon.","36(3): 259 (257-262; figs. 1-2)","2006 [Sep 2006]","1225-8318","","","","","","","",""
-"77085262-1","Corydalis misandra","B.U.Oh","Korean J. Pl. Taxon.","36(2): 138 (137-144; figs. 1-2)","2006 [Jun 2006]","1225-8318","","","","","","","",""
-"77086845-1","Corydalis cornupetala","Y.H.Kim & J.H.Jeong","Korean J. Pl. Taxon.","37(3): 219 (217-224; figs. 1-2)","2007 [Sep 2007]","1225-8318","","","","","","","",""
-"77088203-1","Saussurea grandicapitula","W.Lee & Im","Korean J. Pl. Taxon.","37(4): 389 (388-392; fig. 1)","2007 [Dec 2007]","1225-8318","","","","","","","",""
-"77088206-1","Phytolacca acinosa f. insularis","(Nakai) M.Kim","Korean J. Pl. Taxon.","37(4): 441","2007 [Dec 2007]","1225-8318","","","","","","","",""
-"77091094-1","Asarum sieboldii f. cornutum","(Y.N.Lee) M.Kim & S.So","Korean J. Pl. Taxon.","38(2): 131","2008 [Jun 2008]","1225-8318","","","","","","","",""
-"77091095-1","Asarum sieboldii f. sonunsanense","(Y.N.Lee) M.Kim & S.So","Korean J. Pl. Taxon.","38(2): 135","2008 [Jun 2008]","1225-8318","","","","","","","",""
-"77091097-1","Asarum mandshuricum","(Maxim.) M.Kim & S.So","Korean J. Pl. Taxon.","38(2): 141","2008 [Jun 2008]","1225-8318","","","","","","","",""
-"77091098-1","Asarum mandshuricum f. seoulense","(Nakai) M.Kim & S.So","Korean J. Pl. Taxon.","38(2): 139","2008 [Jun 2008]","1225-8318","","","","","","","",""
-"77098288-1","Clematis calcicola","J.S.Kim","Korean J. Pl. Taxon.","39(1): 1 (-3; figs. 1-2)","2009 [Mar 2009]","1225-8318","","","","","","","",""
-"77100533-1","Broussonetia Ã— hanjiana","M.Kim","Korean J. Pl. Taxon.","39(2): 82(-83; fig. 1D-E)","2009 [30 Jun 2009]","1225-8318","","","","","","","",""
-"77100534-1","Broussonetia kazinoki f. koreana","M.Kim","Korean J. Pl. Taxon.","39(2): 84 (fig. 1F-G)","2009 [30 Jun 2009]","1225-8318","","","","","","","",""
-"77100536-1","Eranthis pungdoensis","B.U.Oh","Korean J. Pl. Taxon.","39(2): 86 (-88; figs. 1-3)","2009 [30 Jun 2009]","1225-8318","","","","","","","",""
-"77103900-1","Sium ternifolium","B.Y.Lee & S.C.Ko","Korean J. Pl. Taxon.","39(3): 130 (-133; fig. 1-2)","2009 [Sep 2009]","1225-8318","","","","","","","",""
-"77103901-1","Allium thunbergii var. teretifistulosum","H.J.Choi & B.U.Oh","Korean J. Pl. Taxon.","39(3): 179","2009 [Sep 2009]","1225-8318","","","","","","","",""
-"77103902-1","Sambucus racemosa subsp. pendula","(Nakai) H.I.Lim & Chin S.Chang","Korean J. Pl. Taxon.","39(3): 190","2009 [Sep 2009]","1225-8318","","","","","","","",""
-"77105082-1","Impatiens violascens","B.U.Oh & Y.Y.Kim","Korean J. Pl. Taxon.","40(1): 59 (-64; figs. 1-4)","2010 [1 Mar 2010]","1225-8318","","","","","","","",""
-"77106578-1","Corydalis alata","B.U.Oh & W.R.Lee","Korean J. Pl. Taxon.","40(2): 79 (-83; figs. 1-3)","2010 [Jun 2010]","1225-8318","","","","","","","",""
-"77106583-1","Roripa apetala","Y.Y.Kim & B.U.Oh","Korean J. Pl. Taxon.","40(2): 84 (-89; figs. 1-5)","2010 [Jun 2010]","1225-8318","","","","","","","",""
-"77106587-1","Lysimachia quelpaertensis","K.Tae & J.S.Lee","Korean J. Pl. Taxon.","40(2): 109 (108-111; figs. 1-2)","2010 [Jun 2010]","1225-8318","","","","","","","",""
-"77116191-1","Elsholtzia splendens var. hallasanensis","(Y.N.Lee) N.S.Lee & C.S.Lee","Korean J. Pl. Taxon.","41(3): 265","2011 [28 Sep 2011]","1225-8318","","","","","","","",""
-"77116192-1","Hedysarum hirtifoliolum","B.H.Choi","Korean J. Pl. Taxon.","41(3): 267 (-270; figs. 1-2)","2011 [28 Sep 2011]","1225-8318","","","","","","","",""
-"77117974-1","Pulsatilla Ã— yanbianensis","H.Z.Lv","Korean J. Pl. Taxon.","41(4): 367 (365-369; figs.)","2011 [Dec 2011]","1225-8318","","","","","","","",""
-"77121273-1","Leontopodium seorakensis","Y.S.Lim, Hyun, Y.D.Kim & H.C.Shin","Korean J. Pl. Taxon.","42(2): 157","2012 [Jun 2012]","1225-8318","","","","","","","",""
-"77122049-1","Schoenoplectiella Ã— trapezoidea","(Koidz.) J.Jung & H.K.Choi","Korean J. Pl. Taxon.","41(1): 27","2011 [Mar 2011]","1225-8318","","","","","","","",""
-"77122912-1","Elsholtzia byeonsanensis","M.Kim","Korean J. Pl. Taxon.","42(3): 198","2012 [26 Sep 2012]","1225-8318","","","","","","","",""
-"77122913-1","Viola ulleungdoensis","M.Kim & Jungsim Lee","Korean J. Pl. Taxon.","42(3): 203","2012 [26 Sep 2012]","1225-8318","","","","","","","",""
-"77122914-1","Viola ulleungdoensis f. albiflora","M.Kim","Korean J. Pl. Taxon.","42(3): 204","2012 [26 Sep 2012]","1225-8318","","","","","","","",""
-"77127414-1","Astragalus mongholicus var. nakaianus","(Y.N.Lee) I.S.Choi & B.H.Choi","Korean J. Pl. Taxon.","43(1): 17","2013 [27 Mar 2013]","1225-8318","10.11110/kjpt.2013.43.1.12","","","","","","",""
-"77130794-1","Daphne jejudoensis","M.Kim","Korean J. Pl. Taxon.","43(2): 95","2013 [Jun 2013]","1225-8318","10.11110/kjpt.2013.43.2.94","","","","","","",""
-"926452-1","Corydalis subsect. Incisae","B.U.Oh & Y.S.Kim","Korean J. Pl. Taxon.","19(3): 157 (1989).","1989","1225-8318","","","","","","","",""
-"934244-1","Corydalis grandicalyx","B.U.Oh & Y.S.Kim","Korean J. Pl. Taxon.","17(1): 21 (1987)","1987","1225-8318","","","","","","","",""
-"934245-1","Corydalis humilis","B.U.Oh & Y.S.Kim","Korean J. Pl. Taxon.","17(1): 24 (1987)","1987","1225-8318","","","","","","","",""
-"934246-1","Corydalis maculata","B.U.Oh & Y.S.Kim","Korean J. Pl. Taxon.","17(1): 26 (1987)","1987","1225-8318","","","","","","","",""
-"937610-1","Callicarpa chejuensis","Y.H.Chung & H.Kim","Korean J. Pl. Taxon.","19(1): 21 (1989)","1989","1225-8318","","","","","","","",""
-"937611-1","Ulmus Ã— mesocarpa","M.Kim & S.Lee","Korean J. Pl. Taxon.","19(1): 44 (1989), contrary to Art. H.5.2 ICBN (1988)","1989","1225-8318","","","","","","","",""
-"948722-1","Amphicarpaea edgeworthii f. alba","M.H.Lee","Korean J. Pl. Taxon.","13(2): 109 (1983)","1983","1225-8318","","","","","","","",""
-"948723-1","Pueraria thunbergii f. alba","M.H.Lee","Korean J. Pl. Taxon.","13(2): 109 (1983)","1983","1225-8318","","","","","","","",""
-"948724-1","Hemistepta lyrata f. alba","M.H.Lee","Korean J. Pl. Taxon.","13(2): 110 (1983)","1983","1225-8318","","","","","","","",""
-"948758-1","Forsythia saxatilis var. lanceolata","S.Lee","Korean J. Pl. Taxon.","14(2): 91 (1984)","1984","1225-8318","","","","","","","",""
-"948759-1","Forsythia saxatilis var. pilosa","S.Lee","Korean J. Pl. Taxon.","14(2): 92 (1984)","1984","1225-8318","","","","","","","",""
-"948760-1","Disporum ovale var. tamnanum","Y.N.Lee & N.S.Lee","Korean J. Pl. Taxon.","14(3): 168 (1984)","1984","1225-8318","","","","","","","",""
-"950233-1","Trapa bicornis var. coreanus","Y.H.Chung & H.K.Choi","Korean J. Pl. Taxon.","17(1): 50 (1987), without latin descr. or type","1987","1225-8318","","","","","","","",""
-"950766-1","Lysimachia vulgaris f. koreana","W.Lee","Korean J. Pl. Taxon.","18(3): 197 (1988), without latin descr. or type","1988","1225-8318","","","","","","","",""
-"952233-1","Arisaema amurense f. violaceum","(Engl.) Y.S.Kim & S.C.Ko","Korean J. Pl. Taxon.","15(2): 76 (1985):","1985","1225-8318","","","","","","","",""
-"952234-1","Arisaema peninsulae f. convolutum","(Nakai) Y.S.Kim & S.C.Ko","Korean J. Pl. Taxon.","15(2): 80 (1985):","1985","1225-8318","","","","","","","",""
-"954942-1","Buxus koreana f. elongata","(Nakai) Y.S.Kim & J.H.Kim","Korean J. Pl. Taxon.","18(3): 214 (1988):","1988","1225-8318","","","","","","","",""
-"954943-1","Buxus koreana f. insularis","(Nakai) Y.S.Kim & J.H.Kim","Korean J. Pl. Taxon.","18(3): 214 (1988):","1988","1225-8318","","","","","","","",""
-"956042-1","Abelia coreana var. insularis","(Nakai) W.Lee & W.K.Paik","Korean J. Pl. Taxon.","19(3): 149 (1989):","1989","1225-8318","","","","","","","",""
-"975696-1","Eranthis byunsanensis","B.Y.Sun","Korean J. Pl. Taxon.","23(1): 22 (1993)","1993","1225-8318","","","","","","","",""
-"978142-1","Lycoris chinensis var. sinuolata","K.H.Tae & S.C.Ko","Korean J. Pl. Taxon.","23(4): 234 (1993), without latin descr.","1993","1225-8318","","","","","","","",""
-"978143-1","Lycoris chejuensis","K.H.Tae & S.C.Ko","Korean J. Pl. Taxon.","23(4): 234 (1993)","1993","1225-8318","","","","","","","",""
-"978144-1","Impatiens atrosanguinea","(Nakai) B.U.Oh & W.P.Hong","Korean J. Pl. Taxon.","23(4): 253 (1993):","1993","1225-8318","","","","","","","",""
-"978145-1","Sium heterophyllum","Y.N.Lee","Korean J. Pl. Taxon.","23(4): 263 (1993)","1993","1225-8318","","","","","","","",""
-"978146-1","Scopolia lutescens","Y.N.Lee","Korean J. Pl. Taxon.","23(4): 264 (1993)","1993","1225-8318","","","","","","","",""
-"978147-1","Smilacina japonica var. lute-carpa","Y.N.Lee","Korean J. Pl. Taxon.","23(4): 264 (1993)","1993","1225-8318","","","","","","","",""
-"979113-1","Glochidion chodoense","C.S.Lee & Im","Korean J. Pl. Taxon.","24(1): 13 (1994)","1994","1225-8318","","","","","","","",""
-"981223-1","Scutellaria indica var. alba","S.Kim & S.Lee","Korean J. Pl. Taxon.","24(2): 74 (1994)","1994","1225-8318","","","","","","","",""
-"981224-1","Scutellaria indica var. coccinea","S.Kim & S.Lee","Korean J. Pl. Taxon.","24(2): 74 (1994)","1994","1225-8318","","","","","","","",""
-"984423-1","Gentiana wootchuliana","W.K.Paik","Korean J. Pl. Taxon.","25(1): 2 (1995)","1995","1225-8318","","","","","","","",""
-"984424-1","Pimpinella brachycarpa var. hallaisanensis","W.Lee & G.Jang","Korean J. Pl. Taxon.","25(1): 8 (1995)","1995","1225-8318","","","","","","","",""
-"989027-1","Gentiana triflora f. alboviolacea","W.K.Paik & W.Lee","Korean J. Pl. Taxon.","25(3): 19 (1995)","1995","1225-8318","","","","","","","",""
-"989028-1","Gentiana scabra f. stenophylla","(Hara) W.K.Paik & W.Lee","Korean J. Pl. Taxon.","25(3): 21 (1995):","1995","1225-8318","","","","","","","",""
-"993393-1","Corydalis albipetala","B.U.Oh","Korean J. Pl. Taxon.","26(3): 213 (1996)","1996","1225-8318","","","","","","","",""
-"995045-1","Fallopia koreana","B.U.Oh & J.G.Kim","Korean J. Pl. Taxon.","26(4): 258 (1996)","1996","1225-8318","","","","","","","",""
-"995046-1","Lycoris flavescens var. uydoensis","M.Kim","Korean J. Pl. Taxon.","26(4): 263 (1996), species name not validly publ.","1996","1225-8318","","","","","","","",""
-"999656-1","Asarum misandrum","B.U.Oh & J.G.Kim","Korean J. Pl. Taxon.","27(4): 493 (1997)","1997","1225-8318","","","","","","","",""
-"60462591-2","Hemisteptia lyrata f. alba","M.H.Lee","Korean J. Pl. Taxon.","13(2): 110","1983","1225-8318","","","","","","","",""
-"77142883-1","Opuntia humifusa f. jeollaensis","E.J.Kim & S.S.Whang","Korean J. Pl. Taxon.","44(3): 185","2014","1225-8318","10.11110/kjpt.2014.44.3.181","","","","","","",""
-"77142881-1","Pseudostellaria baekdusanensis","M.Kim","Korean J. Pl. Taxon.","44(3): 172","2014","1225-8318","10.11110/kjpt.2014.44.3.171","","","","","","",""
-"77133339-1","Euonymus baekdusanensis","M.Kim","Korean J. Pl. Taxon.","43(3): 168","2013","1225-8318","10.11110/kjpt.2013.43.3.168","","","","","","",""
-"77146975-1","Fimbristylis driziae","Jong H.Kim & M.Kim","Korean J. Pl. Taxon.","45(1): 9","2015","1225-8318","10.11110/kjpt.2015.45.1.8","","","","","","",""
-"77146976-1","Huperzia jejuensis","B.Y.Sun & J.Lim","Korean J. Pl. Taxon.","45(1): 19","2015","1225-8318","10.11110/kjpt.2015.45.1.17","","","","","","",""
-"77142882-1","Potentilla gageodoensis","M.Kim","Korean J. Pl. Taxon.","44(3): 175","2014","1225-8318","10.11110/kjpt.2014.44.3.175","","","","","","",""
-"77141122-1","Viola breviflora","Jungsim Lee & M.Kim","Korean J. Pl. Taxon.","44(2): 84","2014","1225-8318","10.11110/kjpt.2014.44.2.84","","","","","","",""
-"77152886-1","Asplenium montanum","C.S.Lee & Kanghyup Lee","Korean J. Pl. Taxon.","45(4): 364","2015","1225-8318","10.11110/kjpt.2015.45.4.362","","","","","","",""
-"77152885-1","Asplenium uiryeongse","C.S.Lee & Kanghyup Lee","Korean J. Pl. Taxon.","45(4): 363","2015","1225-8318","10.11110/kjpt.2015.45.4.362","","","","","","",""
-"77152884-1","Fimbristylis jindoensis","Jong H.Kim & M.Kim","Korean J. Pl. Taxon.","45(4): 319","2015","1225-8318","10.11110/kjpt.2015.45.4.318","","","","","","",""
-"77152882-1","Huperzia asiatica","(Ching) B.Y.Sun & J.Lim","Korean J. Pl. Taxon.","45(4): 302","2015","1225-8318","10.11110/kjpt.2015.45.4.299","","","","","","",""
-"77152883-1","Micranthes octopetala","(Nakai) Y.I.Kim & Y.D.Kim","Korean J. Pl. Taxon.","45(4): 315","2015","1225-8318","10.11110/kjpt.2015.45.4.306","","","","","","",""
-"60473330-2","Crepidiastrum hallaisanense","(H.LÃ©v.) Pak","Korean J. Pl. Taxon.","31(4): 316","2001","1225-8318","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+1000911-1	Corydalis wandoensis	Y.N.Lee	Korean J. Pl. Taxon.	28(1): 26 (1998)	1998	1225-8318								
+1000912-1	Euphorbia ebracteolata f. magna	Y.N.Lee	Korean J. Pl. Taxon.	28(1): 28	1998	1225-8318								
+1000913-1	Impatiens kojeensis	Y.N.Lee	Korean J. Pl. Taxon.	28(1): 28 (1998)	1998	1225-8318								
+1000914-1	Viola woosanensis	Y.N.Lee & J.Kim	Korean J. Pl. Taxon.	28(1): 30 (1998)	1998	1225-8318								
+1000915-1	Elsholtzia splendens f. albiflora	Y.N.Lee	Korean J. Pl. Taxon.	28(1): 31 (1998)	1998	1225-8318								
+1000916-1	Aster magnus	Y.N.Lee & C.Kim	Korean J. Pl. Taxon.	28(1): 31 (1998)	1998	1225-8318								
+1000917-1	Aster magnus f. albiflorus	Y.N.Lee & C.Kim	Korean J. Pl. Taxon.	28(1): 33 (1998)	1998	1225-8318								
+1000918-1	Arundinaria munsuensis	Y.N.Lee	Korean J. Pl. Taxon.	28(1): 33 (1998)	1998	1225-8318								
+1000919-1	Habenaria chejuensis	Y.N.Lee & K.Lee	Korean J. Pl. Taxon.	28(1): 34 (1998)	1998	1225-8318								
+1000920-1	Polygonatum grandicaule	Y.S.Kim, B.U.Oh & C.G.Jang	Korean J. Pl. Taxon.	28(1): 42 (1998)	1998	1225-8318								
+1002746-1	Polygonatum infundiflorum	Y.S.Kim, B.U.Oh & C.G.Jang	Korean J. Pl. Taxon.	28(2): 210 (1998)	1998	1225-8318								
+1003333-1	Adenophora racemosa	J.Lee & S.Lee	Korean J. Pl. Taxon.	20(2): 122 (1990)	1990	1225-8318								
+1003533-1	Lycoris flavescens	M.Kim & S.Lee	Korean J. Pl. Taxon.	21(2): 127 (1991), with two types cited	1991	1225-8318								
+1003534-1	Philadelphus seoulensis	Y.H.Chung & H.Shin	Korean J. Pl. Taxon.	21(3): 212 (1991)	1991	1225-8318								
+1003535-1	Iris rossii var. latifolia	J.K.Sim & Y.S.Kim	Korean J. Pl. Taxon.	22(1): 1 (1992)	1992	1225-8318								
+1003536-1	Sisyrinchium angustifolium f. album	J.K.Sim & Y.S.Kim	Korean J. Pl. Taxon.	22(1): 3 (1992)	1992	1225-8318								
+1003537-1	Sedum latiovalifolium	Y.N.Lee	Korean J. Pl. Taxon.	22(1): 8 (1992)	1992	1225-8318								
+1003538-1	Hibiscus syriacus var. micranthus	Y.N.Lee & K.B.Yim	Korean J. Pl. Taxon.	22(1): 8 (1992)	1992	1225-8318								
+1003539-1	Geranium taebaek	S.J.Park & Y.S.Kim	Korean J. Pl. Taxon.	27(2): 189 (1997)	1997	1225-8318								
+1003540-1	Geranium wlassovianum var. maximowiczii	(Regel & Maack) S.J.Park	Korean J. Pl. Taxon.	27(2): 213 (1997):	1997	1225-8318								
+1003541-1	Adenophora remotiflora var. hirticalyx	S.Lee, Y.Chung & Joongku Lee	Korean J. Pl. Taxon.	20(3): 192 (1990)	1990	1225-8318								
+1003783-1	Scutellaria pekinensis var. maxima	S.Kim & S.Lee	Korean J. Pl. Taxon.	25(2): 98 (1995)	1995	1225-8318								
+1003784-1	Lamium album f. barbatum	(Siebold & Zucc.) Y.S.Kim & S.J.Park	Korean J. Pl. Taxon.	25(2): 114 (1995):	1995	1225-8318								
+1008926-1	Pimpinella brachycarpa var. uchiyamana	(Nakai) G.Jang, W.K.Paik & W.Lee	Korean J. Pl. Taxon.	29(2): 161 (1999):	1999	1225-8318								
+1008927-1	Pimpinella hallaisanensis	(W.Lee & G.Jang) G.Jang, W.K.Paik & W.Lee	Korean J. Pl. Taxon.	29(2): 163 (1999):	1999	1225-8318								
+17526580-1	Isoetes coreana	Y.H.Chung & H.K.Choi	Korean J. Pl. Taxon.	16(1): 2 (1986)	1986	1225-8318								
+17534990-1	Athyriopsis oldhamii	(Hook. & Baker) Y.C.Oh & C.S.Lee	Korean J. Pl. Taxon.	16(1): 13	1986	1225-8318								
+20001534-1	Cymopterus melanotilingia	(H.Boissieu) C.Y.Yoon	Korean J. Pl. Taxon.	31(3): 258 (2001)	2001	1225-8318								
+20001535-1	Acer pictum var. truncatum	(Bunge) Chin S.Chang	Korean J. Pl. Taxon.	31(3): 302 (2001)	2001	1225-8318								
+20005344-1	Geranium koraiense var. chejuense	S.J.Park & K.J.Kim	Korean J. Pl. Taxon.	32(1): 3 (2002)	2002	1225-8318								
+20008385-1	Ilex × wandoensis	C.F.Mill. & M.Kim	Korean J. Pl. Taxon.	32(3): 294 (2002)	2002	1225-8318								
+20012422-1	Allium linearifolium	H.J.Choi & B.U.Oh	Korean J. Pl. Taxon.	33(1): 72 (2003)	2003	1225-8318								
+327947-2	Allium linearifolium	H.J.Choi & B.U.Oh	Korean J. Pl. Taxon.	33(1): 72 (71-77; figs. 1-2)	2003 [31 Mar 2003]	1225-8318								
+60429228-2	Allium thunbergii var. deltoides	(S.O.Yu, S.Lee & W.Lee) H.J.Choi & B.U.Oh	Korean J. Pl. Taxon.	33(4): 351 (Dec. 2003)	2003	1225-8318								
+60433266-2	Lycoris flavescens	M.Kim & S.Lee	Korean J. Pl. Taxon.	34(1): 13 (-14, 21; figs. 1-4)	2004 [March 2004]	1225-8318								
+60433267-2	Lycoris uydoensis	M.Kim	Korean J. Pl. Taxon.	34(1): 14 (-15, 22; fig. 5)	2004 [March 2004]	1225-8318								
+77061411-1	Allium koreanum	H.J.Choi & B.U.Oh	Korean J. Pl. Taxon.	34(2): 76 (-78; fig. 1)	2004 [June 2004]	1225-8318								
+77061412-1	Allium thunbergii var. teretifolium	H.J.Choi & B.U.Oh	Korean J. Pl. Taxon.	34(2): 79 (-82; fig. 2)	2004 [June 2004]	1225-8318								
+77063911-1	Prunus sargentii var. verecunda	(Koidz.) Chin S.Chang	Korean J. Pl. Taxon.	34(3): 238	2004 [Sept 2004]	1225-8318								
+77063912-1	Corydalis namdoensis	B.U.Oh & J.G.Kim	Korean J. Pl. Taxon.	34(3): 266 (265-270; figs. 1-2)	2004 [Sept 2004]	1225-8318								
+77079707-1	Arisaema thunbergii subsp. geomundoense	S.Ko	Korean J. Pl. Taxon.	36(3): 213 (209-216; figs.)	2006 [Sep 2006]	1225-8318								
+77079708-1	Prunus choreiana	Nakai ex Im	Korean J. Pl. Taxon.	36(3): 259 (257-262; figs. 1-2)	2006 [Sep 2006]	1225-8318								
+77085262-1	Corydalis misandra	B.U.Oh	Korean J. Pl. Taxon.	36(2): 138 (137-144; figs. 1-2)	2006 [Jun 2006]	1225-8318								
+77086845-1	Corydalis cornupetala	Y.H.Kim & J.H.Jeong	Korean J. Pl. Taxon.	37(3): 219 (217-224; figs. 1-2)	2007 [Sep 2007]	1225-8318								
+77088203-1	Saussurea grandicapitula	W.Lee & Im	Korean J. Pl. Taxon.	37(4): 389 (388-392; fig. 1)	2007 [Dec 2007]	1225-8318								
+77088206-1	Phytolacca acinosa f. insularis	(Nakai) M.Kim	Korean J. Pl. Taxon.	37(4): 441	2007 [Dec 2007]	1225-8318								
+77091094-1	Asarum sieboldii f. cornutum	(Y.N.Lee) M.Kim & S.So	Korean J. Pl. Taxon.	38(2): 131	2008 [Jun 2008]	1225-8318								
+77091095-1	Asarum sieboldii f. sonunsanense	(Y.N.Lee) M.Kim & S.So	Korean J. Pl. Taxon.	38(2): 135	2008 [Jun 2008]	1225-8318								
+77091097-1	Asarum mandshuricum	(Maxim.) M.Kim & S.So	Korean J. Pl. Taxon.	38(2): 141	2008 [Jun 2008]	1225-8318								
+77091098-1	Asarum mandshuricum f. seoulense	(Nakai) M.Kim & S.So	Korean J. Pl. Taxon.	38(2): 139	2008 [Jun 2008]	1225-8318								
+77098288-1	Clematis calcicola	J.S.Kim	Korean J. Pl. Taxon.	39(1): 1 (-3; figs. 1-2)	2009 [Mar 2009]	1225-8318								
+77100533-1	Broussonetia × hanjiana	M.Kim	Korean J. Pl. Taxon.	39(2): 82(-83; fig. 1D-E)	2009 [30 Jun 2009]	1225-8318								
+77100534-1	Broussonetia kazinoki f. koreana	M.Kim	Korean J. Pl. Taxon.	39(2): 84 (fig. 1F-G)	2009 [30 Jun 2009]	1225-8318								
+77100536-1	Eranthis pungdoensis	B.U.Oh	Korean J. Pl. Taxon.	39(2): 86 (-88; figs. 1-3)	2009 [30 Jun 2009]	1225-8318								
+77103900-1	Sium ternifolium	B.Y.Lee & S.C.Ko	Korean J. Pl. Taxon.	39(3): 130 (-133; fig. 1-2)	2009 [Sep 2009]	1225-8318								
+77103901-1	Allium thunbergii var. teretifistulosum	H.J.Choi & B.U.Oh	Korean J. Pl. Taxon.	39(3): 179	2009 [Sep 2009]	1225-8318								
+77103902-1	Sambucus racemosa subsp. pendula	(Nakai) H.I.Lim & Chin S.Chang	Korean J. Pl. Taxon.	39(3): 190	2009 [Sep 2009]	1225-8318								
+77105082-1	Impatiens violascens	B.U.Oh & Y.Y.Kim	Korean J. Pl. Taxon.	40(1): 59 (-64; figs. 1-4)	2010 [1 Mar 2010]	1225-8318								
+77106578-1	Corydalis alata	B.U.Oh & W.R.Lee	Korean J. Pl. Taxon.	40(2): 79 (-83; figs. 1-3)	2010 [Jun 2010]	1225-8318								
+77106583-1	Roripa apetala	Y.Y.Kim & B.U.Oh	Korean J. Pl. Taxon.	40(2): 84 (-89; figs. 1-5)	2010 [Jun 2010]	1225-8318								
+77106587-1	Lysimachia quelpaertensis	K.Tae & J.S.Lee	Korean J. Pl. Taxon.	40(2): 109 (108-111; figs. 1-2)	2010 [Jun 2010]	1225-8318								
+77116191-1	Elsholtzia splendens var. hallasanensis	(Y.N.Lee) N.S.Lee & C.S.Lee	Korean J. Pl. Taxon.	41(3): 265	2011 [28 Sep 2011]	1225-8318								
+77116192-1	Hedysarum hirtifoliolum	B.H.Choi	Korean J. Pl. Taxon.	41(3): 267 (-270; figs. 1-2)	2011 [28 Sep 2011]	1225-8318								
+77117974-1	Pulsatilla × yanbianensis	H.Z.Lv	Korean J. Pl. Taxon.	41(4): 367 (365-369; figs.)	2011 [Dec 2011]	1225-8318								
+77121273-1	Leontopodium seorakensis	Y.S.Lim, Hyun, Y.D.Kim & H.C.Shin	Korean J. Pl. Taxon.	42(2): 157	2012 [Jun 2012]	1225-8318								
+77122049-1	Schoenoplectiella × trapezoidea	(Koidz.) J.Jung & H.K.Choi	Korean J. Pl. Taxon.	41(1): 27	2011 [Mar 2011]	1225-8318								
+77122912-1	Elsholtzia byeonsanensis	M.Kim	Korean J. Pl. Taxon.	42(3): 198	2012 [26 Sep 2012]	1225-8318								
+77122913-1	Viola ulleungdoensis	M.Kim & Jungsim Lee	Korean J. Pl. Taxon.	42(3): 203	2012 [26 Sep 2012]	1225-8318								
+77122914-1	Viola ulleungdoensis f. albiflora	M.Kim	Korean J. Pl. Taxon.	42(3): 204	2012 [26 Sep 2012]	1225-8318								
+77127414-1	Astragalus mongholicus var. nakaianus	(Y.N.Lee) I.S.Choi & B.H.Choi	Korean J. Pl. Taxon.	43(1): 17	2013 [27 Mar 2013]	1225-8318	10.11110/kjpt.2013.43.1.12							
+77130794-1	Daphne jejudoensis	M.Kim	Korean J. Pl. Taxon.	43(2): 95	2013 [Jun 2013]	1225-8318	10.11110/kjpt.2013.43.2.94							
+926452-1	Corydalis subsect. Incisae	B.U.Oh & Y.S.Kim	Korean J. Pl. Taxon.	19(3): 157 (1989).	1989	1225-8318								
+934244-1	Corydalis grandicalyx	B.U.Oh & Y.S.Kim	Korean J. Pl. Taxon.	17(1): 21 (1987)	1987	1225-8318								
+934245-1	Corydalis humilis	B.U.Oh & Y.S.Kim	Korean J. Pl. Taxon.	17(1): 24 (1987)	1987	1225-8318								
+934246-1	Corydalis maculata	B.U.Oh & Y.S.Kim	Korean J. Pl. Taxon.	17(1): 26 (1987)	1987	1225-8318								
+937610-1	Callicarpa chejuensis	Y.H.Chung & H.Kim	Korean J. Pl. Taxon.	19(1): 21 (1989)	1989	1225-8318								
+937611-1	Ulmus × mesocarpa	M.Kim & S.Lee	Korean J. Pl. Taxon.	19(1): 44 (1989), contrary to Art. H.5.2 ICBN (1988)	1989	1225-8318								
+948722-1	Amphicarpaea edgeworthii f. alba	M.H.Lee	Korean J. Pl. Taxon.	13(2): 109 (1983)	1983	1225-8318								
+948723-1	Pueraria thunbergii f. alba	M.H.Lee	Korean J. Pl. Taxon.	13(2): 109 (1983)	1983	1225-8318								
+948724-1	Hemistepta lyrata f. alba	M.H.Lee	Korean J. Pl. Taxon.	13(2): 110 (1983)	1983	1225-8318								
+948758-1	Forsythia saxatilis var. lanceolata	S.Lee	Korean J. Pl. Taxon.	14(2): 91 (1984)	1984	1225-8318								
+948759-1	Forsythia saxatilis var. pilosa	S.Lee	Korean J. Pl. Taxon.	14(2): 92 (1984)	1984	1225-8318								
+948760-1	Disporum ovale var. tamnanum	Y.N.Lee & N.S.Lee	Korean J. Pl. Taxon.	14(3): 168 (1984)	1984	1225-8318								
+950233-1	Trapa bicornis var. coreanus	Y.H.Chung & H.K.Choi	Korean J. Pl. Taxon.	17(1): 50 (1987), without latin descr. or type	1987	1225-8318								
+950766-1	Lysimachia vulgaris f. koreana	W.Lee	Korean J. Pl. Taxon.	18(3): 197 (1988), without latin descr. or type	1988	1225-8318								
+952233-1	Arisaema amurense f. violaceum	(Engl.) Y.S.Kim & S.C.Ko	Korean J. Pl. Taxon.	15(2): 76 (1985):	1985	1225-8318								
+952234-1	Arisaema peninsulae f. convolutum	(Nakai) Y.S.Kim & S.C.Ko	Korean J. Pl. Taxon.	15(2): 80 (1985):	1985	1225-8318								
+954942-1	Buxus koreana f. elongata	(Nakai) Y.S.Kim & J.H.Kim	Korean J. Pl. Taxon.	18(3): 214 (1988):	1988	1225-8318								
+954943-1	Buxus koreana f. insularis	(Nakai) Y.S.Kim & J.H.Kim	Korean J. Pl. Taxon.	18(3): 214 (1988):	1988	1225-8318								
+956042-1	Abelia coreana var. insularis	(Nakai) W.Lee & W.K.Paik	Korean J. Pl. Taxon.	19(3): 149 (1989):	1989	1225-8318								
+975696-1	Eranthis byunsanensis	B.Y.Sun	Korean J. Pl. Taxon.	23(1): 22 (1993)	1993	1225-8318								
+978142-1	Lycoris chinensis var. sinuolata	K.H.Tae & S.C.Ko	Korean J. Pl. Taxon.	23(4): 234 (1993), without latin descr.	1993	1225-8318								
+978143-1	Lycoris chejuensis	K.H.Tae & S.C.Ko	Korean J. Pl. Taxon.	23(4): 234 (1993)	1993	1225-8318								
+978144-1	Impatiens atrosanguinea	(Nakai) B.U.Oh & W.P.Hong	Korean J. Pl. Taxon.	23(4): 253 (1993):	1993	1225-8318								
+978145-1	Sium heterophyllum	Y.N.Lee	Korean J. Pl. Taxon.	23(4): 263 (1993)	1993	1225-8318								
+978146-1	Scopolia lutescens	Y.N.Lee	Korean J. Pl. Taxon.	23(4): 264 (1993)	1993	1225-8318								
+978147-1	Smilacina japonica var. lute-carpa	Y.N.Lee	Korean J. Pl. Taxon.	23(4): 264 (1993)	1993	1225-8318								
+979113-1	Glochidion chodoense	C.S.Lee & Im	Korean J. Pl. Taxon.	24(1): 13 (1994)	1994	1225-8318								
+981223-1	Scutellaria indica var. alba	S.Kim & S.Lee	Korean J. Pl. Taxon.	24(2): 74 (1994)	1994	1225-8318								
+981224-1	Scutellaria indica var. coccinea	S.Kim & S.Lee	Korean J. Pl. Taxon.	24(2): 74 (1994)	1994	1225-8318								
+984423-1	Gentiana wootchuliana	W.K.Paik	Korean J. Pl. Taxon.	25(1): 2 (1995)	1995	1225-8318								
+984424-1	Pimpinella brachycarpa var. hallaisanensis	W.Lee & G.Jang	Korean J. Pl. Taxon.	25(1): 8 (1995)	1995	1225-8318								
+989027-1	Gentiana triflora f. alboviolacea	W.K.Paik & W.Lee	Korean J. Pl. Taxon.	25(3): 19 (1995)	1995	1225-8318								
+989028-1	Gentiana scabra f. stenophylla	(Hara) W.K.Paik & W.Lee	Korean J. Pl. Taxon.	25(3): 21 (1995):	1995	1225-8318								
+993393-1	Corydalis albipetala	B.U.Oh	Korean J. Pl. Taxon.	26(3): 213 (1996)	1996	1225-8318								
+995045-1	Fallopia koreana	B.U.Oh & J.G.Kim	Korean J. Pl. Taxon.	26(4): 258 (1996)	1996	1225-8318								
+995046-1	Lycoris flavescens var. uydoensis	M.Kim	Korean J. Pl. Taxon.	26(4): 263 (1996), species name not validly publ.	1996	1225-8318								
+999656-1	Asarum misandrum	B.U.Oh & J.G.Kim	Korean J. Pl. Taxon.	27(4): 493 (1997)	1997	1225-8318								
+60462591-2	Hemisteptia lyrata f. alba	M.H.Lee	Korean J. Pl. Taxon.	13(2): 110	1983	1225-8318								
+77142883-1	Opuntia humifusa f. jeollaensis	E.J.Kim & S.S.Whang	Korean J. Pl. Taxon.	44(3): 185	2014	1225-8318	10.11110/kjpt.2014.44.3.181							
+77142881-1	Pseudostellaria baekdusanensis	M.Kim	Korean J. Pl. Taxon.	44(3): 172	2014	1225-8318	10.11110/kjpt.2014.44.3.171							
+77133339-1	Euonymus baekdusanensis	M.Kim	Korean J. Pl. Taxon.	43(3): 168	2013	1225-8318	10.11110/kjpt.2013.43.3.168							
+77146975-1	Fimbristylis driziae	Jong H.Kim & M.Kim	Korean J. Pl. Taxon.	45(1): 9	2015	1225-8318	10.11110/kjpt.2015.45.1.8							
+77146976-1	Huperzia jejuensis	B.Y.Sun & J.Lim	Korean J. Pl. Taxon.	45(1): 19	2015	1225-8318	10.11110/kjpt.2015.45.1.17							
+77142882-1	Potentilla gageodoensis	M.Kim	Korean J. Pl. Taxon.	44(3): 175	2014	1225-8318	10.11110/kjpt.2014.44.3.175							
+77141122-1	Viola breviflora	Jungsim Lee & M.Kim	Korean J. Pl. Taxon.	44(2): 84	2014	1225-8318	10.11110/kjpt.2014.44.2.84							
+77152886-1	Asplenium montanum	C.S.Lee & Kanghyup Lee	Korean J. Pl. Taxon.	45(4): 364	2015	1225-8318	10.11110/kjpt.2015.45.4.362							
+77152885-1	Asplenium uiryeongse	C.S.Lee & Kanghyup Lee	Korean J. Pl. Taxon.	45(4): 363	2015	1225-8318	10.11110/kjpt.2015.45.4.362							
+77152884-1	Fimbristylis jindoensis	Jong H.Kim & M.Kim	Korean J. Pl. Taxon.	45(4): 319	2015	1225-8318	10.11110/kjpt.2015.45.4.318							
+77152882-1	Huperzia asiatica	(Ching) B.Y.Sun & J.Lim	Korean J. Pl. Taxon.	45(4): 302	2015	1225-8318	10.11110/kjpt.2015.45.4.299							
+77152883-1	Micranthes octopetala	(Nakai) Y.I.Kim & Y.D.Kim	Korean J. Pl. Taxon.	45(4): 315	2015	1225-8318	10.11110/kjpt.2015.45.4.306							
+60473330-2	Crepidiastrum hallaisanense	(H.Lév.) Pak	Korean J. Pl. Taxon.	31(4): 316	2001	1225-8318								
+77162339-1	Hosta capitata f. albiflora	M.Kim	Korean J. Pl. Taxon.	47(1): 39	2017	1225-8318	10.11110/kjpt.2017.47.1.27							
+77162334-1	Hosta clausa f. albiflora	M.Kim	Korean J. Pl. Taxon.	47(1): 37	2017	1225-8318	10.11110/kjpt.2017.47.1.27							
+77162336-1	Hosta jonesii f. albiflora	M.Kim	Korean J. Pl. Taxon.	47(1): 37	2017	1225-8318	10.11110/kjpt.2017.47.1.27							
+77162342-1	Hosta minor f. albiflora	M.Kim	Korean J. Pl. Taxon.	47(1): 42	2017	1225-8318	10.11110/kjpt.2017.47.1.27							
+77162341-1	Hosta minor var. venusta	(Maekawa) M.Kim & H.Jo	Korean J. Pl. Taxon.	47(1): 41	2017	1225-8318	10.11110/kjpt.2017.47.1.27							
+77162338-1	Hosta yingeri f. albiflora	M.Kim	Korean J. Pl. Taxon.	47(1): 39	2017	1225-8318	10.11110/kjpt.2017.47.1.27							
+77165246-1	Epilobium ulleungensis	J.Chung	Korean J. Pl. Taxon.	47(2): 102	2017	1225-8318	10.11110/kjpt.2017.47.2.100							
+77162332-1	Galium bungei var. miltorrhizum	(Hance) K.S.Jeong & Pak	Korean J. Pl. Taxon.	47(1): 23	2017	1225-8318	10.11110/kjpt.2017.47.1.23							
+77165243-1	Camellia tuyenquangensis	V.D.Luong, Le & Ninh	Korean J. Pl. Taxon.	47(2): 95	2017	1225-8318	10.11110/kjpt.2017.47.2.95							

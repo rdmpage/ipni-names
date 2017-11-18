@@ -1,91 +1,91 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"150209-1","Acanthophyllum acerosum","(Boiss.) Barkoudah","Wentia","ix. 180 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"150241-1","Acanthophyllum honigbergeri","(Fenzl) Barkoudah","Wentia","9: 182","1962","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"150257-1","Acanthophyllum minuartioides","(Jaub. & Spach) Barkoudah","Wentia","ix. 183 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"150265-1","Acanthophyllum popovii","(Preobr.) Barkoudah","Wentia","ix. 183 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"150269-1","Acanthophyllum raphiophyllum","(Rech.f.) Barkoudah","Wentia","ix. 184 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"150273-1","Acanthophyllum spergulifolium","(Jaub. & Spach) Barkoudah","Wentia","ix. 182 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"150280-1","Acanthophyllum stewartii","(Thoms. ex Edgew. & Hook.f.) Barkoudah","Wentia","ix. 184 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151028-1","Arenaria bungei","Barkoudah","Wentia","ix. 126, 180 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151910-1","Bolanthus filicaulis","(Boiss.) Barkoudah","Wentia","ix. 167 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151911-1","Bolanthus frankenioides","(Boiss.) Barkoudah","Wentia","ix. 169 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151912-1","Bolanthus fruticulosus","(Bory & Chaub.) Barkoudah","Wentia","ix. 164 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151913-1","Bolanthus graecus","(Schreb.) Barkoudah","Wentia","ix. 166 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151914-1","Bolanthus hirsutus","(Labill.) Barkoudah","Wentia","ix. 168 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151916-1","Bolanthus laconicus","(Boiss.) Barkoudah","Wentia","ix. 163 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"151919-1","Bolanthus thessalus","(Jaub. & Spach) Barkoudah","Wentia","ix. 164 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154365-1","Gypsophila adenophylla","Barkoudah","Wentia","ix. 59 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154380-1","Gypsophila arabica","Barkoudah","Wentia","ix. 139 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154398-1","Gypsophila belorossica","Barkoudah","Wentia","ix. 99 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154401-1","Gypsophila bitlisensis","Barkoudah","Wentia","ix. 136 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154437-1","Gypsophila davisii","Barkoudah","Wentia","ix. 62 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154454-1","Gypsophila ellipticifolia","Barkoudah","Wentia","ix. 76 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154485-1","Gypsophila graminifolia","Barkoudah","Wentia","ix. 67 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154499-1","Gypsophila iberica","Barkoudah","Wentia","ix. 74 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154505-1","Gypsophila iranica","Barkoudah","Wentia","ix. 136 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154535-1","Gypsophila mongolica","Barkoudah","Wentia","ix. 83 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154547-1","Gypsophila nodiflora","(Boiss.) Barkoudah","Wentia","ix. 153 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154549-1","Gypsophila obconica","Barkoudah","Wentia","ix. 140 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154550-1","Gypsophila oblanceolata","Barkoudah","Wentia","ix. 108 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154561-1","Gypsophila pallidifolia","Barkoudah","Wentia","ix. 115 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154565-1","Gypsophila parva","Barkoudah","Wentia","ix. 132 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154572-1","Gypsophila persica","Barkoudah","Wentia","ix. 141 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154608-1","Gypsophila rosea","Barkoudah","Wentia","ix. 59 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154672-1","Gypsophila transcaucasia","Barkoudah","Wentia","ix. 1 16 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"154689-1","Gypsophila villosa","Barkoudah","Wentia","ix. 1 151 (1962).","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"156554-1","Saponaria barbata","Barkoudah","Wentia","ix. 180 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"156560-1","Saponaria biovulata","(Stapf) Barkoudah","Wentia","ix. 180 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"156619-1","Saponaria montana","(Balf.f.) Barkoudah","Wentia","ix. 183 (1962)","","0511-4780","10.1111/j.1438-8677.1962.tb00012.x","","","","","","",""
-"252635-1","Taraxacum aduncum","Soest","Wentia","x. 18 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252644-1","Taraxacum aereum","Soest","Wentia","x. 36 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252700-1","Taraxacum amabile","Soest","Wentia","x. 8 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252704-1","Taraxacum amblylepidocarpum","Soest","Wentia","x. 12 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252833-1","Taraxacum aurorum","Soest","Wentia","x. 59 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252846-1","Taraxacum azzizii","Soest","Wentia","x. 21 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252857-1","Taraxacum baltistanicum","Soest","Wentia","x. 14 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"252859-1","Taraxacum banhyhalense","Soest","Wentia","x. 37 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253262-1","Taraxacum elegans","Soest","Wentia","x. 37 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253350-1","Taraxacum flavum","Soest","Wentia","x. 22 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253379-1","Taraxacum fulvescens","Soest","Wentia","x. 23 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253383-1","Taraxacum fulvobrunneum","Soest","Wentia","x. 24 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253482-1","Taraxacum gulmargense","Soest","Wentia","x. 25 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253510-1","Taraxacum harbhajan-singhii","Soest","Wentia","x. 26 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253522-1","Taraxacum helianthum","Soest","Wentia","x. 55 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253537-1","Taraxacum heybroekii","Soest","Wentia","x. 44 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253648-1","Taraxacum javanicum","Soest","Wentia","x. 56 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253679-1","Taraxacum kjellmaniiforme","Soest","Wentia","x. 57 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253722-1","Taraxacum ladakense","Soest","Wentia","x. 11 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253761-1","Taraxacum latibasis","Soest","Wentia","x. 28 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253868-1","Taraxacum longicarpum","Soest","Wentia","x. 40 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"253988-1","Taraxacum melleum","Soest","Wentia","x. 14 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254023-1","Taraxacum mitalii","Soest","Wentia","x. 46 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254075-1","Taraxacum nagaricum","Soest","Wentia","x. 62 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254082-1","Taraxacum nasiri","Soest","Wentia","x. 48 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254106-1","Taraxacum nigrum","Soest","Wentia","x. 48 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254321-1","Taraxacum phoenicolepis","Soest","Wentia","x. 29 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254452-1","Taraxacum pseudoeriopodum","Soest","Wentia","x. 29 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254463-1","Taraxacum pseudostenolepium","Soest","Wentia","x. 49 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254464-1","Taraxacum pseudostevenii","Soest","Wentia","x. 50 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254511-1","Taraxacum pullocarpum","Soest","Wentia","x. 18 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254785-1","Taraxacum spiticum","Soest","Wentia","x. 53 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254790-1","Taraxacum squarrosiceps","Soest","Wentia","x. 30 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254792-1","Taraxacum staintonii","Soest","Wentia","x. 54 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254814-1","Taraxacum stereodiforme","Soest","Wentia","x. 31 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254818-1","Taraxacum stewartii","Soest","Wentia","x. 51 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254931-1","Taraxacum szovitsii","Soest","Wentia","x. 17 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"254954-1","Taraxacum tenebristylum","Soest","Wentia","x. 32 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"255103-1","Taraxacum violaceo-maculatum","Soest","Wentia","x. 59 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"255117-1","Taraxacum vulpinum","Soest","Wentia","x. 33 (1963).","","0511-4780","10.1111/j.1438-8677.1963.tb00013.x","","","","","","",""
-"548384-1","Dendrophthora ambigua","Kuijt","Wentia","vi. 29 (1961).","","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"548390-1","Dendrophthora basiandra","Kuijt","Wentia","vi. 32 (1961).","","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"548450-1","Dendrophthora martinicensis","Kuijt","Wentia","vi. 85 (1961).","","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"548452-1","Dendrophthora mexicana","Kuijt","Wentia","vi. 88 (1961).","","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"548471-1","Dendrophthora peruviana","Kuijt","Wentia","vi. 95 (1961).","","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"548491-1","Dendrophthora terminalis","Kuijt","Wentia","vi. 109 (1961).","","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77724-2","Dendrophthora ambigua","Kuijt","Wentia","6: [30], fig. 2","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77727-2","Dendrophthora basiandra","Kuijt","Wentia","6: 32, fig. 4","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77740-2","Dendrophthora costaricensis subsp. poasensis","Kuijt","Wentia","6: 51, fig. 14","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77775-2","Dendrophthora martinicensis","Kuijt","Wentia","6: 85, fig. 36","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77777-2","Dendrophthora mexicana","Kuijt","Wentia","6: 88, fig. 38","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77795-2","Dendrophthora peruviana","Kuijt","Wentia","6: 95, fig. 42","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
-"77814-2","Dendrophthora terminalis","Kuijt","Wentia","6: 109, fig. 50","1961","0511-4780","10.1111/j.1438-8677.1961.tb00009.x","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+150209-1	Acanthophyllum acerosum	(Boiss.) Barkoudah	Wentia	ix. 180 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+150241-1	Acanthophyllum honigbergeri	(Fenzl) Barkoudah	Wentia	9: 182	1962	0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+150257-1	Acanthophyllum minuartioides	(Jaub. & Spach) Barkoudah	Wentia	ix. 183 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+150265-1	Acanthophyllum popovii	(Preobr.) Barkoudah	Wentia	ix. 183 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+150269-1	Acanthophyllum raphiophyllum	(Rech.f.) Barkoudah	Wentia	ix. 184 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+150273-1	Acanthophyllum spergulifolium	(Jaub. & Spach) Barkoudah	Wentia	ix. 182 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+150280-1	Acanthophyllum stewartii	(Thoms. ex Edgew. & Hook.f.) Barkoudah	Wentia	ix. 184 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151028-1	Arenaria bungei	Barkoudah	Wentia	ix. 126, 180 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151910-1	Bolanthus filicaulis	(Boiss.) Barkoudah	Wentia	ix. 167 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151911-1	Bolanthus frankenioides	(Boiss.) Barkoudah	Wentia	ix. 169 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151912-1	Bolanthus fruticulosus	(Bory & Chaub.) Barkoudah	Wentia	ix. 164 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151913-1	Bolanthus graecus	(Schreb.) Barkoudah	Wentia	ix. 166 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151914-1	Bolanthus hirsutus	(Labill.) Barkoudah	Wentia	ix. 168 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151916-1	Bolanthus laconicus	(Boiss.) Barkoudah	Wentia	ix. 163 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+151919-1	Bolanthus thessalus	(Jaub. & Spach) Barkoudah	Wentia	ix. 164 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154365-1	Gypsophila adenophylla	Barkoudah	Wentia	ix. 59 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154380-1	Gypsophila arabica	Barkoudah	Wentia	ix. 139 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154398-1	Gypsophila belorossica	Barkoudah	Wentia	ix. 99 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154401-1	Gypsophila bitlisensis	Barkoudah	Wentia	ix. 136 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154437-1	Gypsophila davisii	Barkoudah	Wentia	ix. 62 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154454-1	Gypsophila ellipticifolia	Barkoudah	Wentia	ix. 76 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154485-1	Gypsophila graminifolia	Barkoudah	Wentia	ix. 67 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154499-1	Gypsophila iberica	Barkoudah	Wentia	ix. 74 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154505-1	Gypsophila iranica	Barkoudah	Wentia	ix. 136 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154535-1	Gypsophila mongolica	Barkoudah	Wentia	ix. 83 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154547-1	Gypsophila nodiflora	(Boiss.) Barkoudah	Wentia	ix. 153 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154549-1	Gypsophila obconica	Barkoudah	Wentia	ix. 140 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154550-1	Gypsophila oblanceolata	Barkoudah	Wentia	ix. 108 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154561-1	Gypsophila pallidifolia	Barkoudah	Wentia	ix. 115 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154565-1	Gypsophila parva	Barkoudah	Wentia	ix. 132 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154572-1	Gypsophila persica	Barkoudah	Wentia	ix. 141 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154608-1	Gypsophila rosea	Barkoudah	Wentia	ix. 59 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154672-1	Gypsophila transcaucasia	Barkoudah	Wentia	ix. 1 16 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+154689-1	Gypsophila villosa	Barkoudah	Wentia	ix. 1 151 (1962).		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+156554-1	Saponaria barbata	Barkoudah	Wentia	ix. 180 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+156560-1	Saponaria biovulata	(Stapf) Barkoudah	Wentia	ix. 180 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+156619-1	Saponaria montana	(Balf.f.) Barkoudah	Wentia	ix. 183 (1962)		0511-4780	10.1111/j.1438-8677.1962.tb00012.x							
+252635-1	Taraxacum aduncum	Soest	Wentia	x. 18 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252644-1	Taraxacum aereum	Soest	Wentia	x. 36 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252700-1	Taraxacum amabile	Soest	Wentia	x. 8 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252704-1	Taraxacum amblylepidocarpum	Soest	Wentia	x. 12 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252833-1	Taraxacum aurorum	Soest	Wentia	x. 59 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252846-1	Taraxacum azzizii	Soest	Wentia	x. 21 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252857-1	Taraxacum baltistanicum	Soest	Wentia	x. 14 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+252859-1	Taraxacum banhyhalense	Soest	Wentia	x. 37 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253262-1	Taraxacum elegans	Soest	Wentia	x. 37 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253350-1	Taraxacum flavum	Soest	Wentia	x. 22 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253379-1	Taraxacum fulvescens	Soest	Wentia	x. 23 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253383-1	Taraxacum fulvobrunneum	Soest	Wentia	x. 24 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253482-1	Taraxacum gulmargense	Soest	Wentia	x. 25 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253510-1	Taraxacum harbhajan-singhii	Soest	Wentia	x. 26 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253522-1	Taraxacum helianthum	Soest	Wentia	x. 55 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253537-1	Taraxacum heybroekii	Soest	Wentia	x. 44 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253648-1	Taraxacum javanicum	Soest	Wentia	x. 56 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253679-1	Taraxacum kjellmaniiforme	Soest	Wentia	x. 57 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253722-1	Taraxacum ladakense	Soest	Wentia	x. 11 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253761-1	Taraxacum latibasis	Soest	Wentia	x. 28 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253868-1	Taraxacum longicarpum	Soest	Wentia	x. 40 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+253988-1	Taraxacum melleum	Soest	Wentia	x. 14 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254023-1	Taraxacum mitalii	Soest	Wentia	x. 46 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254075-1	Taraxacum nagaricum	Soest	Wentia	x. 62 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254082-1	Taraxacum nasiri	Soest	Wentia	x. 48 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254106-1	Taraxacum nigrum	Soest	Wentia	x. 48 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254321-1	Taraxacum phoenicolepis	Soest	Wentia	x. 29 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254452-1	Taraxacum pseudoeriopodum	Soest	Wentia	x. 29 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254463-1	Taraxacum pseudostenolepium	Soest	Wentia	x. 49 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254464-1	Taraxacum pseudostevenii	Soest	Wentia	x. 50 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254511-1	Taraxacum pullocarpum	Soest	Wentia	x. 18 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254785-1	Taraxacum spiticum	Soest	Wentia	x. 53 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254790-1	Taraxacum squarrosiceps	Soest	Wentia	x. 30 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254792-1	Taraxacum staintonii	Soest	Wentia	x. 54 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254814-1	Taraxacum stereodiforme	Soest	Wentia	x. 31 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254818-1	Taraxacum stewartii	Soest	Wentia	x. 51 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254931-1	Taraxacum szovitsii	Soest	Wentia	x. 17 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+254954-1	Taraxacum tenebristylum	Soest	Wentia	x. 32 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+255103-1	Taraxacum violaceo-maculatum	Soest	Wentia	x. 59 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+255117-1	Taraxacum vulpinum	Soest	Wentia	x. 33 (1963).		0511-4780	10.1111/j.1438-8677.1963.tb00013.x							
+548384-1	Dendrophthora ambigua	Kuijt	Wentia	vi. 29 (1961).		0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+548390-1	Dendrophthora basiandra	Kuijt	Wentia	vi. 32 (1961).		0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+548450-1	Dendrophthora martinicensis	Kuijt	Wentia	vi. 85 (1961).		0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+548452-1	Dendrophthora mexicana	Kuijt	Wentia	vi. 88 (1961).		0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+548471-1	Dendrophthora peruviana	Kuijt	Wentia	vi. 95 (1961).		0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+548491-1	Dendrophthora terminalis	Kuijt	Wentia	vi. 109 (1961).		0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77724-2	Dendrophthora ambigua	Kuijt	Wentia	6: [30], fig. 2	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77727-2	Dendrophthora basiandra	Kuijt	Wentia	6: 32, fig. 4	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77740-2	Dendrophthora costaricensis subsp. poasensis	Kuijt	Wentia	6: 51, fig. 14	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77775-2	Dendrophthora martinicensis	Kuijt	Wentia	6: 85, fig. 36	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77777-2	Dendrophthora mexicana	Kuijt	Wentia	6: 88, fig. 38	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77795-2	Dendrophthora peruviana	Kuijt	Wentia	6: 95, fig. 42	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							
+77814-2	Dendrophthora terminalis	Kuijt	Wentia	6: 109, fig. 50	1961	0511-4780	10.1111/j.1438-8677.1961.tb00009.x							

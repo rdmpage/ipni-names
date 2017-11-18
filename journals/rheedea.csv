@@ -1,309 +1,313 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"1001110-2","Mutisiopersea fulva","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1001316-1","Calamus neelagiricus","Renuka","Rheedea","7(2): 69 (1997)","1997","0971-2313","","","","","","","",""
-"1001317-1","Symplocos macrophylla subsp. namboodiriana","Sivad. & N.Mohanan","Rheedea","7(2): 89 (1997), as 'namboodirianus'","1997","0971-2313","","","","","","","",""
-"1001318-1","Fimbristylis benthamiana","Govind.","Rheedea","7(2): 115 (1997)","1997","0971-2313","","","","","","","",""
-"1001319-1","Fimbristylis humerosa","Govind.","Rheedea","7(2): 117 (1997)","1997","0971-2313","","","","","","","",""
-"1001320-1","Fimbristylis ultragluma","Govind.","Rheedea","7(2): 119 (1997)","1997","0971-2313","","","","","","","",""
-"1001321-1","Fimbristylis dimorphonucifera","Govind.","Rheedea","7(2): 122 (1997)","1997","0971-2313","","","","","","","",""
-"1001322-1","Fimbristylis mycosa","Govind.","Rheedea","7(2): 124 (1997)","1997","0971-2313","","","","","","","",""
-"1001323-1","Fimbristylis pandurata","Govind.","Rheedea","7(2): 124 (1997)","1997","0971-2313","","","","","","","",""
-"1001324-1","Oberonia arunachalensis","A.N.Rao","Rheedea","7(2): 130 (1997)","1997","0971-2313","","","","","","","",""
-"1004374-1","Euphorbia balakrishnanii","Binojk. & Gopalan","Rheedea","8(1): 67 (1998)","1998","0971-2313","","","","","","","",""
-"1004375-1","Scirpus naikianus","Wad.Khan","Rheedea","8(1): 71 (1998)","1998","0971-2313","","","","","","","",""
-"1004376-1","Brachystelma naorojii","P.Tetali, D.K.Kulk., S.Tetali & M.S.Kumbhojkar","Rheedea","8(1): 75 (1998)","1998","0971-2313","","","","","","","",""
-"1004377-1","Biophytum veldkampii","A.E.S.Khan, E.S.S.Kumar, S.Binu & Pushp.","Rheedea","8(1): 79 (1998)","1998","0971-2313","","","","","","","",""
-"1004378-1","Fimbristylis manilaliana","Govind.","Rheedea","8(1): 87 (1998)","1998","0971-2313","","","","","","","",""
-"1004379-1","Fimbristylis doliiformis","Govind.","Rheedea","8(1): 89 (1998)","1998","0971-2313","","","","","","","",""
-"1004380-1","Fimbristylis tumida","Govind.","Rheedea","8(1): 91 (1998)","1998","0971-2313","","","","","","","",""
-"1004381-1","Fimbristylis virella","Govind.","Rheedea","8(1): 93 (1998)","1998","0971-2313","","","","","","","",""
-"1007804-1","Eriocaulon ratnagiricum","S.R.Yadav, S.P.Gaikwad & Sardesai","Rheedea","8(2): 145","1998","0971-2313","","","","","","","",""
-"1007805-1","Ischaemum kumarakodiense","Ravi, N.Mohanan & Kiran Raj","Rheedea","8(2): 149 (1998), as 'kumarakodiensis'","1998","0971-2313","","","","","","","",""
-"1007806-1","Ischaemum quilonense","Ravi & Shaju","Rheedea","8(2): 152 (1998), as 'quilonensis'","1998","0971-2313","","","","","","","",""
-"1007807-1","Ischaemum pappinisseriense","Ravi, N.Mohanan & R.Rajesh","Rheedea","8(2): 155 (1998), as 'pappinisseriensis'","1998","0971-2313","","","","","","","",""
-"1007808-1","Habenaria periyarensis","Sasidh., K.P.Rajesh & Augustine","Rheedea","8(2): 167 (1998)","1998","0971-2313","","","","","","","",""
-"1012930-2","Mutisiopersea chrysophylla","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1013139-1","Ochlandra spirostylis","M.Kumar, K.K.Seethal. & Sequiera","Rheedea","9(1): 31 (1999)","1999","0971-2313","","","","","","","",""
-"1013140-1","Ochlandra soderstromiana","M.Kumar & Sequiera","Rheedea","9(1): 33 (1999)","1999","0971-2313","","","","","","","",""
-"1013141-1","Nothopegia vajravelui","K.Ravik. & V.Lakshm.","Rheedea","9(1): 56 (1999)","1999","0971-2313","","","","","","","",""
-"1013142-1","Syzygium sriganesanii","K.Ravik. & V.Lakshm.","Rheedea","9(1): 59 (1999)","1999","0971-2313","","","","","","","",""
-"1013143-1","Syzygium zeylanicum var. magamalayanum","K.Ravik. & V.Lakshm.","Rheedea","9(1): 61 (1999)","1999","0971-2313","","","","","","","",""
-"1013144-1","Sonerila parameswaranii","K.Ravik. & V.Lakshm.","Rheedea","9(1): 63 (1999)","1999","0971-2313","","","","","","","",""
-"1013145-1","Schefflera maduraiensis","K.Ravik. & V.Lakshm.","Rheedea","9(1): 66 (1999)","1999","0971-2313","","","","","","","",""
-"1013146-1","Hedyotis shettyi","K.Ravik. & V.Lakshm.","Rheedea","9(1): 69 (1999)","1999","0971-2313","","","","","","","",""
-"1013147-1","Anisochilus henryi","K.Ravik. & V.Lakshm.","Rheedea","9(1): 72 (1999)","1999","0971-2313","","","","","","","",""
-"1014619-2","Mutisiopersea costata","(Meisn.) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1015720-2","Mutisiopersea hintonii","(C.K.Allen) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1017295-1","Cyathocline manilaliana","C.P.Raju & R.R.V.Raju","Rheedea","9(2): 151 (1999)","1999","0971-2313","","","","","","","",""
-"1017296-1","Syzygium periyarense","Augustine & Sasidh.","Rheedea","9(2): 155","1999","0971-2313","","","","","","","",""
-"1017297-1","Amomum garoense","Sunil Tripathi & Ved Prakash","Rheedea","9(2): 177 (1999), as 'garoensis'","1999","0971-2313","","","","","","","",""
-"1018591-1","Scirpus littoralis subsp. subulatus","(Vahl) Wad.Khan","Rheedea","10(1): 28 (2000):","2000","0971-2313","","","","","","","",""
-"1018592-1","Ischaemum pushpangadanii","Ravi, N.Mohanan & Kiran Raj","Rheedea","10(1): 49 (2000)","2000","0971-2313","","","","","","","",""
-"1018593-1","Oberonia raoi","L.R.Shakya & R.P.Chaudhary","Rheedea","10(1): 57 (2000), as 'raoii'","2000","0971-2313","","","","","","","",""
-"1018594-1","Chrysopogon castaneus","Veldkamp & Salunkhe","Rheedea","10(1): 59 (2000)","2000","0971-2313","","","","","","","",""
-"1028678-2","Mutisiopersea campii","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1043506-2","Mutisiopersea corymbosa","(Mez) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1043705-2","Mutisiopersea punctata","(Meisn.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1055987-2","Mutisiopersea aurita","(Miq.) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1065375-2","Mutisiopersea oblongifolia","(L.E.Kopp) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1065725-2","Mutisiopersea brenesii","(Standl.) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1068091-2","Mutisiopersea major","(Meisn.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1075756-2","Mutisiopersea hypoleuca","(A.Rich.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1077900-2","Mutisiopersea subcordata","(Ruiz & Pav.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1077901-2","Mutisiopersea veraguasensis","(Seem.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1077972-2","Mutisiopersea ruizii","(J.F.Macbr.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1079120-2","Mutisiopersea chamissonis","(Mez) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1082066-2","Mutisiopersea krugii","(Mez) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1082573-2","Mutisiopersea vesticula","(Standl. & Steyerm.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1088949-2","Mutisiopersea podadenia","(S.F.Blake) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1101466-2","Mutisiopersea liebmannii","(Mez) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1106228-2","Mutisiopersea peruviana","(Nees) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1106731-2","Mutisiopersea urbaniana","(Mez) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1114079-2","Mutisiopersea nivea","(Mez) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1164417-2","Mutisiopersea hexanthera","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1164440-2","Mutisiopersea sericea","(Kunth) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1176815-2","Mutisiopersea cuneata","(Meisn.) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1182179-2","Mutisiopersea mutisii","(Kunth) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1191195-2","Leptochloa panicea subsp. mucronata","(Michx.) Nowack","Rheedea","5: 93","1995","0971-2313","","","","","","","",""
-"1195912-2","Mutisiopersea fastigiata","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1196873-2","Mutisiopersea standleyi","(C.K.Allen) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1197170-2","Mutisiopersea haenkeana","(Mez) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1200187-2","Mutisiopersea donnell-smithii","(Mez) Kosterm.","Rheedea","3(2): 134","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"1201995-2","Mutisiopersea rufotomentosa","(Nees & Mart.) Kosterm.","Rheedea","3(2): 135","1993 [31 Dec 1993]","0971-2313","","","","","","","",""
-"20000436-1","Ischaemum lanatum","Ravi, N.Mohanan & Shaju","Rheedea","10(2): 91 (2000)","2000","0971-2313","","","","","","","",""
-"20000437-1","Chrysopogon purushothamanii","Ravi, N.Mohanan & Kiran Raj","Rheedea","10(2): 94 (2000)","2000","0971-2313","","","","","","","",""
-"20000438-1","Glyphochloa henryi","Janarth., V.C.Joshi & S.Rajkumar","Rheedea","10(2): 99 (2000)","2000","0971-2313","","","","","","","",""
-"20000439-1","Leea adwivedica","K.Kumar","Rheedea","10(2): 103 (2000)","2000","0971-2313","","","","","","","",""
-"20000440-1","Utricularia janarthanamii","S.R.Yadav, Sardesai & S.P.Gaikwad","Rheedea","10(2): 107 (2000)","2000","0971-2313","","","","","","","",""
-"20000441-1","Utricularia naikii","S.R.Yadav, Sardesai & S.P.Gaikwad","Rheedea","10(2): 110 (2000)","2000","0971-2313","","","","","","","",""
-"20000442-1","Viscum subracemosum","Sanjai & N.P.Balakr.","Rheedea","10(2): 113 (2000)","2000","0971-2313","","","","","","","",""
-"20000443-1","Thottea sivarajanii","E.S.S.Kumar, A.E.S.Khan & Binu","Rheedea","10(2): 117 (2000)","2000","0971-2313","","","","","","","",""
-"20000444-1","Balanophora indica var. agastyamalayana","M.B.Viswan., Prem Kumar & N.Ramesh","Rheedea","10(2): 121 (2000)","2000","0971-2313","","","","","","","",""
-"20000445-1","Balanophora indica var. tirunelveliensis","M.B.Viswan., Prem Kumar & N.Ramesh","Rheedea","10(2): 123 (2000)","2000","0971-2313","","","","","","","",""
-"20005239-1","Calamus shendurunii","Anto, Renuka & V.B.Sreek.","Rheedea","11(1): 37 (2001)","2001","0971-2313","","","","","","","",""
-"20005240-1","Grewia palodensis","E.S.S.Kumar, A.E.S.Khan, Binu & S.M.Almeida","Rheedea","11(1): 41 (2001)","2001","0971-2313","","","","","","","",""
-"20007237-1","Chrysopogon copei","N.Mohanan & Ravi","Rheedea","11(2): 87 (2001)","2001","0971-2313","","","","","","","",""
-"20007238-1","Dimeria josephii","Ravi & N.Mohanan","Rheedea","11(2): 90 (2001)","2001","0971-2313","","","","","","","",""
-"20007239-1","Dimeria agasthyamalayana","Kiran Raj & Ravi","Rheedea","11(2): 93 (2001)","2001","0971-2313","","","","","","","",""
-"20007240-1","Bulbophyllum rosemarianum","C.S.Kumar, P.C.S.Kumar & Saleem","Rheedea","11(2): 97 (2001)","2001","0971-2313","","","","","","","",""
-"20007241-1","Dysoxylum swaminathanianum","Anil Kumar & Sivad.","Rheedea","11(2): 116 (2001)","2001","0971-2313","","","","","","","",""
-"20009814-1","Strobilanthes pushpangadanii","E.S.S.Kumar, Jabbar & A.E.S.Khan","Rheedea","12(1): 73 (2002)","2002","0971-2313","","","","","","","",""
-"325624-2","Mutisiopersea","Kosterm.","Rheedea","3(2): 133","1993","0971-2313","","","","","","","",""
-"60437972-2","Eriocaulon apetalum","Punekar, Malpure & Lakshmin.","Rheedea","13(1-2): 19 (-21; fig. 1)","2004 [2003 publ. 31 Dec 2004]","0971-2313","","","","","","","",""
-"60437973-2","Eriocaulon cookei","Punekar, Malpure & Lakshmin.","Rheedea","13(1-2): 21 (fig. 2)","2004 [2003 publ. 31 Dec 2004]","0971-2313","","","","","","","",""
-"60437974-2","Eriocaulon koynense","Punekar, Mungikar & Lakshmin.","Rheedea","13(1-2): 21 (-24; fig. 3)","2004 [2003 publ. 31 Dec 2004]","0971-2313","","","","","","","",""
-"60437975-2","Eriocaulon sahyadricum","Punekar, Malpure & Lakshmin.","Rheedea","13(1-2): 25 (-27; fig. 5)","2004 [2003 publ. 31 Dec 2004]","0971-2313","","","","","","","",""
-"60437976-2","Eriocaulon maharashtrense","Punekar & Lakshmin.","Rheedea","13(1-2): 24 (fig. 4)","2004 [2003 publ. 31 Dec 2004]","0971-2313","","","","","","","",""
-"60454370-2","Morus macroura var. laxiflora","G.K.Upadhyay & A.A.Ansari","Rheedea","20(1): 44 (-49; figs. 1-3)","2010 [30 Jun 2010]","0971-2313","","","","","","","",""
-"70028294-1","Eriocaulon kolhapurense","S.P.Gaikwad, Sardesai & S.R.Yadav","Rheedea","12(2): 133 (2002)","2002","0971-2313","","","","","","","",""
-"70028295-1","Crotalaria retusa var. indica","Nampy & Sibichen","Rheedea","12(2): 143 (2002)","2002","0971-2313","","","","","","","",""
-"70028298-1","Amorphophallus commutatus var. anmodensis","Sivad. & Jaleel","Rheedea","12(2): 159 (2002)","2002","0971-2313","","","","","","","",""
-"70028299-1","Amorphophallus commutatus var. wayanadensis","Sivad. & Jaleel","Rheedea","12(2): 163 (2002)","2002","0971-2313","","","","","","","",""
-"70028302-1","Leucas beddomei","(Hook.f.) Sunojk. & P.Mathew","Rheedea","12(2): 170 (2002)","2002","0971-2313","","","","","","","",""
-"77065730-1","Glyphochloa veldkampii","M.A.Fonseca & Janarth.","Rheedea","13(1-2): 35 (-38; fig. 1)","2004 [2003 publ. 31 Dec 2004]","0971-2313","","","","","","","",""
-"77070220-1","Arundinella ravii","Shaju & N.Mohanan","Rheedea","14(1-2): 47 (-50; fig. 1)","2004 [31 December 2004]","0971-2313","","","","","","","",""
-"77070221-1","Boesenbergia siphonantha","(King ex Baker) M.Sabu, Prasanthk. & ≈†korniƒçk.","Rheedea","14(1-2): 55","2004 [31 December 2004]","0971-2313","","","","","","","",""
-"77070222-1","Eriocaulon karnatakense","S.P.Gaikwad, Sardesai, U.S.Yadav & S.R.Yadav","Rheedea","14(1-2): 63 (-65; fig. 1)","2004 [31 December 2004]","0971-2313","","","","","","","",""
-"77077743-1","Bulbophyllum manipurense","C.S.Kumar & P.C.S.Kumar","Rheedea","15(1): 12 (-13; fig. 4)","2005 [31 Oct 2005]","0971-2313","","","","","","","",""
-"77077744-1","Luisiopsis","C.S.Kumar & P.C.S.Kumar","Rheedea","15(1): 46 (-47)","2005 [31 Oct 2005]","0971-2313","","","","","","","",""
-"77077745-1","Luisiopsis inconspicua","(Hook.f.) C.S.Kumar & P.C.S.Kumar","Rheedea","15(1): 48","2005 [31 Oct 2005]","0971-2313","","","","","","","",""
-"77077746-1","Utricularia babui","S.R.Yadav, Sardesai & S.P.Gaikwad","Rheedea","15(1): 71 (-73; fig. 1)","2005 [31 Oct 2005]","0971-2313","","","","","","","",""
-"77077747-1","Anoectochilus annamensis","Aver.","Rheedea","15(2): 83 (-85; figs. 1, 4a-b)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077748-1","Bulbophyllum gunnarii","Aver.","Rheedea","15(2): 85 (-87; figs. 2, 4c-d)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077749-1","Bulbophyllum guttulatoides","Aver.","Rheedea","15(2): 87 (figs. 3, 4e-g)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077750-1","Cheirostylis serpens","Aver.","Rheedea","15(2): 87 (-90; figs. 5, 8a-b)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077751-1","Gastrodia theana","Aver.","Rheedea","15(2): 90 (-92; figs. 6, 8c-e)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077752-1","Lecanorchis vietnamica","Aver.","Rheedea","15(2): 92 (-93; figs. 7, 8f-i)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077753-1","Liparis filiformis","Aver.","Rheedea","15(2): 93 (-97; figs. 9, 11a-b)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077754-1","Oberonia huensis","Aver.","Rheedea","15(2): 97 (figs. 10, 11c-d)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077755-1","Saccolabiopsis viridiflora","Aver.","Rheedea","15(2): 97 (-101; figs. 11e-f, 12)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077756-1","Medinilla sahyadrica","Sujanapal & Sasidh.","Rheedea","15(2): 109 (figs. 3, 4d, 5 e-f, map)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77077757-1","Astragalus sanjappae","L.B.Chaudhary & Z.H.Khan","Rheedea","15(2): 129 (-131; fig. 1)","2005 [31 Dec 2005]","0971-2313","","","","","","","",""
-"77080184-1","Tragia montana var. dioica","Chakrab. & N.P.Balakr.","Rheedea","16(1): 21 (-22)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77080185-1","Tragia praetervisa","Chakrab. & N.P.Balakr.","Rheedea","16(1): 23 (-25; fig. 3)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77080187-1","Tragia praetervisa var. unicolor","(M√ºll.Arg.) Chakrab. & N.P.Balakr.","Rheedea","16(1): 25","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77080188-1","Tragia sanjappae","Chakrab. & N.P.Balakr.","Rheedea","16(1): 25 (-27; fig. 4)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083906-1","Calanthe duyana","Aver.","Rheedea","16(1): 1 (-3; figs. 1, 3a-b)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083907-1","Dendrobium chapaense","Aver.","Rheedea","16(1): 3 (-4; figs. 2, 3c)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083908-1","Epipactis alatus","Aver. & Efimov","Rheedea","16(1): 4 (-7; figs. 3d-g, 4)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083909-1","Gastrodia major","Aver.","Rheedea","16(1): 7 (figs. 3h, 5, 7a-b)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083910-1","Gastrodia punctata","Aver.","Rheedea","16(1): 7 (-10; figs. 6, 7c-d)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083911-1","Platanthera epiphytica","Aver. & Efimov","Rheedea","16(1): 10 (-12; figs. 7e-f, 8)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083912-1","Zeuxine bidupensis","Aver.","Rheedea","16(1): 12 (-14; figs. 7g-h, 9)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083913-1","Biermannia arunachalensis","A.N.Rao","Rheedea","16(1): 29 (-31; fig. 1)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083914-1","Ceropegia mohanramii","S.R.Yadav, M.N.Gavade & Sardesai","Rheedea","16(1): 33 (-36; figs. 1, 2e-g, i, k)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083915-1","Stereospermum colais var. shendurunii","Sasidh., Sujanapal & Binoy","Rheedea","16(1): 37 (-40; fig. 1)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083916-1","Arisaema sahyadricum var. ghaticum","Sardesai, S.P.Gaikwad & S.R.Yadav","Rheedea","16(1): 45 (-48; figs. 1-2)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083917-1","Dendrobium meghalayense","C.Deori, S.K.Sarma, Hynn. & Phukan","Rheedea","16(1): 55 (-58; figs. 1, 2k-o)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77083918-1","Eriocaulon devendranii","Vij.Sank., K.Ravik. & Gan.Babu","Rheedea","16(1): 59 (-61; fig. 1)","2006 [30 Jun 2006]","0971-2313","","","","","","","",""
-"77091188-1","Fibraurea darshanii","Udayan & K.Ravik.","Rheedea","17(1-2): 9 (-12; fig. 1)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091190-1","Thismia annamensis","K.Larsen & Aver.","Rheedea","17(1-2): 13 (-16; figs. 1-2, map)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091191-1","Thismia tentaculata","K.Larsen & Aver.","Rheedea","17(1-2): 16 (-19; figs. 4-5, map)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091193-1","Humboldtia sanjappae","Sasidh. & Sujanapal","Rheedea","17(1-2): 21 (-23; fig. 1)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091194-1","Hedyotis nairii","Murug. & V.Balas.","Rheedea","17(1-2): 25 (-27; fig. 1)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091195-1","Piper nirjulianum","Gajurel, Rethy & Y.Kumar","Rheedea","17(1-2): 35 (-39; figs. 1-2)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091196-1","Caralluma stalagmifera var. longipetala","Karupp. & Pull.","Rheedea","17(1-2): 42 (-45; fig. 2)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77091198-1","Caralluma stalagmifera var. intermedia","Karupp. & Pull.","Rheedea","17(1-2): 45 (fig. 3)","2007 [31 Dec 2007]","0971-2313","","","","","","","",""
-"77094913-1","Bulbophyllum jayaweerae","S.S.Fernando & Ormerod","Rheedea","18(1): 8","2008 [31 Aug 2008]","0971-2313","","","","","","","",""
-"77094914-1","Robiquetia virescens","Ormerod & S.S.Fernando","Rheedea","18(1): 22 (-23; fig. 12)","2008 [31 Aug 2008]","0971-2313","","","","","","","",""
-"77094915-1","Calamus renukae","J.Jacob, N.Mohanan & Kariyappa","Rheedea","18(1): 29 (-31; fig. 1)","2008 [31 Aug 2008]","0971-2313","","","","","","","",""
-"77104271-1","Eleocharis wadoodii","S.R.Yadav, Lekhak & Chandore","Rheedea","19(1-2): 37 (-40; figs. 1-2)","2009 [30 Dec 2009]","0971-2313","","","","","","","",""
-"77104272-1","Eriocaulon baramaticum","Shimpale, Bhagat, R.B.Deshmukh & S.R.Yadav","Rheedea","19(1-2): 47 (-49; fig. 1)","2009 [30 Dec 2009]","0971-2313","","","","","","","",""
-"77104273-1","Mussaenda nicobarica","Shimpale, S.R.Yadav & Babu","Rheedea","19(1-2): 54 (-56; fig. 1)","2009 [30 Dec 2009]","0971-2313","","","","","","","",""
-"77107240-1","Dendrobium hkinhumense","Ormerod & C.S.Kumar","Rheedea","18(2): 75 (-76; fig. 1)","2008","0971-2313","","","","","","","",""
-"77107241-1","Lakshmia","Veldkamp","Rheedea","18(2): 81 (-84)","2008","0971-2313","","","","","","","",""
-"77107242-1","Lakshmia venusta","(Thwaites) Veldkamp","Rheedea","18(2): 84","2008","0971-2313","","","","","","","",""
-"77107243-1","Costus mulus","Meekiong, Ipor & Tawan","Rheedea","18(2): 87 (-88; fig. 1)","2008","0971-2313","","","","","","","",""
-"77107244-1","Urochloa caboverdiana","(Conert & C.Kohler) Veldkamp, Potdar & S.R.Yadav","Rheedea","18(2): 93","2008","0971-2313","","","","","","","",""
-"77107245-1","Gastrodia silentvalleyana","C.S.Kumar, P.C.S.Kumar, Sibi & S.Anil Kumar","Rheedea","18(2): 109 (107; fig. 1)","2008","0971-2313","","","","","","","",""
-"77107246-1","Pogostemon raghavendranii","R.Murugan & Livingst.","Rheedea","20(1): 21 (-24; fig. 1, map 1)","2010","0971-2313","","","","","","","",""
-"77107247-1","Eriocaulon wayanadense","Vivek, Swapna & K.K.Suresh","Rheedea","20(1): 25 (-27; fig. 1)","2010","0971-2313","","","","","","","",""
-"77107248-1","Carex hokarsarensis","E.U.Haq & Dar","Rheedea","20(1): 29 (-30; fig. 1)","2010","0971-2313","","","","","","","",""
-"77107249-1","Cleistanthus andamanicus","N.Balach., Gastmans & Chakrab.","Rheedea","20(1): 32 (-34; fig. 1)","2010","0971-2313","","","","","","","",""
-"77107250-1","Jansenella neglecta","S.R.Yadav, Chivalkar & Gosavi","Rheedea","20(1): 39 (-42; figs. 1-2)","2010","0971-2313","","","","","","","",""
-"77113750-1","Vigna indica","T.M.Dixit, K.V.Bhat & S.R.Yadav","Rheedea","21(1): 1","2011 [30 Jun 2011]","0971-2313","","","","","","","",""
-"77113753-1","Impatiens vivekananthanii","J.R.N.Dessai & Janarth.","Rheedea","21(1): 58 (-59; fig. 19)","2011 [30 Jun 2011]","0971-2313","","","","","","","",""
-"77118532-1","Litsea kakkachensis","R.Ganesan","Rheedea","21(2): 143 (-146; fig. 1)","2011 [31 Dec 2011]","0971-2313","","","","","","","",""
-"77118533-1","Crotalaria assamica var. keralensis","Krishnaraj, N.Mohanan & V.T.Antony","Rheedea","21(2): 153 (-154; fig. 3)","2011 [31 Dec 2011]","0971-2313","","","","","","","",""
-"77118534-1","Impatiens sikkimensis","Govaerts & Chakrab.","Rheedea","21(2): 173","2011 [31 Dec 2011]","0971-2313","","","","","","","",""
-"77121610-1","Vigna sahyadriana","Aitawade, K.V.Bhat & S.R.Yadav","Rheedea","22(1): 20","2012 [30 Jun 2012]","0971-2313","","","","","","","",""
-"77121612-1","Vigna silvestris","(Lukoki, Mar√©chal & Otoul) Aitawade, K.V.Bhat & S.R.Yadav","Rheedea","22(1): 22","2012 [30 Jun 2012]","0971-2313","","","","","","","",""
-"77121613-1","Acilepis peninsularis var. kodayarensis","(A.N.Henry & Gopalan) Ras.Beeg. & Sibi","Rheedea","22(1): 38","2012 [30 Jun 2012]","0971-2313","","","","","","","",""
-"77121615-1","Acilepis saligna var. nilghirensis","(Hook.f.) Ras.Beeg. & Sibi","Rheedea","22(1): 38","2012 [30 Jun 2012]","0971-2313","","","","","","","",""
-"77126087-1","Tylophora nicobarica","Murugan & M.Y.Kamble","Rheedea","22(2): 83","2012 [31 Dec 2012]","0971-2313","","","","","","","",""
-"77126088-1","Henckelia pradeepiana","Nampy, Manudev & A.Weber","Rheedea","22(2): 119","2012 [31 Dec 2012]","0971-2313","","","","","","","",""
-"957325-1","Corydalis sect. Fumarioides","Lid√©n","Rheedea","1(1‚Äì2): 32 (1991).","1991","0971-2313","","","","","","","",""
-"957326-1","Corydalis subsect. Radicosae","Lid√©n","Rheedea","1(1‚Äì2): 32","1991","0971-2313","","","","","","","",""
-"957327-1","Corydalis ser. Angustiflorae","Lid√©n","Rheedea","1(1‚Äì2): 32 (1991).","1991","0971-2313","","","","","","","",""
-"957328-1","Corydalis ser. Himalayanae","Lid√©n","Rheedea","1(1‚Äì2): 32 (1991).","1991","0971-2313","","","","","","","",""
-"957329-1","Corydalis ser. Pinnata","Lid√©n","Rheedea","1(1‚Äì2): 32 (1991).","1991","0971-2313","","","","","","","",""
-"957330-1","Corydalis ser. Tuberculata","Lid√©n","Rheedea","1(1‚Äì2): 32 (1991).","1991","0971-2313","","","","","","","",""
-"960112-1","Torenia cyrtandriflora","B.L.Burtt","Rheedea","1(1‚Äì2): 3 (1991)","1991","0971-2313","","","","","","","",""
-"960113-1","Corydalis pseudodrakeana","Lid√©n","Rheedea","1(1‚Äì2): 32 (1991)","1991","0971-2313","","","","","","","",""
-"960114-1","Corydalis gouldii","Lid√©n","Rheedea","1(1‚Äì2): 34 (1991)","1991","0971-2313","","","","","","","",""
-"960115-1","Corydalis rubrisepala","Lid√©n","Rheedea","1(1‚Äì2): 34 (1991)","1991","0971-2313","","","","","","","",""
-"960116-1","Corydalis khasiana","Lid√©n","Rheedea","1(1‚Äì2): 34 (1991)","1991","0971-2313","","","","","","","",""
-"960117-1","Corydalis aconitiflora","Lid√©n","Rheedea","1(1‚Äì2): 34 (1991)","1991","0971-2313","","","","","","","",""
-"960118-1","Corydalis yui","Lid√©n","Rheedea","1(1‚Äì2): 35 (1991)","1991","0971-2313","","","","","","","",""
-"960119-1","Justicia ekakusuma","Pradeep & Sivar.","Rheedea","1(1‚Äì2): 42 (1991)","1991","0971-2313","","","","","","","",""
-"960120-1","Sedum jiuhuashanense","P.S.Hsu & H.J.Wang","Rheedea","1(1‚Äì2): 46 (1991)","1991","0971-2313","","","","","","","",""
-"960121-1","Sedum ecalcaratum","H.J.Wang & P.S.Hsu","Rheedea","1(1‚Äì2): 46 (1991)","1991","0971-2313","","","","","","","",""
-"960122-1","Bulbophyllum rheedei","Manilal & C.S.Kumar","Rheedea","1(1‚Äì2): 55 (1991)","1991","0971-2313","","","","","","","",""
-"960123-1","Tephrosia travancorica","Thoth. & D.N.Das","Rheedea","1(1‚Äì2): 57 (1991)","1991","0971-2313","","","","","","","",""
-"960124-1","Bulbophyllum parabates","J.J.Verm.","Rheedea","1(1‚Äì2): 68 (1991)","1991","0971-2313","","","","","","","",""
-"960125-1","Bulbophyllum quasimodo","J.J.Verm.","Rheedea","1(1‚Äì2): 69 (1991)","1991","0971-2313","","","","","","","",""
-"960126-1","Bulbophyllum grammopoma","J.J.Verm.","Rheedea","1(1‚Äì2): 72 (1991)","1991","0971-2313","","","","","","","",""
-"960127-1","Bulbophyllum sceliphron","J.J.Verm.","Rheedea","1(1‚Äì2): 75 (1991)","1991","0971-2313","","","","","","","",""
-"960128-1","Bulbophyllum cardiophyllum","J.J.Verm.","Rheedea","1(1‚Äì2): 75 (1991)","1991","0971-2313","","","","","","","",""
-"960770-1","Bulbophyllum cateorum","J.J.Verm.","Rheedea","2(1): 1","1992","0971-2313","","","","","","","",""
-"960771-1","Bulbophyllum phormion","J.J.Verm.","Rheedea","2(1): 3","1992","0971-2313","","","","","","","",""
-"960772-1","Bulbophyllum imitator","J.J.Verm.","Rheedea","2(1): 7","1992","0971-2313","","","","","","","",""
-"960773-1","Bulbophyllum ankylorhinon","J.J.Verm.","Rheedea","2(1): 10","1992","0971-2313","","","","","","","",""
-"960774-1","Bulbophyllum pidacanthum","J.J.Verm.","Rheedea","2(1): 5 (1992)","1992","0971-2313","","","","","","","",""
-"961728-1","Acacia pseudowightii","Thoth.","Rheedea","2(1): 73 (1992), nom. nov.","1992","0971-2313","","","","","","","",""
-"963485-1","Aganope polystachya","(Benth.) Thoth. & D.N.Das","Rheedea","2(1): 63 (1992):","1992","0971-2313","","","","","","","",""
-"967072-1","Potentilla bifurca subsp. moorcroftii","Soj√°k ex Panigrahi","Rheedea","1(1‚Äì2): 12 (1991):","1991","0971-2313","","","","","","","",""
-"967073-1","Mallotus resinosus var. cuneatus","(Ridl.) N.P.Balakr. & Chakrab.","Rheedea","1(1‚Äì2): 39 (1991):","1991","0971-2313","","","","","","","",""
-"967074-1","Mallotus resinosus var. muricatus","(Wight) N.P.Balakr. & Chakrab.","Rheedea","1(1‚Äì2): 39 (1991):","1991","0971-2313","","","","","","","",""
-"967370-1","Aganope thyrsiflora var. eualata","(Bedd.) Thoth. & D.N.Das","Rheedea","2(1): 63 (1992):","1992","0971-2313","","","","","","","",""
-"967371-1","Aganope thyrsiflora var. wallichii","(Prain) Thoth. & D.N.Das","Rheedea","2(1): 63 (1992):","1992","0971-2313","","","","","","","",""
-"967962-1","Gossypium sect. Serrata","Fryxell","Rheedea","2(2): 157 (1992).","1992","0971-2313","","","","","","","",""
-"968052-1","Gossypium sect. Triphylla","(Prokh.) Fryxell","Rheedea","2(2): 156 (1992):","1992","0971-2313","","","","","","","",""
-"968848-1","Dimeria sreenarayanae","Ravi & Anil Kumar","Rheedea","2(2): 101, as 'sreenarayanii'","1992","0971-2313","","","","","","","",""
-"968849-1","Dimeria idukkiensis","Ravi & Anil Kumar","Rheedea","2(2): 104 (1992)","1992","0971-2313","","","","","","","",""
-"968850-1","Gossypium vollesenii","Fryxell","Rheedea","2(2): 154 (1992)","1992","0971-2313","","","","","","","",""
-"972852-1","Euphorbia sebastinei","Binojk. & N.P.Balakr.","Rheedea","3(1): 26 (1993)","1993","0971-2313","","","","","","","",""
-"972853-1","Monocarpia kalimantanensis","Kessler","Rheedea","3(1): 73 (1993)","1993","0971-2313","","","","","","","",""
-"975974-1","Fimbristylis angamoozhiensis","Ravi & Anil Kumar","Rheedea","3(2): 108 (1993)","1993","0971-2313","","","","","","","",""
-"975975-1","Fimbristylis pseudonarayanii","Ravi & Anil Kumar","Rheedea","3(2): 110 (1993)","1993","0971-2313","","","","","","","",""
-"975976-1","Triadodaphne pachytepala","Kosterm.","Rheedea","3(2): 129 (1993)","1993","0971-2313","","","","","","","",""
-"975977-1","Triadodaphne inaequitepala","(Kosterm.) Kosterm.","Rheedea","3(2): 131 (1993):","1993","0971-2313","","","","","","","",""
-"975978-1","Mutisiopersea","Kosterm.","Rheedea","3(2): 133 (1993).","1993","0971-2313","","","","","","","",""
-"975979-1","Mutisiopersea aurita","(Miq.) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975980-1","Mutisiopersea brenesii","(Standl.) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975981-1","Mutisiopersea campii","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975982-1","Mutisiopersea chamissonis","(Mez) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975983-1","Mutisiopersea chrysophylla","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975984-1","Mutisiopersea corymbosa","(Mez) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975985-1","Mutisiopersea costata","(Meisn.) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975986-1","Mutisiopersea cuneata","(Meisn.) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975987-1","Mutisiopersea donnell-smithii","(Mez) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975988-1","Mutisiopersea fastigiata","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975989-1","Mutisiopersea fulva","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975990-1","Mutisiopersea haenkeana","(Mez) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975991-1","Mutisiopersea hexanthera","(L.E.Kopp) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975992-1","Mutisiopersea hintonii","(C.K.Allen) Kosterm.","Rheedea","3(2): 134 (1993):","1993","0971-2313","","","","","","","",""
-"975993-1","Mutisiopersea hypoleuca","(A.Rich.) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"975994-1","Mutisiopersea krugii","(Mez) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"975995-1","Mutisiopersea liebmannii","(Mez) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"975996-1","Mutisiopersea major","(L.E.Kopp) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"975997-1","Mutisiopersea mutisii","(Kunth) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"975998-1","Mutisiopersea nivea","(Mez) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"975999-1","Mutisiopersea oblongifolia","(L.E.Kopp) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976000-1","Mutisiopersea peruviana","(Nees) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976001-1","Mutisiopersea podadenia","(S.F.Blake) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976002-1","Mutisiopersea punctata","(Meisn.) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976003-1","Mutisiopersea rufotomentosa","(Nees) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976004-1","Mutisiopersea ruizii","(J.F.Macbr.) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976005-1","Mutisiopersea sericea","(Humb., Bonpl. & Kunth) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976006-1","Mutisiopersea standleyi","(C.K.Allen) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976007-1","Mutisiopersea subcordata","(Ruiz & Pav.) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976008-1","Mutisiopersea urbaniana","(Mez) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976009-1","Mutisiopersea veraguasensis","(Seem.) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976010-1","Mutisiopersea vesticula","(Standl. & Steyerm.) Kosterm.","Rheedea","3(2): 135 (1993):","1993","0971-2313","","","","","","","",""
-"976011-1","Curcuma haritha","Mangaly & M.Sabu","Rheedea","3(2): 152 (1993)","1993","0971-2313","","","","","","","",""
-"979098-1","Beilschmiedia superba","Kosterm.","Rheedea","4(1): 13 (1994)","1994","0971-2313","","","","","","","",""
-"979099-1","Cassytha larsenii","Kosterm.","Rheedea","4(1): 14 (1994)","1994","0971-2313","","","","","","","",""
-"979100-1","Cryptocarya cuprea","Kosterm.","Rheedea","4(1): 14 (1994)","1994","0971-2313","","","","","","","",""
-"979101-1","Endiandra rigidior","Kosterm.","Rheedea","4(1): 15 (1994)","1994","0971-2313","","","","","","","",""
-"979102-1","Durio bruneiensis","Kosterm.","Rheedea","4(1): 15 (1994)","1994","0971-2313","","","","","","","",""
-"979103-1","Trithuria konkanensis","S.R.Yadav & Janarth.","Rheedea","4(1): 18 (1994)","1994","0971-2313","","","","","","","",""
-"979104-1","Polyalthia shendurunii","Basha & Sasidh.","Rheedea","4(1): 21 (1994)","1994","0971-2313","","","","","","","",""
-"979105-1","Aponogeton bruggenii","S.R.Yadav & Govekar","Rheedea","4(1): 34 (1994)","1994","0971-2313","","","","","","","",""
-"979106-1","Berberis kunawurensis var. diversifolia","Ahrendt ex T.Husain, Datt & R.R.Rao","Rheedea","4(1): 37 (1994)","1994","0971-2313","","","","","","","",""
-"979107-1","Tricholepis glaberrima var. angustifolia","(DC.) L.B.Chaudhary & A.K.Pandey","Rheedea","4(1): 45","1994","0971-2313","","","","","","","",""
-"979108-1","Euphorbia lawsonii","Binojk. & Dwarakan","Rheedea","4(1): 60","1994","0971-2313","","","","","","","",""
-"979109-1","Valeriana himachalensis","V.Prakash & Mehrotra","Rheedea","4(1): 70 (1994)","1994","0971-2313","","","","","","","",""
-"981624-1","Fuirena ponmudiensis","Ravi & Anil Kumar","Rheedea","4(2): 102 (1994)","1994","0971-2313","","","","","","","",""
-"981625-1","Ardisia stonei","Sasidh. & Sivar.","Rheedea","4(2): 116 (1994)","1994","0971-2313","","","","","","","",""
-"981626-1","Calamus basui","Renuka & Vijayak.","Rheedea","4(2): 120 (1994)","1994","0971-2313","","","","","","","",""
-"981627-1","Calamus semierectus","Renuka & Vijayak.","Rheedea","4(2): 122 (1994)","1994","0971-2313","","","","","","","",""
-"981628-1","Daemonorops aurea","Renuka & Vijayak.","Rheedea","4(2): 122 (1994), as 'aureus'","1994","0971-2313","","","","","","","",""
-"981629-1","Daemonorops rarispinosa","Renuka & Vijayak.","Rheedea","4(2): 125 (1994), as 'rarispinosus'","1994","0971-2313","","","","","","","",""
-"981630-1","Daemonorops wrightmyoensis","Renuka & Vijayak.","Rheedea","4(2): 125 (1994)","1994","0971-2313","","","","","","","",""
-"981631-1","Hibiscus sreenarayanianus","Anil Kumar & Ravi","Rheedea","4(2): 129 (1994)","1994","0971-2313","","","","","","","",""
-"981632-1","Aeginetia sessilis","Shivam. & Rajanna","Rheedea","4(2): 133 (1994)","1994","0971-2313","","","","","","","",""
-"981633-1","Calamus baratangensis","Renuka & Vijayak.","Rheedea","4(2): 141 (1994)","1994","0971-2313","","","","","","","",""
-"984260-1","Corydalis diffusa","Lid√©n","Rheedea","5(1): 6 (1995)","1995","0971-2313","","","","","","","",""
-"984261-1","Corydalis pseudotongolensis","Lid√©n","Rheedea","5(1): 10 (1995)","1995","0971-2313","","","","","","","",""
-"984262-1","Corydalis sibirica subsp. elata","Lid√©n","Rheedea","5(1): 16 (1995)","1995","0971-2313","","","","","","","",""
-"984263-1","Corydalis zhongdianensis","Z.Y.Su & Lid√©n","Rheedea","5(1): 16 (1995)","1995","0971-2313","","","","","","","",""
-"984264-1","Corydalis rostellata","Lid√©n","Rheedea","5(1): 20 (1995)","1995","0971-2313","","","","","","","",""
-"984265-1","Corydalis casimiriana subsp. brachycarpa","Lid√©n","Rheedea","5(1): 27 (1995)","1995","0971-2313","","","","","","","",""
-"984266-1","Corydalis rubrisepala subsp. zhuangiana","Lid√©n","Rheedea","5(1): 30 (1995)","1995","0971-2313","","","","","","","",""
-"984267-1","Dimeria chelariensis","Ravi","Rheedea","5(1): 37 (1995)","1995","0971-2313","","","","","","","",""
-"984268-1","Dimeria eradii","Ravi","Rheedea","5(1): 39 (1995)","1995","0971-2313","","","","","","","",""
-"984269-1","Rhynchosia courtallensis","Maesen","Rheedea","5(1): 56 (1995), nom. nov.","1995","0971-2313","","","","","","","",""
-"984270-1","Leptochloa panicea subsp. mucronata","(Michx.) R.Nowack","Rheedea","5(1): 93 (1995):","1995","0971-2313","","","","","","","",""
-"994572-1","Scleria levis var. pubescens","(Steud.) Tjitr.","Rheedea","5(2): 111","1995","0971-2313","","","","","","","",""
-"994573-1","Claoxylon sect. Rostratae","Susila & N.P.Balakr.","Rheedea","5(2): 138 (1995).","1995","0971-2313","","","","","","","",""
-"994574-1","Dimeria mahendragiriensis","Ravi, H.O.Saxena & Brahmam","Rheedea","5(2): 142 (1995)","1995","0971-2313","","","","","","","",""
-"994575-1","Bupleurum gansuense","S.L.Pan & P.S.Hsu","Rheedea","5(2): 145 (1995)","1995","0971-2313","","","","","","","",""
-"994576-1","Euphorbia concanensis","Janarth. & S.R.Yadav","Rheedea","5(2): 148 (1995)","1995","0971-2313","","","","","","","",""
-"998171-1","Dimeria sivarajanii","N.Mohanan & Ravi","Rheedea","6(2): 47 (1996)","1996","0971-2313","","","","","","","",""
-"998172-1","Impatiens sivarajanii","M.Kumar & Sequiera","Rheedea","6(2): 51 (1996)","1996","0971-2313","","","","","","","",""
-"998173-1","Pentanema indicum var. sivarajanianum","R.R.V.Raju & C.P.Raju","Rheedea","6(2): 55 (1996)","1996","0971-2313","","","","","","","",""
-"998174-1","Fimbristylis bispicula","Govind.","Rheedea","6(2): 59 (1996)","1996","0971-2313","","","","","","","",""
-"998175-1","Fimbristylis breviculma","Govindar.","Rheedea","6(2): 61","1996","0971-2313","","","","","","","",""
-"998176-1","Fimbristylis stigmatotecta","Govind.","Rheedea","6(2): 61 (1996)","1996","0971-2313","","","","","","","",""
-"998234-1","Dimeria namboodiriana","Ravi & N.Mohanan","Rheedea","7(1): 1 (1997)","1997","0971-2313","","","","","","","",""
-"998235-1","Ione arunachalense","A.N.Rao","Rheedea","7(1): 48 (1997)","1997","0971-2313","","","","","","","",""
-"77142287-1","Hygrophila thymus","(Nees) Sunojk. & M.G.Prasad","Rheedea","24(1): 13","2014","0971-2313","","","","","","","",""
-"77150769-1","Aponogeton nateshii","S.R.Yadav","Rheedea","25(1): 9","2015","0971-2313","","","","","","","",""
-"77142288-1","Cucumis hystrix var. mizoramensis","Sutar & S.R.Yadav","Rheedea","24(1): 46","2014","0971-2313","","","","","","","",""
-"60470153-2","Ficus anamalayana","Sudhakar & G.V.S.Murthy","Rheedea","25(1): 1, figs. 1-4","2015","0971-2313","","","","","","","",""
-"77146716-1","Rivina humilis var. bracteata","D.Maity, Sonia Mitra, Manasi Mandal & Maiti","Rheedea","24(2): 103","2014","0971-2313","","","","","","","",""
-"77132018-1","Trachys narasimhanii","Ravich.","Rheedea","23(1): 22","2013","0971-2313","","","","","","","",""
-"77159218-1","Ceropegia ravikumariana","Kambale & Gnanasek.","Rheedea","26(1): 57","2016","0971-2313","","","","","","","",""
-"77159216-1","Sanjappa","E.R.Souza & Krishnaraj","Rheedea","26(1): 6","2016","0971-2313","","","","","","","",""
-"77159217-1","Sanjappa cynometroides","(Bedd.) E.R.Souza & Krishnaraj","Rheedea","26(1): 6","2016","0971-2313","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+1001110-2	Mutisiopersea fulva	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1001316-1	Calamus neelagiricus	Renuka	Rheedea	7(2): 69 (1997)	1997	0971-2313								
+1001317-1	Symplocos macrophylla subsp. namboodiriana	Sivad. & N.Mohanan	Rheedea	7(2): 89 (1997), as 'namboodirianus'	1997	0971-2313								
+1001318-1	Fimbristylis benthamiana	Govind.	Rheedea	7(2): 115 (1997)	1997	0971-2313								
+1001319-1	Fimbristylis humerosa	Govind.	Rheedea	7(2): 117 (1997)	1997	0971-2313								
+1001320-1	Fimbristylis ultragluma	Govind.	Rheedea	7(2): 119 (1997)	1997	0971-2313								
+1001321-1	Fimbristylis dimorphonucifera	Govind.	Rheedea	7(2): 122 (1997)	1997	0971-2313								
+1001322-1	Fimbristylis mycosa	Govind.	Rheedea	7(2): 124 (1997)	1997	0971-2313								
+1001323-1	Fimbristylis pandurata	Govind.	Rheedea	7(2): 124 (1997)	1997	0971-2313								
+1001324-1	Oberonia arunachalensis	A.N.Rao	Rheedea	7(2): 130 (1997)	1997	0971-2313								
+1004374-1	Euphorbia balakrishnanii	Binojk. & Gopalan	Rheedea	8(1): 67 (1998)	1998	0971-2313								
+1004375-1	Scirpus naikianus	Wad.Khan	Rheedea	8(1): 71 (1998)	1998	0971-2313								
+1004376-1	Brachystelma naorojii	P.Tetali, D.K.Kulk., S.Tetali & M.S.Kumbhojkar	Rheedea	8(1): 75 (1998)	1998	0971-2313								
+1004377-1	Biophytum veldkampii	A.E.S.Khan, E.S.S.Kumar, S.Binu & Pushp.	Rheedea	8(1): 79 (1998)	1998	0971-2313								
+1004378-1	Fimbristylis manilaliana	Govind.	Rheedea	8(1): 87 (1998)	1998	0971-2313								
+1004379-1	Fimbristylis doliiformis	Govind.	Rheedea	8(1): 89 (1998)	1998	0971-2313								
+1004380-1	Fimbristylis tumida	Govind.	Rheedea	8(1): 91 (1998)	1998	0971-2313								
+1004381-1	Fimbristylis virella	Govind.	Rheedea	8(1): 93 (1998)	1998	0971-2313								
+1007804-1	Eriocaulon ratnagiricum	S.R.Yadav, S.P.Gaikwad & Sardesai	Rheedea	8(2): 145	1998	0971-2313								
+1007805-1	Ischaemum kumarakodiense	Ravi, N.Mohanan & Kiran Raj	Rheedea	8(2): 149 (1998), as 'kumarakodiensis'	1998	0971-2313								
+1007806-1	Ischaemum quilonense	Ravi & Shaju	Rheedea	8(2): 152 (1998), as 'quilonensis'	1998	0971-2313								
+1007807-1	Ischaemum pappinisseriense	Ravi, N.Mohanan & R.Rajesh	Rheedea	8(2): 155 (1998), as 'pappinisseriensis'	1998	0971-2313								
+1007808-1	Habenaria periyarensis	Sasidh., K.P.Rajesh & Augustine	Rheedea	8(2): 167 (1998)	1998	0971-2313								
+1012930-2	Mutisiopersea chrysophylla	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1013139-1	Ochlandra spirostylis	M.Kumar, K.K.Seethal. & Sequiera	Rheedea	9(1): 31 (1999)	1999	0971-2313								
+1013140-1	Ochlandra soderstromiana	M.Kumar & Sequiera	Rheedea	9(1): 33 (1999)	1999	0971-2313								
+1013141-1	Nothopegia vajravelui	K.Ravik. & V.Lakshm.	Rheedea	9(1): 56 (1999)	1999	0971-2313								
+1013142-1	Syzygium sriganesanii	K.Ravik. & V.Lakshm.	Rheedea	9(1): 59 (1999)	1999	0971-2313								
+1013143-1	Syzygium zeylanicum var. magamalayanum	K.Ravik. & V.Lakshm.	Rheedea	9(1): 61 (1999)	1999	0971-2313								
+1013144-1	Sonerila parameswaranii	K.Ravik. & V.Lakshm.	Rheedea	9(1): 63 (1999)	1999	0971-2313								
+1013145-1	Schefflera maduraiensis	K.Ravik. & V.Lakshm.	Rheedea	9(1): 66 (1999)	1999	0971-2313								
+1013146-1	Hedyotis shettyi	K.Ravik. & V.Lakshm.	Rheedea	9(1): 69 (1999)	1999	0971-2313								
+1013147-1	Anisochilus henryi	K.Ravik. & V.Lakshm.	Rheedea	9(1): 72 (1999)	1999	0971-2313								
+1014619-2	Mutisiopersea costata	(Meisn.) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1015720-2	Mutisiopersea hintonii	(C.K.Allen) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1017295-1	Cyathocline manilaliana	C.P.Raju & R.R.V.Raju	Rheedea	9(2): 151 (1999)	1999	0971-2313								
+1017296-1	Syzygium periyarense	Augustine & Sasidh.	Rheedea	9(2): 155	1999	0971-2313								
+1017297-1	Amomum garoense	Sunil Tripathi & Ved Prakash	Rheedea	9(2): 177 (1999), as 'garoensis'	1999	0971-2313								
+1018591-1	Scirpus littoralis subsp. subulatus	(Vahl) Wad.Khan	Rheedea	10(1): 28 (2000):	2000	0971-2313								
+1018592-1	Ischaemum pushpangadanii	Ravi, N.Mohanan & Kiran Raj	Rheedea	10(1): 49 (2000)	2000	0971-2313								
+1018593-1	Oberonia raoi	L.R.Shakya & R.P.Chaudhary	Rheedea	10(1): 57 (2000), as 'raoii'	2000	0971-2313								
+1018594-1	Chrysopogon castaneus	Veldkamp & Salunkhe	Rheedea	10(1): 59 (2000)	2000	0971-2313								
+1028678-2	Mutisiopersea campii	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1043506-2	Mutisiopersea corymbosa	(Mez) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1043705-2	Mutisiopersea punctata	(Meisn.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1055987-2	Mutisiopersea aurita	(Miq.) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1065375-2	Mutisiopersea oblongifolia	(L.E.Kopp) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1065725-2	Mutisiopersea brenesii	(Standl.) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1068091-2	Mutisiopersea major	(Meisn.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1075756-2	Mutisiopersea hypoleuca	(A.Rich.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1077900-2	Mutisiopersea subcordata	(Ruiz & Pav.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1077901-2	Mutisiopersea veraguasensis	(Seem.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1077972-2	Mutisiopersea ruizii	(J.F.Macbr.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1079120-2	Mutisiopersea chamissonis	(Mez) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1082066-2	Mutisiopersea krugii	(Mez) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1082573-2	Mutisiopersea vesticula	(Standl. & Steyerm.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1088949-2	Mutisiopersea podadenia	(S.F.Blake) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1101466-2	Mutisiopersea liebmannii	(Mez) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1106228-2	Mutisiopersea peruviana	(Nees) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1106731-2	Mutisiopersea urbaniana	(Mez) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1114079-2	Mutisiopersea nivea	(Mez) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1164417-2	Mutisiopersea hexanthera	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1164440-2	Mutisiopersea sericea	(Kunth) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1176815-2	Mutisiopersea cuneata	(Meisn.) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1182179-2	Mutisiopersea mutisii	(Kunth) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1191195-2	Leptochloa panicea subsp. mucronata	(Michx.) Nowack	Rheedea	5: 93	1995	0971-2313								
+1195912-2	Mutisiopersea fastigiata	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1196873-2	Mutisiopersea standleyi	(C.K.Allen) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+1197170-2	Mutisiopersea haenkeana	(Mez) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1200187-2	Mutisiopersea donnell-smithii	(Mez) Kosterm.	Rheedea	3(2): 134	1993 [31 Dec 1993]	0971-2313								
+1201995-2	Mutisiopersea rufotomentosa	(Nees & Mart.) Kosterm.	Rheedea	3(2): 135	1993 [31 Dec 1993]	0971-2313								
+20000436-1	Ischaemum lanatum	Ravi, N.Mohanan & Shaju	Rheedea	10(2): 91 (2000)	2000	0971-2313								
+20000437-1	Chrysopogon purushothamanii	Ravi, N.Mohanan & Kiran Raj	Rheedea	10(2): 94 (2000)	2000	0971-2313								
+20000438-1	Glyphochloa henryi	Janarth., V.C.Joshi & S.Rajkumar	Rheedea	10(2): 99 (2000)	2000	0971-2313								
+20000439-1	Leea adwivedica	K.Kumar	Rheedea	10(2): 103 (2000)	2000	0971-2313								
+20000440-1	Utricularia janarthanamii	S.R.Yadav, Sardesai & S.P.Gaikwad	Rheedea	10(2): 107 (2000)	2000	0971-2313								
+20000441-1	Utricularia naikii	S.R.Yadav, Sardesai & S.P.Gaikwad	Rheedea	10(2): 110 (2000)	2000	0971-2313								
+20000442-1	Viscum subracemosum	Sanjai & N.P.Balakr.	Rheedea	10(2): 113 (2000)	2000	0971-2313								
+20000443-1	Thottea sivarajanii	E.S.S.Kumar, A.E.S.Khan & Binu	Rheedea	10(2): 117 (2000)	2000	0971-2313								
+20000444-1	Balanophora indica var. agastyamalayana	M.B.Viswan., Prem Kumar & N.Ramesh	Rheedea	10(2): 121 (2000)	2000	0971-2313								
+20000445-1	Balanophora indica var. tirunelveliensis	M.B.Viswan., Prem Kumar & N.Ramesh	Rheedea	10(2): 123 (2000)	2000	0971-2313								
+20005239-1	Calamus shendurunii	Anto, Renuka & V.B.Sreek.	Rheedea	11(1): 37 (2001)	2001	0971-2313								
+20005240-1	Grewia palodensis	E.S.S.Kumar, A.E.S.Khan, Binu & S.M.Almeida	Rheedea	11(1): 41 (2001)	2001	0971-2313								
+20007237-1	Chrysopogon copei	N.Mohanan & Ravi	Rheedea	11(2): 87 (2001)	2001	0971-2313								
+20007238-1	Dimeria josephii	Ravi & N.Mohanan	Rheedea	11(2): 90 (2001)	2001	0971-2313								
+20007239-1	Dimeria agasthyamalayana	Kiran Raj & Ravi	Rheedea	11(2): 93 (2001)	2001	0971-2313								
+20007240-1	Bulbophyllum rosemarianum	C.S.Kumar, P.C.S.Kumar & Saleem	Rheedea	11(2): 97 (2001)	2001	0971-2313								
+20007241-1	Dysoxylum swaminathanianum	Anil Kumar & Sivad.	Rheedea	11(2): 116 (2001)	2001	0971-2313								
+20009814-1	Strobilanthes pushpangadanii	E.S.S.Kumar, Jabbar & A.E.S.Khan	Rheedea	12(1): 73 (2002)	2002	0971-2313								
+325624-2	Mutisiopersea	Kosterm.	Rheedea	3(2): 133	1993	0971-2313								
+60437972-2	Eriocaulon apetalum	Punekar, Malpure & Lakshmin.	Rheedea	13(1-2): 19 (-21; fig. 1)	2004 [2003 publ. 31 Dec 2004]	0971-2313								
+60437973-2	Eriocaulon cookei	Punekar, Malpure & Lakshmin.	Rheedea	13(1-2): 21 (fig. 2)	2004 [2003 publ. 31 Dec 2004]	0971-2313								
+60437974-2	Eriocaulon koynense	Punekar, Mungikar & Lakshmin.	Rheedea	13(1-2): 21 (-24; fig. 3)	2004 [2003 publ. 31 Dec 2004]	0971-2313								
+60437975-2	Eriocaulon sahyadricum	Punekar, Malpure & Lakshmin.	Rheedea	13(1-2): 25 (-27; fig. 5)	2004 [2003 publ. 31 Dec 2004]	0971-2313								
+60437976-2	Eriocaulon maharashtrense	Punekar & Lakshmin.	Rheedea	13(1-2): 24 (fig. 4)	2004 [2003 publ. 31 Dec 2004]	0971-2313								
+60454370-2	Morus macroura var. laxiflora	G.K.Upadhyay & A.A.Ansari	Rheedea	20(1): 44 (-49; figs. 1-3)	2010 [30 Jun 2010]	0971-2313								
+70028294-1	Eriocaulon kolhapurense	S.P.Gaikwad, Sardesai & S.R.Yadav	Rheedea	12(2): 133 (2002)	2002	0971-2313								
+70028295-1	Crotalaria retusa var. indica	Nampy & Sibichen	Rheedea	12(2): 143 (2002)	2002	0971-2313								
+70028298-1	Amorphophallus commutatus var. anmodensis	Sivad. & Jaleel	Rheedea	12(2): 159 (2002)	2002	0971-2313								
+70028299-1	Amorphophallus commutatus var. wayanadensis	Sivad. & Jaleel	Rheedea	12(2): 163 (2002)	2002	0971-2313								
+70028302-1	Leucas beddomei	(Hook.f.) Sunojk. & P.Mathew	Rheedea	12(2): 170 (2002)	2002	0971-2313								
+77065730-1	Glyphochloa veldkampii	M.A.Fonseca & Janarth.	Rheedea	13(1-2): 35 (-38; fig. 1)	2004 [2003 publ. 31 Dec 2004]	0971-2313								
+77070220-1	Arundinella ravii	Shaju & N.Mohanan	Rheedea	14(1-2): 47 (-50; fig. 1)	2004 [31 December 2004]	0971-2313								
+77070221-1	Boesenbergia siphonantha	(King ex Baker) M.Sabu, Prasanthk. & äkorni?k.	Rheedea	14(1-2): 55	2004 [31 December 2004]	0971-2313								
+77070222-1	Eriocaulon karnatakense	S.P.Gaikwad, Sardesai, U.S.Yadav & S.R.Yadav	Rheedea	14(1-2): 63 (-65; fig. 1)	2004 [31 December 2004]	0971-2313								
+77077743-1	Bulbophyllum manipurense	C.S.Kumar & P.C.S.Kumar	Rheedea	15(1): 12 (-13; fig. 4)	2005 [31 Oct 2005]	0971-2313								
+77077744-1	Luisiopsis	C.S.Kumar & P.C.S.Kumar	Rheedea	15(1): 46 (-47)	2005 [31 Oct 2005]	0971-2313								
+77077745-1	Luisiopsis inconspicua	(Hook.f.) C.S.Kumar & P.C.S.Kumar	Rheedea	15(1): 48	2005 [31 Oct 2005]	0971-2313								
+77077746-1	Utricularia babui	S.R.Yadav, Sardesai & S.P.Gaikwad	Rheedea	15(1): 71 (-73; fig. 1)	2005 [31 Oct 2005]	0971-2313								
+77077747-1	Anoectochilus annamensis	Aver.	Rheedea	15(2): 83 (-85; figs. 1, 4a-b)	2005 [31 Dec 2005]	0971-2313								
+77077748-1	Bulbophyllum gunnarii	Aver.	Rheedea	15(2): 85 (-87; figs. 2, 4c-d)	2005 [31 Dec 2005]	0971-2313								
+77077749-1	Bulbophyllum guttulatoides	Aver.	Rheedea	15(2): 87 (figs. 3, 4e-g)	2005 [31 Dec 2005]	0971-2313								
+77077750-1	Cheirostylis serpens	Aver.	Rheedea	15(2): 87 (-90; figs. 5, 8a-b)	2005 [31 Dec 2005]	0971-2313								
+77077751-1	Gastrodia theana	Aver.	Rheedea	15(2): 90 (-92; figs. 6, 8c-e)	2005 [31 Dec 2005]	0971-2313								
+77077752-1	Lecanorchis vietnamica	Aver.	Rheedea	15(2): 92 (-93; figs. 7, 8f-i)	2005 [31 Dec 2005]	0971-2313								
+77077753-1	Liparis filiformis	Aver.	Rheedea	15(2): 93 (-97; figs. 9, 11a-b)	2005 [31 Dec 2005]	0971-2313								
+77077754-1	Oberonia huensis	Aver.	Rheedea	15(2): 97 (figs. 10, 11c-d)	2005 [31 Dec 2005]	0971-2313								
+77077755-1	Saccolabiopsis viridiflora	Aver.	Rheedea	15(2): 97 (-101; figs. 11e-f, 12)	2005 [31 Dec 2005]	0971-2313								
+77077756-1	Medinilla sahyadrica	Sujanapal & Sasidh.	Rheedea	15(2): 109 (figs. 3, 4d, 5 e-f, map)	2005 [31 Dec 2005]	0971-2313								
+77077757-1	Astragalus sanjappae	L.B.Chaudhary & Z.H.Khan	Rheedea	15(2): 129 (-131; fig. 1)	2005 [31 Dec 2005]	0971-2313								
+77080184-1	Tragia montana var. dioica	Chakrab. & N.P.Balakr.	Rheedea	16(1): 21 (-22)	2006 [30 Jun 2006]	0971-2313								
+77080185-1	Tragia praetervisa	Chakrab. & N.P.Balakr.	Rheedea	16(1): 23 (-25; fig. 3)	2006 [30 Jun 2006]	0971-2313								
+77080187-1	Tragia praetervisa var. unicolor	(M¸ll.Arg.) Chakrab. & N.P.Balakr.	Rheedea	16(1): 25	2006 [30 Jun 2006]	0971-2313								
+77080188-1	Tragia sanjappae	Chakrab. & N.P.Balakr.	Rheedea	16(1): 25 (-27; fig. 4)	2006 [30 Jun 2006]	0971-2313								
+77083906-1	Calanthe duyana	Aver.	Rheedea	16(1): 1 (-3; figs. 1, 3a-b)	2006 [30 Jun 2006]	0971-2313								
+77083907-1	Dendrobium chapaense	Aver.	Rheedea	16(1): 3 (-4; figs. 2, 3c)	2006 [30 Jun 2006]	0971-2313								
+77083908-1	Epipactis alatus	Aver. & Efimov	Rheedea	16(1): 4 (-7; figs. 3d-g, 4)	2006 [30 Jun 2006]	0971-2313								
+77083909-1	Gastrodia major	Aver.	Rheedea	16(1): 7 (figs. 3h, 5, 7a-b)	2006 [30 Jun 2006]	0971-2313								
+77083910-1	Gastrodia punctata	Aver.	Rheedea	16(1): 7 (-10; figs. 6, 7c-d)	2006 [30 Jun 2006]	0971-2313								
+77083911-1	Platanthera epiphytica	Aver. & Efimov	Rheedea	16(1): 10 (-12; figs. 7e-f, 8)	2006 [30 Jun 2006]	0971-2313								
+77083912-1	Zeuxine bidupensis	Aver.	Rheedea	16(1): 12 (-14; figs. 7g-h, 9)	2006 [30 Jun 2006]	0971-2313								
+77083913-1	Biermannia arunachalensis	A.N.Rao	Rheedea	16(1): 29 (-31; fig. 1)	2006 [30 Jun 2006]	0971-2313								
+77083914-1	Ceropegia mohanramii	S.R.Yadav, M.N.Gavade & Sardesai	Rheedea	16(1): 33 (-36; figs. 1, 2e-g, i, k)	2006 [30 Jun 2006]	0971-2313								
+77083915-1	Stereospermum colais var. shendurunii	Sasidh., Sujanapal & Binoy	Rheedea	16(1): 37 (-40; fig. 1)	2006 [30 Jun 2006]	0971-2313								
+77083916-1	Arisaema sahyadricum var. ghaticum	Sardesai, S.P.Gaikwad & S.R.Yadav	Rheedea	16(1): 45 (-48; figs. 1-2)	2006 [30 Jun 2006]	0971-2313								
+77083917-1	Dendrobium meghalayense	C.Deori, S.K.Sarma, Hynn. & Phukan	Rheedea	16(1): 55 (-58; figs. 1, 2k-o)	2006 [30 Jun 2006]	0971-2313								
+77083918-1	Eriocaulon devendranii	Vij.Sank., K.Ravik. & Gan.Babu	Rheedea	16(1): 59 (-61; fig. 1)	2006 [30 Jun 2006]	0971-2313								
+77091188-1	Fibraurea darshanii	Udayan & K.Ravik.	Rheedea	17(1-2): 9 (-12; fig. 1)	2007 [31 Dec 2007]	0971-2313								
+77091190-1	Thismia annamensis	K.Larsen & Aver.	Rheedea	17(1-2): 13 (-16; figs. 1-2, map)	2007 [31 Dec 2007]	0971-2313								
+77091191-1	Thismia tentaculata	K.Larsen & Aver.	Rheedea	17(1-2): 16 (-19; figs. 4-5, map)	2007 [31 Dec 2007]	0971-2313								
+77091193-1	Humboldtia sanjappae	Sasidh. & Sujanapal	Rheedea	17(1-2): 21 (-23; fig. 1)	2007 [31 Dec 2007]	0971-2313								
+77091194-1	Hedyotis nairii	Murug. & V.Balas.	Rheedea	17(1-2): 25 (-27; fig. 1)	2007 [31 Dec 2007]	0971-2313								
+77091195-1	Piper nirjulianum	Gajurel, Rethy & Y.Kumar	Rheedea	17(1-2): 35 (-39; figs. 1-2)	2007 [31 Dec 2007]	0971-2313								
+77091196-1	Caralluma stalagmifera var. longipetala	Karupp. & Pull.	Rheedea	17(1-2): 42 (-45; fig. 2)	2007 [31 Dec 2007]	0971-2313								
+77091198-1	Caralluma stalagmifera var. intermedia	Karupp. & Pull.	Rheedea	17(1-2): 45 (fig. 3)	2007 [31 Dec 2007]	0971-2313								
+77094913-1	Bulbophyllum jayaweerae	S.S.Fernando & Ormerod	Rheedea	18(1): 8	2008 [31 Aug 2008]	0971-2313								
+77094914-1	Robiquetia virescens	Ormerod & S.S.Fernando	Rheedea	18(1): 22 (-23; fig. 12)	2008 [31 Aug 2008]	0971-2313								
+77094915-1	Calamus renukae	J.Jacob, N.Mohanan & Kariyappa	Rheedea	18(1): 29 (-31; fig. 1)	2008 [31 Aug 2008]	0971-2313								
+77104271-1	Eleocharis wadoodii	S.R.Yadav, Lekhak & Chandore	Rheedea	19(1-2): 37 (-40; figs. 1-2)	2009 [30 Dec 2009]	0971-2313								
+77104272-1	Eriocaulon baramaticum	Shimpale, Bhagat, R.B.Deshmukh & S.R.Yadav	Rheedea	19(1-2): 47 (-49; fig. 1)	2009 [30 Dec 2009]	0971-2313								
+77104273-1	Mussaenda nicobarica	Shimpale, S.R.Yadav & Babu	Rheedea	19(1-2): 54 (-56; fig. 1)	2009 [30 Dec 2009]	0971-2313								
+77107240-1	Dendrobium hkinhumense	Ormerod & C.S.Kumar	Rheedea	18(2): 75 (-76; fig. 1)	2008	0971-2313								
+77107241-1	Lakshmia	Veldkamp	Rheedea	18(2): 81 (-84)	2008	0971-2313								
+77107242-1	Lakshmia venusta	(Thwaites) Veldkamp	Rheedea	18(2): 84	2008	0971-2313								
+77107243-1	Costus mulus	Meekiong, Ipor & Tawan	Rheedea	18(2): 87 (-88; fig. 1)	2008	0971-2313								
+77107244-1	Urochloa caboverdiana	(Conert & C.Kohler) Veldkamp, Potdar & S.R.Yadav	Rheedea	18(2): 93	2008	0971-2313								
+77107245-1	Gastrodia silentvalleyana	C.S.Kumar, P.C.S.Kumar, Sibi & S.Anil Kumar	Rheedea	18(2): 109 (107; fig. 1)	2008	0971-2313								
+77107246-1	Pogostemon raghavendranii	R.Murugan & Livingst.	Rheedea	20(1): 21 (-24; fig. 1, map 1)	2010	0971-2313								
+77107247-1	Eriocaulon wayanadense	Vivek, Swapna & K.K.Suresh	Rheedea	20(1): 25 (-27; fig. 1)	2010	0971-2313								
+77107248-1	Carex hokarsarensis	E.U.Haq & Dar	Rheedea	20(1): 29 (-30; fig. 1)	2010	0971-2313								
+77107249-1	Cleistanthus andamanicus	N.Balach., Gastmans & Chakrab.	Rheedea	20(1): 32 (-34; fig. 1)	2010	0971-2313								
+77107250-1	Jansenella neglecta	S.R.Yadav, Chivalkar & Gosavi	Rheedea	20(1): 39 (-42; figs. 1-2)	2010	0971-2313								
+77113750-1	Vigna indica	T.M.Dixit, K.V.Bhat & S.R.Yadav	Rheedea	21(1): 1	2011 [30 Jun 2011]	0971-2313								
+77113753-1	Impatiens vivekananthanii	J.R.N.Dessai & Janarth.	Rheedea	21(1): 58 (-59; fig. 19)	2011 [30 Jun 2011]	0971-2313								
+77118532-1	Litsea kakkachensis	R.Ganesan	Rheedea	21(2): 143 (-146; fig. 1)	2011 [31 Dec 2011]	0971-2313								
+77118533-1	Crotalaria assamica var. keralensis	Krishnaraj, N.Mohanan & V.T.Antony	Rheedea	21(2): 153 (-154; fig. 3)	2011 [31 Dec 2011]	0971-2313								
+77118534-1	Impatiens sikkimensis	Govaerts & Chakrab.	Rheedea	21(2): 173	2011 [31 Dec 2011]	0971-2313								
+77121610-1	Vigna sahyadriana	Aitawade, K.V.Bhat & S.R.Yadav	Rheedea	22(1): 20	2012 [30 Jun 2012]	0971-2313								
+77121612-1	Vigna silvestris	(Lukoki, MarÈchal & Otoul) Aitawade, K.V.Bhat & S.R.Yadav	Rheedea	22(1): 22	2012 [30 Jun 2012]	0971-2313								
+77121613-1	Acilepis peninsularis var. kodayarensis	(A.N.Henry & Gopalan) Ras.Beeg. & Sibi	Rheedea	22(1): 38	2012 [30 Jun 2012]	0971-2313								
+77121615-1	Acilepis saligna var. nilghirensis	(Hook.f.) Ras.Beeg. & Sibi	Rheedea	22(1): 38	2012 [30 Jun 2012]	0971-2313								
+77126087-1	Tylophora nicobarica	Murugan & M.Y.Kamble	Rheedea	22(2): 83	2012 [31 Dec 2012]	0971-2313								
+77126088-1	Henckelia pradeepiana	Nampy, Manudev & A.Weber	Rheedea	22(2): 119	2012 [31 Dec 2012]	0971-2313								
+957325-1	Corydalis sect. Fumarioides	LidÈn	Rheedea	1(1ñ2): 32 (1991).	1991	0971-2313								
+957326-1	Corydalis subsect. Radicosae	LidÈn	Rheedea	1(1ñ2): 32	1991	0971-2313								
+957327-1	Corydalis ser. Angustiflorae	LidÈn	Rheedea	1(1ñ2): 32 (1991).	1991	0971-2313								
+957328-1	Corydalis ser. Himalayanae	LidÈn	Rheedea	1(1ñ2): 32 (1991).	1991	0971-2313								
+957329-1	Corydalis ser. Pinnata	LidÈn	Rheedea	1(1ñ2): 32 (1991).	1991	0971-2313								
+957330-1	Corydalis ser. Tuberculata	LidÈn	Rheedea	1(1ñ2): 32 (1991).	1991	0971-2313								
+960112-1	Torenia cyrtandriflora	B.L.Burtt	Rheedea	1(1ñ2): 3 (1991)	1991	0971-2313								
+960113-1	Corydalis pseudodrakeana	LidÈn	Rheedea	1(1ñ2): 32 (1991)	1991	0971-2313								
+960114-1	Corydalis gouldii	LidÈn	Rheedea	1(1ñ2): 34 (1991)	1991	0971-2313								
+960115-1	Corydalis rubrisepala	LidÈn	Rheedea	1(1ñ2): 34 (1991)	1991	0971-2313								
+960116-1	Corydalis khasiana	LidÈn	Rheedea	1(1ñ2): 34 (1991)	1991	0971-2313								
+960117-1	Corydalis aconitiflora	LidÈn	Rheedea	1(1ñ2): 34 (1991)	1991	0971-2313								
+960118-1	Corydalis yui	LidÈn	Rheedea	1(1ñ2): 35 (1991)	1991	0971-2313								
+960119-1	Justicia ekakusuma	Pradeep & Sivar.	Rheedea	1(1ñ2): 42 (1991)	1991	0971-2313								
+960120-1	Sedum jiuhuashanense	P.S.Hsu & H.J.Wang	Rheedea	1(1ñ2): 46 (1991)	1991	0971-2313								
+960121-1	Sedum ecalcaratum	H.J.Wang & P.S.Hsu	Rheedea	1(1ñ2): 46 (1991)	1991	0971-2313								
+960122-1	Bulbophyllum rheedei	Manilal & C.S.Kumar	Rheedea	1(1ñ2): 55 (1991)	1991	0971-2313								
+960123-1	Tephrosia travancorica	Thoth. & D.N.Das	Rheedea	1(1ñ2): 57 (1991)	1991	0971-2313								
+960124-1	Bulbophyllum parabates	J.J.Verm.	Rheedea	1(1ñ2): 68 (1991)	1991	0971-2313								
+960125-1	Bulbophyllum quasimodo	J.J.Verm.	Rheedea	1(1ñ2): 69 (1991)	1991	0971-2313								
+960126-1	Bulbophyllum grammopoma	J.J.Verm.	Rheedea	1(1ñ2): 72 (1991)	1991	0971-2313								
+960127-1	Bulbophyllum sceliphron	J.J.Verm.	Rheedea	1(1ñ2): 75 (1991)	1991	0971-2313								
+960128-1	Bulbophyllum cardiophyllum	J.J.Verm.	Rheedea	1(1ñ2): 75 (1991)	1991	0971-2313								
+960770-1	Bulbophyllum cateorum	J.J.Verm.	Rheedea	2(1): 1	1992	0971-2313								
+960771-1	Bulbophyllum phormion	J.J.Verm.	Rheedea	2(1): 3	1992	0971-2313								
+960772-1	Bulbophyllum imitator	J.J.Verm.	Rheedea	2(1): 7	1992	0971-2313								
+960773-1	Bulbophyllum ankylorhinon	J.J.Verm.	Rheedea	2(1): 10	1992	0971-2313								
+960774-1	Bulbophyllum pidacanthum	J.J.Verm.	Rheedea	2(1): 5 (1992)	1992	0971-2313								
+961728-1	Acacia pseudowightii	Thoth.	Rheedea	2(1): 73 (1992), nom. nov.	1992	0971-2313								
+963485-1	Aganope polystachya	(Benth.) Thoth. & D.N.Das	Rheedea	2(1): 63 (1992):	1992	0971-2313								
+967072-1	Potentilla bifurca subsp. moorcroftii	Soj·k ex Panigrahi	Rheedea	1(1ñ2): 12 (1991):	1991	0971-2313								
+967073-1	Mallotus resinosus var. cuneatus	(Ridl.) N.P.Balakr. & Chakrab.	Rheedea	1(1ñ2): 39 (1991):	1991	0971-2313								
+967074-1	Mallotus resinosus var. muricatus	(Wight) N.P.Balakr. & Chakrab.	Rheedea	1(1ñ2): 39 (1991):	1991	0971-2313								
+967370-1	Aganope thyrsiflora var. eualata	(Bedd.) Thoth. & D.N.Das	Rheedea	2(1): 63 (1992):	1992	0971-2313								
+967371-1	Aganope thyrsiflora var. wallichii	(Prain) Thoth. & D.N.Das	Rheedea	2(1): 63 (1992):	1992	0971-2313								
+967962-1	Gossypium sect. Serrata	Fryxell	Rheedea	2(2): 157 (1992).	1992	0971-2313								
+968052-1	Gossypium sect. Triphylla	(Prokh.) Fryxell	Rheedea	2(2): 156 (1992):	1992	0971-2313								
+968848-1	Dimeria sreenarayanae	Ravi & Anil Kumar	Rheedea	2(2): 101, as 'sreenarayanii'	1992	0971-2313								
+968849-1	Dimeria idukkiensis	Ravi & Anil Kumar	Rheedea	2(2): 104 (1992)	1992	0971-2313								
+968850-1	Gossypium vollesenii	Fryxell	Rheedea	2(2): 154 (1992)	1992	0971-2313								
+972852-1	Euphorbia sebastinei	Binojk. & N.P.Balakr.	Rheedea	3(1): 26 (1993)	1993	0971-2313								
+972853-1	Monocarpia kalimantanensis	Kessler	Rheedea	3(1): 73 (1993)	1993	0971-2313								
+975974-1	Fimbristylis angamoozhiensis	Ravi & Anil Kumar	Rheedea	3(2): 108 (1993)	1993	0971-2313								
+975975-1	Fimbristylis pseudonarayanii	Ravi & Anil Kumar	Rheedea	3(2): 110 (1993)	1993	0971-2313								
+975976-1	Triadodaphne pachytepala	Kosterm.	Rheedea	3(2): 129 (1993)	1993	0971-2313								
+975977-1	Triadodaphne inaequitepala	(Kosterm.) Kosterm.	Rheedea	3(2): 131 (1993):	1993	0971-2313								
+975978-1	Mutisiopersea	Kosterm.	Rheedea	3(2): 133 (1993).	1993	0971-2313								
+975979-1	Mutisiopersea aurita	(Miq.) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975980-1	Mutisiopersea brenesii	(Standl.) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975981-1	Mutisiopersea campii	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975982-1	Mutisiopersea chamissonis	(Mez) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975983-1	Mutisiopersea chrysophylla	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975984-1	Mutisiopersea corymbosa	(Mez) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975985-1	Mutisiopersea costata	(Meisn.) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975986-1	Mutisiopersea cuneata	(Meisn.) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975987-1	Mutisiopersea donnell-smithii	(Mez) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975988-1	Mutisiopersea fastigiata	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975989-1	Mutisiopersea fulva	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975990-1	Mutisiopersea haenkeana	(Mez) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975991-1	Mutisiopersea hexanthera	(L.E.Kopp) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975992-1	Mutisiopersea hintonii	(C.K.Allen) Kosterm.	Rheedea	3(2): 134 (1993):	1993	0971-2313								
+975993-1	Mutisiopersea hypoleuca	(A.Rich.) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+975994-1	Mutisiopersea krugii	(Mez) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+975995-1	Mutisiopersea liebmannii	(Mez) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+975996-1	Mutisiopersea major	(L.E.Kopp) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+975997-1	Mutisiopersea mutisii	(Kunth) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+975998-1	Mutisiopersea nivea	(Mez) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+975999-1	Mutisiopersea oblongifolia	(L.E.Kopp) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976000-1	Mutisiopersea peruviana	(Nees) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976001-1	Mutisiopersea podadenia	(S.F.Blake) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976002-1	Mutisiopersea punctata	(Meisn.) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976003-1	Mutisiopersea rufotomentosa	(Nees) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976004-1	Mutisiopersea ruizii	(J.F.Macbr.) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976005-1	Mutisiopersea sericea	(Humb., Bonpl. & Kunth) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976006-1	Mutisiopersea standleyi	(C.K.Allen) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976007-1	Mutisiopersea subcordata	(Ruiz & Pav.) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976008-1	Mutisiopersea urbaniana	(Mez) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976009-1	Mutisiopersea veraguasensis	(Seem.) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976010-1	Mutisiopersea vesticula	(Standl. & Steyerm.) Kosterm.	Rheedea	3(2): 135 (1993):	1993	0971-2313								
+976011-1	Curcuma haritha	Mangaly & M.Sabu	Rheedea	3(2): 152 (1993)	1993	0971-2313								
+979098-1	Beilschmiedia superba	Kosterm.	Rheedea	4(1): 13 (1994)	1994	0971-2313								
+979099-1	Cassytha larsenii	Kosterm.	Rheedea	4(1): 14 (1994)	1994	0971-2313								
+979100-1	Cryptocarya cuprea	Kosterm.	Rheedea	4(1): 14 (1994)	1994	0971-2313								
+979101-1	Endiandra rigidior	Kosterm.	Rheedea	4(1): 15 (1994)	1994	0971-2313								
+979102-1	Durio bruneiensis	Kosterm.	Rheedea	4(1): 15 (1994)	1994	0971-2313								
+979103-1	Trithuria konkanensis	S.R.Yadav & Janarth.	Rheedea	4(1): 18 (1994)	1994	0971-2313								
+979104-1	Polyalthia shendurunii	Basha & Sasidh.	Rheedea	4(1): 21 (1994)	1994	0971-2313								
+979105-1	Aponogeton bruggenii	S.R.Yadav & Govekar	Rheedea	4(1): 34 (1994)	1994	0971-2313								
+979106-1	Berberis kunawurensis var. diversifolia	Ahrendt ex T.Husain, Datt & R.R.Rao	Rheedea	4(1): 37 (1994)	1994	0971-2313								
+979107-1	Tricholepis glaberrima var. angustifolia	(DC.) L.B.Chaudhary & A.K.Pandey	Rheedea	4(1): 45	1994	0971-2313								
+979108-1	Euphorbia lawsonii	Binojk. & Dwarakan	Rheedea	4(1): 60	1994	0971-2313								
+979109-1	Valeriana himachalensis	V.Prakash & Mehrotra	Rheedea	4(1): 70 (1994)	1994	0971-2313								
+981624-1	Fuirena ponmudiensis	Ravi & Anil Kumar	Rheedea	4(2): 102 (1994)	1994	0971-2313								
+981625-1	Ardisia stonei	Sasidh. & Sivar.	Rheedea	4(2): 116 (1994)	1994	0971-2313								
+981626-1	Calamus basui	Renuka & Vijayak.	Rheedea	4(2): 120 (1994)	1994	0971-2313								
+981627-1	Calamus semierectus	Renuka & Vijayak.	Rheedea	4(2): 122 (1994)	1994	0971-2313								
+981628-1	Daemonorops aurea	Renuka & Vijayak.	Rheedea	4(2): 122 (1994), as 'aureus'	1994	0971-2313								
+981629-1	Daemonorops rarispinosa	Renuka & Vijayak.	Rheedea	4(2): 125 (1994), as 'rarispinosus'	1994	0971-2313								
+981630-1	Daemonorops wrightmyoensis	Renuka & Vijayak.	Rheedea	4(2): 125 (1994)	1994	0971-2313								
+981631-1	Hibiscus sreenarayanianus	Anil Kumar & Ravi	Rheedea	4(2): 129 (1994)	1994	0971-2313								
+981632-1	Aeginetia sessilis	Shivam. & Rajanna	Rheedea	4(2): 133 (1994)	1994	0971-2313								
+981633-1	Calamus baratangensis	Renuka & Vijayak.	Rheedea	4(2): 141 (1994)	1994	0971-2313								
+984260-1	Corydalis diffusa	LidÈn	Rheedea	5(1): 6 (1995)	1995	0971-2313								
+984261-1	Corydalis pseudotongolensis	LidÈn	Rheedea	5(1): 10 (1995)	1995	0971-2313								
+984262-1	Corydalis sibirica subsp. elata	LidÈn	Rheedea	5(1): 16 (1995)	1995	0971-2313								
+984263-1	Corydalis zhongdianensis	Z.Y.Su & LidÈn	Rheedea	5(1): 16 (1995)	1995	0971-2313								
+984264-1	Corydalis rostellata	LidÈn	Rheedea	5(1): 20 (1995)	1995	0971-2313								
+984265-1	Corydalis casimiriana subsp. brachycarpa	LidÈn	Rheedea	5(1): 27 (1995)	1995	0971-2313								
+984266-1	Corydalis rubrisepala subsp. zhuangiana	LidÈn	Rheedea	5(1): 30 (1995)	1995	0971-2313								
+984267-1	Dimeria chelariensis	Ravi	Rheedea	5(1): 37 (1995)	1995	0971-2313								
+984268-1	Dimeria eradii	Ravi	Rheedea	5(1): 39 (1995)	1995	0971-2313								
+984269-1	Rhynchosia courtallensis	Maesen	Rheedea	5(1): 56 (1995), nom. nov.	1995	0971-2313								
+984270-1	Leptochloa panicea subsp. mucronata	(Michx.) R.Nowack	Rheedea	5(1): 93 (1995):	1995	0971-2313								
+994572-1	Scleria levis var. pubescens	(Steud.) Tjitr.	Rheedea	5(2): 111	1995	0971-2313								
+994573-1	Claoxylon sect. Rostratae	Susila & N.P.Balakr.	Rheedea	5(2): 138 (1995).	1995	0971-2313								
+994574-1	Dimeria mahendragiriensis	Ravi, H.O.Saxena & Brahmam	Rheedea	5(2): 142 (1995)	1995	0971-2313								
+994575-1	Bupleurum gansuense	S.L.Pan & P.S.Hsu	Rheedea	5(2): 145 (1995)	1995	0971-2313								
+994576-1	Euphorbia concanensis	Janarth. & S.R.Yadav	Rheedea	5(2): 148 (1995)	1995	0971-2313								
+998171-1	Dimeria sivarajanii	N.Mohanan & Ravi	Rheedea	6(2): 47 (1996)	1996	0971-2313								
+998172-1	Impatiens sivarajanii	M.Kumar & Sequiera	Rheedea	6(2): 51 (1996)	1996	0971-2313								
+998173-1	Pentanema indicum var. sivarajanianum	R.R.V.Raju & C.P.Raju	Rheedea	6(2): 55 (1996)	1996	0971-2313								
+998174-1	Fimbristylis bispicula	Govind.	Rheedea	6(2): 59 (1996)	1996	0971-2313								
+998175-1	Fimbristylis breviculma	Govindar.	Rheedea	6(2): 61	1996	0971-2313								
+998176-1	Fimbristylis stigmatotecta	Govind.	Rheedea	6(2): 61 (1996)	1996	0971-2313								
+998234-1	Dimeria namboodiriana	Ravi & N.Mohanan	Rheedea	7(1): 1 (1997)	1997	0971-2313								
+998235-1	Ione arunachalense	A.N.Rao	Rheedea	7(1): 48 (1997)	1997	0971-2313								
+77142287-1	Hygrophila thymus	(Nees) Sunojk. & M.G.Prasad	Rheedea	24(1): 13	2014	0971-2313								
+77150769-1	Aponogeton nateshii	S.R.Yadav	Rheedea	25(1): 9	2015	0971-2313								
+77142288-1	Cucumis hystrix var. mizoramensis	Sutar & S.R.Yadav	Rheedea	24(1): 46	2014	0971-2313								
+60470153-2	Ficus anamalayana	Sudhakar & G.V.S.Murthy	Rheedea	25(1): 1, figs. 1-4	2015	0971-2313								
+77146716-1	Rivina humilis var. bracteata	D.Maity, Sonia Mitra, Manasi Mandal & Maiti	Rheedea	24(2): 103	2014	0971-2313								
+77132018-1	Trachys narasimhanii	Ravich.	Rheedea	23(1): 22	2013	0971-2313								
+77159218-1	Ceropegia ravikumariana	Kambale & Gnanasek.	Rheedea	26(1): 57	2016	0971-2313								
+77159216-1	Sanjappa	E.R.Souza & Krishnaraj	Rheedea	26(1): 6	2016	0971-2313								
+77159217-1	Sanjappa cynometroides	(Bedd.) E.R.Souza & Krishnaraj	Rheedea	26(1): 6	2016	0971-2313								
+77163195-1	Barleria durairajii	K.Ravik., D.Naras., Devanath. & Gnanasek.	Rheedea	26(2): 136	2016	0971-2313								
+77163196-1	Brachystelma gondwanense	Govekar, Kahalkar & Sardesai	Rheedea	26(2): 145	2016	0971-2313								
+77163200-1	Brachystelma shrirangii	Kambale, Gholave & Sardesai	Rheedea	26(2): 145	2016	0971-2313								
+77163186-1	Molineria fakimense	Odyuo, D.K.Roy & Khamdi	Rheedea	26(2): 131	2016	0971-2313								

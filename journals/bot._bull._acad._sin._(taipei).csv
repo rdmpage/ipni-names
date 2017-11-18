@@ -1,43 +1,103 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"1007034-1","Gentiana flavomaculata var. yuanyanghuensis","Chih H.Chen & J.C.Wang","Bot. Bull. Acad. Sin. (Taipei)","40(1): 21 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.pdf",""
-"1007035-1","Gentiana kaohsiungensis","Chih H.Chen & J.C.Wang","Bot. Bull. Acad. Sin. (Taipei)","40(1): 24 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.pdf",""
-"1007036-1","Gentiana tarokoensis","Chih H.Chen & J.C.Wang","Bot. Bull. Acad. Sin. (Taipei)","40(1): 29 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.pdf",""
-"1007037-1","Maesa lanyuensis","Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","40(1): 44 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-03.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-03.pdf",""
-"1007038-1","Lysimachia chingshuiensis","C.I Peng & C.M.Hu","Bot. Bull. Acad. Sin. (Taipei)","40(1): 49 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-04.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-04.pdf",""
-"1007039-1","Blumea linearis","C.I Peng & W.P.Leu","Bot. Bull. Acad. Sin. (Taipei)","40(1): 53 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.pdf",""
-"1007040-1","Senecio tarokoensis","C.I Peng","Bot. Bull. Acad. Sin. (Taipei)","40(1): 57 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.pdf",""
-"1007041-1","Pavetta bourdillonii","Sivad. & N.Mohanan","Bot. Bull. Acad. Sin. (Taipei)","40(1): 61 (1999)","1999","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-06.html","http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-06.pdf",""
-"1008748-1","Ilex dehongensis","S.K.Chen & Y.X.Feng","Bot. Bull. Acad. Sin. (Taipei)","40(2): 173 (1999)","1999","0006-8063","","","","","","","",""
-"1015312-1","Begonia Ã— taipeiensis","C.I Peng","Bot. Bull. Acad. Sin. (Taipei)","41(2): 151 (2000)","2000","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-10.html","http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-10.pdf",""
-"1015313-1","Campanula gansuensis","L.C.Wang & D.Y.Hong","Bot. Bull. Acad. Sin. (Taipei)","41(2): 159 (2000)","2000","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-11.html","http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-11.pdf",""
-"1018163-1","Lomatogonium chilaiensis","Chih H.Chen & J.C.Wang","Bot. Bull. Acad. Sin. (Taipei)","41(4): 324 (2000)","2000","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2000/4/bot414-10.html","http://ejournal.sinica.edu.tw/bbas/content/2000/4/bot414-10.pdf",""
-"1021178-1","Lagenandra keralensis","Sivad. & Jaleel","Bot. Bull. Acad. Sin. (Taipei)","42(2): 153 (2001)","2001","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2001/2/bot422-10.html","http://ejournal.sinica.edu.tw/bbas/content/2001/2/bot422-10.pdf",""
-"20001127-1","Ischaemum abrahamii","Ravi, N.Mohanan & R.Rajesh","Bot. Bull. Acad. Sin. (Taipei)","42(3): 225 (2001)","2001","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.html","http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.pdf",""
-"20001128-1","Ischaemum fischeri","Ravi & Kiran Raj","Bot. Bull. Acad. Sin. (Taipei)","42(3): 227 (2001)","2001","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.html","http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.pdf",""
-"20003263-1","Oreomyrrhis nanhuensis","Chih H.Chen & J.C.Wang","Bot. Bull. Acad. Sin. (Taipei)","42(4): 308 (2001)","2001","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-09.html","http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-09.pdf",""
-"20003265-1","Colocasia lihengiae","C.L.Long & K.M.Liu","Bot. Bull. Acad. Sin. (Taipei)","42(4): 313 (2001)","2001","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-10.html","http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-10.pdf",""
-"959783-1","Chamaesyce hsinchuensis","S.C.Lin & Chaw","Bot. Bull. Acad. Sin. (Taipei)","32(3): 238 (1991)","1991","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1991/3/bot323-09.pdf",""
-"960384-1","Ixora agasthyamalayana","Sivad. & N.Mohanan","Bot. Bull. Acad. Sin. (Taipei)","32(4): 313 (1991)","1991","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1991/4/bot324-09.pdf",""
-"961544-1","Psilanthus bababudanii","Sivar., Biju & P.Mathew","Bot. Bull. Acad. Sin. (Taipei)","33(3): 212 (1992)","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-02.pdf",""
-"961545-1","Psilanthus bridsoniae","Sivar., Biju & P.Mathew","Bot. Bull. Acad. Sin. (Taipei)","33(3): 216 (1992)","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-02.pdf",""
-"961546-1","Psilanthus malabaricus","Sivar., Biju & P.Mathew","Bot. Bull. Acad. Sin. (Taipei)","33(3): 219 (1992)","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-02.pdf",""
-"967767-1","Pachysandra axillaris subsp. stylosa","(Dunn) Boufford & Q.Y.Xiang","Bot. Bull. Acad. Sin. (Taipei)","33(3): 205 (1992):","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-01.pdf",""
-"967768-1","Adenophora morrisonensis subsp. uehatae","(Yamam.) Lammers","Bot. Bull. Acad. Sin. (Taipei)","33(3): 285 (1992):","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-11.pdf",""
-"967769-1","Codonopsis javanica subsp. japonica","(Maxim. ex Makino) Lammers","Bot. Bull. Acad. Sin. (Taipei)","33(3): 285 (1992):","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-11.pdf",""
-"967770-1","Lobelia alsinoides subsp. hancei","(H.Hara) Lammers","Bot. Bull. Acad. Sin. (Taipei)","33(3): 287 (1992):","1992","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-11.pdf",""
-"973383-1","Julostylis ampumalensis","Pradeep & Sivar.","Bot. Bull. Acad. Sin. (Taipei)","34(3): 282 (1993)","1993","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1993/3/bot343-09.pdf",""
-"978052-1","Cycas taitungensis","C.F.Shen, K.D.Hill, C.H.Tsou & C.J.Chen","Bot. Bull. Acad. Sin. (Taipei)","35(2): 135 (1994)","1994","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1994/2/bot352-10.pdf",""
-"979451-1","Dimorphocalyx kurnoolensis","R.R.V.Raju & Pull.","Bot. Bull. Acad. Sin. (Taipei)","35(3): 201 (1994)","1994","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/2001/2/bot353-10.pdf",""
-"981078-1","Berberis petiolaris var. extensa","Ahrendt ex R.R.Rao, T.Husain & Datt","Bot. Bull. Acad. Sin. (Taipei)","35(4): 231 (1994)","1994","0006-8063","","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1994/4/bot354-04.pdf",""
-"984911-1","Elatostema platyphylloides","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(3): 158 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.html","http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.pdf",""
-"984914-1","Dendrocnide kotoensis","(Hayata ex Yamam.) B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(3): 162 (1995):","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.html","http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.pdf",""
-"986998-1","Elatostema acuteserratum","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(4): 260 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf",""
-"986999-1","Elatostema multicanaliculatum","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(4): 268 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf",""
-"987000-1","Elatostema rivulare","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(4): 270 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf",""
-"987001-1","Elatostema strigillosum","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(4): 272 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf",""
-"987002-1","Elatostema subcoriaceum","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(4): 272 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf",""
-"987003-1","Elatostema villosum","B.L.Shih & Yuen P.Yang","Bot. Bull. Acad. Sin. (Taipei)","36(4): 277 (1995)","1995","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html","http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf",""
-"988469-1","Arisaema ilanense","J.C.Wang","Bot. Bull. Acad. Sin. (Taipei)","37(1): 71 (1996)","1996","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.html","http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.pdf",""
-"988470-1","Arisaema thunbergii subsp. autumnale","J.C.Wang, J.Murata & H.Ohashi","Bot. Bull. Acad. Sin. (Taipei)","37(1): 75 (1996)","1996","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.html","http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.pdf",""
-"999038-1","Limnophila aromaticoides","Y.P.Yang & S.H.Yen","Bot. Bull. Acad. Sin. (Taipei)","38(4): 285 (1997)","1997","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.html","http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.pdf",""
-"999039-1","Limnophila taoyuanensis","Y.P.Yang & S.H.Yen","Bot. Bull. Acad. Sin. (Taipei)","38(4): 287 (1997)","1997","0006-8063","","","","","","http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.html","http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.pdf",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+1007034-1	Gentiana flavomaculata var. yuanyanghuensis	Chih H.Chen & J.C.Wang	Bot. Bull. Acad. Sin. (Taipei)	40(1): 21 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.pdf	
+1007035-1	Gentiana kaohsiungensis	Chih H.Chen & J.C.Wang	Bot. Bull. Acad. Sin. (Taipei)	40(1): 24 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.pdf	
+1007036-1	Gentiana tarokoensis	Chih H.Chen & J.C.Wang	Bot. Bull. Acad. Sin. (Taipei)	40(1): 29 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-02.pdf	
+1007037-1	Maesa lanyuensis	Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	40(1): 44 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-03.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-03.pdf	
+1007038-1	Lysimachia chingshuiensis	C.I Peng & C.M.Hu	Bot. Bull. Acad. Sin. (Taipei)	40(1): 49 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-04.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-04.pdf	
+1007039-1	Blumea linearis	C.I Peng & W.P.Leu	Bot. Bull. Acad. Sin. (Taipei)	40(1): 53 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.pdf	
+1007040-1	Senecio tarokoensis	C.I Peng	Bot. Bull. Acad. Sin. (Taipei)	40(1): 57 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-05.pdf	
+1007041-1	Pavetta bourdillonii	Sivad. & N.Mohanan	Bot. Bull. Acad. Sin. (Taipei)	40(1): 61 (1999)	1999	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-06.html	http://ejournal.sinica.edu.tw/bbas/content/1999/1/bot41-06.pdf	
+1008748-1	Ilex dehongensis	S.K.Chen & Y.X.Feng	Bot. Bull. Acad. Sin. (Taipei)	40(2): 173 (1999)	1999	0006-8063								
+1015312-1	Begonia × taipeiensis	C.I Peng	Bot. Bull. Acad. Sin. (Taipei)	41(2): 151 (2000)	2000	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-10.html	http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-10.pdf	
+1015313-1	Campanula gansuensis	L.C.Wang & D.Y.Hong	Bot. Bull. Acad. Sin. (Taipei)	41(2): 159 (2000)	2000	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-11.html	http://ejournal.sinica.edu.tw/bbas/content/2000/2/bot12-11.pdf	
+1018163-1	Lomatogonium chilaiensis	Chih H.Chen & J.C.Wang	Bot. Bull. Acad. Sin. (Taipei)	41(4): 324 (2000)	2000	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2000/4/bot414-10.html	http://ejournal.sinica.edu.tw/bbas/content/2000/4/bot414-10.pdf	
+1021178-1	Lagenandra keralensis	Sivad. & Jaleel	Bot. Bull. Acad. Sin. (Taipei)	42(2): 153 (2001)	2001	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2001/2/bot422-10.html	http://ejournal.sinica.edu.tw/bbas/content/2001/2/bot422-10.pdf	
+107896-1	Betula sibirica	(Ledeb.) C.Pei	Bot. Bull. Acad. Sin.	ii. 218 (1948)		0006-8063								
+107944-1	Carpinus chinensis	(Franch.) Pei	Bot. Bull. Acad. Sin.	ii. 223 (1948)		0006-8063								
+17529190-1	Asplenium × wangii	C.M.Kuo	Bot. Bull. Acad. Sin.	n.s., 29(2): 109 (1988)	1988	0006-8063								
+17530200-1	Pteris wulaiensis	C.M.Kuo	Bot. Bull. Acad. Sin.	n.s., 30(2): 143 (1989)	1989	0006-8063								
+17540890-1	Bolbitis × nanjenensis	C.M.Kuo	Bot. Bull. Acad. Sin.	n.s., 31(4): 308 (1990)	1990	0006-8063								
+20001126-1	Ischaemum wayanadense	Ravi, N.Mohanan & Shaju	Bot. Bull. Acad. Sin.	42(3): 223 (2001)	2001	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.html		
+20001127-1	Ischaemum abrahamii	Ravi, N.Mohanan & R.Rajesh	Bot. Bull. Acad. Sin. (Taipei)	42(3): 225 (2001)	2001	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.html	http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.pdf	
+20001128-1	Ischaemum fischeri	Ravi & Kiran Raj	Bot. Bull. Acad. Sin. (Taipei)	42(3): 227 (2001)	2001	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.html	http://ejournal.sinica.edu.tw/bbas/content/2001/3/bot423-10.pdf	
+20003263-1	Oreomyrrhis nanhuensis	Chih H.Chen & J.C.Wang	Bot. Bull. Acad. Sin. (Taipei)	42(4): 308 (2001)	2001	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-09.html	http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-09.pdf	
+20003265-1	Colocasia lihengiae	C.L.Long & K.M.Liu	Bot. Bull. Acad. Sin. (Taipei)	42(4): 313 (2001)	2001	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-10.html	http://ejournal.sinica.edu.tw/bbas/content/2001/4/bot424-10.pdf	
+20010708-1	Microtropis wui	Y.M.Shui & W.H.Chen	Bot. Bull. Acad. Sin.	43(4): 306 (2002)	2002	0006-8063								
+20010709-1	Begonia sect. Leprosae	(T.C.Ku) Y.M.Shui	Bot. Bull. Acad. Sin.	43(4): 321 (2002)	2002	0006-8063								
+20012089-1	Eurya septata	Chi C.Wu, Z.F.Hsu & C.H.Tsou	Bot. Bull. Acad. Sin.	44(1): 67 (2003)	2003	0006-8063								
+20012090-1	Opithandra wentsaii	Z.Yu Li	Bot. Bull. Acad. Sin.	44(1): 73 (2003)	2003	0006-8063								
+284356-1	Eutrema reflexum	Cheo	Bot. Bull. Acad. Sin.	ii. 23 (1948).		0006-8063								
+464418-1	Endiandra lanyuensis	C.E.Chang	Bot. Bull. Acad. Sin.	n.s., iv. 60 (1963).		0006-8063								
+56888-1	Actinidia hypoglauca	C.Pei & Y.W.Law	Bot. Bull. Acad. Sin.	ii. 27 (1948).		0006-8063								
+60433025-2	Aster shennongjiaensis	W.P.Li & Z.G.Zhang	Bot. Bull. Acad. Sin.	45(1): 96 (95-99; fig.)	2004	0006-8063								
+70028041-1	Memecylon agastyamalaianum	E.S.S.Kumar, Antony & A.E.S.Khan	Bot. Bull. Acad. Sin.	44(2): 175 (2003)	2003	0006-8063								
+70028042-1	Musa paracoccinea	A.Z.Liu & D.Z.Li	Bot. Bull. Acad. Sin.	43(1): 77 (2002)	2002	0006-8063								
+70028043-1	Metagentiana	T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 87 (2002)	2002	0006-8063								
+70028044-1	Metagentiana alata	(T.N.Ho) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 88 (2002)	2002	0006-8063								
+70028045-1	Metagentiana australis	(Craib) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 88 (2002)	2002	0006-8063								
+70028046-1	Metagentiana eurycolpa	(C.Marquand) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 88 (2002)	2002	0006-8063								
+70028047-1	Metagentiana expansa	(Harry Sm.) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 88 (2002)	2002	0006-8063								
+70028048-1	Metagentiana gentilis	(Franch.) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 88 (2002)	2002	0006-8063								
+70028049-1	Metagentiana leptoclada	(Balf.f. & Forrest) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 88 (2002)	2002	0006-8063								
+70028050-1	Metagentiana melvillei	(S.Moore) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028051-1	Metagentiana primuliflora	(Franch.) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028052-1	Metagentiana pterocalyx	(Franch.) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028053-1	Metagentiana rhodantha	(Franch.) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028054-1	Metagentiana serra	(Franch.) T.N.Ho, S.W.Liu & Shi L.Chen	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028055-1	Metagentiana souliei	(Franch.) T.N.Ho, S.W.Liu & Shi L.Chen	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028056-1	Metagentiana striata	(Maxim.) T.N.Ho, S.W.Liu & Shi L.Chen	Bot. Bull. Acad. Sin.	43(1): 89 (2002)	2002	0006-8063								
+70028057-1	Metagentiana villifera	(H.W.Li ex T.N.Ho) T.N.Ho & S.W.Liu	Bot. Bull. Acad. Sin.	43(1): 90 (2002)	2002	0006-8063								
+70028058-1	Senecio kuanshanensis	C.I Peng & S.W.Chung	Bot. Bull. Acad. Sin.	43(2): 155 (2002)	2002	0006-8063								
+77063016-1	Begonia coptidifolia	H.G.Ye, F.G.Wang, Y.S.Ye & C.I Peng	Bot. Bull. Acad. Sin.	45(3): 259 (-266; figs.)	2004	0006-8063								
+77064643-1	Begonia curvicarpa	S.M.Ku, C.I Peng & Yan Liu	Bot. Bull. Acad. Sin.	45(4): 353 (-357; figs. 1-3)	2004 [Oct 2004]	0006-8063								
+77064644-1	Begonia luochengensis	S.M.Ku, C.I Peng & Yan Liu	Bot. Bull. Acad. Sin.	45(4): 357 (356-360; figs. 3-5)	2004 [Oct 2004]	0006-8063								
+77065676-1	Begonia fangii	Y.M.Shui & C.I Peng	Bot. Bull. Acad. Sin.	46(1): 83 (-89; figs. 1-6)	2005 [Jan 2005]	0006-8063								
+77069392-1	Begonia liuyanii	C.I Peng, S.M.Ku & W.C.Leong	Bot. Bull. Acad. Sin.	46(3): 245 (-254; figs. 1-5)	2005 [Jul 2005]	0006-8063								
+77069393-1	Begonia bouffordii	C.I Peng	Bot. Bull. Acad. Sin.	46(3): 255 (-258; figs. 1-4)	2005 [Jul 2005]	0006-8063								
+77069394-1	Begonia chuyunshanensis	C.I Peng & Y.K.Chen	Bot. Bull. Acad. Sin.	46(3): 258 (-261; figs. 5-7)	2005 [Jul 2005]	0006-8063								
+77069395-1	Begonia pinglinensis	C.I Peng	Bot. Bull. Acad. Sin.	46(3): 261 (-265; figs. 4, 8-10)	2005 [Jul 2005]	0006-8063								
+77069396-1	Begonia tengchiana	C.I Peng & Y.K.Chen	Bot. Bull. Acad. Sin.	46(3): 265 (-268; figs. 4, 11-12)	2005 [Jul 2005]	0006-8063								
+77069397-1	Begonia wutaiana	C.I Peng & Y.K.Chen	Bot. Bull. Acad. Sin.	46(3): 268 (-270; figs. 7, 13-14)	2005 [Jul 2005]	0006-8063								
+77077400-1	Ephedra dawuensis	Y.Yang	Bot. Bull. Acad. Sin.	46(4): 363 (-366; figs. 1-2)	2005 [Oct 2005]	0006-8063								
+77077401-1	Begonia picturata	Yan Liu, S.M.Ku & C.I Peng	Bot. Bull. Acad. Sin.	46(4): 367 (-376; figs. 1-4)	2005 [Oct 2005]	0006-8063								
+77077402-1	Begonia rubinea	Hong Z.Li & H.Ma	Bot. Bull. Acad. Sin.	46(4): 377 (-383; figs. 1-4)	2005 [Oct 2005]	0006-8063								
+780536-1	Pyrularia inermis	Chien	Bot. Bull. Acad. Sin.	i. 128 (1947).		0006-8063								
+799831-1	Botryopleuron macrophyllum	H.L.Li	Bot. Bull. Acad. Sin.	n.s., i. 21 (1960).		0006-8063								
+801388-1	Centranthera rubra	H.L.Li	Bot. Bull. Acad. Sin.	n.s., ii. 76 (1961).		0006-8063								
+810919-1	Verbascum chinense	(L.) H.L.Li	Bot. Bull. Acad. Sin.	n.s., ii. 12 (1961)		0006-8063								
+861344-1	Callicarpa hypoleucophylla	Lin & J.L.Wang	Bot. Bull. Acad. Sin.	n.s., viii. 185 (1967).		0006-8063								
+861453-1	Callicarpa remotiflora	Lin & J.L.Wang	Bot. Bull. Acad. Sin.	n.s., viii. 185 (1967)		0006-8063								
+928470-1	Alyxia taiwanensis	S.Y.Lu & Y.P.Yang	Bot. Bull. Acad. Sin.	n.s., 19(2): 195 (1978)	1978	0006-8063								
+936567-1	Begonia ravenii	C.I Peng & Y.K.Chen	Bot. Bull. Acad. Sin.	n.s., 29(3): 217 (1988)	1988	0006-8063								
+939418-1	Rotala malabarica	Pradeep, K.T.Joseph & Sivar.	Bot. Bull. Acad. Sin.	n.s., 31(1): 59 (1990)	1990	0006-8063								
+939724-1	Chamaesyce taihsiensis	Chaw & Koutnik	Bot. Bull. Acad. Sin.	n.s., 31(2): 163 (1990)	1990	0006-8063								
+941232-1	Ardisia hokouensis	Y.P.Yang	Bot. Bull. Acad. Sin.	n.s., 30(4): 297 (1989), nom. nov.	1989	0006-8063								
+951386-1	Typha domingensis var. sachetiae	Fosberg	Bot. Bull. Acad. Sin.	30(3): 220 (1989)	1989	0006-8063								
+958447-1	Ludwigia × taiwanensis	C.I Peng	Bot. Bull. Acad. Sin.	n.s., 31(4): 344 (1990), contrary to Art. H.5.2 ICBN (1988)	1990	0006-8063								
+959783-1	Chamaesyce hsinchuensis	S.C.Lin & Chaw	Bot. Bull. Acad. Sin. (Taipei)	32(3): 238 (1991)	1991	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1991/3/bot323-09.pdf	
+960384-1	Ixora agasthyamalayana	Sivad. & N.Mohanan	Bot. Bull. Acad. Sin. (Taipei)	32(4): 313 (1991)	1991	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1991/4/bot324-09.pdf	
+961544-1	Psilanthus bababudanii	Sivar., Biju & P.Mathew	Bot. Bull. Acad. Sin. (Taipei)	33(3): 212 (1992)	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-02.pdf	
+961545-1	Psilanthus bridsoniae	Sivar., Biju & P.Mathew	Bot. Bull. Acad. Sin. (Taipei)	33(3): 216 (1992)	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-02.pdf	
+961546-1	Psilanthus malabaricus	Sivar., Biju & P.Mathew	Bot. Bull. Acad. Sin. (Taipei)	33(3): 219 (1992)	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-02.pdf	
+967767-1	Pachysandra axillaris subsp. stylosa	(Dunn) Boufford & Q.Y.Xiang	Bot. Bull. Acad. Sin. (Taipei)	33(3): 205 (1992):	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-01.pdf	
+967768-1	Adenophora morrisonensis subsp. uehatae	(Yamam.) Lammers	Bot. Bull. Acad. Sin. (Taipei)	33(3): 285 (1992):	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-11.pdf	
+967769-1	Codonopsis javanica subsp. japonica	(Maxim. ex Makino) Lammers	Bot. Bull. Acad. Sin. (Taipei)	33(3): 285 (1992):	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-11.pdf	
+967770-1	Lobelia alsinoides subsp. hancei	(H.Hara) Lammers	Bot. Bull. Acad. Sin. (Taipei)	33(3): 287 (1992):	1992	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1992/3/bot333-11.pdf	
+973383-1	Julostylis ampumalensis	Pradeep & Sivar.	Bot. Bull. Acad. Sin. (Taipei)	34(3): 282 (1993)	1993	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1993/3/bot343-09.pdf	
+978052-1	Cycas taitungensis	C.F.Shen, K.D.Hill, C.H.Tsou & C.J.Chen	Bot. Bull. Acad. Sin. (Taipei)	35(2): 135 (1994)	1994	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1994/2/bot352-10.pdf	
+979451-1	Dimorphocalyx kurnoolensis	R.R.V.Raju & Pull.	Bot. Bull. Acad. Sin. (Taipei)	35(3): 201 (1994)	1994	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/2001/2/bot353-10.pdf	
+981078-1	Berberis petiolaris var. extensa	Ahrendt ex R.R.Rao, T.Husain & Datt	Bot. Bull. Acad. Sin. (Taipei)	35(4): 231 (1994)	1994	0006-8063							http://ejournal.sinica.edu.tw/bbas/content/1994/4/bot354-04.pdf	
+984911-1	Elatostema platyphylloides	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(3): 158 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.html	http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.pdf	
+984912-1	Elatostema hirtellipedunculatum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin.	36(3): 160	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.html	http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.pdf	
+984913-1	Elatostema hypoglaucum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin.	36(3): 162	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.html	http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.pdf	
+984914-1	Dendrocnide kotoensis	(Hayata ex Yamam.) B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(3): 162 (1995):	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.html	http://ejournal.sinica.edu.tw/bbas/content/1995/3/bot363-03.pdf	
+986998-1	Elatostema acuteserratum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(4): 260 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html	http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf	
+986999-1	Elatostema multicanaliculatum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(4): 268 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html	http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf	
+987000-1	Elatostema rivulare	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(4): 270 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html	http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf	
+987001-1	Elatostema strigillosum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(4): 272 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html	http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf	
+987002-1	Elatostema subcoriaceum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(4): 272 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html	http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf	
+987003-1	Elatostema villosum	B.L.Shih & Yuen P.Yang	Bot. Bull. Acad. Sin. (Taipei)	36(4): 277 (1995)	1995	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.html	http://ejournal.sinica.edu.tw/bbas/content/1995/4/bot364-09.pdf	
+988469-1	Arisaema ilanense	J.C.Wang	Bot. Bull. Acad. Sin. (Taipei)	37(1): 71 (1996)	1996	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.html	http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.pdf	
+988470-1	Arisaema thunbergii subsp. autumnale	J.C.Wang, J.Murata & H.Ohashi	Bot. Bull. Acad. Sin. (Taipei)	37(1): 75 (1996)	1996	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.html	http://ejournal.sinica.edu.tw/bbas/content/1996/1/bot371-09.pdf	
+999038-1	Limnophila aromaticoides	Y.P.Yang & S.H.Yen	Bot. Bull. Acad. Sin. (Taipei)	38(4): 285 (1997)	1997	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.html	http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.pdf	
+999039-1	Limnophila taoyuanensis	Y.P.Yang & S.H.Yen	Bot. Bull. Acad. Sin. (Taipei)	38(4): 287 (1997)	1997	0006-8063						http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.html	http://ejournal.sinica.edu.tw/bbas/content/1997/4/bot384-11.pdf	

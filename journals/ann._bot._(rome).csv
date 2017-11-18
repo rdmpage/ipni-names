@@ -1,364 +1,364 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"100258-1","Pachycarpus schumannii","Chiov.","Ann. Bot. (Rome)","10: 394","1912","0365-0812","","","","","","","",""
-"100408-1","Pergularia tacazzeana","Chiov.","Ann. Bot. (Rome)","9: 80","1911","0365-0812","","","","","","","",""
-"101439-1","Spathulopetalum dicapuae","Chiov.","Ann. Bot. (Rome)","10: 392","1912","0365-0812","","","","","","","",""
-"10466-1","Petrollinia","Chiov.","Ann. Bot. (Rome)","9: 70","1911","0365-0812","","","","","","","",""
-"110100-1","Memora pirottana","Buscal.","Ann. Bot. (Rome)","9: 118","1911","0365-0812","","","","","","","",""
-"115097-1","Cynoglossum densefoliatum","Chiov.","Ann. Bot. (Rome)","9: 82","1911","0365-0812","","","","","","","",""
-"116997-1","Heliotropium lithospermoides","Chiov.","Ann. Bot. (Rome)","10: 397","1912","0365-0812","","","","","","","",""
-"119109-1","Myosotis marcillyana","Beguin.","Ann. Bot. (Rome)","1: 284","","0365-0812","","","","","","","",""
-"126332-1","Berzelia squarrosa","Colozza","Ann. Bot. (Rome)","2: 40","1905","0365-0812","","","","","","","",""
-"126510-1","Staavia comosa","Colozza","Ann. Bot. (Rome)","2: 35","","0365-0812","","","","","","","",""
-"126516-1","Staavia lateriflora","Colozza","Ann. Bot. (Rome)","2: 36; et in Nuov. Giorn. Bot. Ital. x. 397","","0365-0812","","","","","","","",""
-"127052-1","Boswellia microphylla","Chiov.","Ann. Bot. (Rome)","13: 404","1915","0365-0812","","","","","","","",""
-"127061-1","Boswellia pirottae","Chiov.","Ann. Bot. (Rome)","9: 53","1911","0365-0812","","","","","","","",""
-"127629-1","Commiphora crenulata","Chiov.","Ann. Bot. (Rome)","13: 404","1915","0365-0812","","","","","","","",""
-"127636-1","Commiphora dancaliensis","Chiov.","Ann. Bot. (Rome)","13: 403","1915","0365-0812","","","","","","","",""
-"13310-1","Hymenosicyos","Chiov.","Ann. Bot. (Rome)","9: 62","1911 [15 Mar 1911]","0365-0812","","","","","","","",""
-"143830-1","Lobelia scioensis","Chiov.","Ann. Bot. (Rome)","10: 388","1912","0365-0812","","","","","","","",""
-"143932-1","Lobelia tenerrima","Chiov.","Ann. Bot. (Rome)","9: 78","1911","0365-0812","","","","","","","",""
-"145952-1","Wahlenbergia sparticula","Chiov.","Ann. Bot. (Rome)","10: 389","1912","0365-0812","","","","","","","",""
-"146188-1","Cadaba baccarinii","Chiov.","Ann. Bot. (Rome)","13: 377","1915","0365-0812","","","","","","","",""
-"150524-1","Alsine flaccida","Chiov.","Ann. Bot. (Rome)","10: 22","1912","0365-0812","","","","","","","",""
-"156416-1","Sagina brachysepala","Chiov.","Ann. Bot. (Rome)","9: 52","1911","0365-0812","","","","","","","",""
-"157118-2","Memora magnifica var. macrophylla","Buscal.","Ann. Bot. (Rome)","9: 117","1911","0365-0812","","","","","","","",""
-"157125-2","Memora pirottana","Buscal.","Ann. Bot. (Rome)","9: 118, tab. 4","1911","0365-0812","","","","","","","",""
-"157775-1","Silene marmarica","Beg. & Vaccari","Ann. Bot. (Rome)","12: 100","1913","0365-0812","","","","","","","",""
-"158947-1","Spergularia maritima","Chiov.","Ann. Bot. (Rome)","10: 22, sphalm.","1912","0365-0812","","","","","","","",""
-"161375-1","Gymnosporia intermedia","Chiov.","Ann. Bot. (Rome)","9: 54","1911","0365-0812","","","","","","","",""
-"172384-1","Commelina trachysperma","Chiov.","Ann. Bot. (Rome)","9: 148","1911","0365-0812","","","","","","","",""
-"17383-1","Afrotrichloris","Chiov.","Ann. Bot. (Rome)","13: 371","1915","0365-0812","","","","","","","",""
-"18299-1","Joannegria","Chiov.","Ann. Bot. (Rome)","11: 231","1913","0365-0812","","","","","","","",""
-"184530-1","Berkheya chiesiana","Chiov.","Ann. Bot. (Rome)","10: 386","1912","0365-0812","","","","","","","",""
-"185565-1","Blumea fruticulosa","Hochst. ex Chiov.","Ann. Bot. (Rome)","9: 71, in syn.","1911","0365-0812","","","","","","","",""
-"18572-1","Negria","Chiov.","Ann. Bot. (Rome)","10: 410","1912","0365-0812","","","","","","","",""
-"188462-1","Carduus blepharolepis","Chiov.","Ann. Bot. (Rome)","6: 151","1907","0365-0812","","","","","","","",""
-"18853-1","Pterochlaena","Chiov.","Ann. Bot. (Rome)","13: 47","1914","0365-0812","","","","","","","",""
-"188609-1","Carduus eremocephalus","Chiov.","Ann. Bot. (Rome)","10: 387","1912","0365-0812","","","","","","","",""
-"18889-1","Rendlia","Chiov.","Ann. Bot. (Rome)","13: 53","1914","0365-0812","","","","","","","",""
-"189478-1","Carthamus divaricatus","Beg. & Vaccari","Ann. Bot. (Rome)","12: 124, nomen.","1913","0365-0812","","","","","","","",""
-"194952-1","Cirsium acanthifolium","Porta","Ann. Bot. (Rome)","12: 22, hybr.","1913","0365-0812","","","","","","","",""
-"195062-1","Cirsium benaci","Porta","Ann. Bot. (Rome)","9: 27, hybr.","1911","0365-0812","","","","","","","",""
-"195069-1","Cirsium bicolor","Porta","Ann. Bot. (Rome)","12: 23, hybr.","1913","0365-0812","","","","","","","",""
-"195276-1","Cirsium dissimile","Porta in Vacc.","Ann. Bot. (Rome)","7: 317","1909","0365-0812","","","","","","","",""
-"195388-1","Cirsium gelmianum","Porta in Vacc.","Ann. Bot. (Rome)","7: 318","1909","0365-0812","","","","","","","",""
-"195503-1","Cirsium incelebratum","Forta","Ann. Bot. (Rome)","12: 23, hybr.","1913","0365-0812","","","","","","","",""
-"195855-1","Cirsium polymorphum","Porta","Ann. Bot. (Rome)","12: 23, hybr.","1913","0365-0812","","","","","","","",""
-"196130-1","Cirsium tribadum","Porta in Vacc.","Ann. Bot. (Rome)","7: 318","1909","0365-0812","","","","","","","",""
-"196172-1","Cirsium venustum","Porta in Vacc.","Ann. Bot. (Rome)","7: 318","1909","0365-0812","","","","","","","",""
-"197963-1","Coreopsis chrysopterocarpa","Chiov.","Ann. Bot. (Rome)","9: 75","1911","0365-0812","","","","","","","",""
-"198040-1","Coreopsis heterocarpa","Chiov.","Ann. Bot. (Rome)","9: 75","1911","0365-0812","","","","","","","",""
-"198216-1","Coreopsis ternata","Chiov.","Ann. Bot. (Rome)","9: 74","1911","0365-0812","","","","","","","",""
-"200842-1","Cyathopappus abyssinicus","Hochst. ex Chiov.","Ann. Bot. (Rome)","9: 74, in syn.","1911","0365-0812","","","","","","","",""
-"202510-1","Echinops gondarensis","Chiov.","Ann. Bot. (Rome)","9: 77","1911","0365-0812","","","","","","","",""
-"202596-1","Echinops negrii","Chiov.","Ann. Bot. (Rome)","9: 77","1911","0365-0812","","","","","","","",""
-"202621-1","Echinops pappii","Chiov.","Ann. Bot. (Rome)","9: 76","1911","0365-0812","","","","","","","",""
-"204988-1","Erlangea squarrosula","Chiov.","Ann. Bot. (Rome)","7: 177","1908","0365-0812","","","","","","","",""
-"212443-1","Helichrysum arussense","Chiov.","Ann. Bot. (Rome)","10: 385","1912","0365-0812","","","","","","","",""
-"212694-1","Helichrysum ducis-aprutii","Chiov.","Ann. Bot. (Rome)","6: 149","1907","0365-0812","","","","","","","",""
-"213437-1","Helichrysum traversii","Chiov.","Ann. Bot. (Rome)","9: 72","1911","0365-0812","","","","","","","",""
-"227159-1","Kalbfussia hispidula","Beg. & Vacc","Ann. Bot. (Rome)","13: 33","1911","0365-0812","","","","","","","",""
-"230096-1","Leucanthemum tridactylites","(Fiori) Bazzich.","Ann. Bot. (Rome)","29: 97","1972 [dt. 1967-69; publ. 3 Jul 1","0365-0812","","","","","","","",""
-"23178-1","Peltophoropsis","Chiov.","Ann. Bot. (Rome)","13: 385","1915","0365-0812","","","","","","","",""
-"232437-1","Micractis abyssinica","Chiov.","Ann. Bot. (Rome)","9: 73","1911","0365-0812","","","","","","","",""
-"232439-1","Micractis drosocephala","Chiov.","Ann. Bot. (Rome)","9: 72","1911","0365-0812","","","","","","","",""
-"232440-1","Micractis schimperi","Chiov.","Ann. Bot. (Rome)","9: 73","1911","0365-0812","","","","","","","",""
-"237437-1","Petrollinia heteromalla","Chiov.","Ann. Bot. (Rome)","9: 71","1911","0365-0812","","","","","","","",""
-"237604-1","Phagnalon stenolepis","Chiov.","Ann. Bot. (Rome)","9: 71","1911","0365-0812","","","","","","","",""
-"239585-2","Solanum racemigerum","(Lange) Zodda","Ann. Bot. (Rome)","2: 272","1905","0365-0812","","","","","","","",""
-"244352-1","Senecio caranianus","Chiov.","Ann. Bot. (Rome)","10: 386","1912","0365-0812","","","","","","","",""
-"244619-1","Senecio coreopsoides","Chiov.","Ann. Bot. (Rome)","6: 149","1907","0365-0812","","","","","","","",""
-"244928-1","Senecio ducis-aprutii","Chiov.","Ann. Bot. (Rome)","6: 150","1907","0365-0812","","","","","","","",""
-"246277-1","Senecio mattirolii","Chiov.","Ann. Bot. (Rome)","6: 150","1907","0365-0812","","","","","","","",""
-"246954-1","Senecio pirottae","Chiov.","Ann. Bot. (Rome)","6: 149","1907","0365-0812","","","","","","","",""
-"247323-1","Senecio roccatii","Chiov.","Ann. Bot. (Rome)","6: 151","1907","0365-0812","","","","","","","",""
-"250916-1","Spitzelia pilosa","Beg. & Vacc.","Ann. Bot. (Rome)","13: 33","1914","0365-0812","","","","","","","",""
-"255155-2","Torenia gavottiana","Buscal.","Ann. Bot. (Rome)","9: 106, tab. 1","1911","0365-0812","","","","","","","",""
-"25674-1","Eriocaucanthus","Chiov.","Ann. Bot. (Rome)","10: 29","1912","0365-0812","","","","","","","",""
-"25746-1","Tetraspis","Chiov.","Ann. Bot. (Rome)","10: 26","1912","0365-0812","","","","","","","",""
-"257864-1","Vernonia argutidens","Chiov.","Ann. Bot. (Rome)","9: 69","1911","0365-0812","","","","","","","",""
-"258775-1","Vernonia macrophylla","Chiov.","Ann. Bot. (Rome)","9: 70","1911","0365-0812","","","","","","","",""
-"260258-1","Wedelia magnifica","Chiov.","Ann. Bot. (Rome)","9: 74","1911","0365-0812","","","","","","","",""
-"260794-2","Utricularia laciniata var. poeppigiana","Buscal.","Ann. Bot. (Rome)","9: 112, tab. 2, fig. 2","1911","0365-0812","","","","","","","",""
-"268138-2","Weinmannia baccariniana","Pamp.","Ann. Bot. (Rome)","2: 81","1904","0365-0812","","176555","","","","","",""
-"268139-2","Weinmannia baccariniana var. caracasana","Pamp.","Ann. Bot. (Rome)","2: 82","1904","0365-0812","","176555","","","","","",""
-"268151-2","Weinmannia bifida f. alata","Pamp.","Ann. Bot. (Rome)","2: 71","1904","0365-0812","","176555","","","","","",""
-"268168-2","Weinmannia cordata f. minor","Pamp.","Ann. Bot. (Rome)","2: 65","1904","0365-0812","","176555","","","","","",""
-"268171-2","Weinmannia crassifolia f. cochabambensis","Pamp.","Ann. Bot. (Rome)","2: 68","1904","0365-0812","","176555","","","","","",""
-"268172-2","Weinmannia crassifolia f. latifolia","Pamp.","Ann. Bot. (Rome)","2: 68","1904","0365-0812","","176555","","","","","",""
-"268183-2","Weinmannia dryadifolia f. pillavensis","Pamp.","Ann. Bot. (Rome)","2: 64","1904","0365-0812","","176555","","","","","",""
-"268198-2","Weinmannia glabra var. mexicana","Pamp.","Ann. Bot. (Rome)","2: 73","1904","0365-0812","","176555","","","","","",""
-"268200-2","Weinmannia glazioviana var. nitidula","Pamp.","Ann. Bot. (Rome)","2: 77","1904","0365-0812","","176555","","","","","",""
-"268209-2","Weinmannia hirta var. antillana","Pamp.","Ann. Bot. (Rome)","2: 76","1904","0365-0812","","176555","","","","","",""
-"268210-2","Weinmannia hirta var. brasiliensis","Pamp.","Ann. Bot. (Rome)","2: 76","1904","0365-0812","","176555","","","","","",""
-"268212-2","Weinmannia hirta f. nitida","Pamp.","Ann. Bot. (Rome)","2: 76","1904","0365-0812","","176555","","","","","",""
-"268217-2","Weinmannia intermedia f. glabra","Pamp.","Ann. Bot. (Rome)","2: 74","1904","0365-0812","","176555","","","","","",""
-"268218-2","Weinmannia intermedia var. pittieri","Pamp.","Ann. Bot. (Rome)","2: 74","1904","0365-0812","","176555","","","","","",""
-"268219-2","Weinmannia intermedia f. tomentosa","Pamp.","Ann. Bot. (Rome)","2: 74","1904","0365-0812","","176555","","","","","",""
-"268230-2","Weinmannia laxiflora","Pamp.","Ann. Bot. (Rome)","2: 77","1904","0365-0812","","176555","","","","","",""
-"268231-2","Weinmannia laxiflora var. polyphylla","Pamp.","Ann. Bot. (Rome)","2: 78","1904","0365-0812","","176555","","","","","",""
-"268246-2","Weinmannia microphylla var. parvifolia","(Ruiz ex D.Don) Pamp.","Ann. Bot. (Rome)","2: 79","1904","0365-0812","","176555","","","","","",""
-"268260-2","Weinmannia ovalis var. elliptica","Pamp.","Ann. Bot. (Rome)","2: 66","1904","0365-0812","","176555","","","","","",""
-"268261-2","Weinmannia ovalis f. equatoriensis","Pamp.","Ann. Bot. (Rome)","2: 67","1904","0365-0812","","176555","","","","","",""
-"268270-2","Weinmannia paulliniaefolia f. janeirensis","Pamp.","Ann. Bot. (Rome)","2: 74","1904","0365-0812","","176555","","","","","",""
-"268280-2","Weinmannia polyphylla var. macrocarpa","Pamp.","Ann. Bot. (Rome)","2: 84","1904","0365-0812","","176555","","","","","",""
-"268306-2","Weinmannia sorbifolia var. heterophylla","Pamp.","Ann. Bot. (Rome)","2: 85","1904","0365-0812","","176555","","","","","",""
-"268307-2","Weinmannia sorbifolia var. leucocarpa","Pamp.","Ann. Bot. (Rome)","2: 85","1904","0365-0812","","176555","","","","","",""
-"268308-2","Weinmannia sorbifolia f. pubescens","Pamp.","Ann. Bot. (Rome)","2: 85","1904","0365-0812","","176555","","","","","",""
-"268318-2","Weinmannia subsessiliflora f. novo-granatensis","Pamp.","Ann. Bot. (Rome)","2: 71","1904","0365-0812","","176555","","","","","",""
-"268930-1","Ipomoea glossophylla","Chiov.","Ann. Bot. (Rome)","9: 83","1911","0365-0812","","","","","","","",""
-"275346-1","Sedum ducis-aprutii","Cortesi","Ann. Bot. (Rome)","6: 536","1908","0365-0812","","","","","","","",""
-"275672-1","Sedum malladrae","Chiov.","Ann. Bot. (Rome)","9: 60","1911","0365-0812","","","","","","","",""
-"280686-1","Cardamine talamontiana","Chiov.","Ann. Bot. (Rome)","9: 51","1911","0365-0812","","","","","","","",""
-"287259-2","Weinmannia hirta f. aqualupiensis","Pamp.","Ann. Bot. (Rome)","2: 76","1904","0365-0812","","176555","","","","","",""
-"287260-2","Weinmannia laxiflora f. minor","Pamp.","Ann. Bot. (Rome)","2: 78","1904","0365-0812","","176555","","","","","",""
-"287261-2","Weinmannia sorbifolia f. angustifolia","Pamp.","Ann. Bot. (Rome)","2: 85","1904","0365-0812","","176555","","","","","",""
-"287262-2","Weinmannia sorbifolia f. microphylla","Pamp.","Ann. Bot. (Rome)","2: 85","1904","0365-0812","","176555","","","","","",""
-"287263-2","Weinmannia baccariniana f. minor","Pamp.","Ann. Bot. (Rome)","2: 82","1904","0365-0812","","176555","","","","","",""
-"287776-2","Weinmannia microphylla f. humilis","(Engl.) Pamp.","Ann. Bot. (Rome)","2: 80","1904","0365-0812","","176555","","","","","",""
-"289598-1","Sisymbrium pachypodum","Chiov.","Ann. Bot. (Rome)","9: 52","1911","0365-0812","","","","","","","",""
-"292943-1","Hymenosicyos membranifolius","Chiov.","Ann. Bot. (Rome)","9: 63","1911","0365-0812","","","","","","","",""
-"298402-1","Carex abyssinica","Chiov.","Ann. Bot. (Rome)","9: 150","1911","0365-0812","","","","","","","",""
-"299422-1","Carex densenervosa","Chiov.","Ann. Bot. (Rome)","9: 149","1911","0365-0812","","","","","","","",""
-"301158-1","Carex negrii","Chiov.","Ann. Bot. (Rome)","10: 406","1912","0365-0812","","","","","","","",""
-"301201-1","Carex Ã— nicoloffii","Pamp.","Ann. Bot. (Rome)","1(3): 135 (-141; t. 11)","1903 [30 dec 1903]","0365-0812","","","","","","","",""
-"302668-1","Carex tornabenii","Chiov.","Ann. Bot. (Rome)","17: 83, hybr.","1927","0365-0812","","","","","","","",""
-"304599-1","Cyperus giolii","Chiov.","Ann. Bot. (Rome)","13: 375","1915","0365-0812","","","","","","","",""
-"305452-1","Cyperus paolii","Chiov.","Ann. Bot. (Rome)","13: 373","1915","0365-0812","","","","","","","",""
-"305658-1","Cyperus pseudosphacelatus","Chiov.","Ann. Bot. (Rome)","13: 374","1915","0365-0812","","","","","","","",""
-"31075-2","Belangera glabra var. intermedia","Pamp.","Ann. Bot. (Rome)","2: 54","1904","0365-0812","","","","","","","",""
-"31078-2","Belangera paraguaiensis","Pamp.","Ann. Bot. (Rome)","2: 53","1904","0365-0812","","","","","","","",""
-"31080-2","Belangera speciosa var. pubescens","Pamp.","Ann. Bot. (Rome)","2: 56","1904","0365-0812","","","","","","","",""
-"311668-1","Pycreus gracillimus","Chiov.","Ann. Bot. (Rome)","13: 58","1914","0365-0812","","","","","","","",""
-"335232-1","Eriocaulon dembianense","Chiov.","Ann. Bot. (Rome)","9: 148","1911","0365-0812","","","","","","","",""
-"33542-1","Tzellemtinia","Chiov.","Ann. Bot. (Rome)","9: 55","1911","0365-0812","","","","","","","",""
-"348639-1","Euphorbia valliniana","Belli","Ann. Bot. (Rome)","1: 9","","0365-0812","","","","","","","",""
-"350333-1","Jatropha marginata","Chiov.","Ann. Bot. (Rome)","18: 324, in clavi.","1930","0365-0812","","","","","","","",""
-"350391-1","Jatropha paradoxa","Chiov.","Ann. Bot. (Rome)","18: 324, in clavi.","1930","0365-0812","","","","","","","",""
-"354319-1","Phyllanthus myrtilloides","Chiov.","Ann. Bot. (Rome)","10: 405","1912","0365-0812","","","","","","","",""
-"3705-1","Spathulopetalum","Chiov.","Ann. Bot. (Rome)","10: 392","1912","0365-0812","","","","","","","",""
-"370894-1","Swertia erythraeae","Chiov.","Ann. Bot. (Rome)","9: 81","1911","0365-0812","","","","","","","",""
-"370911-1","Swertia gentianifolia","Chiov.","Ann. Bot. (Rome)","9: 82","1911","0365-0812","","","","","","","",""
-"37190-1","Vesselowskya","Pamp.","Ann. Bot. (Rome)","2: 93","1905","0365-0812","","","","","","","",""
-"376209-1","Pelargonium gallense","Chiov.","Ann. Bot. (Rome)","9: 318","1911","0365-0812","","","","","","","",""
-"380678-1","Drymonia buscalionii","Fritsch & Buscal.","Ann. Bot. (Rome)","9: 113","1911","0365-0812","","","","","","","",""
-"384756-1","Afrotrichloris martinii","Chiov.","Ann. Bot. (Rome)","13: 372","1915","0365-0812","","","","","","","",""
-"387690-1","Andropogon claudopus","Chiov.","Ann. Bot. (Rome)","13: 37","1914","0365-0812","","","","","","","",""
-"387952-1","Andropogon golae","Chiov.","Ann. Bot. (Rome)","13: 38","1914","0365-0812","","","","","","","",""
-"388192-1","Andropogon matteodanus","Chiov.","Ann. Bot. (Rome)","2: 365","","0365-0812","","","","","","","",""
-"388220-1","Andropogon mobukensis","Chiov.","Ann. Bot. (Rome)","6: 147","1907","0365-0812","","","","","","","",""
-"389255-1","Aristida astroclada","Chiov.","Ann. Bot. (Rome)","10: 409","1912","0365-0812","","","","","","","",""
-"389667-1","Aristida pennei","Chiov.","Ann. Bot. (Rome)","2: 366","","0365-0812","","","","","","","",""
-"398053-1","Deschampsia ruwensorensis","Chiov.","Ann. Bot. (Rome)","6: 148","1907","0365-0812","","","","","","","",""
-"398682-1","Digitaria bovonii","Chiov.","Ann. Bot. (Rome)","13: 40","1914","0365-0812","","","","","","","",""
-"399139-1","Digitaria siderograpta","Chiov.","Ann. Bot. (Rome)","13: 39","1914","0365-0812","","","","","","","",""
-"399170-1","Digitaria sulcigluma","Chiov.","Ann. Bot. (Rome)","13: 41","1914","0365-0812","","","","","","","",""
-"39981-1","Erythroselinum","Chiov.","Ann. Bot. (Rome)","9: 64","1911","0365-0812","","","","","","","",""
-"400004-1","Eleusine poiflora","Chiov.","Ann. Bot. (Rome)","10: 409","1912","0365-0812","","","","","","","",""
-"400043-1","Eleusine yemensis","Chiov.","Ann. Bot. (Rome)","10: 410, in obs.","1912","0365-0812","","","","","","","",""
-"400875-1","Eragrostis bovonei","Chiov.","Ann. Bot. (Rome)","13: 56","1914","0365-0812","","","","","","","",""
-"400907-1","Eragrostis caespitosa","Chiov.","Ann. Bot. (Rome)","13: 373","1915","0365-0812","","","","","","","",""
-"401551-1","Eragrostis sclerochlaena","Chiov.","Ann. Bot. (Rome)","13: 57","1914","0365-0812","","","","","","","",""
-"402768-1","Festuca gelida","Chiov.","Ann. Bot. (Rome)","6: 148","1907","0365-0812","","","","","","","",""
-"40568-1","Stephanorossia","Chiov.","Ann. Bot. (Rome)","9: 65","1911","0365-0812","","","","","","","",""
-"406388-1","Joannegria melicoides","Chiov.","Ann. Bot. (Rome)","11: 231","1913","0365-0812","","","","","","","",""
-"408248-1","Melinis ruficoma","Chiov.","Ann. Bot. (Rome)","5: 62","1906","0365-0812","","","","","","","",""
-"409399-1","Negria melicoides","Chiov.","Ann. Bot. (Rome)","10: 411","1912","0365-0812","","","","","","","",""
-"409965-1","Oropetium erythraeum","Chiov.","Ann. Bot. (Rome)","2: 366","","0365-0812","","","","","","","",""
-"410209-1","Oryzopsis pauciflora","Beg. & Vaccari","Ann. Bot. (Rome)","12: 94","1913","0365-0812","","","","","","","",""
-"410300-1","Oxytenanthera ruwensorensis","Chiov.","Ann. Bot. (Rome)","6: 148","1907","0365-0812","","","","","","","",""
-"410761-1","Panicum bovonei","Chiov.","Ann. Bot. (Rome)","13: 42","1914","0365-0812","","","","","","","",""
-"410886-1","Panicum catangense","Chiov.","Ann. Bot. (Rome)","13: 44","1914","0365-0812","","","","","","","",""
-"410967-1","Panicum clavipilum","Chiov.","Ann. Bot. (Rome)","13: 43","1914","0365-0812","","","","","","","",""
-"411558-1","Panicum golae","Chiov.","Ann. Bot. (Rome)","13: 43","1914","0365-0812","","","","","","","",""
-"411995-1","Panicum lepidum","Hochst. ex Chiov.","Ann. Bot. (Rome)","5: 61, in adnot.","1906","0365-0812","","","","","","","",""
-"412673-1","Panicum pinifolium","Chiov.","Ann. Bot. (Rome)","5: 62","1906","0365-0812","","","","","","","",""
-"413645-1","Pappophorum laxum","Chiov.","Ann. Bot. (Rome)","10: 411","1912","0365-0812","","","","","","","",""
-"415165-1","Pennisetum pappianum","Chiov.","Ann. Bot. (Rome)","2: 365","","0365-0812","","","","","","","",""
-"418478-1","Pogonarthria hackelii","Chiov.","Ann. Bot. (Rome)","10: 413","1912","0365-0812","","","","","","","",""
-"418534-1","Pollinia catangensis","Chiov.","Ann. Bot. (Rome)","13: 35","1914","0365-0812","","","","","","","",""
-"418929-1","Pterochlaena catangensis","Chiov.","Ann. Bot. (Rome)","13: 47","1914","0365-0812","","","","","","","",""
-"419302-1","Rendlia altera","(Rendle) Chiov.","Ann. Bot. (Rome)","13: 54, in clavi","1914","0365-0812","","","","","","","",""
-"419304-1","Rendlia mutica","(Hack.) Chiov.","Ann. Bot. (Rome)","13: 54, in clavi","1914","0365-0812","","","","","","","",""
-"419305-1","Rendlia nelsonii","(Stapf) Chiov.","Ann. Bot. (Rome)","13: 54, in clavi","1914","0365-0812","","","","","","","",""
-"419306-1","Rendlia obtusifolia","Chiov.","Ann. Bot. (Rome)","13: 54","1914","0365-0812","","","","","","","",""
-"419307-1","Rendlia pseudoharpechloa","Chiov.","Ann. Bot. (Rome)","13: 55","1914","0365-0812","","","","","","","",""
-"419395-1","Rhynchelytrum catangense","Chiov.","Ann. Bot. (Rome)","13: 45","1914","0365-0812","","","","","","","",""
-"419618-1","Rottboellia bovonei","Chiov.","Ann. Bot. (Rome)","13: 36","1914","0365-0812","","","","","","","",""
-"419780-1","Rottboellia undulatifolia","Chiov.","Ann. Bot. (Rome)","13: 36","1914","0365-0812","","","","","","","",""
-"421476-1","Setaria blepharochaeta","Chiov.","Ann. Bot. (Rome)","10: 408","1912","0365-0812","","","","","","","",""
-"421661-1","Setaria longissima","Chiov.","Ann. Bot. (Rome)","13: 46","1914","0365-0812","","","","","","","",""
-"422679-1","Sporobolus conrathii","Chiov.","Ann. Bot. (Rome)","13: 49","1914","0365-0812","","","","","","","",""
-"422917-1","Sporobolus ruspolianus","Chiov.","Ann. Bot. (Rome)","5: 64","1906","0365-0812","","","","","","","",""
-"422934-1","Sporobolus secundispiculus","Chiov.","Ann. Bot. (Rome)","13: 49","1914","0365-0812","","","","","","","",""
-"423015-1","Sporobolus wildemannii","Chiov.","Ann. Bot. (Rome)","13: 48","1914","0365-0812","","","","","","","",""
-"423821-1","Stipa tigrensis","Chiov.","Ann. Bot. (Rome)","2: 366","","0365-0812","","","","","","","",""
-"424686-1","Trichopteryx fruticulosa","Chiov.","Ann. Bot. (Rome)","13: 50","1914","0365-0812","","","","","","","",""
-"424970-1","Tripogon subtilissimus","Chiov.","Ann. Bot. (Rome)","5: 66","1906","0365-0812","","","","","","","",""
-"425469-1","Tristachya elymoides","Chiov.","Ann. Bot. (Rome)","13: 51","1914","0365-0812","","","","","","","",""
-"425475-1","Tristachya granulosa","Chiov.","Ann. Bot. (Rome)","13: 52","1914","0365-0812","","","","","","","",""
-"428608-1","Hypericum scioanum","Chiov.","Ann. Bot. (Rome)","9: 327","1911","0365-0812","","","","","","","",""
-"430800-1","Gyrocarpus hababensis","Chiov.","Ann. Bot. (Rome)","9: 132","1911","0365-0812","","","","","","","",""
-"437815-1","Gladiolus roseolus","Chiov.","Ann. Bot. (Rome)","9: 140","1911","0365-0812","","","","","","","",""
-"439774-1","Lapeirousia erythraeae","Chiov.","Ann. Bot. (Rome)","9: 139","1911","0365-0812","","","","","","","",""
-"439807-1","Lapeirousia montaboniana","Chiov.","Ann. Bot. (Rome)","9: 140","1911","0365-0812","","","","","","","",""
-"440289-1","Moraea tellinii","Chiov.","Ann. Bot. (Rome)","9: 138","1911","0365-0812","","","","","","","",""
-"444249-1","Acrocephalus abyssinicus","Hochst. ex Chiov.","Ann. Bot. (Rome)","9: 85","1911","0365-0812","","","","","","","",""
-"445970-1","Coleus doba","Hochst. ex Chiov.","Ann. Bot. (Rome)","9: 126","1911","0365-0812","","","","","","","",""
-"446106-1","Coleus ostinii","Chiov.","Ann. Bot. (Rome)","9: 125","1911","0365-0812","","","","","","","",""
-"447216-1","Geniosporum borzianum","Chiov.","Ann. Bot. (Rome)","10: 402","1912","0365-0812","","","","","","","",""
-"452822-1","Nepeta vivianii","(Coss.) BÃ©g. & Vacc.","Ann. Bot. (Rome)","12: 117","1913","0365-0812","","","","","","","",""
-"453234-1","Origanum cyrenaicum","Beg. & Vaccari","Ann. Bot. (Rome)","12: 117","1913","0365-0812","","","","","","","",""
-"453460-1","Orthosiphon bulbosus","Chiov.","Ann. Bot. (Rome)","13: 406","1915","0365-0812","","","","","","","",""
-"457604-1","Satureja conferta","Beg & Caccari","Ann. Bot. (Rome)","12: 116, nomen.","1913","0365-0812","","","","","","","",""
-"458279-1","Scutellaria fulgens","Chiov.","Ann. Bot. (Rome)","9: 126","1911","0365-0812","","","","","","","",""
-"459939-1","Stachys sanguinea","Porta in Vaccari","Ann. Bot. (Rome)","7: 320","1909","0365-0812","","","","","","","",""
-"469881-1","Acacia bricchettiana","Chiov.","Ann. Bot. (Rome)","13: 396","1915","0365-0812","","","","","","","",""
-"469997-1","Acacia circummarginata","Chiov.","Ann. Bot. (Rome)","13: 394","1915","0365-0812","","","","","","","",""
-"470036-1","Acacia condyloclada","Chiov.","Ann. Bot. (Rome)","13: 391","1915","0365-0812","","","","","","","",""
-"471027-1","Acacia ogadensis","Chiov.","Ann. Bot. (Rome)","13: 393","1915","0365-0812","","","","","","","",""
-"471075-1","Acacia paolii","Chiov.","Ann. Bot. (Rome)","13: 395","1915","0365-0812","","","","","","","",""
-"471538-1","Acacia stefaninii","Chiov.","Ann. Bot. (Rome)","13: 395","1915","0365-0812","","","","","","","",""
-"481112-1","Bauhinia argentea","Chiov.","Ann. Bot. (Rome)","13: 388","1915","0365-0812","","","","","","","",""
-"483777-1","Cantuffa stellata","Chiov.","Ann. Bot. (Rome)","13: 409","1915","0365-0812","","","","","","","",""
-"484172-1","Cassia baccarinii","Chiov.","Ann. Bot. (Rome)","13: 390","1915","0365-0812","","","","","","","",""
-"487859-1","Crotalaria benadirensis","Chiov.","Ann. Bot. (Rome)","13: 377","1915","0365-0812","","","","","","","",""
-"488809-1","Crotalaria ruspoliana","Chiov.","Ann. Bot. (Rome)","13: 379","1915","0365-0812","","","","","","","",""
-"488828-1","Crotalaria scassellatii","Chiov.","Ann. Bot. (Rome)","13: 378","1915","0365-0812","","","","","","","",""
-"490335-1","Dalbergia microphylla","Chiov.","Ann. Bot. (Rome)","13: 385","1915","0365-0812","","","","","","","",""
-"492429-1","Dichrostachys glomerata","Chiov.","Ann. Bot. (Rome)","13: 409","1915","0365-0812","","","","","","","",""
-"492926-1","Dolichos benadirianus","Chiov.","Ann. Bot. (Rome)","13: 383","1915","0365-0812","","","","","","","",""
-"49848-1","Hypoestes caloi","Chiov.","Ann. Bot. (Rome)","9: 129","1911","0365-0812","","","","","","","",""
-"499122-1","Indigofera cavallii","Chiov.","Ann. Bot. (Rome)","13: 380","1915","0365-0812","","","","","","","",""
-"50701-1","Justicia exilissima","Chiov.","Ann. Bot. (Rome)","10: 401","1912","0365-0812","","","","","","","",""
-"513007-1","Peltophoropsis scioana","Chiov.","Ann. Bot. (Rome)","13: 386","1915","0365-0812","","","","","","","",""
-"513746-1","Phaseolus cibellii","Chiov.","Ann. Bot. (Rome)","13: 382","1915","0365-0812","","","","","","","",""
-"515482-1","Poinciana baccal","Chiov.","Ann. Bot. (Rome)","13: 389","1915","0365-0812","","","","","","","",""
-"519708-1","Stylosanthes suborbiculata","Chiov.","Ann. Bot. (Rome)","13: 381","1915","0365-0812","","","","","","","",""
-"520595-1","Tephrosia graminifolia","Chiov.","Ann. Bot. (Rome)","13: 381","1915","0365-0812","","","","","","","",""
-"522895-1","Trifolium baccarinii","Chiov.","Ann. Bot. (Rome)","9: 57","1911","0365-0812","","","","","","","",""
-"523075-1","Trifolium decorum","Chiov.","Ann. Bot. (Rome)","9: 56","1911","0365-0812","","","","","","","",""
-"523354-1","Trifolium mattirolianum","Chiov.","Ann. Bot. (Rome)","9: 57","1911","0365-0812","","","","","","","",""
-"525358-1","Vigna glandulosa","Chiov.","Ann. Bot. (Rome)","13: 384","1915","0365-0812","","","","","","","",""
-"525435-1","Vigna micrantha","Chiov.","Ann. Bot. (Rome)","9: 59","1911","0365-0812","","","","","","","",""
-"525461-1","Vigna ostinii","Chiov.","Ann. Bot. (Rome)","9: 60","1911","0365-0812","","","","","","","",""
-"525482-1","Vigna proboscidella","Chiov.","Ann. Bot. (Rome)","9: 59","1911","0365-0812","","","","","","","",""
-"52551-1","Monothecium nakarii","Chiov.","Ann. Bot. (Rome)","9: 129","1911","0365-0812","","","","","","","",""
-"527385-1","Albuca hysterantha","Chiov.","Ann. Bot. (Rome)","9: 145","1911","0365-0812","","","","","","","",""
-"527422-1","Albuca nemorosa","Chiov.","Ann. Bot. (Rome)","9: 146","1911","0365-0812","","","","","","","",""
-"532163-1","Bulbine fistulosa","Chiov.","Ann. Bot. (Rome)","9: 143","1911","0365-0812","","","","","","","",""
-"532760-1","Chlorophytum baudi-candeanum","Chiov.","Ann. Bot. (Rome)","9: 146","1911","0365-0812","","","","","","","",""
-"533987-1","Dipcadi rupicola","Chiov.","Ann. Bot. (Rome)","9: 143","1911","0365-0812","","","","","","","",""
-"536913-1","Iphigenia abyssinica","Chiov.","Ann. Bot. (Rome)","9: 147","1911","0365-0812","","","","","","","",""
-"54062-1","Ruellia fiorii","Chiov.","Ann. Bot. (Rome)","10: 400","1912","0365-0812","","","","","","","",""
-"543212-1","Urginea bakeri","Chiov.","Ann. Bot. (Rome)","9: 144","1911","0365-0812","","","","","","","",""
-"549920-1","Loranthus ostinii","Chiov.","Ann. Bot. (Rome)","9: 133","1911","0365-0812","","","","","","","",""
-"554156-1","Rotala debilissima","Chiov.","Ann. Bot. (Rome)","9: 61","1911","0365-0812","","","","","","","",""
-"556324-1","Eriocaucanthus argenteus","Chiov.","Ann. Bot. (Rome)","10: 29","1912","0365-0812","","","","","","","",""
-"556325-1","Eriocaucanthus auriculatus","Chiov.","Ann. Bot. (Rome)","10: 29","1912","0365-0812","","","","","","","",""
-"556326-1","Eriocaucanthus cinereus","Chiov.","Ann. Bot. (Rome)","10: 29","1912","0365-0812","","","","","","","",""
-"557807-1","Tetraspis ruspoliana","Chiov.","Ann. Bot. (Rome)","10: 26","1912","0365-0812","","","","","","","",""
-"562843-1","Pavonia erythraeae","Chiov.","Ann. Bot. (Rome)","13: 400","1915","0365-0812","","","","","","","",""
-"56285-1","Thunbergia gondarensis","Chiov.","Ann. Bot. (Rome)","9: 128","1911","0365-0812","","","","","","","",""
-"563009-1","Pavonia patens","Chiov.","Ann. Bot. (Rome)","13: 409","1915","0365-0812","","","","","","","",""
-"563019-1","Pavonia pirottae","Chiov.","Ann. Bot. (Rome)","13: 401","1915","0365-0812","","","","","","","",""
-"60149-1","Cyathula cordifolia","Hochst. ex Chiov.","Ann. Bot. (Rome)","9: 130","1911","0365-0812","","","","","","","",""
-"60455383-2","Hyoseris lucida subsp. frutescens","(Brullo & Pavone) Peruzzi & Vangelisti","Ann. Bot. (Rome)","54(3-4): 769","2010","0365-0812","","","","","","","",""
-"60455384-2","Hyoseris lucida subsp. taurina","(Martinoli) Peruzzi & Vangelisti","Ann. Bot. (Rome)","54(3-4): 769","2010","0365-0812","","","","","","","",""
-"60458479-2","Sempervivum Ã— vaccarii","Wilczek ex Vacc.","Ann. Bot. (Rome)","3(2): 39","1905 [20 Oct 1905]","0365-0812","","","","","","","",""
-"609619-1","Jasminum mathildae","Chiov.","Ann. Bot. (Rome)","9: 79","1911","0365-0812","","","","","","","",""
-"617842-1","Bonatea arabica","(Deflers) Cortesi","Ann. Bot. (Rome)","2: 363, in obs.","1905","0365-0812","","","","","","","",""
-"617866-1","Bonatea pirottae","Cortesi","Ann. Bot. (Rome)","2: 362","1905","0365-0812","","","","","","","",""
-"617874-1","Bonatea saundersioides","(Kraenzl. & Schltr.) Cortesi","Ann. Bot. (Rome)","2: 363, in obs.","1905","0365-0812","","","","","","","",""
-"630284-1","Disa vaginata","Chiov.","Ann. Bot. (Rome)","9: 138","1911","0365-0812","","","","","","","",""
-"634984-1","Eulophia variopicta","Chiov.","Ann. Bot. (Rome)","9: 135","1911","0365-0812","","","","","","","",""
-"638116-1","Habenaria setigera","Chiov.","Ann. Bot. (Rome)","9: 137","1911","0365-0812","","","","","","","",""
-"647819-1","Ophrys camusii","Cortesi","Ann. Bot. (Rome)","5: 541","1907","0365-0812","","","","","","","",""
-"647918-1","Ophrys grampini","Cortesi","Ann. Bot. (Rome)","1: 359","1904","0365-0812","","","","","","","",""
-"648052-1","Ophrys personei","Cortesi","Ann. Bot. (Rome)","13: 247, hybr.","1915","0365-0812","","","","","","","",""
-"648111-1","Ophrys serotina","Rolli ex Cortesi","Ann. Bot. (Rome)","8: 213","1910","0365-0812","","","","","","","",""
-"648119-1","Ophrys sommieri","E.G.Camus in Cortesi","Ann. Bot. (Rome)","1: 360, in adnot., hybr.","1904","0365-0812","","","","","","","",""
-"648492-1","Orchis colemanii","Cortesi","Ann. Bot. (Rome)","5: 540","1907","0365-0812","","","","","","","",""
-"648858-1","Orchis mauri","Jord. ex Cortesi","Ann. Bot. (Rome)","1: 173","1903","0365-0812","","","","","","","",""
-"649029-1","Orchis pseudopicta","Cortesi","Ann. Bot. (Rome)","13: 244, hybr.","1915","0365-0812","","","","","","","",""
-"650163-1","Peristylus albidulus","Chiov.","Ann. Bot. (Rome)","9: 137","1911","0365-0812","","","","","","","",""
-"654034-1","Pogonia abyssinica","Chiov.","Ann. Bot. (Rome)","9: 136","1911","0365-0812","","","","","","","",""
-"662018-1","Kopsia coelestis","Beg. & Vacc.","Ann. Bot. (Rome)","13: 29","1914","0365-0812","","","","","","","",""
-"685339-1","Plantago libyca","Beg. & Vaccari","Ann. Bot. (Rome)","12: 119","1913","0365-0812","","","","","","","",""
-"688594-1","Sphaerothylax sanguinea","Chiov.","Ann. Bot. (Rome)","9: 131","1911","0365-0812","","","","","","","",""
-"691512-1","Polygala gondarensis","Chiov.","Ann. Bot. (Rome)","9: 316","1911","0365-0812","","","","","","","",""
-"691912-1","Polygala negrii","Chiov.","Ann. Bot. (Rome)","9: 315","1911","0365-0812","","","","","","","",""
-"695396-1","Polygonum arussense","Chiov.","Ann. Bot. (Rome)","10: 403","1912","0365-0812","","","","","","","",""
-"699570-1","Talinum rivae","Chiov.","Ann. Bot. (Rome)","13: 376","1915","0365-0812","","","","","","","",""
-"709797-1","Clematis intermedia","Chiov.","Ann. Bot. (Rome)","9: 51, hybr.","1911","0365-0812","","","","","","","",""
-"719105-1","Tzellemtinia nervosa","Chiov.","Ann. Bot. (Rome)","9: 56","1911","0365-0812","","","","","","","",""
-"719871-1","Weihea avettae","Chiov.","Ann. Bot. (Rome)","9: 321","1911","0365-0812","","","","","","","",""
-"719908-1","Weihea salvago-raggei","Chiov.","Ann. Bot. (Rome)","9: 62","1911","0365-0812","","","","","","","",""
-"720457-1","Alchemilla ceroniana","Buser in Vacc.","Ann. Bot. (Rome)","9: 19","1911","0365-0812","","","","","","","",""
-"720528-1","Alchemilla ducis-aprutii","Cortesi","Ann. Bot. (Rome)","6: 152","1907","0365-0812","","","","","","","",""
-"720757-1","Alchemilla marsica","Buse in Vacc.","Ann. Bot. (Rome)","9: 21","1911","0365-0812","","","","","","","",""
-"720930-1","Alchemilla roccatii","Cortesi","Ann. Bot. (Rome)","6: 536","1908","0365-0812","","","","","","","",""
-"721037-1","Alchemilla tridentata","Cortesi","Ann. Bot. (Rome)","6: 536","1908","0365-0812","","","","","","","",""
-"735251-1","Rubus assaortinus","Chiov.","Ann. Bot. (Rome)","13: 397","1915","0365-0812","","","","","","","",""
-"735797-1","Rubus chiesae","Chiov.","Ann. Bot. (Rome)","9: 319","1911","0365-0812","","","","","","","",""
-"740054-1","Rubus scioanus","Chiov.","Ann. Bot. (Rome)","9: 320","1911","0365-0812","","","","","","","",""
-"749455-1","Galium abyssinicum","Chiov.","Ann. Bot. (Rome)","9: 68","1911","0365-0812","","","","","","","",""
-"756527-1","Mussaenda abyssinica","Chiov.","Ann. Bot. (Rome)","9: 67","1911","0365-0812","","","","","","","",""
-"759610-1","Pavetta cinerascens","Chiov.","Ann. Bot. (Rome)","9: 67","1911","0365-0812","","","","","","","",""
-"765344-1","Rubia ruwenzoriensis","Cortesi","Ann. Bot. (Rome)","6: 152","1907","0365-0812","","","","","","","",""
-"77071318-1","Codia albicans var. cinerascens","Vieill. ex Pamp.","Ann. Bot. (Rome)","2(1): 104","1905 [10 Jan 1905]","0365-0812","","","","","","","",""
-"77081748-1","Vigna sinensis var. catjang","(Burm.f.) Chiov.","Ann. Bot. (Rome)","8: 438","1908","0365-0812","","","","","","","",""
-"77087735-1","Bromus sterilis var. stenanthus","Chiov.","Ann. Bot. (Rome)","17(3): 82","1927","0365-0812","","","","","","","",""
-"77096594-1","Serapias lingua f. abnormis","Cortesi","Ann. Bot. (Rome)","1: 216","1904","0365-0812","","","","","","","",""
-"77104204-1","Pancheria pinnata var. heterophylla","Pamp.","Ann. Bot. (Rome)","2: 101","1905","0365-0812","","","","","","","",""
-"77104205-1","Pancheria alaternoides var. lanceolata","Pamp.","Ann. Bot. (Rome)","2: 95","1905","0365-0812","","","","","","","",""
-"77105660-1","Alchemilla polytricha","Buser","Ann. Bot. (Rome)","9: 20 (-21)","1911","0365-0812","","","","","","","",""
-"77118343-1","Amaranthus bouchonii var. cacciatoi","Aellen ex Cacciato","Ann. Bot. (Rome)","28: 618","1966","0365-0812","","","","","","","",""
-"77120687-1","Ceropegia stenoloba","Chiov.","Ann. Bot. (Rome)","10: 395","1912","0365-0812","","","","","","","",""
-"780977-1","Thesium matteii","Chiov.","Ann. Bot. (Rome)","10: 405","1912","0365-0812","","","","","","","",""
-"790345-1","Belangera paraguaiensis","Pamp.","Ann. Bot. (Rome)","2: 53","","0365-0812","","","","","","","",""
-"790700-1","Codia albicans","Vieill. ex Pamp.","Ann. Bot. (Rome)","2: 104","","0365-0812","","","","","","","",""
-"790703-1","Codia incrassata","Pamp.","Ann. Bot. (Rome)","2: 105","","0365-0812","","","","","","","",""
-"791191-1","Geissois intermedia","Vieill. ex Pamp.","Ann. Bot. (Rome)","2: 57","","0365-0812","","","","","","","",""
-"792044-1","Pancheria beauverdiana","Pamp.","Ann. Bot. (Rome)","2: 100","","0365-0812","","","","","","","",""
-"792045-1","Pancheria billardierei","(D.Don) Pamp.","Ann. Bot. (Rome)","2: 99","","0365-0812","","","","","","","",""
-"792046-1","Pancheria brunhesii","Pamp.","Ann. Bot. (Rome)","2: 98","1905","0365-0812","","","","","","","",""
-"792048-1","Pancheria elliptica","Pamp.","Ann. Bot. (Rome)","2: 97","","0365-0812","","","","","","","",""
-"792050-1","Pancheria hirsuta","Vieill. ex Pamp.","Ann. Bot. (Rome)","2: 101","","0365-0812","","","","","","","",""
-"792052-1","Pancheria pinnata","Pamp.","Ann. Bot. (Rome)","2: 100","","0365-0812","","","","","","","",""
-"792054-1","Pancheria pulchella","Pamp.","Ann. Bot. (Rome)","2: 96","","0365-0812","","","","","","","",""
-"794811-1","Spiraeanthemum ellipticum","Vieill. ex Pamp.","Ann. Bot. (Rome)","2: 50","","0365-0812","","","","","","","",""
-"794815-1","Spiraeanthemum pubescens","Pamp.","Ann. Bot. (Rome)","2: 50","","0365-0812","","","","","","","",""
-"794938-1","Vesselowskya rubifolia","Pamp.","Ann. Bot. (Rome)","2: 93","1905","0365-0812","","","","","","","",""
-"794950-1","Weinmannia baccariniana","Pamp.","Ann. Bot. (Rome)","2: 81","","0365-0812","","176555","","","","","",""
-"795019-1","Weinmannia laxiflora","Pamp.","Ann. Bot. (Rome)","2: 77","","0365-0812","","176555","","","","","",""
-"795090-1","Weinmannia trichocarpa","Pamp.","Ann. Bot. (Rome)","2: 67","","0365-0812","","176555","","","","","",""
-"798665-1","Alectorolophus helenae","Behrendsen","Ann. Bot. (Rome)","12: 7","1913","0365-0812","","","","","","","",""
-"798674-1","Alectorolophus laricetorum","Wilcz & Stern.","Ann. Bot. (Rome)","12: 9","1913","0365-0812","","","","","","","",""
-"798690-1","Alectorolophus pampaninii","Wilczek & Stern.","Ann. Bot. (Rome)","12: 11","1913","0365-0812","","","","","","","",""
-"798724-1","Alectorolophus subalpinus","Behrendsen","Ann. Bot. (Rome)","12: 14","1913","0365-0812","","","","","","","",""
-"801274-1","Celsia foliosa","Chiov.","Ann. Bot. (Rome)","9: 84","1911","0365-0812","","","","","","","",""
-"801314-1","Celsia micrantha","Chiov.","Ann. Bot. (Rome)","10: 398","1912","0365-0812","","","","","","","",""
-"810407-1","Torenia gavottiana","Buscal.","Ann. Bot. (Rome)","9: 106","1911","0365-0812","","","","","","","",""
-"813605-1","Brucea erythraeae","Chiov.","Ann. Bot. (Rome)","10: 384","1912","0365-0812","","","","","","","",""
-"818479-1","Solanum boselliae","Chiov.","Ann. Bot. (Rome)","9: 83","1911","0365-0812","","","","","","","",""
-"820698-1","Solanum racemigerum","Zodda","Ann. Bot. (Rome)","2: 272","","0365-0812","","","","","","","",""
-"823718-1","Hermannia erythraeae","Chiov.","Ann. Bot. (Rome)","9: 151","1911","0365-0812","","","","","","","",""
-"824346-1","Melhania fiorii","Chiov.","Ann. Bot. (Rome)","10: 383","1912","0365-0812","","","","","","","",""
-"82845-1","Wrightia demartiniana","Chiov.","Ann. Bot. (Rome)","13: 405","1915","0365-0812","","","","","","","",""
-"835736-1","Triumfetta arussorum","Chiov.","Ann. Bot. (Rome)","9: 317","1911","0365-0812","","","","","","","",""
-"835782-1","Triumfetta dembianensis","Chiov.","Ann. Bot. (Rome)","9: 53","1911","0365-0812","","","","","","","",""
-"842109-1","Erythroselinum atropurpureum","Chiov.","Ann. Bot. (Rome)","9: 64","1911","0365-0812","","","","","","","",""
-"84420-2","Drymonia buscalionii","Fritsch ex Buscal.","Ann. Bot. (Rome)","9: 113, tab. 3","1911","0365-0812","","","","","","","",""
-"849226-1","Stephanorossia palustris","Chiov.","Ann. Bot. (Rome)","9: 65","1911","0365-0812","","","","","","","",""
-"854980-1","Parietaria ruwenzoriensis","Cortesi","Ann. Bot. (Rome)","6: 537","1908","0365-0812","","","","","","","",""
-"860730-1","Vellozia somalensis","Chiov.","Ann. Bot. (Rome)","9: 141","1911","0365-0812","","","","","","","",""
-"861210-1","Bouchea rariflora","Chiov.","Ann. Bot. (Rome)","9: 127","1911","0365-0812","","","","","","","",""
-"862026-1","Clerodendrum dembianense","Chiov.","Ann. Bot. (Rome)","9: 128","1911","0365-0812","","","","","","","",""
-"863266-1","Lantana dauensis","Chiov.","Ann. Bot. (Rome)","10: 402","1912","0365-0812","","","","","","","",""
-"869832-1","Cissus dembianensis","Chiov.","Ann. Bot. (Rome)","9: 54","1911","0365-0812","","","","","","","",""
-"90177-1","Cussonia ostinii","Chiov.","Ann. Bot. (Rome)","9: 66","1911","0365-0812","","","","","","","",""
-"94478-1","Asclepias negrii","Chiov.","Ann. Bot. (Rome)","10: 393","1912","0365-0812","","","","","","","",""
-"94996-1","Brachystelma asmarense","Chiov.","Ann. Bot. (Rome)","10: 390","1912","0365-0812","","","","","","","",""
-"95612-1","Ceropegia hochstetteri","Chiov.","Ann. Bot. (Rome)","10: 396","1912","0365-0812","","","","","","","",""
-"99168-1","Marsdenia gondarensis","Chiov.","Ann. Bot. (Rome)","9: 80","1911","0365-0812","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+100258-1	Pachycarpus schumannii	Chiov.	Ann. Bot. (Rome)	10: 394	1912	0365-0812								
+100408-1	Pergularia tacazzeana	Chiov.	Ann. Bot. (Rome)	9: 80	1911	0365-0812								
+101439-1	Spathulopetalum dicapuae	Chiov.	Ann. Bot. (Rome)	10: 392	1912	0365-0812								
+10466-1	Petrollinia	Chiov.	Ann. Bot. (Rome)	9: 70	1911	0365-0812								
+110100-1	Memora pirottana	Buscal.	Ann. Bot. (Rome)	9: 118	1911	0365-0812								
+115097-1	Cynoglossum densefoliatum	Chiov.	Ann. Bot. (Rome)	9: 82	1911	0365-0812								
+116997-1	Heliotropium lithospermoides	Chiov.	Ann. Bot. (Rome)	10: 397	1912	0365-0812								
+119109-1	Myosotis marcillyana	Beguin.	Ann. Bot. (Rome)	1: 284		0365-0812								
+126332-1	Berzelia squarrosa	Colozza	Ann. Bot. (Rome)	2: 40	1905	0365-0812								
+126510-1	Staavia comosa	Colozza	Ann. Bot. (Rome)	2: 35		0365-0812								
+126516-1	Staavia lateriflora	Colozza	Ann. Bot. (Rome)	2: 36; et in Nuov. Giorn. Bot. Ital. x. 397		0365-0812								
+127052-1	Boswellia microphylla	Chiov.	Ann. Bot. (Rome)	13: 404	1915	0365-0812								
+127061-1	Boswellia pirottae	Chiov.	Ann. Bot. (Rome)	9: 53	1911	0365-0812								
+127629-1	Commiphora crenulata	Chiov.	Ann. Bot. (Rome)	13: 404	1915	0365-0812								
+127636-1	Commiphora dancaliensis	Chiov.	Ann. Bot. (Rome)	13: 403	1915	0365-0812								
+13310-1	Hymenosicyos	Chiov.	Ann. Bot. (Rome)	9: 62	1911 [15 Mar 1911]	0365-0812								
+143830-1	Lobelia scioensis	Chiov.	Ann. Bot. (Rome)	10: 388	1912	0365-0812								
+143932-1	Lobelia tenerrima	Chiov.	Ann. Bot. (Rome)	9: 78	1911	0365-0812								
+145952-1	Wahlenbergia sparticula	Chiov.	Ann. Bot. (Rome)	10: 389	1912	0365-0812								
+146188-1	Cadaba baccarinii	Chiov.	Ann. Bot. (Rome)	13: 377	1915	0365-0812								
+150524-1	Alsine flaccida	Chiov.	Ann. Bot. (Rome)	10: 22	1912	0365-0812								
+156416-1	Sagina brachysepala	Chiov.	Ann. Bot. (Rome)	9: 52	1911	0365-0812								
+157118-2	Memora magnifica var. macrophylla	Buscal.	Ann. Bot. (Rome)	9: 117	1911	0365-0812								
+157125-2	Memora pirottana	Buscal.	Ann. Bot. (Rome)	9: 118, tab. 4	1911	0365-0812								
+157775-1	Silene marmarica	Beg. & Vaccari	Ann. Bot. (Rome)	12: 100	1913	0365-0812								
+158947-1	Spergularia maritima	Chiov.	Ann. Bot. (Rome)	10: 22, sphalm.	1912	0365-0812								
+161375-1	Gymnosporia intermedia	Chiov.	Ann. Bot. (Rome)	9: 54	1911	0365-0812								
+172384-1	Commelina trachysperma	Chiov.	Ann. Bot. (Rome)	9: 148	1911	0365-0812								
+17383-1	Afrotrichloris	Chiov.	Ann. Bot. (Rome)	13: 371	1915	0365-0812								
+18299-1	Joannegria	Chiov.	Ann. Bot. (Rome)	11: 231	1913	0365-0812								
+184530-1	Berkheya chiesiana	Chiov.	Ann. Bot. (Rome)	10: 386	1912	0365-0812								
+185565-1	Blumea fruticulosa	Hochst. ex Chiov.	Ann. Bot. (Rome)	9: 71, in syn.	1911	0365-0812								
+18572-1	Negria	Chiov.	Ann. Bot. (Rome)	10: 410	1912	0365-0812								
+188462-1	Carduus blepharolepis	Chiov.	Ann. Bot. (Rome)	6: 151	1907	0365-0812								
+18853-1	Pterochlaena	Chiov.	Ann. Bot. (Rome)	13: 47	1914	0365-0812								
+188609-1	Carduus eremocephalus	Chiov.	Ann. Bot. (Rome)	10: 387	1912	0365-0812								
+18889-1	Rendlia	Chiov.	Ann. Bot. (Rome)	13: 53	1914	0365-0812								
+189478-1	Carthamus divaricatus	Beg. & Vaccari	Ann. Bot. (Rome)	12: 124, nomen.	1913	0365-0812								
+194952-1	Cirsium acanthifolium	Porta	Ann. Bot. (Rome)	12: 22, hybr.	1913	0365-0812								
+195062-1	Cirsium benaci	Porta	Ann. Bot. (Rome)	9: 27, hybr.	1911	0365-0812								
+195069-1	Cirsium bicolor	Porta	Ann. Bot. (Rome)	12: 23, hybr.	1913	0365-0812								
+195276-1	Cirsium dissimile	Porta in Vacc.	Ann. Bot. (Rome)	7: 317	1909	0365-0812								
+195388-1	Cirsium gelmianum	Porta in Vacc.	Ann. Bot. (Rome)	7: 318	1909	0365-0812								
+195503-1	Cirsium incelebratum	Forta	Ann. Bot. (Rome)	12: 23, hybr.	1913	0365-0812								
+195855-1	Cirsium polymorphum	Porta	Ann. Bot. (Rome)	12: 23, hybr.	1913	0365-0812								
+196130-1	Cirsium tribadum	Porta in Vacc.	Ann. Bot. (Rome)	7: 318	1909	0365-0812								
+196172-1	Cirsium venustum	Porta in Vacc.	Ann. Bot. (Rome)	7: 318	1909	0365-0812								
+197963-1	Coreopsis chrysopterocarpa	Chiov.	Ann. Bot. (Rome)	9: 75	1911	0365-0812								
+198040-1	Coreopsis heterocarpa	Chiov.	Ann. Bot. (Rome)	9: 75	1911	0365-0812								
+198216-1	Coreopsis ternata	Chiov.	Ann. Bot. (Rome)	9: 74	1911	0365-0812								
+200842-1	Cyathopappus abyssinicus	Hochst. ex Chiov.	Ann. Bot. (Rome)	9: 74, in syn.	1911	0365-0812								
+202510-1	Echinops gondarensis	Chiov.	Ann. Bot. (Rome)	9: 77	1911	0365-0812								
+202596-1	Echinops negrii	Chiov.	Ann. Bot. (Rome)	9: 77	1911	0365-0812								
+202621-1	Echinops pappii	Chiov.	Ann. Bot. (Rome)	9: 76	1911	0365-0812								
+204988-1	Erlangea squarrosula	Chiov.	Ann. Bot. (Rome)	7: 177	1908	0365-0812								
+212443-1	Helichrysum arussense	Chiov.	Ann. Bot. (Rome)	10: 385	1912	0365-0812								
+212694-1	Helichrysum ducis-aprutii	Chiov.	Ann. Bot. (Rome)	6: 149	1907	0365-0812								
+213437-1	Helichrysum traversii	Chiov.	Ann. Bot. (Rome)	9: 72	1911	0365-0812								
+227159-1	Kalbfussia hispidula	Beg. & Vacc	Ann. Bot. (Rome)	13: 33	1911	0365-0812								
+230096-1	Leucanthemum tridactylites	(Fiori) Bazzich.	Ann. Bot. (Rome)	29: 97	1972 [dt. 1967-69; publ. 3 Jul 1	0365-0812								
+23178-1	Peltophoropsis	Chiov.	Ann. Bot. (Rome)	13: 385	1915	0365-0812								
+232437-1	Micractis abyssinica	Chiov.	Ann. Bot. (Rome)	9: 73	1911	0365-0812								
+232439-1	Micractis drosocephala	Chiov.	Ann. Bot. (Rome)	9: 72	1911	0365-0812								
+232440-1	Micractis schimperi	Chiov.	Ann. Bot. (Rome)	9: 73	1911	0365-0812								
+237437-1	Petrollinia heteromalla	Chiov.	Ann. Bot. (Rome)	9: 71	1911	0365-0812								
+237604-1	Phagnalon stenolepis	Chiov.	Ann. Bot. (Rome)	9: 71	1911	0365-0812								
+239585-2	Solanum racemigerum	(Lange) Zodda	Ann. Bot. (Rome)	2: 272	1905	0365-0812								
+244352-1	Senecio caranianus	Chiov.	Ann. Bot. (Rome)	10: 386	1912	0365-0812								
+244619-1	Senecio coreopsoides	Chiov.	Ann. Bot. (Rome)	6: 149	1907	0365-0812								
+244928-1	Senecio ducis-aprutii	Chiov.	Ann. Bot. (Rome)	6: 150	1907	0365-0812								
+246277-1	Senecio mattirolii	Chiov.	Ann. Bot. (Rome)	6: 150	1907	0365-0812								
+246954-1	Senecio pirottae	Chiov.	Ann. Bot. (Rome)	6: 149	1907	0365-0812								
+247323-1	Senecio roccatii	Chiov.	Ann. Bot. (Rome)	6: 151	1907	0365-0812								
+250916-1	Spitzelia pilosa	Beg. & Vacc.	Ann. Bot. (Rome)	13: 33	1914	0365-0812								
+255155-2	Torenia gavottiana	Buscal.	Ann. Bot. (Rome)	9: 106, tab. 1	1911	0365-0812								
+25674-1	Eriocaucanthus	Chiov.	Ann. Bot. (Rome)	10: 29	1912	0365-0812								
+25746-1	Tetraspis	Chiov.	Ann. Bot. (Rome)	10: 26	1912	0365-0812								
+257864-1	Vernonia argutidens	Chiov.	Ann. Bot. (Rome)	9: 69	1911	0365-0812								
+258775-1	Vernonia macrophylla	Chiov.	Ann. Bot. (Rome)	9: 70	1911	0365-0812								
+260258-1	Wedelia magnifica	Chiov.	Ann. Bot. (Rome)	9: 74	1911	0365-0812								
+260794-2	Utricularia laciniata var. poeppigiana	Buscal.	Ann. Bot. (Rome)	9: 112, tab. 2, fig. 2	1911	0365-0812								
+268138-2	Weinmannia baccariniana	Pamp.	Ann. Bot. (Rome)	2: 81	1904	0365-0812		176555						
+268139-2	Weinmannia baccariniana var. caracasana	Pamp.	Ann. Bot. (Rome)	2: 82	1904	0365-0812		176555						
+268151-2	Weinmannia bifida f. alata	Pamp.	Ann. Bot. (Rome)	2: 71	1904	0365-0812		176555						
+268168-2	Weinmannia cordata f. minor	Pamp.	Ann. Bot. (Rome)	2: 65	1904	0365-0812		176555						
+268171-2	Weinmannia crassifolia f. cochabambensis	Pamp.	Ann. Bot. (Rome)	2: 68	1904	0365-0812		176555						
+268172-2	Weinmannia crassifolia f. latifolia	Pamp.	Ann. Bot. (Rome)	2: 68	1904	0365-0812		176555						
+268183-2	Weinmannia dryadifolia f. pillavensis	Pamp.	Ann. Bot. (Rome)	2: 64	1904	0365-0812		176555						
+268198-2	Weinmannia glabra var. mexicana	Pamp.	Ann. Bot. (Rome)	2: 73	1904	0365-0812		176555						
+268200-2	Weinmannia glazioviana var. nitidula	Pamp.	Ann. Bot. (Rome)	2: 77	1904	0365-0812		176555						
+268209-2	Weinmannia hirta var. antillana	Pamp.	Ann. Bot. (Rome)	2: 76	1904	0365-0812		176555						
+268210-2	Weinmannia hirta var. brasiliensis	Pamp.	Ann. Bot. (Rome)	2: 76	1904	0365-0812		176555						
+268212-2	Weinmannia hirta f. nitida	Pamp.	Ann. Bot. (Rome)	2: 76	1904	0365-0812		176555						
+268217-2	Weinmannia intermedia f. glabra	Pamp.	Ann. Bot. (Rome)	2: 74	1904	0365-0812		176555						
+268218-2	Weinmannia intermedia var. pittieri	Pamp.	Ann. Bot. (Rome)	2: 74	1904	0365-0812		176555						
+268219-2	Weinmannia intermedia f. tomentosa	Pamp.	Ann. Bot. (Rome)	2: 74	1904	0365-0812		176555						
+268230-2	Weinmannia laxiflora	Pamp.	Ann. Bot. (Rome)	2: 77	1904	0365-0812		176555						
+268231-2	Weinmannia laxiflora var. polyphylla	Pamp.	Ann. Bot. (Rome)	2: 78	1904	0365-0812		176555						
+268246-2	Weinmannia microphylla var. parvifolia	(Ruiz ex D.Don) Pamp.	Ann. Bot. (Rome)	2: 79	1904	0365-0812		176555						
+268260-2	Weinmannia ovalis var. elliptica	Pamp.	Ann. Bot. (Rome)	2: 66	1904	0365-0812		176555						
+268261-2	Weinmannia ovalis f. equatoriensis	Pamp.	Ann. Bot. (Rome)	2: 67	1904	0365-0812		176555						
+268270-2	Weinmannia paulliniaefolia f. janeirensis	Pamp.	Ann. Bot. (Rome)	2: 74	1904	0365-0812		176555						
+268280-2	Weinmannia polyphylla var. macrocarpa	Pamp.	Ann. Bot. (Rome)	2: 84	1904	0365-0812		176555						
+268306-2	Weinmannia sorbifolia var. heterophylla	Pamp.	Ann. Bot. (Rome)	2: 85	1904	0365-0812		176555						
+268307-2	Weinmannia sorbifolia var. leucocarpa	Pamp.	Ann. Bot. (Rome)	2: 85	1904	0365-0812		176555						
+268308-2	Weinmannia sorbifolia f. pubescens	Pamp.	Ann. Bot. (Rome)	2: 85	1904	0365-0812		176555						
+268318-2	Weinmannia subsessiliflora f. novo-granatensis	Pamp.	Ann. Bot. (Rome)	2: 71	1904	0365-0812		176555						
+268930-1	Ipomoea glossophylla	Chiov.	Ann. Bot. (Rome)	9: 83	1911	0365-0812								
+275346-1	Sedum ducis-aprutii	Cortesi	Ann. Bot. (Rome)	6: 536	1908	0365-0812								
+275672-1	Sedum malladrae	Chiov.	Ann. Bot. (Rome)	9: 60	1911	0365-0812								
+280686-1	Cardamine talamontiana	Chiov.	Ann. Bot. (Rome)	9: 51	1911	0365-0812								
+287259-2	Weinmannia hirta f. aqualupiensis	Pamp.	Ann. Bot. (Rome)	2: 76	1904	0365-0812		176555						
+287260-2	Weinmannia laxiflora f. minor	Pamp.	Ann. Bot. (Rome)	2: 78	1904	0365-0812		176555						
+287261-2	Weinmannia sorbifolia f. angustifolia	Pamp.	Ann. Bot. (Rome)	2: 85	1904	0365-0812		176555						
+287262-2	Weinmannia sorbifolia f. microphylla	Pamp.	Ann. Bot. (Rome)	2: 85	1904	0365-0812		176555						
+287263-2	Weinmannia baccariniana f. minor	Pamp.	Ann. Bot. (Rome)	2: 82	1904	0365-0812		176555						
+287776-2	Weinmannia microphylla f. humilis	(Engl.) Pamp.	Ann. Bot. (Rome)	2: 80	1904	0365-0812		176555						
+289598-1	Sisymbrium pachypodum	Chiov.	Ann. Bot. (Rome)	9: 52	1911	0365-0812								
+292943-1	Hymenosicyos membranifolius	Chiov.	Ann. Bot. (Rome)	9: 63	1911	0365-0812								
+298402-1	Carex abyssinica	Chiov.	Ann. Bot. (Rome)	9: 150	1911	0365-0812								
+299422-1	Carex densenervosa	Chiov.	Ann. Bot. (Rome)	9: 149	1911	0365-0812								
+301158-1	Carex negrii	Chiov.	Ann. Bot. (Rome)	10: 406	1912	0365-0812								
+301201-1	Carex × nicoloffii	Pamp.	Ann. Bot. (Rome)	1(3): 135 (-141; t. 11)	1903 [30 dec 1903]	0365-0812								
+302668-1	Carex tornabenii	Chiov.	Ann. Bot. (Rome)	17: 83, hybr.	1927	0365-0812								
+304599-1	Cyperus giolii	Chiov.	Ann. Bot. (Rome)	13: 375	1915	0365-0812								
+305452-1	Cyperus paolii	Chiov.	Ann. Bot. (Rome)	13: 373	1915	0365-0812								
+305658-1	Cyperus pseudosphacelatus	Chiov.	Ann. Bot. (Rome)	13: 374	1915	0365-0812								
+31075-2	Belangera glabra var. intermedia	Pamp.	Ann. Bot. (Rome)	2: 54	1904	0365-0812								
+31078-2	Belangera paraguaiensis	Pamp.	Ann. Bot. (Rome)	2: 53	1904	0365-0812								
+31080-2	Belangera speciosa var. pubescens	Pamp.	Ann. Bot. (Rome)	2: 56	1904	0365-0812								
+311668-1	Pycreus gracillimus	Chiov.	Ann. Bot. (Rome)	13: 58	1914	0365-0812								
+335232-1	Eriocaulon dembianense	Chiov.	Ann. Bot. (Rome)	9: 148	1911	0365-0812								
+33542-1	Tzellemtinia	Chiov.	Ann. Bot. (Rome)	9: 55	1911	0365-0812								
+348639-1	Euphorbia valliniana	Belli	Ann. Bot. (Rome)	1: 9		0365-0812								
+350333-1	Jatropha marginata	Chiov.	Ann. Bot. (Rome)	18: 324, in clavi.	1930	0365-0812								
+350391-1	Jatropha paradoxa	Chiov.	Ann. Bot. (Rome)	18: 324, in clavi.	1930	0365-0812								
+354319-1	Phyllanthus myrtilloides	Chiov.	Ann. Bot. (Rome)	10: 405	1912	0365-0812								
+3705-1	Spathulopetalum	Chiov.	Ann. Bot. (Rome)	10: 392	1912	0365-0812								
+370894-1	Swertia erythraeae	Chiov.	Ann. Bot. (Rome)	9: 81	1911	0365-0812								
+370911-1	Swertia gentianifolia	Chiov.	Ann. Bot. (Rome)	9: 82	1911	0365-0812								
+37190-1	Vesselowskya	Pamp.	Ann. Bot. (Rome)	2: 93	1905	0365-0812								
+376209-1	Pelargonium gallense	Chiov.	Ann. Bot. (Rome)	9: 318	1911	0365-0812								
+380678-1	Drymonia buscalionii	Fritsch & Buscal.	Ann. Bot. (Rome)	9: 113	1911	0365-0812								
+384756-1	Afrotrichloris martinii	Chiov.	Ann. Bot. (Rome)	13: 372	1915	0365-0812								
+387690-1	Andropogon claudopus	Chiov.	Ann. Bot. (Rome)	13: 37	1914	0365-0812								
+387952-1	Andropogon golae	Chiov.	Ann. Bot. (Rome)	13: 38	1914	0365-0812								
+388192-1	Andropogon matteodanus	Chiov.	Ann. Bot. (Rome)	2: 365		0365-0812								
+388220-1	Andropogon mobukensis	Chiov.	Ann. Bot. (Rome)	6: 147	1907	0365-0812								
+389255-1	Aristida astroclada	Chiov.	Ann. Bot. (Rome)	10: 409	1912	0365-0812								
+389667-1	Aristida pennei	Chiov.	Ann. Bot. (Rome)	2: 366		0365-0812								
+398053-1	Deschampsia ruwensorensis	Chiov.	Ann. Bot. (Rome)	6: 148	1907	0365-0812								
+398682-1	Digitaria bovonii	Chiov.	Ann. Bot. (Rome)	13: 40	1914	0365-0812								
+399139-1	Digitaria siderograpta	Chiov.	Ann. Bot. (Rome)	13: 39	1914	0365-0812								
+399170-1	Digitaria sulcigluma	Chiov.	Ann. Bot. (Rome)	13: 41	1914	0365-0812								
+39981-1	Erythroselinum	Chiov.	Ann. Bot. (Rome)	9: 64	1911	0365-0812								
+400004-1	Eleusine poiflora	Chiov.	Ann. Bot. (Rome)	10: 409	1912	0365-0812								
+400043-1	Eleusine yemensis	Chiov.	Ann. Bot. (Rome)	10: 410, in obs.	1912	0365-0812								
+400875-1	Eragrostis bovonei	Chiov.	Ann. Bot. (Rome)	13: 56	1914	0365-0812								
+400907-1	Eragrostis caespitosa	Chiov.	Ann. Bot. (Rome)	13: 373	1915	0365-0812								
+401551-1	Eragrostis sclerochlaena	Chiov.	Ann. Bot. (Rome)	13: 57	1914	0365-0812								
+402768-1	Festuca gelida	Chiov.	Ann. Bot. (Rome)	6: 148	1907	0365-0812								
+40568-1	Stephanorossia	Chiov.	Ann. Bot. (Rome)	9: 65	1911	0365-0812								
+406388-1	Joannegria melicoides	Chiov.	Ann. Bot. (Rome)	11: 231	1913	0365-0812								
+408248-1	Melinis ruficoma	Chiov.	Ann. Bot. (Rome)	5: 62	1906	0365-0812								
+409399-1	Negria melicoides	Chiov.	Ann. Bot. (Rome)	10: 411	1912	0365-0812								
+409965-1	Oropetium erythraeum	Chiov.	Ann. Bot. (Rome)	2: 366		0365-0812								
+410209-1	Oryzopsis pauciflora	Beg. & Vaccari	Ann. Bot. (Rome)	12: 94	1913	0365-0812								
+410300-1	Oxytenanthera ruwensorensis	Chiov.	Ann. Bot. (Rome)	6: 148	1907	0365-0812								
+410761-1	Panicum bovonei	Chiov.	Ann. Bot. (Rome)	13: 42	1914	0365-0812								
+410886-1	Panicum catangense	Chiov.	Ann. Bot. (Rome)	13: 44	1914	0365-0812								
+410967-1	Panicum clavipilum	Chiov.	Ann. Bot. (Rome)	13: 43	1914	0365-0812								
+411558-1	Panicum golae	Chiov.	Ann. Bot. (Rome)	13: 43	1914	0365-0812								
+411995-1	Panicum lepidum	Hochst. ex Chiov.	Ann. Bot. (Rome)	5: 61, in adnot.	1906	0365-0812								
+412673-1	Panicum pinifolium	Chiov.	Ann. Bot. (Rome)	5: 62	1906	0365-0812								
+413645-1	Pappophorum laxum	Chiov.	Ann. Bot. (Rome)	10: 411	1912	0365-0812								
+415165-1	Pennisetum pappianum	Chiov.	Ann. Bot. (Rome)	2: 365		0365-0812								
+418478-1	Pogonarthria hackelii	Chiov.	Ann. Bot. (Rome)	10: 413	1912	0365-0812								
+418534-1	Pollinia catangensis	Chiov.	Ann. Bot. (Rome)	13: 35	1914	0365-0812								
+418929-1	Pterochlaena catangensis	Chiov.	Ann. Bot. (Rome)	13: 47	1914	0365-0812								
+419302-1	Rendlia altera	(Rendle) Chiov.	Ann. Bot. (Rome)	13: 54, in clavi	1914	0365-0812								
+419304-1	Rendlia mutica	(Hack.) Chiov.	Ann. Bot. (Rome)	13: 54, in clavi	1914	0365-0812								
+419305-1	Rendlia nelsonii	(Stapf) Chiov.	Ann. Bot. (Rome)	13: 54, in clavi	1914	0365-0812								
+419306-1	Rendlia obtusifolia	Chiov.	Ann. Bot. (Rome)	13: 54	1914	0365-0812								
+419307-1	Rendlia pseudoharpechloa	Chiov.	Ann. Bot. (Rome)	13: 55	1914	0365-0812								
+419395-1	Rhynchelytrum catangense	Chiov.	Ann. Bot. (Rome)	13: 45	1914	0365-0812								
+419618-1	Rottboellia bovonei	Chiov.	Ann. Bot. (Rome)	13: 36	1914	0365-0812								
+419780-1	Rottboellia undulatifolia	Chiov.	Ann. Bot. (Rome)	13: 36	1914	0365-0812								
+421476-1	Setaria blepharochaeta	Chiov.	Ann. Bot. (Rome)	10: 408	1912	0365-0812								
+421661-1	Setaria longissima	Chiov.	Ann. Bot. (Rome)	13: 46	1914	0365-0812								
+422679-1	Sporobolus conrathii	Chiov.	Ann. Bot. (Rome)	13: 49	1914	0365-0812								
+422917-1	Sporobolus ruspolianus	Chiov.	Ann. Bot. (Rome)	5: 64	1906	0365-0812								
+422934-1	Sporobolus secundispiculus	Chiov.	Ann. Bot. (Rome)	13: 49	1914	0365-0812								
+423015-1	Sporobolus wildemannii	Chiov.	Ann. Bot. (Rome)	13: 48	1914	0365-0812								
+423821-1	Stipa tigrensis	Chiov.	Ann. Bot. (Rome)	2: 366		0365-0812								
+424686-1	Trichopteryx fruticulosa	Chiov.	Ann. Bot. (Rome)	13: 50	1914	0365-0812								
+424970-1	Tripogon subtilissimus	Chiov.	Ann. Bot. (Rome)	5: 66	1906	0365-0812								
+425469-1	Tristachya elymoides	Chiov.	Ann. Bot. (Rome)	13: 51	1914	0365-0812								
+425475-1	Tristachya granulosa	Chiov.	Ann. Bot. (Rome)	13: 52	1914	0365-0812								
+428608-1	Hypericum scioanum	Chiov.	Ann. Bot. (Rome)	9: 327	1911	0365-0812								
+430800-1	Gyrocarpus hababensis	Chiov.	Ann. Bot. (Rome)	9: 132	1911	0365-0812								
+437815-1	Gladiolus roseolus	Chiov.	Ann. Bot. (Rome)	9: 140	1911	0365-0812								
+439774-1	Lapeirousia erythraeae	Chiov.	Ann. Bot. (Rome)	9: 139	1911	0365-0812								
+439807-1	Lapeirousia montaboniana	Chiov.	Ann. Bot. (Rome)	9: 140	1911	0365-0812								
+440289-1	Moraea tellinii	Chiov.	Ann. Bot. (Rome)	9: 138	1911	0365-0812								
+444249-1	Acrocephalus abyssinicus	Hochst. ex Chiov.	Ann. Bot. (Rome)	9: 85	1911	0365-0812								
+445970-1	Coleus doba	Hochst. ex Chiov.	Ann. Bot. (Rome)	9: 126	1911	0365-0812								
+446106-1	Coleus ostinii	Chiov.	Ann. Bot. (Rome)	9: 125	1911	0365-0812								
+447216-1	Geniosporum borzianum	Chiov.	Ann. Bot. (Rome)	10: 402	1912	0365-0812								
+452822-1	Nepeta vivianii	(Coss.) Bég. & Vacc.	Ann. Bot. (Rome)	12: 117	1913	0365-0812								
+453234-1	Origanum cyrenaicum	Beg. & Vaccari	Ann. Bot. (Rome)	12: 117	1913	0365-0812								
+453460-1	Orthosiphon bulbosus	Chiov.	Ann. Bot. (Rome)	13: 406	1915	0365-0812								
+457604-1	Satureja conferta	Beg & Caccari	Ann. Bot. (Rome)	12: 116, nomen.	1913	0365-0812								
+458279-1	Scutellaria fulgens	Chiov.	Ann. Bot. (Rome)	9: 126	1911	0365-0812								
+459939-1	Stachys sanguinea	Porta in Vaccari	Ann. Bot. (Rome)	7: 320	1909	0365-0812								
+469881-1	Acacia bricchettiana	Chiov.	Ann. Bot. (Rome)	13: 396	1915	0365-0812								
+469997-1	Acacia circummarginata	Chiov.	Ann. Bot. (Rome)	13: 394	1915	0365-0812								
+470036-1	Acacia condyloclada	Chiov.	Ann. Bot. (Rome)	13: 391	1915	0365-0812								
+471027-1	Acacia ogadensis	Chiov.	Ann. Bot. (Rome)	13: 393	1915	0365-0812								
+471075-1	Acacia paolii	Chiov.	Ann. Bot. (Rome)	13: 395	1915	0365-0812								
+471538-1	Acacia stefaninii	Chiov.	Ann. Bot. (Rome)	13: 395	1915	0365-0812								
+481112-1	Bauhinia argentea	Chiov.	Ann. Bot. (Rome)	13: 388	1915	0365-0812								
+483777-1	Cantuffa stellata	Chiov.	Ann. Bot. (Rome)	13: 409	1915	0365-0812								
+484172-1	Cassia baccarinii	Chiov.	Ann. Bot. (Rome)	13: 390	1915	0365-0812								
+487859-1	Crotalaria benadirensis	Chiov.	Ann. Bot. (Rome)	13: 377	1915	0365-0812								
+488809-1	Crotalaria ruspoliana	Chiov.	Ann. Bot. (Rome)	13: 379	1915	0365-0812								
+488828-1	Crotalaria scassellatii	Chiov.	Ann. Bot. (Rome)	13: 378	1915	0365-0812								
+490335-1	Dalbergia microphylla	Chiov.	Ann. Bot. (Rome)	13: 385	1915	0365-0812								
+492429-1	Dichrostachys glomerata	Chiov.	Ann. Bot. (Rome)	13: 409	1915	0365-0812								
+492926-1	Dolichos benadirianus	Chiov.	Ann. Bot. (Rome)	13: 383	1915	0365-0812								
+49848-1	Hypoestes caloi	Chiov.	Ann. Bot. (Rome)	9: 129	1911	0365-0812								
+499122-1	Indigofera cavallii	Chiov.	Ann. Bot. (Rome)	13: 380	1915	0365-0812								
+50701-1	Justicia exilissima	Chiov.	Ann. Bot. (Rome)	10: 401	1912	0365-0812								
+513007-1	Peltophoropsis scioana	Chiov.	Ann. Bot. (Rome)	13: 386	1915	0365-0812								
+513746-1	Phaseolus cibellii	Chiov.	Ann. Bot. (Rome)	13: 382	1915	0365-0812								
+515482-1	Poinciana baccal	Chiov.	Ann. Bot. (Rome)	13: 389	1915	0365-0812								
+519708-1	Stylosanthes suborbiculata	Chiov.	Ann. Bot. (Rome)	13: 381	1915	0365-0812								
+520595-1	Tephrosia graminifolia	Chiov.	Ann. Bot. (Rome)	13: 381	1915	0365-0812								
+522895-1	Trifolium baccarinii	Chiov.	Ann. Bot. (Rome)	9: 57	1911	0365-0812								
+523075-1	Trifolium decorum	Chiov.	Ann. Bot. (Rome)	9: 56	1911	0365-0812								
+523354-1	Trifolium mattirolianum	Chiov.	Ann. Bot. (Rome)	9: 57	1911	0365-0812								
+525358-1	Vigna glandulosa	Chiov.	Ann. Bot. (Rome)	13: 384	1915	0365-0812								
+525435-1	Vigna micrantha	Chiov.	Ann. Bot. (Rome)	9: 59	1911	0365-0812								
+525461-1	Vigna ostinii	Chiov.	Ann. Bot. (Rome)	9: 60	1911	0365-0812								
+525482-1	Vigna proboscidella	Chiov.	Ann. Bot. (Rome)	9: 59	1911	0365-0812								
+52551-1	Monothecium nakarii	Chiov.	Ann. Bot. (Rome)	9: 129	1911	0365-0812								
+527385-1	Albuca hysterantha	Chiov.	Ann. Bot. (Rome)	9: 145	1911	0365-0812								
+527422-1	Albuca nemorosa	Chiov.	Ann. Bot. (Rome)	9: 146	1911	0365-0812								
+532163-1	Bulbine fistulosa	Chiov.	Ann. Bot. (Rome)	9: 143	1911	0365-0812								
+532760-1	Chlorophytum baudi-candeanum	Chiov.	Ann. Bot. (Rome)	9: 146	1911	0365-0812								
+533987-1	Dipcadi rupicola	Chiov.	Ann. Bot. (Rome)	9: 143	1911	0365-0812								
+536913-1	Iphigenia abyssinica	Chiov.	Ann. Bot. (Rome)	9: 147	1911	0365-0812								
+54062-1	Ruellia fiorii	Chiov.	Ann. Bot. (Rome)	10: 400	1912	0365-0812								
+543212-1	Urginea bakeri	Chiov.	Ann. Bot. (Rome)	9: 144	1911	0365-0812								
+549920-1	Loranthus ostinii	Chiov.	Ann. Bot. (Rome)	9: 133	1911	0365-0812								
+554156-1	Rotala debilissima	Chiov.	Ann. Bot. (Rome)	9: 61	1911	0365-0812								
+556324-1	Eriocaucanthus argenteus	Chiov.	Ann. Bot. (Rome)	10: 29	1912	0365-0812								
+556325-1	Eriocaucanthus auriculatus	Chiov.	Ann. Bot. (Rome)	10: 29	1912	0365-0812								
+556326-1	Eriocaucanthus cinereus	Chiov.	Ann. Bot. (Rome)	10: 29	1912	0365-0812								
+557807-1	Tetraspis ruspoliana	Chiov.	Ann. Bot. (Rome)	10: 26	1912	0365-0812								
+562843-1	Pavonia erythraeae	Chiov.	Ann. Bot. (Rome)	13: 400	1915	0365-0812								
+56285-1	Thunbergia gondarensis	Chiov.	Ann. Bot. (Rome)	9: 128	1911	0365-0812								
+563009-1	Pavonia patens	Chiov.	Ann. Bot. (Rome)	13: 409	1915	0365-0812								
+563019-1	Pavonia pirottae	Chiov.	Ann. Bot. (Rome)	13: 401	1915	0365-0812								
+60149-1	Cyathula cordifolia	Hochst. ex Chiov.	Ann. Bot. (Rome)	9: 130	1911	0365-0812								
+60455383-2	Hyoseris lucida subsp. frutescens	(Brullo & Pavone) Peruzzi & Vangelisti	Ann. Bot. (Rome)	54(3-4): 769	2010	0365-0812								
+60455384-2	Hyoseris lucida subsp. taurina	(Martinoli) Peruzzi & Vangelisti	Ann. Bot. (Rome)	54(3-4): 769	2010	0365-0812								
+60458479-2	Sempervivum × vaccarii	Wilczek ex Vacc.	Ann. Bot. (Rome)	3(2): 39	1905 [20 Oct 1905]	0365-0812								
+609619-1	Jasminum mathildae	Chiov.	Ann. Bot. (Rome)	9: 79	1911	0365-0812								
+617842-1	Bonatea arabica	(Deflers) Cortesi	Ann. Bot. (Rome)	2: 363, in obs.	1905	0365-0812								
+617866-1	Bonatea pirottae	Cortesi	Ann. Bot. (Rome)	2: 362	1905	0365-0812								
+617874-1	Bonatea saundersioides	(Kraenzl. & Schltr.) Cortesi	Ann. Bot. (Rome)	2: 363, in obs.	1905	0365-0812								
+630284-1	Disa vaginata	Chiov.	Ann. Bot. (Rome)	9: 138	1911	0365-0812								
+634984-1	Eulophia variopicta	Chiov.	Ann. Bot. (Rome)	9: 135	1911	0365-0812								
+638116-1	Habenaria setigera	Chiov.	Ann. Bot. (Rome)	9: 137	1911	0365-0812								
+647819-1	Ophrys camusii	Cortesi	Ann. Bot. (Rome)	5: 541	1907	0365-0812								
+647918-1	Ophrys grampini	Cortesi	Ann. Bot. (Rome)	1: 359	1904	0365-0812								
+648052-1	Ophrys personei	Cortesi	Ann. Bot. (Rome)	13: 247, hybr.	1915	0365-0812								
+648111-1	Ophrys serotina	Rolli ex Cortesi	Ann. Bot. (Rome)	8: 213	1910	0365-0812								
+648119-1	Ophrys sommieri	E.G.Camus in Cortesi	Ann. Bot. (Rome)	1: 360, in adnot., hybr.	1904	0365-0812								
+648492-1	Orchis colemanii	Cortesi	Ann. Bot. (Rome)	5: 540	1907	0365-0812								
+648858-1	Orchis mauri	Jord. ex Cortesi	Ann. Bot. (Rome)	1: 173	1903	0365-0812								
+649029-1	Orchis pseudopicta	Cortesi	Ann. Bot. (Rome)	13: 244, hybr.	1915	0365-0812								
+650163-1	Peristylus albidulus	Chiov.	Ann. Bot. (Rome)	9: 137	1911	0365-0812								
+654034-1	Pogonia abyssinica	Chiov.	Ann. Bot. (Rome)	9: 136	1911	0365-0812								
+662018-1	Kopsia coelestis	Beg. & Vacc.	Ann. Bot. (Rome)	13: 29	1914	0365-0812								
+685339-1	Plantago libyca	Beg. & Vaccari	Ann. Bot. (Rome)	12: 119	1913	0365-0812								
+688594-1	Sphaerothylax sanguinea	Chiov.	Ann. Bot. (Rome)	9: 131	1911	0365-0812								
+691512-1	Polygala gondarensis	Chiov.	Ann. Bot. (Rome)	9: 316	1911	0365-0812								
+691912-1	Polygala negrii	Chiov.	Ann. Bot. (Rome)	9: 315	1911	0365-0812								
+695396-1	Polygonum arussense	Chiov.	Ann. Bot. (Rome)	10: 403	1912	0365-0812								
+699570-1	Talinum rivae	Chiov.	Ann. Bot. (Rome)	13: 376	1915	0365-0812								
+709797-1	Clematis intermedia	Chiov.	Ann. Bot. (Rome)	9: 51, hybr.	1911	0365-0812								
+719105-1	Tzellemtinia nervosa	Chiov.	Ann. Bot. (Rome)	9: 56	1911	0365-0812								
+719871-1	Weihea avettae	Chiov.	Ann. Bot. (Rome)	9: 321	1911	0365-0812								
+719908-1	Weihea salvago-raggei	Chiov.	Ann. Bot. (Rome)	9: 62	1911	0365-0812								
+720457-1	Alchemilla ceroniana	Buser in Vacc.	Ann. Bot. (Rome)	9: 19	1911	0365-0812								
+720528-1	Alchemilla ducis-aprutii	Cortesi	Ann. Bot. (Rome)	6: 152	1907	0365-0812								
+720757-1	Alchemilla marsica	Buse in Vacc.	Ann. Bot. (Rome)	9: 21	1911	0365-0812								
+720930-1	Alchemilla roccatii	Cortesi	Ann. Bot. (Rome)	6: 536	1908	0365-0812								
+721037-1	Alchemilla tridentata	Cortesi	Ann. Bot. (Rome)	6: 536	1908	0365-0812								
+735251-1	Rubus assaortinus	Chiov.	Ann. Bot. (Rome)	13: 397	1915	0365-0812								
+735797-1	Rubus chiesae	Chiov.	Ann. Bot. (Rome)	9: 319	1911	0365-0812								
+740054-1	Rubus scioanus	Chiov.	Ann. Bot. (Rome)	9: 320	1911	0365-0812								
+749455-1	Galium abyssinicum	Chiov.	Ann. Bot. (Rome)	9: 68	1911	0365-0812								
+756527-1	Mussaenda abyssinica	Chiov.	Ann. Bot. (Rome)	9: 67	1911	0365-0812								
+759610-1	Pavetta cinerascens	Chiov.	Ann. Bot. (Rome)	9: 67	1911	0365-0812								
+765344-1	Rubia ruwenzoriensis	Cortesi	Ann. Bot. (Rome)	6: 152	1907	0365-0812								
+77071318-1	Codia albicans var. cinerascens	Vieill. ex Pamp.	Ann. Bot. (Rome)	2(1): 104	1905 [10 Jan 1905]	0365-0812								
+77081748-1	Vigna sinensis var. catjang	(Burm.f.) Chiov.	Ann. Bot. (Rome)	8: 438	1908	0365-0812								
+77087735-1	Bromus sterilis var. stenanthus	Chiov.	Ann. Bot. (Rome)	17(3): 82	1927	0365-0812								
+77096594-1	Serapias lingua f. abnormis	Cortesi	Ann. Bot. (Rome)	1: 216	1904	0365-0812								
+77104204-1	Pancheria pinnata var. heterophylla	Pamp.	Ann. Bot. (Rome)	2: 101	1905	0365-0812								
+77104205-1	Pancheria alaternoides var. lanceolata	Pamp.	Ann. Bot. (Rome)	2: 95	1905	0365-0812								
+77105660-1	Alchemilla polytricha	Buser	Ann. Bot. (Rome)	9: 20 (-21)	1911	0365-0812								
+77118343-1	Amaranthus bouchonii var. cacciatoi	Aellen ex Cacciato	Ann. Bot. (Rome)	28: 618	1966	0365-0812								
+77120687-1	Ceropegia stenoloba	Chiov.	Ann. Bot. (Rome)	10: 395	1912	0365-0812								
+780977-1	Thesium matteii	Chiov.	Ann. Bot. (Rome)	10: 405	1912	0365-0812								
+790345-1	Belangera paraguaiensis	Pamp.	Ann. Bot. (Rome)	2: 53		0365-0812								
+790700-1	Codia albicans	Vieill. ex Pamp.	Ann. Bot. (Rome)	2: 104		0365-0812								
+790703-1	Codia incrassata	Pamp.	Ann. Bot. (Rome)	2: 105		0365-0812								
+791191-1	Geissois intermedia	Vieill. ex Pamp.	Ann. Bot. (Rome)	2: 57		0365-0812								
+792044-1	Pancheria beauverdiana	Pamp.	Ann. Bot. (Rome)	2: 100		0365-0812								
+792045-1	Pancheria billardierei	(D.Don) Pamp.	Ann. Bot. (Rome)	2: 99		0365-0812								
+792046-1	Pancheria brunhesii	Pamp.	Ann. Bot. (Rome)	2: 98	1905	0365-0812								
+792048-1	Pancheria elliptica	Pamp.	Ann. Bot. (Rome)	2: 97		0365-0812								
+792050-1	Pancheria hirsuta	Vieill. ex Pamp.	Ann. Bot. (Rome)	2: 101		0365-0812								
+792052-1	Pancheria pinnata	Pamp.	Ann. Bot. (Rome)	2: 100		0365-0812								
+792054-1	Pancheria pulchella	Pamp.	Ann. Bot. (Rome)	2: 96		0365-0812								
+794811-1	Spiraeanthemum ellipticum	Vieill. ex Pamp.	Ann. Bot. (Rome)	2: 50		0365-0812								
+794815-1	Spiraeanthemum pubescens	Pamp.	Ann. Bot. (Rome)	2: 50		0365-0812								
+794938-1	Vesselowskya rubifolia	Pamp.	Ann. Bot. (Rome)	2: 93	1905	0365-0812								
+794950-1	Weinmannia baccariniana	Pamp.	Ann. Bot. (Rome)	2: 81		0365-0812		176555						
+795019-1	Weinmannia laxiflora	Pamp.	Ann. Bot. (Rome)	2: 77		0365-0812		176555						
+795090-1	Weinmannia trichocarpa	Pamp.	Ann. Bot. (Rome)	2: 67		0365-0812		176555						
+798665-1	Alectorolophus helenae	Behrendsen	Ann. Bot. (Rome)	12: 7	1913	0365-0812								
+798674-1	Alectorolophus laricetorum	Wilcz & Stern.	Ann. Bot. (Rome)	12: 9	1913	0365-0812								
+798690-1	Alectorolophus pampaninii	Wilczek & Stern.	Ann. Bot. (Rome)	12: 11	1913	0365-0812								
+798724-1	Alectorolophus subalpinus	Behrendsen	Ann. Bot. (Rome)	12: 14	1913	0365-0812								
+801274-1	Celsia foliosa	Chiov.	Ann. Bot. (Rome)	9: 84	1911	0365-0812								
+801314-1	Celsia micrantha	Chiov.	Ann. Bot. (Rome)	10: 398	1912	0365-0812								
+810407-1	Torenia gavottiana	Buscal.	Ann. Bot. (Rome)	9: 106	1911	0365-0812								
+813605-1	Brucea erythraeae	Chiov.	Ann. Bot. (Rome)	10: 384	1912	0365-0812								
+818479-1	Solanum boselliae	Chiov.	Ann. Bot. (Rome)	9: 83	1911	0365-0812								
+820698-1	Solanum racemigerum	Zodda	Ann. Bot. (Rome)	2: 272		0365-0812								
+823718-1	Hermannia erythraeae	Chiov.	Ann. Bot. (Rome)	9: 151	1911	0365-0812								
+824346-1	Melhania fiorii	Chiov.	Ann. Bot. (Rome)	10: 383	1912	0365-0812								
+82845-1	Wrightia demartiniana	Chiov.	Ann. Bot. (Rome)	13: 405	1915	0365-0812								
+835736-1	Triumfetta arussorum	Chiov.	Ann. Bot. (Rome)	9: 317	1911	0365-0812								
+835782-1	Triumfetta dembianensis	Chiov.	Ann. Bot. (Rome)	9: 53	1911	0365-0812								
+842109-1	Erythroselinum atropurpureum	Chiov.	Ann. Bot. (Rome)	9: 64	1911	0365-0812								
+84420-2	Drymonia buscalionii	Fritsch ex Buscal.	Ann. Bot. (Rome)	9: 113, tab. 3	1911	0365-0812								
+849226-1	Stephanorossia palustris	Chiov.	Ann. Bot. (Rome)	9: 65	1911	0365-0812								
+854980-1	Parietaria ruwenzoriensis	Cortesi	Ann. Bot. (Rome)	6: 537	1908	0365-0812								
+860730-1	Vellozia somalensis	Chiov.	Ann. Bot. (Rome)	9: 141	1911	0365-0812								
+861210-1	Bouchea rariflora	Chiov.	Ann. Bot. (Rome)	9: 127	1911	0365-0812								
+862026-1	Clerodendrum dembianense	Chiov.	Ann. Bot. (Rome)	9: 128	1911	0365-0812								
+863266-1	Lantana dauensis	Chiov.	Ann. Bot. (Rome)	10: 402	1912	0365-0812								
+869832-1	Cissus dembianensis	Chiov.	Ann. Bot. (Rome)	9: 54	1911	0365-0812								
+90177-1	Cussonia ostinii	Chiov.	Ann. Bot. (Rome)	9: 66	1911	0365-0812								
+94478-1	Asclepias negrii	Chiov.	Ann. Bot. (Rome)	10: 393	1912	0365-0812								
+94996-1	Brachystelma asmarense	Chiov.	Ann. Bot. (Rome)	10: 390	1912	0365-0812								
+95612-1	Ceropegia hochstetteri	Chiov.	Ann. Bot. (Rome)	10: 396	1912	0365-0812								
+99168-1	Marsdenia gondarensis	Chiov.	Ann. Bot. (Rome)	9: 80	1911	0365-0812								

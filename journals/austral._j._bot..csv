@@ -1,495 +1,495 @@
-"Id","Full_name_without_family_and_authors","Authors","Publication","Collation","Publication_year_full","issn","doi","biostor","bhl","jstor","cinii","url","pdf","handle"
-"100502-3","Tasmannia glaucifolia","J.B.Williams","Australian Journal of Botany","","1988","0067-1924","","","","","","","",""
-"100964-3","Alexgeorgea","Carlquist","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"100987-3","Alexgeorgea arenicola","Carlquist","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"101010-3","Alexgeorgea subterranea","Carlquist","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"1016553-1","Eucryphia milliganii subsp. pubescens","R.W.Barnes, G.J.Jord., R.S.Hill & McCoull","Austral. J. Bot.","48(4): 488 (2000)","2000","0067-1924","10.1071/bt98044","","","","","","",""
-"103321-3","Neptunia sect. Pentanthera","Windler","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"103378-3","Neptunia amplexicaulis forma amplexicaulis","Domin","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"103402-3","Neptunia amplexicaulis forma richmondii","Windler","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"103578-3","Neptunia gracilis forma glandulosa","Windler","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"103615-3","Neptunia gracilis forma gracilis","Benth.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"103790-3","Neptunia major","(Benth.) Windler","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"105001-3","Helichrysum ledifolium subsp. ericifolium","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"105949-3","Decaisnina biangulata","(W.Fitzg.) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"105969-3","Decaisnina brittenii","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"105998-3","Decaisnina hollrungii","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"106033-3","Decaisnina petiolata","(Barlow) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"106075-3","Decaisnina signata subsp. cardiophylla","(Domin) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"106097-3","Decaisnina signata subsp. signata","(Benth.) Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"106381-3","Decaschistia byrnesii","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"106396-3","Decaschistia byrnesii subsp. byrnesii","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"106416-3","Decaschistia byrnesii subsp. lavandulacea","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"106892-3","Crepidomanes barnardianum subsp. barnardianum","(Bailey) Tindale","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"106930-3","Crepidomanes bipunctatum var. venulosum","(Rosenst.) Croxall","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"108156-3","Helichrysum ledifolium subsp. ledifolium","(DC.) Benth.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"108187-3","Helichrysum ledifolium subsp. purpurascens","(DC.) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"108216-3","Helichrysum ledifolium subsp. reflexum","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"108936-3","Sphalmium","B.G.Briggs, B.Hyland & L.A.S.Johnson","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"108937-3","Helichrysum obcordatum subsp. majus","(Benth.) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"108960-3","Sphalmium racemosum","(C.T.White) B.G.Briggs, B.Hyland & L.A.S.Johnson","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"108984-3","Helichrysum obcordatum subsp. obcordatum","(DC.) Benth.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"109215-3","Helichrysum occidentale","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"112148-3","Dendrolobium stipatum","S.T.Blake","Australian Journal of Botany","","1954 (Feb. 1954)","0067-1924","","","","","","","",""
-"112265-3","Dendrophthoe acacioides var. acacioides","(Benth.) Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112292-3","Dendrophthoe acacioides var. longifolia","(Specht) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112295-3","Amyema biniflora","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112378-3","Amyema congener subsp. congener","Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112398-3","Amyema congener subsp. rotundifolium","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112442-3","Amyema conspicua subsp. conspicua","(Bailey) Danser","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112455-3","Amyema conspicua subsp. obscurinerve","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112546-3","Dendrophthoe pelagica","Barlow","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"112595-3","Amyema gibberula var. gibberula","(Tate) Danser","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112615-3","Amyema gibberula var. tatei","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112689-3","Amyema herbertiana","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112758-3","Amyema linophylla subsp. linophylla","(Fenzl) Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112774-3","Amyema linophylla subsp. orientale","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112849-3","Amyema mackayensis subsp. cycnei-sinus","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112864-3","Amyema mackayensis subsp. mackayensis","(Blakely) Danser","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112895-3","Amyema maidenii subsp. angustifolia","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"112912-3","Amyema maidenii subsp. maidenii","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113008-3","Amyema miraculosa subsp. boormanii","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113047-3","Amyema miraculosa subsp. miraculosa","(Miq.) Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113164-3","Amyema pendula subsp. longifolia","(Hook.) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113187-3","Amyema pendula subsp. pendula","(Spreng.) Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113255-3","Amyema quandang var. bancroftii","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113271-3","Amyema quandang var. quandang","(Lindl.) Tiegh.","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113288-3","Amyema quaternifolia","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113343-3","Amyema sanguinea var. pulchra","(Ewart) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113356-3","Amyema sanguinea var. sanguinea","(F.Muell.) Danser","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113394-3","Amyema seemeniana subsp. flexuosa","Barlow","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"113435-3","Amyema villiflora","(Domin) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113455-3","Amyema villiflora subsp. tomentella","(Blakely) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113465-3","Amyema villiflora subsp. villiflora","(Domin) Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"113671-3","Amylotheca subumbellata","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"114321-3","Tristaniopsis collina","Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"114355-3","Tristaniopsis exiliflora","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"114384-3","Tristaniopsis laurina","(Sm.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"120680-3","Welchiodendron","Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"120721-3","Welchiodendron longivalve","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"121018-3","Hibiscus arnhemensis","F.D.Wilson","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"121176-3","Hibiscus byrnesii","F.D.Wilson","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"122265-3","Lagarostrobos","Quinn","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"122294-3","Lagarostrobos franklinii","(Hook.f.) Quinn","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"122591-3","Helichrysum whitei","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"123938-3","Euphorbia parvicaruncula","D.C.Hassall","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"124331-3","Euphorbia planiticola","D.C.Hassall","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"125233-3","Euphorbia tannensis subsp. eremophila","(A.Cunn.) D.C.Hassall","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"125279-3","Euphorbia tannensis var. eremophila","(A.Cunn.) D.C.Hassall","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"125322-3","Euphorbia tannensis var. finlaysonii","(J.M.Black) D.C.Hassall","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"125364-3","Euphorbia tannensis subsp. tannensis","Spreng.","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"125398-3","Stylidium confluens","Banyard & S.H.James","Australian Journal of Botany","","1979 (Feb. 1979)","0067-1924","","","","","","","",""
-"126644-3","Stylidium ecorne","(F.L.Erickson & J.H.Willis) Farrell & S.H.James","Australian Journal of Botany","","1979 (Feb. 1979)","0067-1924","","","","","","","",""
-"126932-3","Calectasia cyanea var. cyanea","R.Br.","Australian Journal of Botany","","1969 (Apr. 1969)","0067-1924","","","","","","","",""
-"126953-3","Calectasia cyanea var. intermedia","Anway","Australian Journal of Botany","","1969 (Apr. 1969)","0067-1924","","","","","","","",""
-"130020-3","Lophostemon confertus","(R.Br.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"130135-3","Lophostemon grandiflorus","(Benth.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"130193-3","Lophostemon grandiflorus subsp. grandiflorus","(Benth.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"130239-3","Lophostemon grandiflorus subsp. riparius","(Domin) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"130296-3","Lophostemon lactifluus","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"130340-3","Lophostemon suaveolens","(Sol. ex Gaertn.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"130405-3","Drosera sect. Stolonifera","DeBuhr","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"131566-3","Panicum muelleri","(Hughes) Lazarides","Australian Journal of Botany","","1959 (Dec. 1959)","0067-1924","","","","","","","",""
-"132253-3","Hakea repullulans","H.M.Lee","Australian Journal of Botany","","1984","0067-1924","","","","","","","",""
-"132792-3","Callitriche capricorni","R.Mason","Australian Journal of Botany","","1959 (Dec. 1959)","0067-1924","","","","","","","",""
-"134828-3","Desmodium polyneurum","S.T.Blake","Australian Journal of Botany","","1954 (Feb. 1954)","0067-1924","","","","","","","",""
-"137609-3","Solanum capsiciforme","(Domin) G.T.S.Baylis","Australian Journal of Botany","","1963 (Dec. 1963)","0067-1924","","","","","","","",""
-"139159-1","Callitriche aucklandica","R.Mason","Austral. J. Bot.","7: 314","1959","0067-1924","10.1071/bt9590295","","","","","","",""
-"139165-1","Callitriche capricorni","R.Mason","Austral. J. Bot.","7: 307","1959","0067-1924","10.1071/bt9590295","","","","","","",""
-"139188-1","Callitriche petriei","R.Mason","Austral. J. Bot.","7: 315","1959","0067-1924","10.1071/bt9590295","","","","","","",""
-"140277-3","Senecio lautus subsp. alpinus","Ali","Australian Journal of Botany","17(1): 167","1969 (Apr. 1969)","0067-1924","","","","","","","",""
-"140354-3","Senecio lautus subsp. dissectifolius","Ali","Australian Journal of Botany","","1969 (Apr. 1969)","0067-1924","","","","","","","",""
-"140394-3","Senecio lautus subsp. lanceolatus","(Benth.) Ali","Australian Journal of Botany","","1969 (Apr. 1969)","0067-1924","","","","","","","",""
-"140523-3","Senecio lautus subsp. maritimus","Ali","Australian Journal of Botany","","1969 (Apr. 1969)","0067-1924","","","","","","","",""
-"142627-3","Helichrysum rufescens","(DC.) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"147836-3","Sclerandrium grandiflorum","S.T.Blake","Australian Journal of Botany","","1954 (Feb. 1954)","0067-1924","","","","","","","",""
-"147871-3","Gossypium subsect. Grandicalyx","Fryxell","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"147977-3","Gossypium subsect. Hibiscoidea","(Tod.) Fryxell","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"149219-3","Gossypium nelsonii","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"149396-3","Gossypium pilosum","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"149485-3","Gossypium pulchellum","(C.A.Gardner) Fryxell","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"163998-3","Ristantia","Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"164025-3","Ristantia pachysperma","(Bailey) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"166899-3","Trifolium israeliticum","Zohary & Katzn.","Australian Journal of Botany","","1958 (Jun. 1958)","0067-1924","","","","","","","",""
-"167522-3","Crepidomanes bipunctatum var. bipunctatum","(Poir.) Copel.","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"167600-3","Limnophila australis","Wannan & J.T.Waterh.","Australian Journal of Botany","","1985","0067-1924","","","","","","","",""
-"168068-3","Calytrix uncinata","Craven","Austral. Syst. Bot. 3(4)","","1990","0067-1924","","","","","","","",""
-"168071-3","Calytrix oncophylla","Craven","Austral. Syst. Bot. 3(4)","","1990","0067-1924","","","","","","","",""
-"168075-3","Calytrix ecalycata","Craven","Austral. Syst. Bot. 3(4)","","1990","0067-1924","","","","","","","",""
-"168086-3","Alexgeorgea ganopoda","L.A.S.Johnson & B.G.Briggs","Austral. Syst. Bot. 3(4)","","1990","0067-1924","","","","","","","",""
-"169531-1","Calophyllum acutiputamen","P.F.Stevens","Austral. J. Bot.","22(2): 359","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169546-1","Calophyllum carrii","P.F.Stevens","Austral. J. Bot.","22(2): 360","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169555-1","Calophyllum confusum","P.F.Stevens","Austral. J. Bot.","22(2): 363","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169562-1","Calophyllum gaimanum","P.F.Stevens","Austral. J. Bot.","22(2): 367","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169564-1","Calophyllum goniocarpum","P.F.Stevens","Austral. J. Bot.","22(2): 369","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169567-1","Calophyllum heterophyllum","P.F.Stevens","Austral. J. Bot.","22(2): 371","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169572-1","Calophyllum laticostatum","P.F.Stevens","Austral. J. Bot.","22(2): 375","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169578-1","Calophyllum morobensis","P.F.Stevens","Austral. J. Bot.","22(2): 378","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169581-1","Calophyllum obscurum","P.F.Stevens","Austral. J. Bot.","22(2): 380","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169585-1","Calophyllum piluliferum","P.F.Stevens","Austral. J. Bot.","22(2): 387","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169589-1","Calophyllum pseudovitiense","P.F.Stevens","Austral. J. Bot.","22(2): 389","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169594-1","Calophyllum robustum","P.F.Stevens","Austral. J. Bot.","22(2): 392","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169598-2","Neptunia pubescens var. microcarpa","(Rose) Windler","Austral. J. Bot.","14: 393","1966","0067-1924","10.1071/bt9660379","","","","","","",""
-"169600-1","Calophyllum streimannii","P.F.Stevens","Austral. J. Bot.","22(2): 401","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169601-1","Calophyllum suberosum","P.F.Stevens","Austral. J. Bot.","22(2): 403","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169610-1","Calophyllum vexans","P.F.Stevens","Austral. J. Bot.","22(2): 407","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169660-1","Mammea cordata","P.F.Stevens","Austral. J. Bot.","22(2): 414","1974","0067-1924","10.1071/bt9740413","","","","","","",""
-"169661-1","Mammea grandifolia","P.F.Stevens","Austral. J. Bot.","22(2): 416","1974","0067-1924","10.1071/bt9740413","","","","","","",""
-"169664-1","Mammea veimauriensis","P.F.Stevens","Austral. J. Bot.","22(2): 410","1974","0067-1924","10.1071/bt9740349","","","","","","",""
-"169665-1","Mesua coriacea","P.F.Stevens","Austral. J. Bot.","22(2): 422","1974","0067-1924","10.1071/bt9740413","","","","","","",""
-"17440920-1","Hymenophyllum subgen. Chilodium","(C.Presl) Croxall","Austral. J. Bot.","23: 515. 1975.","1975","0067-1924","10.1071/bt9750509","","","","","","",""
-"17441010-1","Hymenophyllum eboracense","Croxall","Austral. J. Bot.","23: 518. 1975.","1975","0067-1924","10.1071/bt9750509","","","","","","",""
-"17443620-1","Macroglena brassii","Croxall","Austral. J. Bot.","23: 543. 1975.","1975","0067-1924","10.1071/bt9750509","","","","","","",""
-"17507140-1","Cheilanthes austrotenuifolia","H.Quirk & T.C.Chambers","Austral. J. Bot.","31(5): 510 (1983)","1983","0067-1924","10.1071/bt9830501","","","","","","",""
-"17514510-1","Cheilanthes shirleyana","(Domin) H.Quirk & T.C.Chambers","Austral. J. Bot.","31(5): 513 (1983):","1983","0067-1924","10.1071/bt9830501","","","","","","",""
-"17520190-1","Cheilanthes sieberi subsp. pseudovellea","H.Quirk & T.C.Chambers","Austral. J. Bot.","31(5): 522 (1983)","1983","0067-1924","10.1071/bt9830501","","","","","","",""
-"212492-1","Helichrysum blackallii","N.T.Burb.","Austral. J. Bot.","6: 254","1958","0067-1924","10.1071/bt9580229","","","","","","",""
-"212513-1","Helichrysum buftonii","N.T.Burb.","Austral. J. Bot.","6: 260","1958","0067-1924","10.1071/bt9580229","","","","","","",""
-"212729-1","Helichrysum expansifolium","(P.Morris & J.H.Willis) N.T.Burb.","Austral. J. Bot.","6: 278","1958","0067-1924","10.1071/bt9580229","","","","","","",""
-"213113-1","Helichrysum occidentale","N.T.Burb.","Austral. J. Bot.","6: 256","1958","0067-1924","10.1071/bt9580229","","","","","","",""
-"213273-1","Helichrysum rufescens","(DC.) N.T.Burb.","Austral. J. Bot.","6: 247","1958","0067-1924","10.1071/bt9580229","","","","","","",""
-"213482-1","Helichrysum whitei","N.T.Burb.","Austral. J. Bot.","6: 242","1958","0067-1924","10.1071/bt9580229","","","","","","",""
-"247534-2","Stylosanthes guianensis var. dissitiflora","(B.L.Rob. & Seaton) 't Mannetje","Austral. J. Bot.","25: 358","1977","0067-1924","10.1071/bt9770347","","","","","","",""
-"247535-2","Stylosanthes guianensis var. robusta","'t Mannetje","Austral. J. Bot.","25: 357 (-358), fig. 6","1977","0067-1924","10.1071/bt9770347","","","","","","",""
-"294546-1","Calycomis australis","(A.Cunn.) Hoogland","Austral. J. Bot.","8: 338","1960","0067-1924","10.1071/bt9600318","","","","","","",""
-"32999-1","Sphalmium","B.G.Briggs, B.Hyland & L.A.S.Johnson","Austral. J. Bot.","23(1): 165","1975","0067-1924","10.1071/bt9750165","","","","","","",""
-"33320-1","Alexgeorgea","Carlquist","Austral. J. Bot.","24(2): 282","1976","0067-1924","10.1071/bt9760281","","","","","","",""
-"340530-1","Chamaesyce alsiniflora","(Baill.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340551-1","Chamaesyce australis","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340558-1","Chamaesyce biconvexa","(Domin) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340608-1","Chamaesyce dallachyana","(Baill.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340616-1","Chamaesyce drummondii","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340630-1","Chamaesyce filipes","(Benth.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340678-1","Chamaesyce inappendiculata","(Domin) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340723-1","Chamaesyce macgillivrayi","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340738-1","Chamaesyce micradenia","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340752-1","Chamaesyce myrtoides","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340837-1","Chamaesyce schultzii","(Benth.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"340884-1","Chamaesyce wheeleri","(Baill.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"347669-1","Euphorbia parvicaruncula","D.C.Hassall","Austral. J. Bot.","25(4): 441","1977","0067-1924","10.1071/bt9770429","","","","","","",""
-"347805-1","Euphorbia planiticola","D.C.Hassall","Austral. J. Bot.","25(4): 446","1977","0067-1924","10.1071/bt9770429","","","","","","",""
-"402168-1","Eulalia mackinlayi","(F.Muell. ex Benth.) S.T.Blake","Austral. J. Bot.","2: 108","1954","0067-1924","10.1071/bt9540099","","","","","","",""
-"412292-1","Panicum muelleri","(Hughes) Lazarides","Austral. J. Bot.","7: 335","1959","0067-1924","10.1071/bt9590328","","","","","","",""
-"421072-1","Sclerandrium grandiflorum","S.T.Blake","Austral. J. Bot.","2: 108","1954","0067-1924","10.1071/bt9540099","","","","","","",""
-"424812-1","Triodia burkensis","N.T.Burb.","Austral. J. Bot.","1: 161","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424818-1","Triodia clelandii","N.T.Burb.","Austral. J. Bot.","8: 385","1960","0067-1924","10.1071/bt9600381","","","","","","",""
-"424820-1","Triodia concinna","N.T.Burb.","Austral. J. Bot.","8: 387","1960","0067-1924","10.1071/bt9600381","","","","","","",""
-"424849-1","Triodia hubbardii","N.T.Burb.","Austral. J. Bot.","8: 381","1960","0067-1924","10.1071/bt9600381","","","","","","",""
-"424850-1","Triodia inaequiloba","N.T.Burb.","Austral. J. Bot.","8: 391","1960","0067-1924","10.1071/bt9600381","","","","","","",""
-"424852-1","Triodia inutilis","N.T.Burb.","Austral. J. Bot.","1: 163","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424864-1","Triodia marginata","N.T.Burb.","Austral. J. Bot.","1: 151","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424869-1","Triodia molesta","N.T.Burb.","Austral. J. Bot.","1: 164","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424881-1","Triodia plectrachnoides","N.T.Burb.","Austral. J. Bot.","1: 155","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424884-1","Triodia plurinervata","N.T.Burb.","Austral. J. Bot.","8: 390","1960","0067-1924","10.1071/bt9600381","","","","","","",""
-"424892-1","Triodia roscida","N.T.Burb.","Austral. J. Bot.","1: 176","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424893-1","Triodia scariosa","N.T.Burb.","Austral. J. Bot.","1: 173","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"424898-1","Triodia spicata","N.T.Burb.","Austral. J. Bot.","1: 182","1953","0067-1924","10.1071/bt9530121","","","","","","",""
-"42732-1","Drosera sect. Stolonifera","DeBuhr","Austral. J. Bot.","25(2): 215","1977","0067-1924","10.1071/bt9770209","","","","","","",""
-"491247-1","Dendrolobium stipatum","S.T.Blake","Austral. J. Bot.","2: 117","1954","0067-1924","10.1071/bt9540099","","","","","","",""
-"492022-1","Desmodium polyneurum","S.T.Blake","Austral. J. Bot.","2: 119","1954","0067-1924","10.1071/bt9540099","","","","","","",""
-"50897-3","Xanthostemon psidioides","(Lindl.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"50926-3","Xanthostemon umbrosus","(Lindl.) Peter G.Wilson & J.T.Waterh.","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"509602-1","Neptunia major","(Benth.) Windler","Austral. J. Bot.","14: 408","1966","0067-1924","10.1071/bt9660379","","","","","","",""
-"518445-1","Sesbania campykocarpa","(Domin) N.T.Burb.","Austral. J. Bot.","13: 126","1965","0067-1924","10.1071/bt9650103","","","","","","",""
-"518450-1","Sesbania chippendalei","N.T.Burb.","Austral. J. Bot.","13: 129","1965","0067-1924","10.1071/bt9650103","","","","","","",""
-"518464-1","Sesbania erubescens","(Benth.) N.T.Burb.","Austral. J. Bot.","13: 138","1965","0067-1924","10.1071/bt9650103","","","","","","",""
-"518471-1","Sesbania formosa","(F.Muell.) N.T.Burb.","Austral. J. Bot.","13: 115","1965","0067-1924","10.1071/bt9650103","","","","","","",""
-"523254-1","Trifolium israeliticum","D.Zohary & Katzn.","Austral. J. Bot.","6: 179","1958","0067-1924","10.1071/bt9580177","","","","","","",""
-"52795-3","Thespesia lampas var. lampas","(Cav.) Dalzell & A.Gibson","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"52823-3","Thespesia lampas var. thespesioides","(Benth.) Fryxell","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"547670-1","Amyema angularis","Barlow","Austral. J. Bot.","22(3): 565","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547674-1","Amyema apoda","Barlow","Austral. J. Bot.","22(3): 565","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547688-1","Amyema biniflora","Barlow","Austral. J. Bot.","14: 459","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"547689-1","Amyema brassii","Barlow","Austral. J. Bot.","22(3): 568","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547693-1","Amyema canaliculatum","Barlow","Austral. J. Bot.","22(3): 569","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547706-1","Amyema dilatipes","Barlow","Austral. J. Bot.","22(3): 575","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547730-1","Amyema herbertiana","Barlow","Austral. J. Bot.","14: 468","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"547736-1","Amyema involvens","Barlow","Austral. J. Bot.","22 (3): 578","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547739-1","Amyema kebarensis","Barlow","Austral. J. Bot.","22(3): 579","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547785-1","Amyema quaternifolia","Barlow","Austral. J. Bot.","14: 482","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"547808-1","Amyema tetraflorum","(Barlow) Barlow","Austral. J. Bot.","22(3): 595","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547809-1","Amyema tetrapetalum","(Dans.) Barlow","Austral. J. Bot.","22(3): 595","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547819-1","Amyema villiflora","(Domin) Barlow","Austral. J. Bot.","14: 485","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"547824-1","Amylotheca acuminatifolia","Barlow","Austral. J. Bot.","22(3): 545","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547832-1","Amylotheca banksiana","(Guill.) Barlow","Austral. J. Bot.","22(3): 546","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"547879-1","Amylotheca subumbellata","Barlow","Austral. J. Bot.","14: 439","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"548171-1","Decaisnina biangulata","(W.Fitzg.) Barlow","Austral. J. Bot.","14: 433","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"548172-1","Decaisnina brittenii","(Blakely) Barlow","Austral. J. Bot.","14: 433","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"548173-1","Decaisnina djamuensis","(K.Krause) Barlow","Austral. J. Bot.","22(3): 536","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548176-1","Decaisnina hollrungii","(K.Schum.) Barlow","Austral. J. Bot.","14: 434","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"548178-1","Decaisnina micranthes","(Dans.) Barlow","Austral. J. Bot.","22(3): 540","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548180-1","Decaisnina papuana","(Dans.) Barlow","Austral. J. Bot.","22(3): 540","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548181-1","Decaisnina parvifolia","(Dans.) Barlow","Austral. J. Bot.","22(3): 541","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548182-1","Decaisnina pedicellata","(Dans.) Barlow","Austral. J. Bot.","22(3): 541","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548183-1","Decaisnina petiolata","(Barlow) Barlow","Austral. J. Bot.","14: 434","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"548185-1","Decaisnina stenopetala","(Oliv.) Barlow","Austral. J. Bot.","22(3): 543","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548336-1","Dendrophthoe pelagica","Barlow","Austral. J. Bot.","22(3): 609","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548370-1","Dendrophthoe trichanthera","Barlow","Austral. J. Bot.","22(3): 609","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"548522-1","Diplatia tomentosa","Barlow","Austral. J. Bot.","14: 488","1966","0067-1924","10.1071/bt9660421","","","","","","",""
-"548914-1","Lepeostegeres deciduus","Barlow","Austral. J. Bot.","22(3): 550","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"551595-1","Sogerianthe cupuliformis","Barlow","Austral. J. Bot.","22(3): 601","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"559475-1","Decaschistia byrnesii","Fryxell","Austral. J. Bot.","22(1): 187","1974","0067-1924","10.1071/bt9740183","","","","","","",""
-"559773-1","Gossypium nelsonii","Fryxell","Austral. J. Bot.","22(1): 184","1974","0067-1924","10.1071/bt9740183","","","","","","",""
-"559793-1","Gossypium pilosum","Fryxell","Austral. J. Bot.","22(1): 183","1974","0067-1924","10.1071/bt9740183","","","","","","",""
-"559799-1","Gossypium pulchellum","(C.A.Gardner) Fryxell","Austral. J. Bot.","13: 92","1965","0067-1924","10.1071/bt9650071","","","","","","",""
-"559957-1","Hibiscus arnhemensis","F.D.Wilson","Austral. J. Bot.","22(1): 175","1974","0067-1924","10.1071/bt9740157","","","","","","",""
-"560047-1","Hibiscus byrnesii","F.D.Wilson","Austral. J. Bot.","22(1): 177","1974","0067-1924","10.1071/bt9740157","","","","","","",""
-"560530-1","Hibiscus minutibracteolus","F.D.Wilson","Austral. J. Bot.","22(1): 178","1974","0067-1924","10.1071/bt9740157","","","","","","",""
-"560548-1","Hibiscus mustiae","F.D.Wilson","Austral. J. Bot.","22(1): 175","1974","0067-1924","10.1071/bt9740157","","","","","","",""
-"560849-1","Hibiscus spinulosus","(W.Fitzg.) F.D.Wilson","Austral. J. Bot.","22(1): 178","1974","0067-1924","10.1071/bt9740157","","","","","","",""
-"561321-1","Macrostelia grandifolia","Fryxell","Austral. J. Bot.","22(1): 189","1974","0067-1924","10.1071/bt9740183","","","","","","",""
-"56593-3","Macroglena brassii","Croxall","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"57396-3","Macrostelia grandifolia","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"57460-3","Macrostelia grandifolia subsp. grandifolia","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"57491-3","Macrostelia grandifolia subsp. macilwraithensis","Fryxell","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"57846-3","Helichrysum bilobum subsp. bilobum","N.A.Wakef.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"57876-3","Helichrysum bilobum subsp. scabrum","(F.Muell.) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"57938-3","Helichrysum blackallii","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"579886-1","Vavaea australiana","S.T.Blake","Austral. J. Bot.","2: 122","1954","0067-1924","10.1071/bt9540099","","","","","","",""
-"585699-1","Horsfieldia australiana","S.T.Blake","Austral. J. Bot.","2: 124","1954","0067-1924","10.1071/bt9540099","","","","","","",""
-"58699-3","Helichrysum buftonii","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"592953-1","Eucalyptus gilbertensis","(Maiden & Blakely) S.T.Blake","Austral. J. Bot.","1: 220","1953","0067-1924","10.1071/bt9530185","","","","","","",""
-"59325-3","Sesbania campylocarpa","(Domin) N.T.Burb.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"593270-1","Eucalyptus porrecta","S.T.Blake","Austral. J. Bot.","1: 251","1953","0067-1924","10.1071/bt9530185","","","","","","",""
-"59371-3","Triodia burkensis","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"59404-3","Sesbania cannabina var. cannabina","(Retz.) Pers.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"59434-3","Sesbania cannabina var. sericea","(Benth.) N.T.Burb.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"59461-3","Sesbania chippendalei","N.T.Burb.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"59501-3","Sesbania erubescens","(Benth.) N.T.Burb.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"59542-3","Sesbania formosa","(F.Muell.) N.T.Burb.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"59739-3","Triodia inutilis","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"59822-3","Triodia irritans var. compacta","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"59858-3","Triodia irritans var. irritans","R.Br.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"59891-3","Triodia irritans var. laxispicata","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"59894-3","Sesbania simpliciuscula var. fitzroyensis","N.T.Burb.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"59896-3","Sesbania simpliciuscula var. simpliciuscula","Benth.","Australian Journal of Botany","","1965 (Jun. 1965)","0067-1924","","","","","","","",""
-"60117-3","Triodia marginata","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60286-3","Triodia mitchellii var. breviloba","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60322-3","Triodia mitchellii var. mitchellii","Benth.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60370-3","Triodia mitchellii var. pubivagina","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60414-3","Triodia molesta","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60443331-2","Solanum aviculare var. latifolium","G.T.S.Baylis","Austral. J. Bot.","11(2): 168 (-177; tt. 1-2)","1963 [Dec 1963]","0067-1924","10.1071/bt9630168","","","","","","",""
-"60530-3","Triodia plectrachnoides","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60622-3","Boronia inornata subsp. inornata","Turcz.","Australian Journal of Botany","","1985","0067-1924","","","","","","","",""
-"60631-3","Boronia inornata subsp. leptophylla","(Turcz.) Burgman","Australian Journal of Botany","","1985","0067-1924","","","","","","","",""
-"60743-3","Triodia pungens var. linearis","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60828-3","Triodia pungens var. pungens","R.Br.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60902-3","Triodia roscida","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"60939-3","Triodia scariosa","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"61032-3","Triodia spicata","N.T.Burb.","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"61298-3","Triodia wiseana var. wiseana","C.A.Gardner","Australian Journal of Botany","","1953 (Mar. 1953)","0067-1924","","","","","","","",""
-"62850-3","Chamaesyce alsiniflora","D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62879-3","Chamaesyce australis","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62888-3","Chamaesyce biconvexa","(Domin) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62909-3","Chamaesyce dallachyana","D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62922-3","Chamaesyce drummondii","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62942-3","Chamaesyce filipes","(Benth.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62969-3","Chamaesyce inappendiculata","(Domin) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"62982-3","Chamaesyce macgillivrayi","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63001-3","Chamaesyce micradenia","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63014-3","Chamaesyce mitchelliana","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63026-3","Chamaesyce mitchelliana var. hirta","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63045-3","Chamaesyce mitchelliana var. mitchelliana","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63060-3","Chamaesyce myrtoides","(Boiss.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63083-3","Chamaesyce schultzii","(Benth.) D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"63126-3","Chamaesyce wheeleri","D.C.Hassall","Australian Journal of Botany","","1976 (Oct. 1976)","0067-1924","","","","","","","",""
-"64012-3","Cheilanthes austrotenuifolia","H.M.Quirk & T.C.Chambers","Australian Journal of Botany","","1983","0067-1924","","","","","","","",""
-"64285-3","Cheilanthes shirleyana","(Domin) H.M.Quirk & T.C.Chambers","Australian Journal of Botany","","1983","0067-1924","","","","","","","",""
-"64299-3","Cheilanthes sieberi subsp. sieberi","Kunze","Australian Journal of Botany","","1983","0067-1924","","","","","","","",""
-"64493-3","Hibiscus heterophyllus subsp. heterophyllus","Vent.","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"64574-3","Hibiscus heterophyllus subsp. luteus","(Hochr.) F.D.Wilson","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"65385-3","Hibiscus minutibracteolus","F.D.Wilson","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"65459-3","Hibiscus mustiae","F.D.Wilson","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"66657-3","Hibiscus spinulosus","(W.Fitzg.) F.D.Wilson","Australian Journal of Botany","","1974 (Mar. 1974)","0067-1924","","","","","","","",""
-"66667-3","Sarcomelicope simplicifolia","(Endl.) T.G.Hartley","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"66714-3","Sarcomelicope simplicifolia subsp. simplicifolia","(Endl.) T.G.Hartley","Australian Journal of Botany","","1982","0067-1924","","","","","","","",""
-"70223-3","Brachyscome spathulata subsp. glabra","(DC.) H.M.Stace","Australian Journal of Botany","","1981","0067-1924","","","","","","","",""
-"70230-3","Brachyscome spathulata subsp. spathulata","Gaudich.","Australian Journal of Botany","","1981","0067-1924","","","","","","","",""
-"70253-3","Hymenophyllum subgen. Chilodium","(C.Presl) Croxall","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"706760-1","Sphalmium racemosum","(C.T.White) B.G.Briggs, B.Hyland & L.A.S.Johnson","Austral. J. Bot.","23(1): 166","1975","0067-1924","10.1071/bt9750165","","","","","","",""
-"715690-1","Alexgeorgea arenicola","Carlquist","Austral. J. Bot.","24(2): 284","1976","0067-1924","10.1071/bt9760281","","","","","","",""
-"715691-1","Alexgeorgea subterranea","Carlquist","Austral. J. Bot.","24(2): 283","1976","0067-1924","10.1071/bt9760281","","","","","","",""
-"73218-3","Stylosanthes guianensis var. robusta","'t Mannetje","Australian Journal of Botany","","1977 (Jun. 1977)","0067-1924","","","","","","","",""
-"74120-3","Vavaea australiana","S.T.Blake","Australian Journal of Botany","","1954 (Feb. 1954)","0067-1924","","","","","","","",""
-"77406-3","Horsfieldia australiana","S.T.Blake","Australian Journal of Botany","","1954 (Feb. 1954)","0067-1924","","","","","","","",""
-"816851-1","Nicotiana amplexicaulis","N.T.Burb.","Austral. J. Bot.","8: 359","1960","0067-1924","10.1071/bt9600342","","","","","","",""
-"816887-1","Nicotiana cavicola","N.T.Burb.","Austral. J. Bot.","8: 354","1960","0067-1924","10.1071/bt9600342","","","","","","",""
-"816951-1","Nicotiana hesperis","N.T.Burb.","Austral. J. Bot.","8: 361","1960","0067-1924","10.1071/bt9600342","","","","","","",""
-"817068-1","Nicotiana simulans","N.T.Burb.","Austral. J. Bot.","8: 365","1960","0067-1924","10.1071/bt9600342","","","","","","",""
-"817091-1","Nicotiana umbratica","N.T.Burb.","Austral. J. Bot.","8: 352","1960","0067-1924","10.1071/bt9600342","","","","","","",""
-"818605-1","Solanum capsiciforme","(Domin & sine ref.) Baylis","Austral. J. Bot.","11: 168","1963","0067-1924","10.1071/bt9630168","","","","","","",""
-"826042-1","Stylidium confluens","Banyard & S.H.James","Austral. J. Bot.","27(1): 28","1979","0067-1924","10.1071/bt9790027","","","","","","",""
-"826065-1","Stylidium ecorne","(F.Muell. ex F.L.Erickson & J.H.Willis) P.G.Farrell & S.H.James","Austral. J. Bot.","27(1): 39","1979","0067-1924","10.1071/bt9790039","","","","","","",""
-"86359-3","Medicosma elliptica","T.G.Hartley","Australian Journal of Botany","","1985 (7 Mar. 1985)","0067-1924","","","","","","","",""
-"86364-3","Medicosma fareana","(F.Muell.) T.G.Hartley","Australian Journal of Botany","","1985","0067-1924","","","","","","","",""
-"86366-3","Medicosma glandulosa","T.G.Hartley","Australian Journal of Botany","","1985","0067-1924","","","","","","","",""
-"86367-3","Medicosma obovata","T.G.Hartley","Australian Journal of Botany","","1985 (7 Mar. 1985)","0067-1924","","","","","","","",""
-"86386-3","Medicosma sessiliflora","(C.T.White) T.G.Hartley","Australian Journal of Botany","","1985","0067-1924","","","","","","","",""
-"86490-3","Helichrysum expansifolium","(P.Morris & J.H.Willis) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"86927-3","Helichrysum gunnii subsp. gunnii","Benth.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"86953-3","Helichrysum gunnii subsp. paralium","N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"876286-1","Calophyllum carrii var. longigemmatum","P.F.Stevens","Austral. J. Bot.","22(2): 361","1971","0067-1924","10.1071/bt9740349","","","","","","",""
-"880484-1","Chamaesyce mitchelliana var. hirta","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"880618-1","Euphorbia tannensis subsp. eremophila","(A.Cunn.) D.C.Hassall","Austral. J. Bot.","25(4): 439","1977","0067-1924","10.1071/bt9770429","","","","","","",""
-"880619-1","Euphorbia tannensis var. finlaysonii","(J.M.Black) D.C.Hassall","Austral. J. Bot.","25(4): 441","1977","0067-1924","10.1071/bt9770429","","","","","","",""
-"885832-1","Stylosanthes guianensis var. dissitiflora","(B.L.Rob. & Seaton) 't Mannetje","Austral. J. Bot.","25(3): 358","1977","0067-1924","10.1071/bt9770347","","","","","","",""
-"885833-1","Stylosanthes guianensis var. robusta","'t Mannetje","Austral. J. Bot.","25(3): 357","1977","0067-1924","10.1071/bt9770347","","","","","","",""
-"886554-1","Amyema artensis var. papuanum","(Dans.) Barlow","Austral. J. Bot.","22(3): 568","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886555-1","Amyema conspicua subsp. fulvicalyx","Barlow","Austral. J. Bot.","22(3): 573","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886556-1","Amyema scandens subsp. crassifolium","Barlow","Austral. J. Bot.","22(3): 588","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886557-1","Amyema scandens subsp. plicatulum","(K.Krause) Barlow","Austral. J. Bot.","22(3): 588","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886558-1","Amyema seemeniana subsp. flexuosa","Barlow","Austral. J. Bot.","22(3): 591","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886559-1","Amyema seemeniana subsp. melastomatifolia","(K.Krause) Barlow","Austral. J. Bot.","22(3): 591","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886560-1","Amyema squarrosa subsp. rhopalanthes","(Dans.) Barlow","Austral. J. Bot.","22(3): 592","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886561-1","Amyema strongylophylla subsp. barbellata","(Blakely) Barlow","Austral. J. Bot.","22(3): 594","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886562-1","Amyema strongylophylla subsp. rigidiflora","(K.Krause) Barlow","Austral. J. Bot.","22(3): 594","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886563-1","Amyema wichmannii subsp. aggregatum","Barlow","Austral. J. Bot.","22(3): 598","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886564-1","Amyema wichmannii subsp. purum","Barlow","Austral. J. Bot.","22(3): 597","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886568-1","Macrosolen cochinchinensis var. lanceolatus","Barlow","Austral. J. Bot.","22(3): 556","1974","0067-1924","10.1071/bt9740531","","","","","","",""
-"886620-1","Decaschistia byrnesii subsp. lavandulacea","Fryxell","Austral. J. Bot.","22(1): 189","1974","0067-1924","10.1071/bt9740183","","","","","","",""
-"886625-1","Hibiscus heterophyllus subsp. luteus","(Hochr.) F.D.Wilson","Austral. J. Bot.","22(1): 170","1974","0067-1924","10.1071/bt9740157","","","","","","",""
-"886633-1","Macrostelia grandifolia subsp. macilwraithensis","Fryxell","Austral. J. Bot.","22(1): 191","1974","0067-1924","10.1071/bt9740183","","","","","","",""
-"892924-1","supertrib. Andropogonanae","L.Watson, Clifford & Dallwitz","Austral. J. Bot.","33(4): 479 (1985).","1985","0067-1924","10.1071/bt9850433","","","","","","",""
-"892926-1","supertrib. Bambusanae","L.Watson, Clifford & Dallwitz","Austral. J. Bot.","33(4): 461 (1985).","1985","0067-1924","10.1071/bt9850433","","","","","","",""
-"892932-1","supertrib. Oryzanae","L.Watson, Clifford & Dallwitz","Austral. J. Bot.","33(4): 458 (1985).","1985","0067-1924","10.1071/bt9850433","","","","","","",""
-"892933-1","supertrib. Panicanae","L.Watson, Clifford & Dallwitz","Austral. J. Bot.","33(4): 475 (1985).","1985","0067-1924","10.1071/bt9850433","","","","","","",""
-"893170-1","Halocarpus","Quinn","Austral. J. Bot.","30(3): 317 (1982).","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"893183-1","Lagarostrobos","Quinn","Austral. J. Bot.","30(3): 316 (1982).","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"893226-1","Ristantia","Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 442 (1982).","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"893251-1","Welchiodendron","Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982).","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"893339-1","Waterhousea","B.Hyland","Austral. J. Bot.","Suppl. 9: 138 (1983).","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"893708-1","Eucalyptus ser. Lehmannianae","D.J.Carr & S.G.M.Carr","Austral. J. Bot.","28(5â€“6): 524 (1980).","1980","0067-1924","10.1071/bt9800523","","","","","","",""
-"896488-1","Eucalyptus bennettiae","D.J.Carr & S.G.M.Carr","Austral. J. Bot.","28(5â€“6): 541 (1980)","1980","0067-1924","10.1071/bt9800523","","","","","","",""
-"896489-1","Eucalyptus conferruminata","D.J.Carr & S.G.M.Carr","Austral. J. Bot.","28(5â€“6): 535 (1980)","1980","0067-1924","10.1071/bt9800523","","","","","","",""
-"896490-1","Eucalyptus newbeyi","D.J.Carr & S.G.M.Carr","Austral. J. Bot.","28(5â€“6): 541 (1980)","1980","0067-1924","10.1071/bt9800523","","","","","","",""
-"896491-1","Eucalyptus talyuberlup","D.J.Carr & S.G.M.Carr","Austral. J. Bot.","28(5â€“6): 543 (1980)","1980","0067-1924","10.1071/bt9800523","","","","","","",""
-"900888-1","Sarcomelicope dogniensis","T.G.Hartley","Austral. J. Bot.","30(3): 367 (1982)","1982","0067-1924","10.1071/bt9820359","","","","","","",""
-"900889-1","Sarcomelicope glauca","T.G.Hartley","Austral. J. Bot.","30(3): 366 (1982)","1982","0067-1924","10.1071/bt9820359","","","","","","",""
-"901187-1","Tristaniopsis collina","Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 436 (1982)","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"901338-1","Acmena mackinnoniana","B.Hyland","Austral. J. Bot.","Suppl. 9: 14 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"901339-1","Acmena resa","B.Hyland","Austral. J. Bot.","Suppl. 9: 16 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"901340-1","Acmenosperma pringlei","B.Hyland","Austral. J. Bot.","Suppl. 9: 26 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"90176-3","Euphorbia subgen. Euphorbia","L.","Australian Journal of Botany","","1977 (Aug. 1977)","0067-1924","","","","","","","",""
-"902027-1","Eucalyptus willisii","Ladiges, Humphries & Brooker","Austral. J. Bot.","31(6): 583 (1983)","1983","0067-1924","10.1071/bt9830565","","","","","","",""
-"903165-1","Syzygium alatoramulum","B.Hyland","Austral. J. Bot.","Suppl. 9: 42 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903166-1","Syzygium alliiligneum","B.Hyland","Austral. J. Bot.","Suppl. 9: 44 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903167-1","Syzygium argyropedicum","B.Hyland","Austral. J. Bot.","Suppl. 9: 52 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903168-1","Syzygium bamagense","B.Hyland","Austral. J. Bot.","Suppl. 9: 56 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903169-1","Syzygium boonjee","B.Hyland","Austral. J. Bot.","Suppl. 9: 59 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903170-1","Syzygium canicortex","B.Hyland","Austral. J. Bot.","Suppl. 9: 66 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903171-1","Syzygium dansiei","B.Hyland","Austral. J. Bot.","Suppl. 9: 75 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903172-1","Syzygium endophloium","B.Hyland","Austral. J. Bot.","Suppl. 9: 77 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903173-1","Syzygium macilwraithianum","B.Hyland","Austral. J. Bot.","Suppl. 9: 99 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903174-1","Syzygium papyraceum","B.Hyland","Austral. J. Bot.","Suppl. 9: 111 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903175-1","Syzygium pseudofastigiatum","B.Hyland","Austral. J. Bot.","Suppl. 9: 113 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903176-1","Syzygium rubrimolle","B.Hyland","Austral. J. Bot.","Suppl. 9: 117 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903177-1","Syzygium sharonae","B.Hyland","Austral. J. Bot.","Suppl. 9: 122 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903178-1","Syzygium velae","B.Hyland","Austral. J. Bot.","Suppl. 9: 130 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903179-1","Syzygium wesa","B.Hyland","Austral. J. Bot.","Suppl. 9: 132 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903180-1","Syzygium xerampelinum","B.Hyland","Austral. J. Bot.","Suppl. 9: 136 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903363-1","Waterhousea mulgraveana","B.Hyland","Austral. J. Bot.","Suppl. 9: 143 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"903364-1","Waterhousea unipunctata","B.Hyland","Austral. J. Bot.","Suppl. 9: 145 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"904321-1","Hakea repullulans","H.M.Lee","Austral. J. Bot.","32(6): 681 (1984)","1984","0067-1924","10.1071/bt9840679","","","","","","",""
-"906534-1","Limnophila australis","Wannan & J.T.Waterh.","Austral. J. Bot.","33(4): 373 (1985)","1985","0067-1924","10.1071/bt9850367","","","","","","",""
-"906610-1","Medicosma articulata","T.G.Hartley","Austral. J. Bot.","33(1): 46 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906611-1","Medicosma congesta","T.G.Hartley","Austral. J. Bot.","33(1): 55 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906612-1","Medicosma diversifolia","T.G.Hartley","Austral. J. Bot.","33(1): 44 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906613-1","Medicosma elliptica","T.G.Hartley","Austral. J. Bot.","33(1): 37 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906614-1","Medicosma emarginata","T.G.Hartley","Austral. J. Bot.","33(1): 51 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906615-1","Medicosma exigua","T.G.Hartley","Austral. J. Bot.","33(1): 62 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906616-1","Medicosma glandulosa","T.G.Hartley","Austral. J. Bot.","33(1): 42 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906617-1","Medicosma gracilis","T.G.Hartley","Austral. J. Bot.","33(1): 63 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906618-1","Medicosma latifolia","T.G.Hartley","Austral. J. Bot.","33(1): 56 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906619-1","Medicosma obliqua","T.G.Hartley","Austral. J. Bot.","33(1): 48 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906620-1","Medicosma obovata","T.G.Hartley","Austral. J. Bot.","33(1): 39 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906621-1","Medicosma parvifolia","T.G.Hartley","Austral. J. Bot.","33(1): 48 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906622-1","Medicosma petiolaris","T.G.Hartley","Austral. J. Bot.","33(1): 60 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906623-1","Medicosma suberosa","T.G.Hartley","Austral. J. Bot.","33(1): 59 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906624-1","Medicosma subsessilis","T.G.Hartley","Austral. J. Bot.","33(1): 57 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906625-1","Medicosma tahafeana","T.G.Hartley","Austral. J. Bot.","33(1): 49 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"906626-1","Medicosma verticillata","T.G.Hartley","Austral. J. Bot.","33(1): 52 (1985)","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"910729-1","Halocarpus bidwillii","(Hook.f. ex Kirk) Quinn","Austral. J. Bot.","30(3): 317 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910730-1","Halocarpus biformis","(Hook.) Quinn","Austral. J. Bot.","30(3): 318 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910731-1","Halocarpus kirkii","(F.Muell. ex Parl.) Quinn","Austral. J. Bot.","30(3): 318 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910806-1","Lagarostrobos colensoi","(Hook.) Quinn","Austral. J. Bot.","30(3): 317 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910807-1","Lagarostrobos franklinii","(Hook.f.) Quinn","Austral. J. Bot.","30(3): 316 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910823-1","Lepidothamnus intermedius","(Kirk) Quinn","Austral. J. Bot.","30(3): 316 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910824-1","Lepidothamnus laxifolius","(Hook.f.) Quinn","Austral. J. Bot.","30(3): 316 (1982):","1982","0067-1924","10.1071/bt9820311","","","","","","",""
-"910845-1","Lophostemon confertus","(R.Br.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 424 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"910846-1","Lophostemon grandiflorus","(Benth.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 429 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"910847-1","Lophostemon lactifluus","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 428 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"910848-1","Lophostemon suaveolens","(Soland. ex Gaertn.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 425 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911243-1","Ristantia pachysperma","(F.Muell. & F.M.Bailey) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 443 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911276-1","Sarcomelicope leiocarpa","(P.S.Green) T.G.Hartley","Austral. J. Bot.","30(3): 368 (1982):","1982","0067-1924","10.1071/bt9820359","","","","","","",""
-"911277-1","Sarcomelicope simplicifolia","(Endl.) T.G.Hartley","Austral. J. Bot.","30(3): 369 (1982):","1982","0067-1924","10.1071/bt9820359","","","","","","",""
-"911561-1","Tristaniopsis anomala","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911562-1","Tristaniopsis beccarii","(Ridl.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911563-1","Tristaniopsis bilocularis","(Stapf) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911564-1","Tristaniopsis burmanica","(Griff.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911565-1","Tristaniopsis clementis","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911566-1","Tristaniopsis decorticata","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911567-1","Tristaniopsis elliptica","(Stapf) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911568-1","Tristaniopsis exiliflora","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 434 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911569-1","Tristaniopsis ferruginea","(C.T.White) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911570-1","Tristaniopsis fruticosa","(Ridl.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911571-1","Tristaniopsis grandifolia","(Ridl.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911572-1","Tristaniopsis laurina","(Sm.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 435 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911573-1","Tristaniopsis littoralis","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911574-1","Tristaniopsis macrosperma","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911575-1","Tristaniopsis merguensis","(Griff.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911576-1","Tristaniopsis micrantha","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911577-1","Tristaniopsis oblongifolia","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911578-1","Tristaniopsis obovata","(Benn.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911579-1","Tristaniopsis oreophila","(Diels) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911580-1","Tristaniopsis pentandra","(Merr.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 439 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911581-1","Tristaniopsis polyandra","(Guillaumin) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911582-1","Tristaniopsis pontianensis","(M.R.Hend.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911583-1","Tristaniopsis razakiana","(Kochummen) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911584-1","Tristaniopsis rufescens","(Hance) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911585-1","Tristaniopsis stellata","(Ridl.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911586-1","Tristaniopsis whiteana","(Griff.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 440 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911626-1","Welchiodendron longivalve","(F.Muell.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 441 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911647-1","Xanthostemon psidioides","(A.Cunn. ex Lindl.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 444 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"911648-1","Xanthostemon umbrosus","(A.Cunn. ex Lindl.) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 444 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"913367-1","Syzygium angophoroides","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 47 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913368-1","Syzygium apodophyllum","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 49 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913370-1","Syzygium armstrongii","(Benth.) B.Hyland","Austral. J. Bot.","Suppl. 9: 54 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913371-1","Syzygium australe","(Wendl. ex Link) B.Hyland","Austral. J. Bot.","Suppl. 9: 55 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913372-1","Syzygium banksii","(Britten & Moore ex Moore) B.Hyland","Austral. J. Bot.","Suppl. 9: 58 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913374-1","Syzygium bungadinnia","(F.M.Bailey) B.Hyland","Austral. J. Bot.","Suppl. 9: 64 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913375-1","Syzygium cormiflorum","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 68 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913376-1","Syzygium erythrocalyx","(C.T.White) B.Hyland","Austral. J. Bot.","Suppl. 9: 79 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913377-1","Syzygium erythrodoxum","(S.Moore) B.Hyland","Austral. J. Bot.","Suppl. 9: 81 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913378-1","Syzygium eucalyptoides","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 82 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913379-1","Syzygium forte","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 89 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913381-1","Syzygium gustavioides","(F.M.Bailey) B.Hyland","Austral. J. Bot.","Suppl. 9: 93 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913382-1","Syzygium johnsonii","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 95 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913383-1","Syzygium kuranda","(F.M.Bailey) B.Hyland","Austral. J. Bot.","Suppl. 9: 96 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913385-1","Syzygium minutuliflorum","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 104 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913387-1","Syzygium oleosum","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 107 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913390-1","Syzygium sayeri","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 119 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913391-1","Syzygium trachyphloium","(C.T.White) B.Hyland","Austral. J. Bot.","Suppl. 9: 128 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913393-1","Syzygium wilsonii","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 134 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913585-1","Waterhousea floribunda","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 139 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"913586-1","Waterhousea hedraiophylla","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 141 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"915273-1","Medicosma fareana","(F.Muell.) T.G.Hartley","Austral. J. Bot.","33(1): 36 (1985):","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"915274-1","Medicosma leratii","(Guillaumin) T.G.Hartley","Austral. J. Bot.","33(1): 46 (1985):","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"915275-1","Medicosma riparia","(P.Royen) T.G.Hartley","Austral. J. Bot.","33(1): 41 (1985):","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"915276-1","Medicosma sessiliflora","(C.T.White) T.G.Hartley","Austral. J. Bot.","33(1): 40 (1985):","1985","0067-1924","10.1071/bt9850027","","","","","","",""
-"917516-1","Acmena hemilampra subsp. orophila","B.Hyland","Austral. J. Bot.","Suppl. 9: 13 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"918105-1","Syzygium forte subsp. potamophilum","B.Hyland","Austral. J. Bot.","Suppl. 9: 90 (1983)","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"921153-1","Lophostemon grandiflorus subsp. riparius","(Domin) Peter G.Wilson & J.T.Waterh.","Austral. J. Bot.","30(4): 430 (1982):","1982","0067-1924","10.1071/bt9820413","","","","","","",""
-"921443-1","Sarcomelicope simplicifolia subsp. neoscotica","(P.S.Green) T.G.Hartley","Austral. J. Bot.","30(3): 371 (1982):","1982","0067-1924","10.1071/bt9820359","","","","","","",""
-"921444-1","Sarcomelicope simplicifolia subsp. petiolaris","(A.Gray) T.G.Hartley","Austral. J. Bot.","30(3): 371 (1982):","1982","0067-1924","10.1071/bt9820359","","","","","","",""
-"922771-1","Syzygium eucalyptoides subsp. bleeseri","(O.Schwarz) B.Hyland","Austral. J. Bot.","Suppl. 9: 84 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"922772-1","Syzygium wilsonii subsp. cryptophlebium","(F.Muell.) B.Hyland","Austral. J. Bot.","Suppl. 9: 135 (1983):","1983","0067-1924","10.1071/BT8309001","","","","","http://www.publish.csiro.au/nid/66/paper/BT8309001.htm","",""
-"924088-1","Boronia inornata subsp. leptophylla","(Turcz.) M.A.Burgman","Austral. J. Bot.","33(4): 423 (1985):","1985","0067-1924","10.1071/bt9850419","","","","","","",""
-"92907-3","Diplatia tomentosa","Barlow","Australian Journal of Botany","","1966 (Dec. 1966)","0067-1924","","","","","","","",""
-"936070-1","Tasmannia glaucifolia","J.B.Williams","Austral. J. Bot.","36(4): 396 (1988)","1988","0067-1924","10.1071/bt9880395","","","","","","",""
-"94084-3","Helichrysum sect. Hebelaena","(DC.) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"94367-3","Helichrysum subgen. Ozothamnus","(R.Br.) N.T.Burb.","Australian Journal of Botany","","1958 (Oct. 1958)","0067-1924","","","","","","","",""
-"949236-1","Eucalyptus willisii subsp. falciformis","Newnham, Ladiges & Whiffin","Austral. J. Bot.","34(3): 348 (1986)","1986","0067-1924","10.1071/bt9860331","","","","","","",""
-"954685-1","Eucalyptus kochii subsp. plenissima","(Gardner) Brooker","Austral. J. Bot.","36(2): 129 (1988):","1988","0067-1924","10.1071/bt9880119","","","","","","",""
-"98185-3","Hymenophyllum eboracense","Croxall","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
-"988583-1","Chamaesyce mitchelliana","(Boiss.) D.C.Hassall","Austral. J. Bot.","24(5): 640 (1976):","1976","0067-1924","10.1071/bt9760633","","","","","","",""
-"98988-3","Hymenophyllum polyanthon var. contiguum","Croxall","Australian Journal of Botany","","1975 (Jun. 1975)","0067-1924","","","","","","","",""
+Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
+100502-3	Tasmannia glaucifolia	J.B.Williams	Australian Journal of Botany		1988	0067-1924								
+100964-3	Alexgeorgea	Carlquist	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+100987-3	Alexgeorgea arenicola	Carlquist	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+101010-3	Alexgeorgea subterranea	Carlquist	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+1016553-1	Eucryphia milliganii subsp. pubescens	R.W.Barnes, G.J.Jord., R.S.Hill & McCoull	Austral. J. Bot.	48(4): 488 (2000)	2000	0067-1924	10.1071/bt98044							
+103321-3	Neptunia sect. Pentanthera	Windler	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+103378-3	Neptunia amplexicaulis forma amplexicaulis	Domin	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+103402-3	Neptunia amplexicaulis forma richmondii	Windler	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+103578-3	Neptunia gracilis forma glandulosa	Windler	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+103615-3	Neptunia gracilis forma gracilis	Benth.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+103790-3	Neptunia major	(Benth.) Windler	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+105001-3	Helichrysum ledifolium subsp. ericifolium	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+105949-3	Decaisnina biangulata	(W.Fitzg.) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+105969-3	Decaisnina brittenii	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+105998-3	Decaisnina hollrungii	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+106033-3	Decaisnina petiolata	(Barlow) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+106075-3	Decaisnina signata subsp. cardiophylla	(Domin) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+106097-3	Decaisnina signata subsp. signata	(Benth.) Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+106381-3	Decaschistia byrnesii	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+106396-3	Decaschistia byrnesii subsp. byrnesii	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+106416-3	Decaschistia byrnesii subsp. lavandulacea	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+106892-3	Crepidomanes barnardianum subsp. barnardianum	(Bailey) Tindale	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+106930-3	Crepidomanes bipunctatum var. venulosum	(Rosenst.) Croxall	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+108156-3	Helichrysum ledifolium subsp. ledifolium	(DC.) Benth.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+108187-3	Helichrysum ledifolium subsp. purpurascens	(DC.) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+108216-3	Helichrysum ledifolium subsp. reflexum	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+108936-3	Sphalmium	B.G.Briggs, B.Hyland & L.A.S.Johnson	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+108937-3	Helichrysum obcordatum subsp. majus	(Benth.) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+108960-3	Sphalmium racemosum	(C.T.White) B.G.Briggs, B.Hyland & L.A.S.Johnson	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+108984-3	Helichrysum obcordatum subsp. obcordatum	(DC.) Benth.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+109215-3	Helichrysum occidentale	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+112148-3	Dendrolobium stipatum	S.T.Blake	Australian Journal of Botany		1954 (Feb. 1954)	0067-1924								
+112265-3	Dendrophthoe acacioides var. acacioides	(Benth.) Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112292-3	Dendrophthoe acacioides var. longifolia	(Specht) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112295-3	Amyema biniflora	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112378-3	Amyema congener subsp. congener	Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112398-3	Amyema congener subsp. rotundifolium	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112442-3	Amyema conspicua subsp. conspicua	(Bailey) Danser	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112455-3	Amyema conspicua subsp. obscurinerve	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112546-3	Dendrophthoe pelagica	Barlow	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+112595-3	Amyema gibberula var. gibberula	(Tate) Danser	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112615-3	Amyema gibberula var. tatei	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112689-3	Amyema herbertiana	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112758-3	Amyema linophylla subsp. linophylla	(Fenzl) Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112774-3	Amyema linophylla subsp. orientale	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112849-3	Amyema mackayensis subsp. cycnei-sinus	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112864-3	Amyema mackayensis subsp. mackayensis	(Blakely) Danser	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112895-3	Amyema maidenii subsp. angustifolia	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+112912-3	Amyema maidenii subsp. maidenii	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113008-3	Amyema miraculosa subsp. boormanii	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113047-3	Amyema miraculosa subsp. miraculosa	(Miq.) Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113164-3	Amyema pendula subsp. longifolia	(Hook.) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113187-3	Amyema pendula subsp. pendula	(Spreng.) Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113255-3	Amyema quandang var. bancroftii	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113271-3	Amyema quandang var. quandang	(Lindl.) Tiegh.	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113288-3	Amyema quaternifolia	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113343-3	Amyema sanguinea var. pulchra	(Ewart) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113356-3	Amyema sanguinea var. sanguinea	(F.Muell.) Danser	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113394-3	Amyema seemeniana subsp. flexuosa	Barlow	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+113435-3	Amyema villiflora	(Domin) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113455-3	Amyema villiflora subsp. tomentella	(Blakely) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113465-3	Amyema villiflora subsp. villiflora	(Domin) Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+113671-3	Amylotheca subumbellata	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+114321-3	Tristaniopsis collina	Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+114355-3	Tristaniopsis exiliflora	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+114384-3	Tristaniopsis laurina	(Sm.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+120680-3	Welchiodendron	Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+120721-3	Welchiodendron longivalve	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+121018-3	Hibiscus arnhemensis	F.D.Wilson	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+121176-3	Hibiscus byrnesii	F.D.Wilson	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+122265-3	Lagarostrobos	Quinn	Australian Journal of Botany		1982	0067-1924								
+122294-3	Lagarostrobos franklinii	(Hook.f.) Quinn	Australian Journal of Botany		1982	0067-1924								
+122591-3	Helichrysum whitei	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+123938-3	Euphorbia parvicaruncula	D.C.Hassall	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+124331-3	Euphorbia planiticola	D.C.Hassall	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+125233-3	Euphorbia tannensis subsp. eremophila	(A.Cunn.) D.C.Hassall	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+125279-3	Euphorbia tannensis var. eremophila	(A.Cunn.) D.C.Hassall	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+125322-3	Euphorbia tannensis var. finlaysonii	(J.M.Black) D.C.Hassall	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+125364-3	Euphorbia tannensis subsp. tannensis	Spreng.	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+125398-3	Stylidium confluens	Banyard & S.H.James	Australian Journal of Botany		1979 (Feb. 1979)	0067-1924								
+126644-3	Stylidium ecorne	(F.L.Erickson & J.H.Willis) Farrell & S.H.James	Australian Journal of Botany		1979 (Feb. 1979)	0067-1924								
+126932-3	Calectasia cyanea var. cyanea	R.Br.	Australian Journal of Botany		1969 (Apr. 1969)	0067-1924								
+126953-3	Calectasia cyanea var. intermedia	Anway	Australian Journal of Botany		1969 (Apr. 1969)	0067-1924								
+130020-3	Lophostemon confertus	(R.Br.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+130135-3	Lophostemon grandiflorus	(Benth.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+130193-3	Lophostemon grandiflorus subsp. grandiflorus	(Benth.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+130239-3	Lophostemon grandiflorus subsp. riparius	(Domin) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+130296-3	Lophostemon lactifluus	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+130340-3	Lophostemon suaveolens	(Sol. ex Gaertn.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+130405-3	Drosera sect. Stolonifera	DeBuhr	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+131566-3	Panicum muelleri	(Hughes) Lazarides	Australian Journal of Botany		1959 (Dec. 1959)	0067-1924								
+132253-3	Hakea repullulans	H.M.Lee	Australian Journal of Botany		1984	0067-1924								
+132792-3	Callitriche capricorni	R.Mason	Australian Journal of Botany		1959 (Dec. 1959)	0067-1924								
+134828-3	Desmodium polyneurum	S.T.Blake	Australian Journal of Botany		1954 (Feb. 1954)	0067-1924								
+137609-3	Solanum capsiciforme	(Domin) G.T.S.Baylis	Australian Journal of Botany		1963 (Dec. 1963)	0067-1924								
+139159-1	Callitriche aucklandica	R.Mason	Austral. J. Bot.	7: 314	1959	0067-1924	10.1071/bt9590295							
+139165-1	Callitriche capricorni	R.Mason	Austral. J. Bot.	7: 307	1959	0067-1924	10.1071/bt9590295							
+139188-1	Callitriche petriei	R.Mason	Austral. J. Bot.	7: 315	1959	0067-1924	10.1071/bt9590295							
+140277-3	Senecio lautus subsp. alpinus	Ali	Australian Journal of Botany	17(1): 167	1969 (Apr. 1969)	0067-1924								
+140354-3	Senecio lautus subsp. dissectifolius	Ali	Australian Journal of Botany		1969 (Apr. 1969)	0067-1924								
+140394-3	Senecio lautus subsp. lanceolatus	(Benth.) Ali	Australian Journal of Botany		1969 (Apr. 1969)	0067-1924								
+140523-3	Senecio lautus subsp. maritimus	Ali	Australian Journal of Botany		1969 (Apr. 1969)	0067-1924								
+142627-3	Helichrysum rufescens	(DC.) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+147836-3	Sclerandrium grandiflorum	S.T.Blake	Australian Journal of Botany		1954 (Feb. 1954)	0067-1924								
+147871-3	Gossypium subsect. Grandicalyx	Fryxell	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+147977-3	Gossypium subsect. Hibiscoidea	(Tod.) Fryxell	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+149219-3	Gossypium nelsonii	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+149396-3	Gossypium pilosum	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+149485-3	Gossypium pulchellum	(C.A.Gardner) Fryxell	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+163998-3	Ristantia	Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+164025-3	Ristantia pachysperma	(Bailey) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+166899-3	Trifolium israeliticum	Zohary & Katzn.	Australian Journal of Botany		1958 (Jun. 1958)	0067-1924								
+167522-3	Crepidomanes bipunctatum var. bipunctatum	(Poir.) Copel.	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+167600-3	Limnophila australis	Wannan & J.T.Waterh.	Australian Journal of Botany		1985	0067-1924								
+168068-3	Calytrix uncinata	Craven	Austral. Syst. Bot. 3(4)		1990	0067-1924								
+168071-3	Calytrix oncophylla	Craven	Austral. Syst. Bot. 3(4)		1990	0067-1924								
+168075-3	Calytrix ecalycata	Craven	Austral. Syst. Bot. 3(4)		1990	0067-1924								
+168086-3	Alexgeorgea ganopoda	L.A.S.Johnson & B.G.Briggs	Austral. Syst. Bot. 3(4)		1990	0067-1924								
+169531-1	Calophyllum acutiputamen	P.F.Stevens	Austral. J. Bot.	22(2): 359	1974	0067-1924	10.1071/bt9740349							
+169546-1	Calophyllum carrii	P.F.Stevens	Austral. J. Bot.	22(2): 360	1974	0067-1924	10.1071/bt9740349							
+169555-1	Calophyllum confusum	P.F.Stevens	Austral. J. Bot.	22(2): 363	1974	0067-1924	10.1071/bt9740349							
+169562-1	Calophyllum gaimanum	P.F.Stevens	Austral. J. Bot.	22(2): 367	1974	0067-1924	10.1071/bt9740349							
+169564-1	Calophyllum goniocarpum	P.F.Stevens	Austral. J. Bot.	22(2): 369	1974	0067-1924	10.1071/bt9740349							
+169567-1	Calophyllum heterophyllum	P.F.Stevens	Austral. J. Bot.	22(2): 371	1974	0067-1924	10.1071/bt9740349							
+169572-1	Calophyllum laticostatum	P.F.Stevens	Austral. J. Bot.	22(2): 375	1974	0067-1924	10.1071/bt9740349							
+169578-1	Calophyllum morobensis	P.F.Stevens	Austral. J. Bot.	22(2): 378	1974	0067-1924	10.1071/bt9740349							
+169581-1	Calophyllum obscurum	P.F.Stevens	Austral. J. Bot.	22(2): 380	1974	0067-1924	10.1071/bt9740349							
+169585-1	Calophyllum piluliferum	P.F.Stevens	Austral. J. Bot.	22(2): 387	1974	0067-1924	10.1071/bt9740349							
+169589-1	Calophyllum pseudovitiense	P.F.Stevens	Austral. J. Bot.	22(2): 389	1974	0067-1924	10.1071/bt9740349							
+169594-1	Calophyllum robustum	P.F.Stevens	Austral. J. Bot.	22(2): 392	1974	0067-1924	10.1071/bt9740349							
+169598-2	Neptunia pubescens var. microcarpa	(Rose) Windler	Austral. J. Bot.	14: 393	1966	0067-1924	10.1071/bt9660379							
+169600-1	Calophyllum streimannii	P.F.Stevens	Austral. J. Bot.	22(2): 401	1974	0067-1924	10.1071/bt9740349							
+169601-1	Calophyllum suberosum	P.F.Stevens	Austral. J. Bot.	22(2): 403	1974	0067-1924	10.1071/bt9740349							
+169610-1	Calophyllum vexans	P.F.Stevens	Austral. J. Bot.	22(2): 407	1974	0067-1924	10.1071/bt9740349							
+169660-1	Mammea cordata	P.F.Stevens	Austral. J. Bot.	22(2): 414	1974	0067-1924	10.1071/bt9740413							
+169661-1	Mammea grandifolia	P.F.Stevens	Austral. J. Bot.	22(2): 416	1974	0067-1924	10.1071/bt9740413							
+169664-1	Mammea veimauriensis	P.F.Stevens	Austral. J. Bot.	22(2): 410	1974	0067-1924	10.1071/bt9740349							
+169665-1	Mesua coriacea	P.F.Stevens	Austral. J. Bot.	22(2): 422	1974	0067-1924	10.1071/bt9740413							
+17440920-1	Hymenophyllum subgen. Chilodium	(C.Presl) Croxall	Austral. J. Bot.	23: 515. 1975.	1975	0067-1924	10.1071/bt9750509							
+17441010-1	Hymenophyllum eboracense	Croxall	Austral. J. Bot.	23: 518. 1975.	1975	0067-1924	10.1071/bt9750509							
+17443620-1	Macroglena brassii	Croxall	Austral. J. Bot.	23: 543. 1975.	1975	0067-1924	10.1071/bt9750509							
+17507140-1	Cheilanthes austrotenuifolia	H.Quirk & T.C.Chambers	Austral. J. Bot.	31(5): 510 (1983)	1983	0067-1924	10.1071/bt9830501							
+17514510-1	Cheilanthes shirleyana	(Domin) H.Quirk & T.C.Chambers	Austral. J. Bot.	31(5): 513 (1983):	1983	0067-1924	10.1071/bt9830501							
+17520190-1	Cheilanthes sieberi subsp. pseudovellea	H.Quirk & T.C.Chambers	Austral. J. Bot.	31(5): 522 (1983)	1983	0067-1924	10.1071/bt9830501							
+212492-1	Helichrysum blackallii	N.T.Burb.	Austral. J. Bot.	6: 254	1958	0067-1924	10.1071/bt9580229							
+212513-1	Helichrysum buftonii	N.T.Burb.	Austral. J. Bot.	6: 260	1958	0067-1924	10.1071/bt9580229							
+212729-1	Helichrysum expansifolium	(P.Morris & J.H.Willis) N.T.Burb.	Austral. J. Bot.	6: 278	1958	0067-1924	10.1071/bt9580229							
+213113-1	Helichrysum occidentale	N.T.Burb.	Austral. J. Bot.	6: 256	1958	0067-1924	10.1071/bt9580229							
+213273-1	Helichrysum rufescens	(DC.) N.T.Burb.	Austral. J. Bot.	6: 247	1958	0067-1924	10.1071/bt9580229							
+213482-1	Helichrysum whitei	N.T.Burb.	Austral. J. Bot.	6: 242	1958	0067-1924	10.1071/bt9580229							
+247534-2	Stylosanthes guianensis var. dissitiflora	(B.L.Rob. & Seaton) 't Mannetje	Austral. J. Bot.	25: 358	1977	0067-1924	10.1071/bt9770347							
+247535-2	Stylosanthes guianensis var. robusta	't Mannetje	Austral. J. Bot.	25: 357 (-358), fig. 6	1977	0067-1924	10.1071/bt9770347							
+294546-1	Calycomis australis	(A.Cunn.) Hoogland	Austral. J. Bot.	8: 338	1960	0067-1924	10.1071/bt9600318							
+32999-1	Sphalmium	B.G.Briggs, B.Hyland & L.A.S.Johnson	Austral. J. Bot.	23(1): 165	1975	0067-1924	10.1071/bt9750165							
+33320-1	Alexgeorgea	Carlquist	Austral. J. Bot.	24(2): 282	1976	0067-1924	10.1071/bt9760281							
+340530-1	Chamaesyce alsiniflora	(Baill.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340551-1	Chamaesyce australis	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340558-1	Chamaesyce biconvexa	(Domin) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340608-1	Chamaesyce dallachyana	(Baill.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340616-1	Chamaesyce drummondii	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340630-1	Chamaesyce filipes	(Benth.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340678-1	Chamaesyce inappendiculata	(Domin) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340723-1	Chamaesyce macgillivrayi	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340738-1	Chamaesyce micradenia	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340752-1	Chamaesyce myrtoides	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340837-1	Chamaesyce schultzii	(Benth.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+340884-1	Chamaesyce wheeleri	(Baill.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+347669-1	Euphorbia parvicaruncula	D.C.Hassall	Austral. J. Bot.	25(4): 441	1977	0067-1924	10.1071/bt9770429							
+347805-1	Euphorbia planiticola	D.C.Hassall	Austral. J. Bot.	25(4): 446	1977	0067-1924	10.1071/bt9770429							
+402168-1	Eulalia mackinlayi	(F.Muell. ex Benth.) S.T.Blake	Austral. J. Bot.	2: 108	1954	0067-1924	10.1071/bt9540099							
+412292-1	Panicum muelleri	(Hughes) Lazarides	Austral. J. Bot.	7: 335	1959	0067-1924	10.1071/bt9590328							
+421072-1	Sclerandrium grandiflorum	S.T.Blake	Austral. J. Bot.	2: 108	1954	0067-1924	10.1071/bt9540099							
+424812-1	Triodia burkensis	N.T.Burb.	Austral. J. Bot.	1: 161	1953	0067-1924	10.1071/bt9530121							
+424818-1	Triodia clelandii	N.T.Burb.	Austral. J. Bot.	8: 385	1960	0067-1924	10.1071/bt9600381							
+424820-1	Triodia concinna	N.T.Burb.	Austral. J. Bot.	8: 387	1960	0067-1924	10.1071/bt9600381							
+424849-1	Triodia hubbardii	N.T.Burb.	Austral. J. Bot.	8: 381	1960	0067-1924	10.1071/bt9600381							
+424850-1	Triodia inaequiloba	N.T.Burb.	Austral. J. Bot.	8: 391	1960	0067-1924	10.1071/bt9600381							
+424852-1	Triodia inutilis	N.T.Burb.	Austral. J. Bot.	1: 163	1953	0067-1924	10.1071/bt9530121							
+424864-1	Triodia marginata	N.T.Burb.	Austral. J. Bot.	1: 151	1953	0067-1924	10.1071/bt9530121							
+424869-1	Triodia molesta	N.T.Burb.	Austral. J. Bot.	1: 164	1953	0067-1924	10.1071/bt9530121							
+424881-1	Triodia plectrachnoides	N.T.Burb.	Austral. J. Bot.	1: 155	1953	0067-1924	10.1071/bt9530121							
+424884-1	Triodia plurinervata	N.T.Burb.	Austral. J. Bot.	8: 390	1960	0067-1924	10.1071/bt9600381							
+424892-1	Triodia roscida	N.T.Burb.	Austral. J. Bot.	1: 176	1953	0067-1924	10.1071/bt9530121							
+424893-1	Triodia scariosa	N.T.Burb.	Austral. J. Bot.	1: 173	1953	0067-1924	10.1071/bt9530121							
+424898-1	Triodia spicata	N.T.Burb.	Austral. J. Bot.	1: 182	1953	0067-1924	10.1071/bt9530121							
+42732-1	Drosera sect. Stolonifera	DeBuhr	Austral. J. Bot.	25(2): 215	1977	0067-1924	10.1071/bt9770209							
+491247-1	Dendrolobium stipatum	S.T.Blake	Austral. J. Bot.	2: 117	1954	0067-1924	10.1071/bt9540099							
+492022-1	Desmodium polyneurum	S.T.Blake	Austral. J. Bot.	2: 119	1954	0067-1924	10.1071/bt9540099							
+50897-3	Xanthostemon psidioides	(Lindl.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+50926-3	Xanthostemon umbrosus	(Lindl.) Peter G.Wilson & J.T.Waterh.	Australian Journal of Botany		1982	0067-1924								
+509602-1	Neptunia major	(Benth.) Windler	Austral. J. Bot.	14: 408	1966	0067-1924	10.1071/bt9660379							
+518445-1	Sesbania campykocarpa	(Domin) N.T.Burb.	Austral. J. Bot.	13: 126	1965	0067-1924	10.1071/bt9650103							
+518450-1	Sesbania chippendalei	N.T.Burb.	Austral. J. Bot.	13: 129	1965	0067-1924	10.1071/bt9650103							
+518464-1	Sesbania erubescens	(Benth.) N.T.Burb.	Austral. J. Bot.	13: 138	1965	0067-1924	10.1071/bt9650103							
+518471-1	Sesbania formosa	(F.Muell.) N.T.Burb.	Austral. J. Bot.	13: 115	1965	0067-1924	10.1071/bt9650103							
+523254-1	Trifolium israeliticum	D.Zohary & Katzn.	Austral. J. Bot.	6: 179	1958	0067-1924	10.1071/bt9580177							
+52795-3	Thespesia lampas var. lampas	(Cav.) Dalzell & A.Gibson	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+52823-3	Thespesia lampas var. thespesioides	(Benth.) Fryxell	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+547670-1	Amyema angularis	Barlow	Austral. J. Bot.	22(3): 565	1974	0067-1924	10.1071/bt9740531							
+547674-1	Amyema apoda	Barlow	Austral. J. Bot.	22(3): 565	1974	0067-1924	10.1071/bt9740531							
+547688-1	Amyema biniflora	Barlow	Austral. J. Bot.	14: 459	1966	0067-1924	10.1071/bt9660421							
+547689-1	Amyema brassii	Barlow	Austral. J. Bot.	22(3): 568	1974	0067-1924	10.1071/bt9740531							
+547693-1	Amyema canaliculatum	Barlow	Austral. J. Bot.	22(3): 569	1974	0067-1924	10.1071/bt9740531							
+547706-1	Amyema dilatipes	Barlow	Austral. J. Bot.	22(3): 575	1974	0067-1924	10.1071/bt9740531							
+547730-1	Amyema herbertiana	Barlow	Austral. J. Bot.	14: 468	1966	0067-1924	10.1071/bt9660421							
+547736-1	Amyema involvens	Barlow	Austral. J. Bot.	22 (3): 578	1974	0067-1924	10.1071/bt9740531							
+547739-1	Amyema kebarensis	Barlow	Austral. J. Bot.	22(3): 579	1974	0067-1924	10.1071/bt9740531							
+547785-1	Amyema quaternifolia	Barlow	Austral. J. Bot.	14: 482	1966	0067-1924	10.1071/bt9660421							
+547808-1	Amyema tetraflorum	(Barlow) Barlow	Austral. J. Bot.	22(3): 595	1974	0067-1924	10.1071/bt9740531							
+547809-1	Amyema tetrapetalum	(Dans.) Barlow	Austral. J. Bot.	22(3): 595	1974	0067-1924	10.1071/bt9740531							
+547819-1	Amyema villiflora	(Domin) Barlow	Austral. J. Bot.	14: 485	1966	0067-1924	10.1071/bt9660421							
+547824-1	Amylotheca acuminatifolia	Barlow	Austral. J. Bot.	22(3): 545	1974	0067-1924	10.1071/bt9740531							
+547832-1	Amylotheca banksiana	(Guill.) Barlow	Austral. J. Bot.	22(3): 546	1974	0067-1924	10.1071/bt9740531							
+547879-1	Amylotheca subumbellata	Barlow	Austral. J. Bot.	14: 439	1966	0067-1924	10.1071/bt9660421							
+548171-1	Decaisnina biangulata	(W.Fitzg.) Barlow	Austral. J. Bot.	14: 433	1966	0067-1924	10.1071/bt9660421							
+548172-1	Decaisnina brittenii	(Blakely) Barlow	Austral. J. Bot.	14: 433	1966	0067-1924	10.1071/bt9660421							
+548173-1	Decaisnina djamuensis	(K.Krause) Barlow	Austral. J. Bot.	22(3): 536	1974	0067-1924	10.1071/bt9740531							
+548176-1	Decaisnina hollrungii	(K.Schum.) Barlow	Austral. J. Bot.	14: 434	1966	0067-1924	10.1071/bt9660421							
+548178-1	Decaisnina micranthes	(Dans.) Barlow	Austral. J. Bot.	22(3): 540	1974	0067-1924	10.1071/bt9740531							
+548180-1	Decaisnina papuana	(Dans.) Barlow	Austral. J. Bot.	22(3): 540	1974	0067-1924	10.1071/bt9740531							
+548181-1	Decaisnina parvifolia	(Dans.) Barlow	Austral. J. Bot.	22(3): 541	1974	0067-1924	10.1071/bt9740531							
+548182-1	Decaisnina pedicellata	(Dans.) Barlow	Austral. J. Bot.	22(3): 541	1974	0067-1924	10.1071/bt9740531							
+548183-1	Decaisnina petiolata	(Barlow) Barlow	Austral. J. Bot.	14: 434	1966	0067-1924	10.1071/bt9660421							
+548185-1	Decaisnina stenopetala	(Oliv.) Barlow	Austral. J. Bot.	22(3): 543	1974	0067-1924	10.1071/bt9740531							
+548336-1	Dendrophthoe pelagica	Barlow	Austral. J. Bot.	22(3): 609	1974	0067-1924	10.1071/bt9740531							
+548370-1	Dendrophthoe trichanthera	Barlow	Austral. J. Bot.	22(3): 609	1974	0067-1924	10.1071/bt9740531							
+548522-1	Diplatia tomentosa	Barlow	Austral. J. Bot.	14: 488	1966	0067-1924	10.1071/bt9660421							
+548914-1	Lepeostegeres deciduus	Barlow	Austral. J. Bot.	22(3): 550	1974	0067-1924	10.1071/bt9740531							
+551595-1	Sogerianthe cupuliformis	Barlow	Austral. J. Bot.	22(3): 601	1974	0067-1924	10.1071/bt9740531							
+559475-1	Decaschistia byrnesii	Fryxell	Austral. J. Bot.	22(1): 187	1974	0067-1924	10.1071/bt9740183							
+559773-1	Gossypium nelsonii	Fryxell	Austral. J. Bot.	22(1): 184	1974	0067-1924	10.1071/bt9740183							
+559793-1	Gossypium pilosum	Fryxell	Austral. J. Bot.	22(1): 183	1974	0067-1924	10.1071/bt9740183							
+559799-1	Gossypium pulchellum	(C.A.Gardner) Fryxell	Austral. J. Bot.	13: 92	1965	0067-1924	10.1071/bt9650071							
+559957-1	Hibiscus arnhemensis	F.D.Wilson	Austral. J. Bot.	22(1): 175	1974	0067-1924	10.1071/bt9740157							
+560047-1	Hibiscus byrnesii	F.D.Wilson	Austral. J. Bot.	22(1): 177	1974	0067-1924	10.1071/bt9740157							
+560530-1	Hibiscus minutibracteolus	F.D.Wilson	Austral. J. Bot.	22(1): 178	1974	0067-1924	10.1071/bt9740157							
+560548-1	Hibiscus mustiae	F.D.Wilson	Austral. J. Bot.	22(1): 175	1974	0067-1924	10.1071/bt9740157							
+560849-1	Hibiscus spinulosus	(W.Fitzg.) F.D.Wilson	Austral. J. Bot.	22(1): 178	1974	0067-1924	10.1071/bt9740157							
+561321-1	Macrostelia grandifolia	Fryxell	Austral. J. Bot.	22(1): 189	1974	0067-1924	10.1071/bt9740183							
+56593-3	Macroglena brassii	Croxall	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+57396-3	Macrostelia grandifolia	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+57460-3	Macrostelia grandifolia subsp. grandifolia	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+57491-3	Macrostelia grandifolia subsp. macilwraithensis	Fryxell	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+57846-3	Helichrysum bilobum subsp. bilobum	N.A.Wakef.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+57876-3	Helichrysum bilobum subsp. scabrum	(F.Muell.) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+57938-3	Helichrysum blackallii	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+579886-1	Vavaea australiana	S.T.Blake	Austral. J. Bot.	2: 122	1954	0067-1924	10.1071/bt9540099							
+585699-1	Horsfieldia australiana	S.T.Blake	Austral. J. Bot.	2: 124	1954	0067-1924	10.1071/bt9540099							
+58699-3	Helichrysum buftonii	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+592953-1	Eucalyptus gilbertensis	(Maiden & Blakely) S.T.Blake	Austral. J. Bot.	1: 220	1953	0067-1924	10.1071/bt9530185							
+59325-3	Sesbania campylocarpa	(Domin) N.T.Burb.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+593270-1	Eucalyptus porrecta	S.T.Blake	Austral. J. Bot.	1: 251	1953	0067-1924	10.1071/bt9530185							
+59371-3	Triodia burkensis	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+59404-3	Sesbania cannabina var. cannabina	(Retz.) Pers.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+59434-3	Sesbania cannabina var. sericea	(Benth.) N.T.Burb.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+59461-3	Sesbania chippendalei	N.T.Burb.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+59501-3	Sesbania erubescens	(Benth.) N.T.Burb.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+59542-3	Sesbania formosa	(F.Muell.) N.T.Burb.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+59739-3	Triodia inutilis	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+59822-3	Triodia irritans var. compacta	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+59858-3	Triodia irritans var. irritans	R.Br.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+59891-3	Triodia irritans var. laxispicata	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+59894-3	Sesbania simpliciuscula var. fitzroyensis	N.T.Burb.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+59896-3	Sesbania simpliciuscula var. simpliciuscula	Benth.	Australian Journal of Botany		1965 (Jun. 1965)	0067-1924								
+60117-3	Triodia marginata	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60286-3	Triodia mitchellii var. breviloba	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60322-3	Triodia mitchellii var. mitchellii	Benth.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60370-3	Triodia mitchellii var. pubivagina	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60414-3	Triodia molesta	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60443331-2	Solanum aviculare var. latifolium	G.T.S.Baylis	Austral. J. Bot.	11(2): 168 (-177; tt. 1-2)	1963 [Dec 1963]	0067-1924	10.1071/bt9630168							
+60530-3	Triodia plectrachnoides	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60622-3	Boronia inornata subsp. inornata	Turcz.	Australian Journal of Botany		1985	0067-1924								
+60631-3	Boronia inornata subsp. leptophylla	(Turcz.) Burgman	Australian Journal of Botany		1985	0067-1924								
+60743-3	Triodia pungens var. linearis	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60828-3	Triodia pungens var. pungens	R.Br.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60902-3	Triodia roscida	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+60939-3	Triodia scariosa	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+61032-3	Triodia spicata	N.T.Burb.	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+61298-3	Triodia wiseana var. wiseana	C.A.Gardner	Australian Journal of Botany		1953 (Mar. 1953)	0067-1924								
+62850-3	Chamaesyce alsiniflora	D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62879-3	Chamaesyce australis	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62888-3	Chamaesyce biconvexa	(Domin) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62909-3	Chamaesyce dallachyana	D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62922-3	Chamaesyce drummondii	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62942-3	Chamaesyce filipes	(Benth.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62969-3	Chamaesyce inappendiculata	(Domin) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+62982-3	Chamaesyce macgillivrayi	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63001-3	Chamaesyce micradenia	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63014-3	Chamaesyce mitchelliana	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63026-3	Chamaesyce mitchelliana var. hirta	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63045-3	Chamaesyce mitchelliana var. mitchelliana	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63060-3	Chamaesyce myrtoides	(Boiss.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63083-3	Chamaesyce schultzii	(Benth.) D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+63126-3	Chamaesyce wheeleri	D.C.Hassall	Australian Journal of Botany		1976 (Oct. 1976)	0067-1924								
+64012-3	Cheilanthes austrotenuifolia	H.M.Quirk & T.C.Chambers	Australian Journal of Botany		1983	0067-1924								
+64285-3	Cheilanthes shirleyana	(Domin) H.M.Quirk & T.C.Chambers	Australian Journal of Botany		1983	0067-1924								
+64299-3	Cheilanthes sieberi subsp. sieberi	Kunze	Australian Journal of Botany		1983	0067-1924								
+64493-3	Hibiscus heterophyllus subsp. heterophyllus	Vent.	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+64574-3	Hibiscus heterophyllus subsp. luteus	(Hochr.) F.D.Wilson	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+65385-3	Hibiscus minutibracteolus	F.D.Wilson	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+65459-3	Hibiscus mustiae	F.D.Wilson	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+66657-3	Hibiscus spinulosus	(W.Fitzg.) F.D.Wilson	Australian Journal of Botany		1974 (Mar. 1974)	0067-1924								
+66667-3	Sarcomelicope simplicifolia	(Endl.) T.G.Hartley	Australian Journal of Botany		1982	0067-1924								
+66714-3	Sarcomelicope simplicifolia subsp. simplicifolia	(Endl.) T.G.Hartley	Australian Journal of Botany		1982	0067-1924								
+70223-3	Brachyscome spathulata subsp. glabra	(DC.) H.M.Stace	Australian Journal of Botany		1981	0067-1924								
+70230-3	Brachyscome spathulata subsp. spathulata	Gaudich.	Australian Journal of Botany		1981	0067-1924								
+70253-3	Hymenophyllum subgen. Chilodium	(C.Presl) Croxall	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+706760-1	Sphalmium racemosum	(C.T.White) B.G.Briggs, B.Hyland & L.A.S.Johnson	Austral. J. Bot.	23(1): 166	1975	0067-1924	10.1071/bt9750165							
+715690-1	Alexgeorgea arenicola	Carlquist	Austral. J. Bot.	24(2): 284	1976	0067-1924	10.1071/bt9760281							
+715691-1	Alexgeorgea subterranea	Carlquist	Austral. J. Bot.	24(2): 283	1976	0067-1924	10.1071/bt9760281							
+73218-3	Stylosanthes guianensis var. robusta	't Mannetje	Australian Journal of Botany		1977 (Jun. 1977)	0067-1924								
+74120-3	Vavaea australiana	S.T.Blake	Australian Journal of Botany		1954 (Feb. 1954)	0067-1924								
+77406-3	Horsfieldia australiana	S.T.Blake	Australian Journal of Botany		1954 (Feb. 1954)	0067-1924								
+816851-1	Nicotiana amplexicaulis	N.T.Burb.	Austral. J. Bot.	8: 359	1960	0067-1924	10.1071/bt9600342							
+816887-1	Nicotiana cavicola	N.T.Burb.	Austral. J. Bot.	8: 354	1960	0067-1924	10.1071/bt9600342							
+816951-1	Nicotiana hesperis	N.T.Burb.	Austral. J. Bot.	8: 361	1960	0067-1924	10.1071/bt9600342							
+817068-1	Nicotiana simulans	N.T.Burb.	Austral. J. Bot.	8: 365	1960	0067-1924	10.1071/bt9600342							
+817091-1	Nicotiana umbratica	N.T.Burb.	Austral. J. Bot.	8: 352	1960	0067-1924	10.1071/bt9600342							
+818605-1	Solanum capsiciforme	(Domin & sine ref.) Baylis	Austral. J. Bot.	11: 168	1963	0067-1924	10.1071/bt9630168							
+826042-1	Stylidium confluens	Banyard & S.H.James	Austral. J. Bot.	27(1): 28	1979	0067-1924	10.1071/bt9790027							
+826065-1	Stylidium ecorne	(F.Muell. ex F.L.Erickson & J.H.Willis) P.G.Farrell & S.H.James	Austral. J. Bot.	27(1): 39	1979	0067-1924	10.1071/bt9790039							
+86359-3	Medicosma elliptica	T.G.Hartley	Australian Journal of Botany		1985 (7 Mar. 1985)	0067-1924								
+86364-3	Medicosma fareana	(F.Muell.) T.G.Hartley	Australian Journal of Botany		1985	0067-1924								
+86366-3	Medicosma glandulosa	T.G.Hartley	Australian Journal of Botany		1985	0067-1924								
+86367-3	Medicosma obovata	T.G.Hartley	Australian Journal of Botany		1985 (7 Mar. 1985)	0067-1924								
+86386-3	Medicosma sessiliflora	(C.T.White) T.G.Hartley	Australian Journal of Botany		1985	0067-1924								
+86490-3	Helichrysum expansifolium	(P.Morris & J.H.Willis) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+86927-3	Helichrysum gunnii subsp. gunnii	Benth.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+86953-3	Helichrysum gunnii subsp. paralium	N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+876286-1	Calophyllum carrii var. longigemmatum	P.F.Stevens	Austral. J. Bot.	22(2): 361	1971	0067-1924	10.1071/bt9740349							
+880484-1	Chamaesyce mitchelliana var. hirta	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640	1976	0067-1924	10.1071/bt9760633							
+880618-1	Euphorbia tannensis subsp. eremophila	(A.Cunn.) D.C.Hassall	Austral. J. Bot.	25(4): 439	1977	0067-1924	10.1071/bt9770429							
+880619-1	Euphorbia tannensis var. finlaysonii	(J.M.Black) D.C.Hassall	Austral. J. Bot.	25(4): 441	1977	0067-1924	10.1071/bt9770429							
+885832-1	Stylosanthes guianensis var. dissitiflora	(B.L.Rob. & Seaton) 't Mannetje	Austral. J. Bot.	25(3): 358	1977	0067-1924	10.1071/bt9770347							
+885833-1	Stylosanthes guianensis var. robusta	't Mannetje	Austral. J. Bot.	25(3): 357	1977	0067-1924	10.1071/bt9770347							
+886554-1	Amyema artensis var. papuanum	(Dans.) Barlow	Austral. J. Bot.	22(3): 568	1974	0067-1924	10.1071/bt9740531							
+886555-1	Amyema conspicua subsp. fulvicalyx	Barlow	Austral. J. Bot.	22(3): 573	1974	0067-1924	10.1071/bt9740531							
+886556-1	Amyema scandens subsp. crassifolium	Barlow	Austral. J. Bot.	22(3): 588	1974	0067-1924	10.1071/bt9740531							
+886557-1	Amyema scandens subsp. plicatulum	(K.Krause) Barlow	Austral. J. Bot.	22(3): 588	1974	0067-1924	10.1071/bt9740531							
+886558-1	Amyema seemeniana subsp. flexuosa	Barlow	Austral. J. Bot.	22(3): 591	1974	0067-1924	10.1071/bt9740531							
+886559-1	Amyema seemeniana subsp. melastomatifolia	(K.Krause) Barlow	Austral. J. Bot.	22(3): 591	1974	0067-1924	10.1071/bt9740531							
+886560-1	Amyema squarrosa subsp. rhopalanthes	(Dans.) Barlow	Austral. J. Bot.	22(3): 592	1974	0067-1924	10.1071/bt9740531							
+886561-1	Amyema strongylophylla subsp. barbellata	(Blakely) Barlow	Austral. J. Bot.	22(3): 594	1974	0067-1924	10.1071/bt9740531							
+886562-1	Amyema strongylophylla subsp. rigidiflora	(K.Krause) Barlow	Austral. J. Bot.	22(3): 594	1974	0067-1924	10.1071/bt9740531							
+886563-1	Amyema wichmannii subsp. aggregatum	Barlow	Austral. J. Bot.	22(3): 598	1974	0067-1924	10.1071/bt9740531							
+886564-1	Amyema wichmannii subsp. purum	Barlow	Austral. J. Bot.	22(3): 597	1974	0067-1924	10.1071/bt9740531							
+886568-1	Macrosolen cochinchinensis var. lanceolatus	Barlow	Austral. J. Bot.	22(3): 556	1974	0067-1924	10.1071/bt9740531							
+886620-1	Decaschistia byrnesii subsp. lavandulacea	Fryxell	Austral. J. Bot.	22(1): 189	1974	0067-1924	10.1071/bt9740183							
+886625-1	Hibiscus heterophyllus subsp. luteus	(Hochr.) F.D.Wilson	Austral. J. Bot.	22(1): 170	1974	0067-1924	10.1071/bt9740157							
+886633-1	Macrostelia grandifolia subsp. macilwraithensis	Fryxell	Austral. J. Bot.	22(1): 191	1974	0067-1924	10.1071/bt9740183							
+892924-1	supertrib. Andropogonanae	L.Watson, Clifford & Dallwitz	Austral. J. Bot.	33(4): 479 (1985).	1985	0067-1924	10.1071/bt9850433							
+892926-1	supertrib. Bambusanae	L.Watson, Clifford & Dallwitz	Austral. J. Bot.	33(4): 461 (1985).	1985	0067-1924	10.1071/bt9850433							
+892932-1	supertrib. Oryzanae	L.Watson, Clifford & Dallwitz	Austral. J. Bot.	33(4): 458 (1985).	1985	0067-1924	10.1071/bt9850433							
+892933-1	supertrib. Panicanae	L.Watson, Clifford & Dallwitz	Austral. J. Bot.	33(4): 475 (1985).	1985	0067-1924	10.1071/bt9850433							
+893170-1	Halocarpus	Quinn	Austral. J. Bot.	30(3): 317 (1982).	1982	0067-1924	10.1071/bt9820311							
+893183-1	Lagarostrobos	Quinn	Austral. J. Bot.	30(3): 316 (1982).	1982	0067-1924	10.1071/bt9820311							
+893226-1	Ristantia	Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 442 (1982).	1982	0067-1924	10.1071/bt9820413							
+893251-1	Welchiodendron	Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982).	1982	0067-1924	10.1071/bt9820413							
+893339-1	Waterhousea	B.Hyland	Austral. J. Bot.	Suppl. 9: 138 (1983).	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+893708-1	Eucalyptus ser. Lehmannianae	D.J.Carr & S.G.M.Carr	Austral. J. Bot.	28(5–6): 524 (1980).	1980	0067-1924	10.1071/bt9800523							
+896488-1	Eucalyptus bennettiae	D.J.Carr & S.G.M.Carr	Austral. J. Bot.	28(5–6): 541 (1980)	1980	0067-1924	10.1071/bt9800523							
+896489-1	Eucalyptus conferruminata	D.J.Carr & S.G.M.Carr	Austral. J. Bot.	28(5–6): 535 (1980)	1980	0067-1924	10.1071/bt9800523							
+896490-1	Eucalyptus newbeyi	D.J.Carr & S.G.M.Carr	Austral. J. Bot.	28(5–6): 541 (1980)	1980	0067-1924	10.1071/bt9800523							
+896491-1	Eucalyptus talyuberlup	D.J.Carr & S.G.M.Carr	Austral. J. Bot.	28(5–6): 543 (1980)	1980	0067-1924	10.1071/bt9800523							
+900888-1	Sarcomelicope dogniensis	T.G.Hartley	Austral. J. Bot.	30(3): 367 (1982)	1982	0067-1924	10.1071/bt9820359							
+900889-1	Sarcomelicope glauca	T.G.Hartley	Austral. J. Bot.	30(3): 366 (1982)	1982	0067-1924	10.1071/bt9820359							
+901187-1	Tristaniopsis collina	Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 436 (1982)	1982	0067-1924	10.1071/bt9820413							
+901338-1	Acmena mackinnoniana	B.Hyland	Austral. J. Bot.	Suppl. 9: 14 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+901339-1	Acmena resa	B.Hyland	Austral. J. Bot.	Suppl. 9: 16 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+901340-1	Acmenosperma pringlei	B.Hyland	Austral. J. Bot.	Suppl. 9: 26 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+90176-3	Euphorbia subgen. Euphorbia	L.	Australian Journal of Botany		1977 (Aug. 1977)	0067-1924								
+902027-1	Eucalyptus willisii	Ladiges, Humphries & Brooker	Austral. J. Bot.	31(6): 583 (1983)	1983	0067-1924	10.1071/bt9830565							
+903165-1	Syzygium alatoramulum	B.Hyland	Austral. J. Bot.	Suppl. 9: 42 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903166-1	Syzygium alliiligneum	B.Hyland	Austral. J. Bot.	Suppl. 9: 44 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903167-1	Syzygium argyropedicum	B.Hyland	Austral. J. Bot.	Suppl. 9: 52 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903168-1	Syzygium bamagense	B.Hyland	Austral. J. Bot.	Suppl. 9: 56 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903169-1	Syzygium boonjee	B.Hyland	Austral. J. Bot.	Suppl. 9: 59 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903170-1	Syzygium canicortex	B.Hyland	Austral. J. Bot.	Suppl. 9: 66 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903171-1	Syzygium dansiei	B.Hyland	Austral. J. Bot.	Suppl. 9: 75 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903172-1	Syzygium endophloium	B.Hyland	Austral. J. Bot.	Suppl. 9: 77 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903173-1	Syzygium macilwraithianum	B.Hyland	Austral. J. Bot.	Suppl. 9: 99 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903174-1	Syzygium papyraceum	B.Hyland	Austral. J. Bot.	Suppl. 9: 111 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903175-1	Syzygium pseudofastigiatum	B.Hyland	Austral. J. Bot.	Suppl. 9: 113 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903176-1	Syzygium rubrimolle	B.Hyland	Austral. J. Bot.	Suppl. 9: 117 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903177-1	Syzygium sharonae	B.Hyland	Austral. J. Bot.	Suppl. 9: 122 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903178-1	Syzygium velae	B.Hyland	Austral. J. Bot.	Suppl. 9: 130 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903179-1	Syzygium wesa	B.Hyland	Austral. J. Bot.	Suppl. 9: 132 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903180-1	Syzygium xerampelinum	B.Hyland	Austral. J. Bot.	Suppl. 9: 136 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903363-1	Waterhousea mulgraveana	B.Hyland	Austral. J. Bot.	Suppl. 9: 143 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+903364-1	Waterhousea unipunctata	B.Hyland	Austral. J. Bot.	Suppl. 9: 145 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+904321-1	Hakea repullulans	H.M.Lee	Austral. J. Bot.	32(6): 681 (1984)	1984	0067-1924	10.1071/bt9840679							
+906534-1	Limnophila australis	Wannan & J.T.Waterh.	Austral. J. Bot.	33(4): 373 (1985)	1985	0067-1924	10.1071/bt9850367							
+906610-1	Medicosma articulata	T.G.Hartley	Austral. J. Bot.	33(1): 46 (1985)	1985	0067-1924	10.1071/bt9850027							
+906611-1	Medicosma congesta	T.G.Hartley	Austral. J. Bot.	33(1): 55 (1985)	1985	0067-1924	10.1071/bt9850027							
+906612-1	Medicosma diversifolia	T.G.Hartley	Austral. J. Bot.	33(1): 44 (1985)	1985	0067-1924	10.1071/bt9850027							
+906613-1	Medicosma elliptica	T.G.Hartley	Austral. J. Bot.	33(1): 37 (1985)	1985	0067-1924	10.1071/bt9850027							
+906614-1	Medicosma emarginata	T.G.Hartley	Austral. J. Bot.	33(1): 51 (1985)	1985	0067-1924	10.1071/bt9850027							
+906615-1	Medicosma exigua	T.G.Hartley	Austral. J. Bot.	33(1): 62 (1985)	1985	0067-1924	10.1071/bt9850027							
+906616-1	Medicosma glandulosa	T.G.Hartley	Austral. J. Bot.	33(1): 42 (1985)	1985	0067-1924	10.1071/bt9850027							
+906617-1	Medicosma gracilis	T.G.Hartley	Austral. J. Bot.	33(1): 63 (1985)	1985	0067-1924	10.1071/bt9850027							
+906618-1	Medicosma latifolia	T.G.Hartley	Austral. J. Bot.	33(1): 56 (1985)	1985	0067-1924	10.1071/bt9850027							
+906619-1	Medicosma obliqua	T.G.Hartley	Austral. J. Bot.	33(1): 48 (1985)	1985	0067-1924	10.1071/bt9850027							
+906620-1	Medicosma obovata	T.G.Hartley	Austral. J. Bot.	33(1): 39 (1985)	1985	0067-1924	10.1071/bt9850027							
+906621-1	Medicosma parvifolia	T.G.Hartley	Austral. J. Bot.	33(1): 48 (1985)	1985	0067-1924	10.1071/bt9850027							
+906622-1	Medicosma petiolaris	T.G.Hartley	Austral. J. Bot.	33(1): 60 (1985)	1985	0067-1924	10.1071/bt9850027							
+906623-1	Medicosma suberosa	T.G.Hartley	Austral. J. Bot.	33(1): 59 (1985)	1985	0067-1924	10.1071/bt9850027							
+906624-1	Medicosma subsessilis	T.G.Hartley	Austral. J. Bot.	33(1): 57 (1985)	1985	0067-1924	10.1071/bt9850027							
+906625-1	Medicosma tahafeana	T.G.Hartley	Austral. J. Bot.	33(1): 49 (1985)	1985	0067-1924	10.1071/bt9850027							
+906626-1	Medicosma verticillata	T.G.Hartley	Austral. J. Bot.	33(1): 52 (1985)	1985	0067-1924	10.1071/bt9850027							
+910729-1	Halocarpus bidwillii	(Hook.f. ex Kirk) Quinn	Austral. J. Bot.	30(3): 317 (1982):	1982	0067-1924	10.1071/bt9820311							
+910730-1	Halocarpus biformis	(Hook.) Quinn	Austral. J. Bot.	30(3): 318 (1982):	1982	0067-1924	10.1071/bt9820311							
+910731-1	Halocarpus kirkii	(F.Muell. ex Parl.) Quinn	Austral. J. Bot.	30(3): 318 (1982):	1982	0067-1924	10.1071/bt9820311							
+910806-1	Lagarostrobos colensoi	(Hook.) Quinn	Austral. J. Bot.	30(3): 317 (1982):	1982	0067-1924	10.1071/bt9820311							
+910807-1	Lagarostrobos franklinii	(Hook.f.) Quinn	Austral. J. Bot.	30(3): 316 (1982):	1982	0067-1924	10.1071/bt9820311							
+910823-1	Lepidothamnus intermedius	(Kirk) Quinn	Austral. J. Bot.	30(3): 316 (1982):	1982	0067-1924	10.1071/bt9820311							
+910824-1	Lepidothamnus laxifolius	(Hook.f.) Quinn	Austral. J. Bot.	30(3): 316 (1982):	1982	0067-1924	10.1071/bt9820311							
+910845-1	Lophostemon confertus	(R.Br.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 424 (1982):	1982	0067-1924	10.1071/bt9820413							
+910846-1	Lophostemon grandiflorus	(Benth.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 429 (1982):	1982	0067-1924	10.1071/bt9820413							
+910847-1	Lophostemon lactifluus	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 428 (1982):	1982	0067-1924	10.1071/bt9820413							
+910848-1	Lophostemon suaveolens	(Soland. ex Gaertn.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 425 (1982):	1982	0067-1924	10.1071/bt9820413							
+911243-1	Ristantia pachysperma	(F.Muell. & F.M.Bailey) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 443 (1982):	1982	0067-1924	10.1071/bt9820413							
+911276-1	Sarcomelicope leiocarpa	(P.S.Green) T.G.Hartley	Austral. J. Bot.	30(3): 368 (1982):	1982	0067-1924	10.1071/bt9820359							
+911277-1	Sarcomelicope simplicifolia	(Endl.) T.G.Hartley	Austral. J. Bot.	30(3): 369 (1982):	1982	0067-1924	10.1071/bt9820359							
+911561-1	Tristaniopsis anomala	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911562-1	Tristaniopsis beccarii	(Ridl.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911563-1	Tristaniopsis bilocularis	(Stapf) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911564-1	Tristaniopsis burmanica	(Griff.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911565-1	Tristaniopsis clementis	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911566-1	Tristaniopsis decorticata	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911567-1	Tristaniopsis elliptica	(Stapf) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911568-1	Tristaniopsis exiliflora	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 434 (1982):	1982	0067-1924	10.1071/bt9820413							
+911569-1	Tristaniopsis ferruginea	(C.T.White) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911570-1	Tristaniopsis fruticosa	(Ridl.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911571-1	Tristaniopsis grandifolia	(Ridl.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911572-1	Tristaniopsis laurina	(Sm.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 435 (1982):	1982	0067-1924	10.1071/bt9820413							
+911573-1	Tristaniopsis littoralis	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911574-1	Tristaniopsis macrosperma	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911575-1	Tristaniopsis merguensis	(Griff.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911576-1	Tristaniopsis micrantha	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911577-1	Tristaniopsis oblongifolia	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911578-1	Tristaniopsis obovata	(Benn.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911579-1	Tristaniopsis oreophila	(Diels) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911580-1	Tristaniopsis pentandra	(Merr.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 439 (1982):	1982	0067-1924	10.1071/bt9820413							
+911581-1	Tristaniopsis polyandra	(Guillaumin) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982):	1982	0067-1924	10.1071/bt9820413							
+911582-1	Tristaniopsis pontianensis	(M.R.Hend.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982):	1982	0067-1924	10.1071/bt9820413							
+911583-1	Tristaniopsis razakiana	(Kochummen) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982):	1982	0067-1924	10.1071/bt9820413							
+911584-1	Tristaniopsis rufescens	(Hance) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982):	1982	0067-1924	10.1071/bt9820413							
+911585-1	Tristaniopsis stellata	(Ridl.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982):	1982	0067-1924	10.1071/bt9820413							
+911586-1	Tristaniopsis whiteana	(Griff.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 440 (1982):	1982	0067-1924	10.1071/bt9820413							
+911626-1	Welchiodendron longivalve	(F.Muell.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 441 (1982):	1982	0067-1924	10.1071/bt9820413							
+911647-1	Xanthostemon psidioides	(A.Cunn. ex Lindl.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 444 (1982):	1982	0067-1924	10.1071/bt9820413							
+911648-1	Xanthostemon umbrosus	(A.Cunn. ex Lindl.) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 444 (1982):	1982	0067-1924	10.1071/bt9820413							
+913367-1	Syzygium angophoroides	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 47 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913368-1	Syzygium apodophyllum	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 49 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913370-1	Syzygium armstrongii	(Benth.) B.Hyland	Austral. J. Bot.	Suppl. 9: 54 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913371-1	Syzygium australe	(Wendl. ex Link) B.Hyland	Austral. J. Bot.	Suppl. 9: 55 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913372-1	Syzygium banksii	(Britten & Moore ex Moore) B.Hyland	Austral. J. Bot.	Suppl. 9: 58 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913374-1	Syzygium bungadinnia	(F.M.Bailey) B.Hyland	Austral. J. Bot.	Suppl. 9: 64 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913375-1	Syzygium cormiflorum	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 68 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913376-1	Syzygium erythrocalyx	(C.T.White) B.Hyland	Austral. J. Bot.	Suppl. 9: 79 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913377-1	Syzygium erythrodoxum	(S.Moore) B.Hyland	Austral. J. Bot.	Suppl. 9: 81 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913378-1	Syzygium eucalyptoides	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 82 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913379-1	Syzygium forte	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 89 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913381-1	Syzygium gustavioides	(F.M.Bailey) B.Hyland	Austral. J. Bot.	Suppl. 9: 93 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913382-1	Syzygium johnsonii	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 95 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913383-1	Syzygium kuranda	(F.M.Bailey) B.Hyland	Austral. J. Bot.	Suppl. 9: 96 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913385-1	Syzygium minutuliflorum	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 104 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913387-1	Syzygium oleosum	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 107 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913390-1	Syzygium sayeri	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 119 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913391-1	Syzygium trachyphloium	(C.T.White) B.Hyland	Austral. J. Bot.	Suppl. 9: 128 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913393-1	Syzygium wilsonii	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 134 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913585-1	Waterhousea floribunda	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 139 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+913586-1	Waterhousea hedraiophylla	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 141 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+915273-1	Medicosma fareana	(F.Muell.) T.G.Hartley	Austral. J. Bot.	33(1): 36 (1985):	1985	0067-1924	10.1071/bt9850027							
+915274-1	Medicosma leratii	(Guillaumin) T.G.Hartley	Austral. J. Bot.	33(1): 46 (1985):	1985	0067-1924	10.1071/bt9850027							
+915275-1	Medicosma riparia	(P.Royen) T.G.Hartley	Austral. J. Bot.	33(1): 41 (1985):	1985	0067-1924	10.1071/bt9850027							
+915276-1	Medicosma sessiliflora	(C.T.White) T.G.Hartley	Austral. J. Bot.	33(1): 40 (1985):	1985	0067-1924	10.1071/bt9850027							
+917516-1	Acmena hemilampra subsp. orophila	B.Hyland	Austral. J. Bot.	Suppl. 9: 13 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+918105-1	Syzygium forte subsp. potamophilum	B.Hyland	Austral. J. Bot.	Suppl. 9: 90 (1983)	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+921153-1	Lophostemon grandiflorus subsp. riparius	(Domin) Peter G.Wilson & J.T.Waterh.	Austral. J. Bot.	30(4): 430 (1982):	1982	0067-1924	10.1071/bt9820413							
+921443-1	Sarcomelicope simplicifolia subsp. neoscotica	(P.S.Green) T.G.Hartley	Austral. J. Bot.	30(3): 371 (1982):	1982	0067-1924	10.1071/bt9820359							
+921444-1	Sarcomelicope simplicifolia subsp. petiolaris	(A.Gray) T.G.Hartley	Austral. J. Bot.	30(3): 371 (1982):	1982	0067-1924	10.1071/bt9820359							
+922771-1	Syzygium eucalyptoides subsp. bleeseri	(O.Schwarz) B.Hyland	Austral. J. Bot.	Suppl. 9: 84 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+922772-1	Syzygium wilsonii subsp. cryptophlebium	(F.Muell.) B.Hyland	Austral. J. Bot.	Suppl. 9: 135 (1983):	1983	0067-1924	10.1071/BT8309001					http://www.publish.csiro.au/nid/66/paper/BT8309001.htm		
+924088-1	Boronia inornata subsp. leptophylla	(Turcz.) M.A.Burgman	Austral. J. Bot.	33(4): 423 (1985):	1985	0067-1924	10.1071/bt9850419							
+92907-3	Diplatia tomentosa	Barlow	Australian Journal of Botany		1966 (Dec. 1966)	0067-1924								
+936070-1	Tasmannia glaucifolia	J.B.Williams	Austral. J. Bot.	36(4): 396 (1988)	1988	0067-1924	10.1071/bt9880395							
+94084-3	Helichrysum sect. Hebelaena	(DC.) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+94367-3	Helichrysum subgen. Ozothamnus	(R.Br.) N.T.Burb.	Australian Journal of Botany		1958 (Oct. 1958)	0067-1924								
+949236-1	Eucalyptus willisii subsp. falciformis	Newnham, Ladiges & Whiffin	Austral. J. Bot.	34(3): 348 (1986)	1986	0067-1924	10.1071/bt9860331							
+954685-1	Eucalyptus kochii subsp. plenissima	(Gardner) Brooker	Austral. J. Bot.	36(2): 129 (1988):	1988	0067-1924	10.1071/bt9880119							
+98185-3	Hymenophyllum eboracense	Croxall	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
+988583-1	Chamaesyce mitchelliana	(Boiss.) D.C.Hassall	Austral. J. Bot.	24(5): 640 (1976):	1976	0067-1924	10.1071/bt9760633							
+98988-3	Hymenophyllum polyanthon var. contiguum	Croxall	Australian Journal of Botany		1975 (Jun. 1975)	0067-1924								
