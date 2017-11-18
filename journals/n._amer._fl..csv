@@ -31,8 +31,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 103307-2	Fagonia viscosa	Rydb.	N. Amer. Fl.	25(2): 104	1910 [3 Jun 1910]				28739191					
 1033178-2	Oreobroma glandulosum	Rydb.	N. Amer. Fl.	21(4): 325	1932 [29 Dec 1932]				28848464					
 103347-2	Fairchildia panamensis	Britton & Rose	N. Amer. Fl.	23(5): 348	1930 [6 Dec 1930]				28528616					
-103544-2	Feracacia belairioides	Britton & León	N. Amer. Fl.	23(2): 87	1928 [25 Sep 1928]				28528341					
-103545-2	Feracacia daemon	Britton & León	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
+103544-2	Feracacia belairioides	Britton & LeÃ³n	N. Amer. Fl.	23(2): 87	1928 [25 Sep 1928]				28528341					
+103545-2	Feracacia daemon	Britton & LeÃ³n	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
 103781-1	Impatiens mexicana	Rydb.	N. Amer. Fl.	25(2): 95	1910 [3 Jun 1910]				28739182					
 103817-1	Impatiens nortonii	Rydb.	N. Amer. Fl.	25(2): 95	1910 [3 Jun 1910]				28739182					
 103827-1	Impatiens occidentalis	Rydb.	N. Amer. Fl.	25(2): 94	1910 [3 Jun 1910]				28739181					
@@ -246,7 +246,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 117264-2	Hamosa monophyllidia	Rydb.	N. Amer. Fl.	24(7): 421	1929 [26 Jul 1929]				28848938					
 117282-2	Hamosa wrightii	Rydb.	N. Amer. Fl.	24(7): 437	1929 [26 Jul 1929]				28848954					
 1172885-2	Rubus viburnifolius	(Greene) Rydb.	N. Amer. Fl.	22(5): 446	1913 [23 Dec 1913]				751089					
-1173876-2	Carex sect. Firmiculmes	(Kük.) Mack.	N. Amer. Fl.	18(4): 221	1935 [15 Apr 1935]				28698380					
+1173876-2	Carex sect. Firmiculmes	(KÃ¼k.) Mack.	N. Amer. Fl.	18(4): 221	1935 [15 Apr 1935]				28698380					
 118104-2	Havardia acatlensis	Britton & Rose	N. Amer. Fl.	23(1): 42	1928 [11 Feb 1928]				28528254					
 118105-2	Havardia albicans	Britton & Rose	N. Amer. Fl.	23(1): 41	1928 [11 Feb 1928]				28528253					
 118107-2	Havardia leiocalyx	Britton & Rose	N. Amer. Fl.	23(1): 42	1928 [11 Feb 1928]				28528254					
@@ -714,7 +714,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 138986-2	Leucanthemum leucanthemum	Rydb.	N. Amer. Fl.	34(3): 235	1916 [29 Dec 1916]				28698468					
 139099-2	Leuciva dealbata	Rydb.	N. Amer. Fl.	33(1): 8	1922 [15 Sep 1922]				28762281					
 139226-1	Calycanthus mohrii	Small ex Pollard	N. Amer. Fl.	xxii. 238 (1908).					750219					
-139266-2	Leucothoë mexicana	Small	N. Amer. Fl.	29(1): 57	1914 [31 Aug 1914]				751190					
+139266-2	LeucothoÃ« mexicana	Small	N. Amer. Fl.	29(1): 57	1914 [31 Aug 1914]				751190					
 139331-2	Lewisia minor	Rydb.	N. Amer. Fl.	21(4): 327	1932 [29 Dec 1932]				28848466					
 139374-2	Liabellum angustissimum	Rydb.	N. Amer. Fl.	34(4): 295	1927 [27 Jun 1927]				28846764					
 139375-2	Liabellum cervinum	Rydb.	N. Amer. Fl.	34(4): 294	1927 [27 Jun 1927]				28846763					
@@ -2168,7 +2168,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 223687-2	Rubus vulcanicola	Rydb.	N. Amer. Fl.	22: 455	1913				751098					
 22369-1	Entadopsis	Britton	N. Amer. Fl.	23(3): 191	1928 [20 Dec 1928]				28528449					
 22421-1	Fairchildia	Britton & Rose	N. Amer. Fl.	23(5): 348	1930 [6 Dec 1930]				28528616					
-22429-1	Feracacia	Britton & León	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
+22429-1	Feracacia	Britton & LeÃ³n	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
 22437-1	Fishlockia	Britton & Rose	N. Amer. Fl.	23(2): 91	1928 [25 Sep 1928]				28528345					
 22464-1	Gaumerocassia	Britton	N. Amer. Fl.	23(4): 252	1930 [18 Nov 1930]				28528516					
 224700-2	Russellodendron cacalaco	Britton & Rose	N. Amer. Fl.	23(5): 320	1930 [6 Dec 1930]				28528588					
@@ -3018,7 +3018,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 295374-2	Mimosopsis	Britton & Rose	N. Amer. Fl.	23(3): 174	1928 [20 Dec 1928]				28528432					
 295405-2	Eurystemon	Alexander	N. Amer. Fl.	19(1): 55	1937 [27 Nov 1937]				28761220					
 295415-2	Fairchildia	Britton & Rose	N. Amer. Fl.	23(5): 348	1930 [6 Dec 1930]				28528616					
-295422-2	Feracacia	Britton & León	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
+295422-2	Feracacia	Britton & LeÃ³n	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
 295430-2	Fishlockia	Britton & Rose	N. Amer. Fl.	23(2): 91	1928 [25 Sep 1928]				28528345					
 295449-2	Entadopsis	Britton	N. Amer. Fl.	23(3): 191	1928 [20 Dec 1928]				28528449					
 295481-2	Sedastrum	Rose	N. Amer. Fl.	22: 58	1905				750009					
@@ -3149,7 +3149,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 30024-2	Bauhinia cookii	Rose	N. Amer. Fl.	23(4): 205	1930 [18 Nov 1930]				28528469					
 300346-1	Carex involucratella	Mack.	N. Amer. Fl.	18(1): 50	1931 [5 Dec 1931]				28765929					
 30049768-2	Lindleyella	Rydb.	N. Amer. Fl.	22: 259	1908 [12 Jun 1908]				750240					
-300585-1	Carex laxior	(Kük.) Mack.	N. Amer. Fl.	18(5): 306	1935 [1 Jun 1935]				28761639					
+300585-1	Carex laxior	(KÃ¼k.) Mack.	N. Amer. Fl.	18(5): 306	1935 [1 Jun 1935]				28761639					
 300609-1	Carex leiophylla	Mack.	N. Amer. Fl.	18(6): 365	1935 [21 Oct 1935]				28762122					
 300729-1	Carex longa	Mack.	N. Amer. Fl.	18(5): 277, in obs.	1935 [1 Jun 1935]				28761610					
 30083156-2	Spiraea densiflora	Nutt. ex Rydb.	N. Amer. Fl.	22(3): 248	1908 [12 Jun 1908]				750229					
@@ -3273,7 +3273,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 330902-1	Kalmiella aggregata	Small	N. Amer. Fl.	29(1): 54	1914 [31 Aug 1914]				751187					
 330903-1	Kalmiella ericoides	Small	N. Amer. Fl.	29(1): 54	1914 [31 Aug 1914]				751187					
 330980-1	Ledum pacificum	Small	N. Amer. Fl.	29(1): 37	1914 [31 Aug 1914]				751170					
-331052-1	Leucothoë mexicana	Small	N. Amer. Fl.	29(1): 57	1914 [31 Aug 1914]				751190					
+331052-1	LeucothoÃ« mexicana	Small	N. Amer. Fl.	29(1): 57	1914 [31 Aug 1914]				751190					
 331334-1	Oreocallis davisiae	Small	N. Amer. Fl.	29(1): 58	1914 [31 Aug 1914]				751191					
 331335-1	Ornithostaphylos oppositifolia	Small	N. Amer. Fl.	29(1): 101	1914 [31 Aug 1914]				751234					
 331443-1	Pernettya ciliata	Small	N. Amer. Fl.	29(1): 82	1914 [31 Aug 1914]				751215					
@@ -4153,8 +4153,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 494729-1	Eysenhardtia schizocalyx	Pennell	N. Amer. Fl.	24(1): 39	1919 [25 Apr 1919]				28848532					
 494731-1	Eysenhardtia subcoriacea	Pennell	N. Amer. Fl.	24(1): 36	1919 [25 Apr 1919]				28848529					
 494765-1	Fairchildia panamensis	Britton & Rose	N. Amer. Fl.	23(5): 348	1930 [6 Dec 1930]				28528616					
-494801-1	Feracacia belairioides	Britton & León	N. Amer. Fl.	23(2): 87	1928 [25 Sep 1928]				28528341					
-494802-1	Feracacia daemon	Britton & León	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
+494801-1	Feracacia belairioides	Britton & LeÃ³n	N. Amer. Fl.	23(2): 87	1928 [25 Sep 1928]				28528341					
+494802-1	Feracacia daemon	Britton & LeÃ³n	N. Amer. Fl.	23(2): 86	1928 [25 Sep 1928]				28528340					
 495234-1	Fishlockia anegadensis	Britton & Rose	N. Amer. Fl.	23(2): 91	1928 [25 Sep 1928]				28528345					
 495805-1	Gaumerocassia andrieuxii	Britton	N. Amer. Fl.	23(4): 252	1930 [18 Nov 1930]				28528516					
 495806-1	Gaumerocassia ekmaniana	Britton	N. Amer. Fl.	23(4): 253	1930 [18 Nov 1930]				28528517					
@@ -5326,7 +5326,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60444404-2	Kelseya uniflora	(S.Watson) Rydb.	N. Amer. Fl.	22: 254	1908 [12 Jun 1908]				750235					
 60448306-2	Opulaster	Medikus ex Rydb.	N. Amer. Fl.	22(3): 240	1908 [12 Jun 1908]				750221					
 60453775-2	Polygala [infragen.unranked] Hebeclada	(Chodat) S.F.Blake	N. Amer. Fl.	25(5): 306, 337	1924 [20 Mar 1924]				28739403					
-60454885-2	Rosa spaldingii	Crép. ex Rydb.	N. Amer. Fl.	22(6): 512	1918 [30 Dec 1918]				28761271					
+60454885-2	Rosa spaldingii	CrÃ©p. ex Rydb.	N. Amer. Fl.	22(6): 512	1918 [30 Dec 1918]				28761271					
 60457658-2	Casparia divaricata	(L.) Kunth ex Britton & Rose	N. Amer. Fl.	23(4): 215	1930 [18 Nov 1930]				28528479					
 604591-1	Hesperonia bigelovii	Standl.	N. Amer. Fl.	21(3): 235	1918 [22 Jun 1918]									
 604600-1	Hesperonia retrorsa	Standl.	N. Amer. Fl.	21(3): 236	1918 [22 Jun 1918]									

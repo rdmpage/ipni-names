@@ -78,8 +78,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60453452-2	Justicia parahyba	P.L.R.Moraes	Neodiversity	4: 5	2009 [14 Dec 2009]	1809-5348	10.13102/neod.41.2							
 60453453-2	Cynanchum caudiculatum	Rapini	Neodiversity	4: 7	2009 [14 Dec 2009]	1809-5348	10.13102/neod.41.3							
 60453454-2	Stylosanthes vallsii	Sousa Costa & Van den Berg	Neodiversity	4: 9 (-13; figs. 1-2)	2009 [14 Dec 2009]	1809-5348	10.13102/neod.41.4							
-60455742-2	Algrizea minor	Sobral, Faria & Proença	Neodiversity	5: 1 (-6; figs. 1-3)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.1							
-77085039-1	Leptotes vellozicola	Van den Berg, E.C.Smidt & Marçal	Neodiversity	1(1): 2 (1-5; figs. 1-2)	2006 [5 May 2006]	1809-5348	10.13102/neod.11.1							
+60455742-2	Algrizea minor	Sobral, Faria & ProenÃ§a	Neodiversity	5: 1 (-6; figs. 1-3)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.1							
+77085039-1	Leptotes vellozicola	Van den Berg, E.C.Smidt & MarÃ§al	Neodiversity	1(1): 2 (1-5; figs. 1-2)	2006 [5 May 2006]	1809-5348	10.13102/neod.11.1							
 77085040-1	Phanera microstachya	(Raddi) L.P.Queiroz	Neodiversity	1(1): 6	2006 [5 May 2006]	1809-5348	10.13102/neod.11.2							
 77085041-1	Phanera flexuosa	(Moric.) L.P.Queiroz	Neodiversity	1(1): 6	2006 [5 May 2006]	1809-5348	10.13102/neod.11.2							
 77085042-1	Phanera outimouta	(Aubl.) L.P.Queiroz	Neodiversity	1(1): 7	2006 [5 May 2006]	1809-5348	10.13102/neod.11.2							
@@ -111,7 +111,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77095674-1	Matelea ganglinosa	(Vell.) Rapini	Neodiversity	3(2): 19	2008 [31 Dec 2008]	1809-5348	10.13102/neod.32.1							
 77095675-1	Oxypetalum harleyi	(Fontella & Goyder) Farin.	Neodiversity	3(2): 20	2008 [31 Dec 2008]	1809-5348	10.13102/neod.32.1							
 77095676-1	Cattleya vandenbergii	Fraga & Borges	Neodiversity	3(2): 21	2008 [31 Dec 2008]	1809-5348	10.13102/neod.32.2							
-77095677-1	Cattleya × wetmorei	(Ruschi) Fraga & A.P.Fontana	Neodiversity	3(2): 22	2008 [31 Dec 2008]	1809-5348	10.13102/neod.32.2							
+77095677-1	Cattleya Ã— wetmorei	(Ruschi) Fraga & A.P.Fontana	Neodiversity	3(2): 22	2008 [31 Dec 2008]	1809-5348	10.13102/neod.32.2							
 77105295-1	Copaifera krukovii	(Dwyer) J.A.S.Costa	Neodiversity	4(1): 14	2009 [14 Dec 2009]	1809-5348	10.13102/neod.41.5							
 77114729-1	Calliandra paganuccii	E.R.Souza	Neodiversity	5(1): 7 (-10; figs. 1-2)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.2							
 77114730-1	Libidibia ferrea var. leiostachya	(Benth.) L.P.Queiroz	Neodiversity	5(1): 11	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.3							
@@ -122,44 +122,44 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77114735-1	Poincianella pyramidalis var. diversifolia	(Benth.) L.P.Queiroz	Neodiversity	5(1): 12	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.3							
 77114736-1	Cattleya cernua	(Lindl.) Van den Berg	Neodiversity	5(1): 13	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
 77114737-1	Cattleya kleberi	(F.E.L.Miranda) Van den Berg	Neodiversity	5(1): 13	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114738-1	Cattleya × adrienne	(Rolfe) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114739-1	Cattleya × albanensis	(Rolfe) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114740-1	Cattleya × amanda	(Rchb.f.) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114741-1	Cattleya × binotii	(Cogn.) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114742-1	Cattleya × britoi	(K.G.Lacerda & V.P.Castro) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114743-1	Cattleya × caetensis	(Pabst) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114744-1	Cattleya × carassana	(Pabst) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114745-1	Cattleya × cattleyioides	(A.Rich.) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114746-1	Cattleya × cipoensis	(Pabst) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114747-1	Cattleya × cristinae	(F.E.L.Miranda & K.G.Lacerda) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114748-1	Cattleya × cypheri	(Rolfe) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114749-1	Cattleya × ericoi	(V.P.Castro) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114750-1	Cattleya × feldmanniana	(F.E.L.Miranda & K.G.Lacerda) Van den Berg	Neodiversity	5(1): 14 (-15)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114817-1	Cattleya × gerhard-santosii	(Pabst) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114818-1	Cattleya × heitoriana	(Campacci) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114819-1	Cattleya × itabiritensis	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114820-1	Cattleya × jetibaensis	(V.P.Castro & G.F.Carr) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114821-1	Cattleya × lambari	(Pabst) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114822-1	Cattleya × lilacina	(F.A.Philbrick ex A.H.Kent) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114823-1	Cattleya × mucugensis	(F.E.L.Miranda) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114824-1	Cattleya × neocalimaniana	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114825-1	Cattleya × neoreginae	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114826-1	Cattleya × neoschilleriana	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114827-1	Cattleya × occhioniana	(Brade) Van den Berg	Neodiversity	5(1): 15 (-16)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114828-1	Cattleya × porphyritis	(Rchb.f.) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114829-1	Cattleya × raganii	(F.E.L.Miranda & K.G.Lacerda) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114830-1	Cattleya × rigbyana	(Pabst) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114831-1	Cattleya × sgarbii	(Ruschi) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114832-1	Cattleya × verelii	(Rolfe) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114833-1	Cattleya × wyattiana	(Rchb.f.) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114834-1	Cattleya × zaslawskiana	(Chiron & V.P.Castro) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114835-1	Cattleya × zaslawskii	(L.C.Menezes) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114836-1	× Catyclia intermedia	(F.E.L.Miranda) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114837-1	× Laeliocattleya calimaniana	(L.C.Menezes) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114838-1	× Laeliocattleya menezesiana	Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114839-1	× Laeliocattleya micheliniana	(Campacci) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114865-1	Cattleya × gottoiana	(Rolfe) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
-77114866-1	Cattleya × neocalimaniorum	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114738-1	Cattleya Ã— adrienne	(Rolfe) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114739-1	Cattleya Ã— albanensis	(Rolfe) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114740-1	Cattleya Ã— amanda	(Rchb.f.) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114741-1	Cattleya Ã— binotii	(Cogn.) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114742-1	Cattleya Ã— britoi	(K.G.Lacerda & V.P.Castro) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114743-1	Cattleya Ã— caetensis	(Pabst) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114744-1	Cattleya Ã— carassana	(Pabst) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114745-1	Cattleya Ã— cattleyioides	(A.Rich.) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114746-1	Cattleya Ã— cipoensis	(Pabst) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114747-1	Cattleya Ã— cristinae	(F.E.L.Miranda & K.G.Lacerda) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114748-1	Cattleya Ã— cypheri	(Rolfe) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114749-1	Cattleya Ã— ericoi	(V.P.Castro) Van den Berg	Neodiversity	5(1): 14	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114750-1	Cattleya Ã— feldmanniana	(F.E.L.Miranda & K.G.Lacerda) Van den Berg	Neodiversity	5(1): 14 (-15)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114817-1	Cattleya Ã— gerhard-santosii	(Pabst) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114818-1	Cattleya Ã— heitoriana	(Campacci) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114819-1	Cattleya Ã— itabiritensis	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114820-1	Cattleya Ã— jetibaensis	(V.P.Castro & G.F.Carr) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114821-1	Cattleya Ã— lambari	(Pabst) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114822-1	Cattleya Ã— lilacina	(F.A.Philbrick ex A.H.Kent) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114823-1	Cattleya Ã— mucugensis	(F.E.L.Miranda) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114824-1	Cattleya Ã— neocalimaniana	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114825-1	Cattleya Ã— neoreginae	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114826-1	Cattleya Ã— neoschilleriana	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114827-1	Cattleya Ã— occhioniana	(Brade) Van den Berg	Neodiversity	5(1): 15 (-16)	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114828-1	Cattleya Ã— porphyritis	(Rchb.f.) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114829-1	Cattleya Ã— raganii	(F.E.L.Miranda & K.G.Lacerda) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114830-1	Cattleya Ã— rigbyana	(Pabst) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114831-1	Cattleya Ã— sgarbii	(Ruschi) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114832-1	Cattleya Ã— verelii	(Rolfe) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114833-1	Cattleya Ã— wyattiana	(Rchb.f.) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114834-1	Cattleya Ã— zaslawskiana	(Chiron & V.P.Castro) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114835-1	Cattleya Ã— zaslawskii	(L.C.Menezes) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114836-1	Ã— Catyclia intermedia	(F.E.L.Miranda) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114837-1	Ã— Laeliocattleya calimaniana	(L.C.Menezes) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114838-1	Ã— Laeliocattleya menezesiana	Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114839-1	Ã— Laeliocattleya micheliniana	(Campacci) Van den Berg	Neodiversity	5(1): 16	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114865-1	Cattleya Ã— gottoiana	(Rolfe) Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
+77114866-1	Cattleya Ã— neocalimaniorum	Van den Berg	Neodiversity	5(1): 15	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.4							
 77114868-1	Microchilus federalensis	(Ormerod) Meneguzzo	Neodiversity	5(1): 23	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.6							
 77114869-1	Sacoila lanceolata f. luteoalba	(Rchb.f.) Meneguzzo	Neodiversity	5(1): 24	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.6							
 77114870-1	Bletia catenulata f. alba	(L.C.Menezes) Meneguzzo	Neodiversity	5(1): 25	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.6							
@@ -188,6 +188,6 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77114901-1	Specklinia truncicola	(Rchb.f.) F.Barros & L.R.S.Guim.	Neodiversity	5(1): 32	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.7							
 77114902-1	Anathallis taracuana	(Schltr.) F.Barros & L.R.S.Guim.	Neodiversity	5(1): 30	2010 [31 Dec 2010]	1809-5348	10.13102/neod.51.7							
 60468636-2	Spondias bahiensis	P.Carvalho, Van den Berg & M.Machado	Neodiversity	8: 32, figs. 7B, 8B, 9B, 9E, 10B, 11, 12B, 13, 14	2015	1809-5348								
-60468640-2	Handroanthus coronatus	(Proença & Farias) Farias	Neodiversity	7: 12	2014	1809-5348								
+60468640-2	Handroanthus coronatus	(ProenÃ§a & Farias) Farias	Neodiversity	7: 12	2014	1809-5348								
 60468637-2	Calliandra paganuccii	E.R.Souza	Neodiversity	5(1): 7	2010	1809-5348								
 60468638-2	Philcoxia tuberosa	M.L.S.Carvalho & L.P.Queiroz	Neodiversity	7: 15, figs. 1-2	2014	1809-5348								

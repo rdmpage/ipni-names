@@ -1,5 +1,5 @@
 Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publication_year_full	issn	doi	biostor	bhl	jstor	cinii	url	pdf	handle
-1001765-1	Corydalis temulifolia subsp. aegopodioides	(H.Lév. & Vaniot) C.Y.Wu	Fl. Yunnan.	8: 76 (1997)	1997				36685780					
+1001765-1	Corydalis temulifolia subsp. aegopodioides	(H.LÃ©v. & Vaniot) C.Y.Wu	Fl. Yunnan.	8: 76 (1997)	1997				36685780					
 1001766-1	Corydalis mayae var. stenophylla	(Fedde) C.Y.Wu	Fl. Yunnan.	8: 114 (1997)	1997				36685818					
 1001767-1	Sinocrassula luteorubra	(Praeger) H.Chuang	Fl. Yunnan.	8: 142 (1997), without basionym ref.	1997				36685846					
 1001768-1	Sinocrassula luteorubra var. forrestii	(Raym.-Hamet) H.Chuang	Fl. Yunnan.	8: 142 (1997), without basionym ref.	1997				36685846					
@@ -13,7 +13,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1001776-1	Adinandra japonica	(Thunb.) T.L.Ming	Fl. Yunnan.	8: 344 (1997):	1997				36686048					
 1001777-1	Adinandra japonica var. wallichiana	(DC.) T.L.Ming	Fl. Yunnan.	8: 344 (1997):	1997				36686048					
 1001778-1	Adinandra incornuta	(Y.C.Wu) T.L.Ming	Fl. Yunnan.	8: 345 (1997):	1997				36686049					
-1001779-1	Eurya obtusifolia var. aurea	(H.Lév.) T.L.Ming	Fl. Yunnan.	8: 371 (1997):	1997				36686075					
+1001779-1	Eurya obtusifolia var. aurea	(H.LÃ©v.) T.L.Ming	Fl. Yunnan.	8: 371 (1997):	1997				36686075					
 1001780-1	Eurya stenophylla var. pubescens	(Hung T.Chang) T.L.Ming	Fl. Yunnan.	8: 372 (1997):	1997				36686076					
 1001782-1	Zingiber ellipticum	(S.Q.Tong & Y.M.Xia) S.Q.Tong & Y.M.Xia	Fl. Yunnan.	8: 548 (1997), isonym;	1997				36686252					
 1019886-1	Trollius yunnanensis var. latilobus	Y.Fei	Fl. Yunnan.	11: 38 (2000)	2000				36691482					
@@ -27,7 +27,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 170587-1	Combretum yuankiangense	C.C.Huang & S.C.Huang	Fl. Yunnan.	1: 93	1977				36667073					
 265221-1	Argyreia marlipoensis	C.Y.Wu & S.H.Huang	Fl. Yunnan.	2: 676	1979 [Mar 1979]				36668538					
 270501-1	Merremia cordata	R.C.Fang	Fl. Yunnan.	2: 650 (-651; t. 15, fig. 3)	1979 [Mar 1979]				36668512					
-270936-1	Porana brevisepala	C.Y.Wu & S.H.Huang	Fl. Yunnan.	2: 630 (t. 9, figs. 4–5)	1979 [March 1979]				36668492					
+270936-1	Porana brevisepala	C.Y.Wu & S.H.Huang	Fl. Yunnan.	2: 630 (t. 9, figs. 4â€“5)	1979 [March 1979]				36668492					
 337088-1	Itea kiukiangensis	C.C.Huang & S.C.Huang	Fl. Yunnan.	1: 105	1977				36667085					
 358489-1	Cyclobalanopsis austro-glauca	Y.T.Chang	Fl. Yunnan.	2: 327. 1979 without latin descr.; et in Acta Bot. Yunnanica, 1(1): 147. 1979, with latin descr					36668189					
 430558-1	Corylopsis calcicola	C.Y.Wu	Fl. Yunnan.	1: 126	1977				36667106					
@@ -109,7 +109,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 571497-1	Memecylon cyanocarpum	C.Y.Wu	Fl. Yunnan.	2: 134	1979				36667996					
 574164-1	Osbeckia rhopalotricha	C.Y.Wu	Fl. Yunnan.	2: 85	1979				36667947					
 574711-1	Phyllagathis hispida	(S.Y.Hu) C.Y.Wu	Fl. Yunnan.	2: 114	1979				36667976					
-574739-1	Plagiopetalum blinii	(H.Lév.) C.Y.Wu	Fl. Yunnan.	2: 92	1979				36667954					
+574739-1	Plagiopetalum blinii	(H.LÃ©v.) C.Y.Wu	Fl. Yunnan.	2: 92	1979				36667954					
 575859-1	Sonerila primuloides	C.Y.Wu	Fl. Yunnan.	2: 126	1979				36667988					
 575992-1	Sporoxeia hirsuta	(H.L.Li) C.Y.Wu	Fl. Yunnan.	2: 109	1979				36667971					
 575993-1	Sporoxeia latifolia	(H.L.Li) C.Y.Wu & Y.C.Huang	Fl. Yunnan.	2: 109	1979				36667971					
@@ -117,7 +117,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 577357-1	Aglaia testicularis	C.Y.Wu	Fl. Yunnan.	1: 240	1977				36667220					
 577488-1	Amoora calcicola	C.Y.Wu & H.Li	Fl. Yunnan.	1: 234	1977				36667214					
 577497-1	Amoora dasyclada	(F.C.How & T.C.Chen) C.Y.Wu	Fl. Yunnan.	1: 234	1977				36667214					
-577528-1	Amoora ouangliensis	(H.Lév.) C.Y.Wu	Fl. Yunnan.	1: 237	1977				36667217					
+577528-1	Amoora ouangliensis	(H.LÃ©v.) C.Y.Wu	Fl. Yunnan.	1: 237	1977				36667217					
 577542-1	Amoora stellata	C.Y.Wu	Fl. Yunnan.	1: 234, with two types cited	1977				36667214					
 577543-1	Amoora stellato-squamosa	C.Y.Wu & H.Li	Fl. Yunnan.	1: 233, with two types cited	1977				36667213					
 577546-1	Amoora tetrapetala	(Pierre) C.Y.Wu	Fl. Yunnan.	1: 235	1977				36667215					
@@ -146,7 +146,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60433029-2	Phragmites cincta	(Hook.f.) B.S.Sun	Fl. Yunnan.	9: 224	2003				36680446					
 60433031-2	Festuca clarkei	(Stapf) B.S.Sun	Fl. Yunnan.	9: 251	2003				36680473					
 60433032-2	Festuca kunmingensis	B.S.Sun	Fl. Yunnan.	9: 258	2003				36680480					
-60433034-2	Deschampsia orientalis	(Hultén) B.S.Sun	Fl. Yunnan.	9: 341	2003				36680563					
+60433034-2	Deschampsia orientalis	(HultÃ©n) B.S.Sun	Fl. Yunnan.	9: 341	2003				36680563					
 60433035-2	Agrostis poluninii var. longiflora	(Y.C.Tang ex Y.C.Yang) B.S.Sun	Fl. Yunnan.	9: 366	2003				36680588					
 60433036-2	Deyeuxia longiflora	(Keng f.) B.S.Sun & Y.H.Wang	Fl. Yunnan.	9: 378	2003				36680600					
 60433037-2	Deyeuxia flaccida	(Keng f.) B.S.Sun & Y.H.Wang	Fl. Yunnan.	9: 382	2003				36680604					
@@ -173,7 +173,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 71705-1	Toxicodendron fulvum	(Craib) C.Y.Wu & T.L.Ming	Fl. Yunnan.	2: 394	1979				36668256					
 71714-1	Toxicodendron grandiflorum	C.Y.Wu & T.L.Ming	Fl. Yunnan.	2: 404	1979				36668266					
 71831-1	Toxicodendron yunnanense	C.Y.Wu	Fl. Yunnan.	2: 401	1979				36668263					
-77062969-1	Cremanthodium pyrolifolium	(H.Lév.) T.L.Ming	Fl. Yunnan.	13: 463	2004 [Aug 2004]				36695379					
+77062969-1	Cremanthodium pyrolifolium	(H.LÃ©v.) T.L.Ming	Fl. Yunnan.	13: 463	2004 [Aug 2004]				36695379					
 77062970-1	Pertya phylicoides var. berberidoides	(Hand.-Mazz.) H.Chuang	Fl. Yunnan.	13: 623	2004 [Aug 2004]				36695539					
 77062971-1	Wedelia wallichii var. megalantha	H.Chuang	Fl. Yunnan.	13: 833 (262-263)	2004 [Aug 2004]				36695749					
 77062972-1	Ligularia pianmaensis	Y.L.Chen ex T.L.Ming	Fl. Yunnan.	13: 833 (495)	2004 [Aug 2004]				36695749					
@@ -412,8 +412,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 928649-1	Dioscorea menglaensis	H.Li	Fl. Yunnan.	3: 744 (1983)	1983			134564	36669508					
 928650-1	Styrax mallotifolius	C.Y.Wu	Fl. Yunnan.	3: 420 (1983)	1983			134564	36669184					
 928651-1	Styrax macrospermus	C.Y.Wu	Fl. Yunnan.	3: 427 (1983)	1983			134564	36669191					
-931497-1	Circaea × taronensis	H.Li	Fl. Yunnan.	4: 157 (1986)	1986				36687419					
-931498-1	Epilobium × jinshaense	P.H.Raven & H.Li	Fl. Yunnan.	4: 175 (1986)	1986				36687437					
+931497-1	Circaea Ã— taronensis	H.Li	Fl. Yunnan.	4: 157 (1986)	1986				36687419					
+931498-1	Epilobium Ã— jinshaense	P.H.Raven & H.Li	Fl. Yunnan.	4: 175 (1986)	1986				36687437					
 931499-1	Meliosma xichouensis	H.W.Li ex S.K.Chen	Fl. Yunnan.	4: 312 (1986)	1986				36687574					
 931500-1	Sabia calcicola	C.Y.Wu ex S.K.Chen	Fl. Yunnan.	4: 333 (1986)	1986				36687595					
 931501-1	Sagittaria tengtsungensis	H.Li	Fl. Yunnan.	4: 767 (1986)	1986				36688029					
@@ -423,7 +423,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 941989-1	Limaciopsis valida	(Diels) H.S.Lo	Fl. Yunnan.	3: 240 (1983):	1983			134564	36669004					
 941990-1	Pittosporum ledoides	(Hand.-Mazz.) C.Y.Wu	Fl. Yunnan.	3: 328 (1983):	1983			134564	36669092					
 941991-1	Scurrula chingii	(Cheng) H.S.Kiu	Fl. Yunnan.	3: 363 (1983):	1983			134564	36669127					
-941992-1	Taxillus limprichtii	(Grüning) H.S.Kiu	Fl. Yunnan.	3: 368 (1983):	1983			134564	36669132					
+941992-1	Taxillus limprichtii	(GrÃ¼ning) H.S.Kiu	Fl. Yunnan.	3: 368 (1983):	1983			134564	36669132					
 941993-1	Spatholirion elegans	(Cherfils) C.Y.Wu	Fl. Yunnan.	3: 685 (1983):	1983			134564	36669449					
 948692-1	Pittosporum johnstonianum var. glomerulatum	C.Y.Wu	Fl. Yunnan.	3: 325 (1983)	1983			134564	36669089					
 948693-1	Stachyurus himalaicus var. alatipes	C.Y.Wu	Fl. Yunnan.	3: 343 (1983)	1983			134564	36669107					
@@ -442,7 +442,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 951917-1	Korthalsella japonica var. fasciculata	(Tiegh.) H.S.Kiu	Fl. Yunnan.	3: 374 (1983):	1983			134564	36669138					
 953269-1	Meliosma thomsonii var. trichocarpa	(Hand.-Mazz.) C.Y.Wu & S.K.Chen	Fl. Yunnan.	4: 306 (1986):	1986				36687568					
 953270-1	Sabia latifolia var. omeiensis	(Stapf ex L.Chen) S.K.Chen	Fl. Yunnan.	4: 325 (1986):	1986				36687587					
-953271-1	Rhododendron ciliicalyx subsp. lyi	(Lévl.) R.C.Fang	Fl. Yunnan.	4: 479 (1986), without basionym ref.	1986				36687741					
+953271-1	Rhododendron ciliicalyx subsp. lyi	(LÃ©vl.) R.C.Fang	Fl. Yunnan.	4: 479 (1986), without basionym ref.	1986				36687741					
 953272-1	Lyonia ovalifolia var. tomentosa	(Fang) C.Y.Wu ex R.Z.Fang, T.L.Ming, T.Z.Hsu & S.H.Huang	Fl. Yunnan.	4: 567 (1986):	1986				36687829					
 953273-1	Jasminum subhumile var. glabricymosum	(W.W.Sm.) P.Y.Pai	Fl. Yunnan.	4: 649 (1986):	1986				36687911					
 957584-1	Corylus subsect. Acanthochlamys	(Spach) C.J.Wang	Fl. Yunnan.	5: 173 (1991), without basionym ref.	1991				36688273					

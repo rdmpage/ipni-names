@@ -6,7 +6,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1006249-2	Oxytropis campestris var. minor	(Hook.) S.L.Welsh	Great Basin Naturalist	55: 277	1995	0017-3614				41712899				
 1008639-2	Ericameria depressa	Nutt.	Great Basin Naturalist	55: 86	1995	0017-3614				41712868				
 1010013-2	Camissonia claviformis var. aurantiaca	(Munz) Cronquist	Great Basin Naturalist	52(1): 76	1992	0017-3614				41712698				
-1015179-2	× Elyhordeum macounii	(Vasey) Barkworth & D.R.Dewey	Great Basin Naturalist	43: 570	1983	0017-3614				41712015				
+1015179-2	Ã— Elyhordeum macounii	(Vasey) Barkworth & D.R.Dewey	Great Basin Naturalist	43: 570	1983	0017-3614				41712015				
 1017724-2	Oxytropis sericea var. speciosa	S.L.Welsh	Great Basin Naturalist	55: 279	1995	0017-3614				41712899				
 1018242-2	Ericameria pulchella var. elatior	(Standl.) L.C.Anderson	Great Basin Naturalist	55: 86	1995	0017-3614				41712868				
 1020369-2	Ericameria filifolia	(Rydb.) L.C.Anderson	Great Basin Naturalist	55: 86	1995	0017-3614				41712868				
@@ -26,7 +26,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1073991-2	Astragalus laccoliticus	(M.E.Jones) S.L.Welsh	Great Basin Naturalist	58: 53	1998	0017-3614				41713036				
 1076536-2	Astragalus australis var. cottonii	(M.E.Jones) S.L.Welsh	Great Basin Naturalist	58: 48	1998	0017-3614				41713036				
 1080514-2	Ericameria viscidiflora subsp. axillaris	(D.D.Keck) L.C.Anderson	Great Basin Naturalist	55: 87	1995	0017-3614				41712868				
-1087136-2	Astragalus australis var. muriei	(Hultén) S.L.Welsh	Great Basin Naturalist	58: 47	1998	0017-3614				41713036				
+1087136-2	Astragalus australis var. muriei	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	58: 47	1998	0017-3614				41713036				
 108718-2	Gentianella propinqua var. aleutica	(Cham. & Schltdl.) S.L.Welsh	Great Basin Naturalist	28: 152	1968	0017-3614				41711192				
 1089049-2	Atriplex garrettii var. navajoensis	(C.A.Hanson) S.L.Welsh & Crompton	Great Basin Naturalist	55: 326	1995	0017-3614				41712908				
 1093516-2	Astragalus australis var. aboriginorum	(Richardson) S.L.Welsh	Great Basin Naturalist	58: 48	1998	0017-3614				41713036				
@@ -35,7 +35,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1102487-2	Camissonia boothii var. desertorum	(Munz) Cronquist	Great Basin Naturalist	52: 76	1992	0017-3614				41712698				
 1104294-2	Camissonia claviformis var. cruciformis	(Kellogg) Cronquist	Great Basin Naturalist	52: 76	1992	0017-3614				41712698				
 1109125-2	Camissonia claviformis var. funerea	(P.H.Raven) Cronquist	Great Basin Naturalist	52: 76	1992	0017-3614				41712698				
-1114615-2	Astragalus australis var. lepagei	(Hultén) S.L.Welsh	Great Basin Naturalist	58: 47	1998	0017-3614				41713036				
+1114615-2	Astragalus australis var. lepagei	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	58: 47	1998	0017-3614				41713036				
 1118833-2	Ericameria viscidiflora subsp. planifolia	(L.C.Anderson) L.C.Anderson	Great Basin Naturalist	55: 87	1995	0017-3614				41712868				
 1120654-2	Ericameria viscidiflora subsp. puberula	(D.C.Eaton) L.C.Anderson	Great Basin Naturalist	55: 87	1995	0017-3614				41712868				
 1124345-2	Aquilegia flavescens var. rubicunda	(Tidestr.) S.L.Welsh	Great Basin Naturalist	46: 259	1986	0017-3614				41712221				
@@ -126,7 +126,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 157814-2	Mertensia maritima var. asiatica	(H.Takeda) S.L.Welsh	Great Basin Naturalist	28: 147	1968	0017-3614				41711192				
 157836-2	Mertensia paniculata subsp. eastwoodiae	(J.F.Macbr.) S.L.Welsh	Great Basin Naturalist	28: 147	1968	0017-3614				41711192				
 164070-2	Montia bostockii	(A.E.Porsild) S.L.Welsh	Great Basin Naturalist	28: 154	1968	0017-3614				41711192				
-164130-2	Montia scammaniana	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 154	1968	0017-3614				41711192				
+164130-2	Montia scammaniana	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 154	1968	0017-3614				41711192				
 166919-2	Najas caespitosus	(Maguire) Reveal	Great Basin Naturalist	35(4): 357	"1976 (1975; dt. ""31 Dec 1975""	0017-3614				41711487				
 16954-2	Arabis confinis var. interposita	(Greene) S.L.Welsh & Reveal	Great Basin Naturalist	37: 293	1978 (1977)	0017-3614				41711582				
 173017-2	Oenothera gouldii	(P.H.Raven) S.L.Welsh & N.D.Atwood	Great Basin Naturalist	35(4): 358	"1976 (1975; dt. ""31 Dec 1975""	0017-3614				41711487				
@@ -137,7 +137,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 179667-2	Oxytropis oreophila var. juniperina	S.L.Welsh	Great Basin Naturalist	38: 339	1978	0017-3614				41711638				
 18567-2	Arenaria kingii var. plateauensis	(Maguire) Reveal	Great Basin Naturalist	35(4): 344	"1976 (1975; dt. ""31 Dec 1975""	0017-3614				41711487				
 18583-2	Arenaria laricifolia var. hultenii	S.L.Welsh	Great Basin Naturalist	28: 146, fig. 1	1968	0017-3614				41711191				
-186474-2	Pedicularis sudetica var. pacifica	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
+186474-2	Pedicularis sudetica var. pacifica	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
 186536-2	Pediocactus despainii	S.L.Welsh & Goodrich	Great Basin Naturalist	40: 83 (-86), fig	1980	0017-3614				41711752				
 18686-2	Arenaria rossii var. elegans	(Cham. & Schltdl.) S.L.Welsh	Great Basin Naturalist	28: 148	1968	0017-3614				41711192				
 187128-2	Penstemon albifluvis	England	Great Basin Naturalist	42: 367	1982	0017-3614				41711938				
@@ -172,7 +172,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 206051-2	Polygonum alpinum subsp. alaskanum	(Small) S.L.Welsh	Great Basin Naturalist	28: 154	1968	0017-3614				41711192				
 20632-2	Artemisia frigida var. williamsiae	S.L.Welsh	Great Basin Naturalist	28: 149 (-151; fig. 3)	1968	0017-3614				41711192				
 20710-2	Artemisia norwegica var. comata	(Rydb.) S.L.Welsh	Great Basin Naturalist	28: 151	1968	0017-3614				41711192				
-20770-2	Artemisia tilesii var. aleutica	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 151	1968	0017-3614				41711192				
+20770-2	Artemisia tilesii var. aleutica	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 151	1968	0017-3614				41711192				
 20799-2	Artemisia tridentata var. wyomingensis	(Beetle & A.L.Young) S.L.Welsh	Great Basin Naturalist	43: 215	1983	0017-3614				41711979				
 209087-2	Potentilla concinna var. bicrenata	(Rydb.) S.L.Welsh & B.C.Johnst.	Great Basin Naturalist	42: 25	1982	0017-3614				41711855				
 209093-2	Potentilla concinna var. modesta	(Rydb.) S.L.Welsh & B.C.Johnst.	Great Basin Naturalist	42: 25	1982	0017-3614				41711855				
@@ -190,10 +190,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 222151-2	Rorippa islandica var. glabra	(O.E.Schulz) S.L.Welsh & Reveal	Great Basin Naturalist	37: 348	1978 (77)	0017-3614				41711582				
 225300-1	Hymenoxys depressa	(Torr. & A.Gray ex A.Gray) S.L.Welsh & N.D.Atwood	Great Basin Naturalist	35(4): 336	1975	0017-3614				41711487				
 226568-2	Salvia dorrii var. pilosa	(A.Gray) Strachan & Reveal	Great Basin Naturalist	41: 199	1981	0017-3614				41711800				
-228198-2	Saussurea angustifolia var. viscida	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 152	1968	0017-3614				41711192				
+228198-2	Saussurea angustifolia var. viscida	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 152	1968	0017-3614				41711192				
 228393-2	Saxifraga davurica var. grandipetala	(Engl. & Irmsch.) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
-228598-2	Saxifraga punctata var. insularis	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
-228603-2	Saxifraga punctata var. pacifica	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
+228598-2	Saxifraga punctata var. insularis	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
+228603-2	Saxifraga punctata var. pacifica	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
 230773-2	Sclerocactus pubispinus var. spinosior	(Engelm.) S.L.Welsh	Great Basin Naturalist	44: 67	1984	0017-3614				41712042				
 230777-2	Sclerocactus whipplei var. glaucus	(K.Schum.) S.L.Welsh	Great Basin Naturalist	44: 68	1984	0017-3614				41712042				
 231353-1	Lygodesmia entrada	S.L.Welsh & Goodrich	Great Basin Naturalist	40(1): 83	1980	0017-3614				41711752				
@@ -375,7 +375,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 284766-2	Sclerocactus pubispinus var. spinosior	(Engelm.) S.L.Welsh	Great Basin Naturalist	44: 67	1984	0017-3614				41712042				
 284768-2	Sclerocactus schlesseri	K.D.Heil & S.L.Welsh	Great Basin Naturalist	46(4): 677 (-678)	1987 [dt. 31 Oct 1986; issued 19	0017-3614				41712287				
 284776-2	Sclerocactus whipplei var. glaucus	(Schum.) S.L.Welsh	Great Basin Naturalist	44: 68	1984	0017-3614				41712042				
-285535-2	Stellaria longipes var. monantha	(Hultén) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
+285535-2	Stellaria longipes var. monantha	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
 285847-2	Talinum thompsonii	N.D.Atwood & S.L.Welsh	Great Basin Naturalist	45: 485 (-487; fig.)	1985	0017-3614				41712154				
 285981-2	Thelesperma pubescens	Dorn	Great Basin Naturalist	43: 749	1984	0017-3614				41712036				
 285997-2	Thelypodium sagittatum var. ovalifolium	(Rydb.) S.L.Welsh	Great Basin Naturalist	46: 256	1986	0017-3614				41712221				
@@ -386,17 +386,17 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 287217-2	Zuckia brandegeei	(A.Gray) S.L.Welsh & Stutz	Great Basin Naturalist	44: 208	1984	0017-3614				41712065				
 287218-2	Zuckia brandegeei var. arizonica	(Standl.) S.L.Welsh	Great Basin Naturalist	44: 209	1984	0017-3614				41712065				
 287947-2	Lepidium barnebyanum	Reveal	Great Basin Naturalist	27: 178	1967	0017-3614				41711162				
-288066-2	Geum × macranthum	(Kearney) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
+288066-2	Geum Ã— macranthum	(Kearney) S.L.Welsh	Great Basin Naturalist	28: 155	1968	0017-3614				41711192				
 288212-2	Eriogonum duchesnense	Reveal	Great Basin Naturalist	27(4): 194	1968	0017-3614				41711165				
 289173-2	Pseudelymus saxicola	(Scribn. & J.G.Sm.) Barkworth & D.R.Dewey	Great Basin Naturalist	43: 570	1984	0017-3614				41712015				
-289174-2	× Pseudelymus	Barkworth & D.R.Dewey	Great Basin Naturalist	43: 570	1984	0017-3614				41712015				
+289174-2	Ã— Pseudelymus	Barkworth & D.R.Dewey	Great Basin Naturalist	43: 570	1984	0017-3614				41712015				
 290356-1	Thelypodiopsis argillacea	S.L.Welsh & N.D.Atwood	Great Basin Naturalist	37(1): 95	1977	0017-3614				41711558				
 290362-1	Thelypodiopsis divaricata	(Rollins) S.L.Welch & Reveal	Great Basin Naturalist	37(3): 355	1978 [1977 publ. 1978]	0017-3614				41711582				
 290696-2	Penstemon holmgrenii	S.L.Clark	Great Basin Naturalist	37(1): 100; 37(2): 258	1977	0017-3614				41711560				
 296177-2	Galium emeryense	Dempster & Ehrend.	Great Basin Naturalist	37: 510	1978	0017-3614				41711601				
 298876-2	Thelypodiopsis argillacea	S.L.Welsh & N.D.Atwood	Great Basin Naturalist	37: 95 (-96), fig. 1	1977	0017-3614				41711558				
 298894-2	Thelypodiopsis divaricata	(Rollins) S.L.Welsh & Reveal	Great Basin Naturalist	37: 355	1978	0017-3614				41711582				
-30001946-2	Atriplex canescens var. occidentalis	(Torr. & Frém.) S.L.Welsh & Stutz	Great Basin Naturalist	44(2): 188	1984 [30 Apr 1984]	0017-3614				41712065				
+30001946-2	Atriplex canescens var. occidentalis	(Torr. & FrÃ©m.) S.L.Welsh & Stutz	Great Basin Naturalist	44(2): 188	1984 [30 Apr 1984]	0017-3614				41712065				
 300169-2	Artemisia nova var. duchesnicola	S.L.Welsh & Goodrich	Great Basin Naturalist	55: 361-362, fig	1995	0017-3614				41712912				
 300552-2	Townsendia montana var. caelilinensis	S.L.Welsh	Great Basin Naturalist	43: 370	1983	0017-3614				41711982				
 301090-2	Cirsium eatonii var. murdockii	S.L.Welsh	Great Basin Naturalist	42: 200	1982	0017-3614				41711875				
@@ -452,7 +452,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 51335-2	Centaurium namophilum var. nevadense	C.R.Broome	Great Basin Naturalist	41: 192, fig	1981	0017-3614				41711799				
 516215-1	Psoralea pariensis	S.L.Welsh & N.D.Atwood	Great Basin Naturalist	35(4): 353	1975	0017-3614				41711487				
 516381-1	Psorothamnus thompsoniae	(Vail) S.L.Welsh & N.D.Atwood	Great Basin Naturalist	35(4): 354	1975	0017-3614				41711487				
-52312-2	Cerastium beeringianum var. aleuticum	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 148	1968	0017-3614				41711192				
+52312-2	Cerastium beeringianum var. aleuticum	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 148	1968	0017-3614				41711192				
 564574-1	Sphaeralcea psoraloides	S.L.Welsh	Great Basin Naturalist	40(1): 36	1980	0017-3614				41711746				
 57112-1	Yucca toftiae	S.L.Welsh	Great Basin Naturalist	34(4): 308	1974	0017-3614				41711444				
 58-2	Abronia argillosa	S.L.Welsh & Goodrich	Great Basin Naturalist	40: 78, fig	1980	0017-3614				41711752				
@@ -494,7 +494,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 694427-1	Eriogonum smithii	Reveal	Great Basin Naturalist	xxvii. 202 (1967).		0017-3614				41711165				
 694494-1	Eriogonum viscanum	W.J.Hess & Reveal	Great Basin Naturalist	36(3): 310	1976 [1977]	0017-3614				41711526				
 698985-1	Montia bostockii	(A.E.Porsild) S.L.Welsh	Great Basin Naturalist	xxviii. 154(1968)		0017-3614				41711192				
-699042-1	Montia scammaniana	(Hultén) S.L.Welsh	Great Basin Naturalist	xxviii. 154 (1968)		0017-3614				41711192				
+699042-1	Montia scammaniana	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	xxviii. 154 (1968)		0017-3614				41711192				
 71314-2	Cryptantha compacta	L.C.Higgins	Great Basin Naturalist	28: 196[-197]	1968	0017-3614				41711201				
 71327-2	Cryptantha creutzfeldtii	S.L.Welsh	Great Basin Naturalist	42(2): 203	1982	0017-3614				41711876				
 71379-2	Cryptantha fulvocanescens var. echinoides	(M.E.Jones) L.C.Higgins	Great Basin Naturalist	29: 30	1969	0017-3614				41711210				
@@ -511,9 +511,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 807896-1	Penstemon holmgrenii	S.L.Clark	Great Basin Naturalist	37(1): 100 (1977); et l. c. 37(2): 258 (1977), nom. nov.,without replaced synonym page	1977	0017-3614				41711560				
 807906-1	Penstemon longiflorus	(Pennell) S.L.Clark	Great Basin Naturalist	35(4): 434	1975	0017-3614				41711497				
 807965-1	Penstemon venosus	(Keck) Reveal	Great Basin Naturalist	34(4): 311	1974	0017-3614				41711445				
-82706-2	Dodecatheon pulchellum var. alaskanum	(Hultén) S.L.Welsh	Great Basin Naturalist	28(3): 154	1968 [30 Sep 1968]	0017-3614				41711192				
+82706-2	Dodecatheon pulchellum var. alaskanum	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28(3): 154	1968 [30 Sep 1968]	0017-3614				41711192				
 83429-2	Draba asprella var. zionensis	(C.L.Hitchc.) S.L.Welsh & Reveal	Great Basin Naturalist	37: 318	1978 (1977)	0017-3614				41711582				
-83462-2	Draba borealis var. maxima	(Hultén) S.L.Welsh	Great Basin Naturalist	28: 152	1968	0017-3614				41711192				
+83462-2	Draba borealis var. maxima	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	28: 152	1968	0017-3614				41711192				
 83541-2	Draba densifolia var. daviesiae	(C.L.Hitchc.) S.L.Welsh & Reveal	Great Basin Naturalist	37: 320	1978 [dt. 1977; issued in 1978]	0017-3614				41711582				
 840940-1	Cymopterus higginsii	S.L.Welsh	Great Basin Naturalist	35(4): 377	1975	0017-3614				41711488				
 874316-1	Cycladenia humilis var. jonesii	(Eastw.) S.L.Welsh & N.D.Atwood	Great Basin Naturalist	35(4): 333	1975	0017-3614				41711487				
@@ -635,9 +635,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 924418-1	Poa arctica subsp. aperta	(Scribn. & Merr.) Soreng	Great Basin Naturalist	45(3): 404	1985	0017-3614				41712144				
 924419-1	Poa fendleriana subsp. albescens	(Hitchc.) Soreng	Great Basin Naturalist	45(3): 407	1985	0017-3614				41712144				
 924420-1	Poa fendleriana subsp. longiligula	(Scribn. & Will.) Soreng	Great Basin Naturalist	45(3): 408	1985	0017-3614				41712144				
-924907-1	× Pseudelymus	Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
+924907-1	Ã— Pseudelymus	Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
 92605-2	Epilobium palustre var. davuricum	(Hornem.) S.L.Welsh	Great Basin Naturalist	28: 154	1968	0017-3614				41711192				
-928663-1	Agrositanion × pinalenoensis	Pyrah	Great Basin Naturalist	43(1): 135	1983	0017-3614				41711973				
+928663-1	Agrositanion Ã— pinalenoensis	Pyrah	Great Basin Naturalist	43(1): 135	1983	0017-3614				41711973				
 928664-1	Penstemon flowersii	Neese & S.L.Welsh	Great Basin Naturalist	43(3): 429	1983	0017-3614				41711995				
 928665-1	Thelesperma pubescens	Dorn	Great Basin Naturalist	43(4): 749	1983	0017-3614				41712036				
 928666-1	Haplopappus crispus	L.C.Anderson	Great Basin Naturalist	43(2): 359	1983	0017-3614				41711980				
@@ -669,10 +669,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 942072-1	Haplopappus compactus	(H.M.Hall) L.C.Anderson	Great Basin Naturalist	43(2): 358	1983	0017-3614				41711980				
 942073-1	Gutierrezia petradoria	(S.L.Welsh & Goodrich) S.L.Welsh	Great Basin Naturalist	43(2): 288	1983	0017-3614				41711979				
 942074-1	Gutierrezia pomariensis	(Welsh) S.L.Welsh	Great Basin Naturalist	43(2): 288	1983	0017-3614				41711979				
-942075-1	Elymus × pseudorepens	(Scribn. & J.G.Sm.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 568	1983	0017-3614				41712015				
-942076-1	Elyhordeum × macounii	(Vasey) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
-942077-1	× Elyleymus aristatus	(Merr.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
-942078-1	Pseudelymus × saxicola	(Scribn. & J.G.Sm.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
+942075-1	Elymus Ã— pseudorepens	(Scribn. & J.G.Sm.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 568	1983	0017-3614				41712015				
+942076-1	Elyhordeum Ã— macounii	(Vasey) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
+942077-1	Ã— Elyleymus aristatus	(Merr.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
+942078-1	Pseudelymus Ã— saxicola	(Scribn. & J.G.Sm.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
 942079-1	Thinopyrum ponticum	(Podp.) Barkworth & D.R.Dewey	Great Basin Naturalist	43(4): 570	1983	0017-3614				41712015				
 942096-1	Zuckia brandegeei	(Gray) S.L.Welsh & Stutz	Great Basin Naturalist	44(2): 208	1984	0017-3614				41712065				
 94238-2	Erigeron untermannii	S.L.Welsh & Goodrich	Great Basin Naturalist	43: 367	1983	0017-3614				41711981				
@@ -769,7 +769,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 952029-1	Sclerocactus pubispinus var. spinosior	(Engelm.) S.L.Welsh	Great Basin Naturalist	44(1): 67	1984	0017-3614				41712042				
 95203-2	Eriogonum natum	Reveal	Great Basin Naturalist	35(4): 363 (-364)	"1976 (1975; dt. ""31 Dec 1975""	0017-3614				41711487				
 952030-1	Sclerocactus whipplei var. glaucus	(K.Schum.) S.L.Welsh	Great Basin Naturalist	44(1): 68	1984	0017-3614				41712042				
-952031-1	Atriplex canescens var. occidentalis	(Torr. & Frém.) S.L.Welsh & Stutz	Great Basin Naturalist	44(2): 188	1984	0017-3614				41712065				
+952031-1	Atriplex canescens var. occidentalis	(Torr. & FrÃ©m.) S.L.Welsh & Stutz	Great Basin Naturalist	44(2): 188	1984	0017-3614				41712065				
 952032-1	Atriplex gardneri var. bonnevillensis	(C.A.Hanson) S.L.Welsh	Great Basin Naturalist	44(2): 190	1984	0017-3614				41712065				
 952033-1	Atriplex gardneri var. cuneata	(A.Nelson) S.L.Welsh	Great Basin Naturalist	44(2): 190	1984	0017-3614				41712065				
 952034-1	Atriplex gardneri var. falcata	(Jones) S.L.Welsh	Great Basin Naturalist	44(2): 191	1984	0017-3614				41712065				
@@ -808,7 +808,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 952784-1	Arenaria fendleri var. aculeata	(Wats.) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
 952785-1	Arenaria fendleri var. eastwoodiae	(Rydb.) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
 952786-1	Lychnis apetala var. kingii	(S.Watson) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
-952787-1	Stellaria longipes var. monantha	(Hultén) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
+952787-1	Stellaria longipes var. monantha	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
 952788-1	Draba densifolia var. apiculata	(C.L.Hitchc.) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
 952789-1	Draba oligosperma var. juniperina	(Dorn) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
 952790-1	Physaria acutifolia var. stylosa	(Rollins) S.L.Welsh	Great Basin Naturalist	46(2): 255	1986	0017-3614				41712221				
@@ -913,11 +913,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 985804-1	Lepidium huberi	S.L.Welsh & Goodrich	Great Basin Naturalist	55(4): 359	1995	0017-3614				41712912				
 985805-1	Artemisia nova var. duchesnicola	S.L.Welsh & Goodrich	Great Basin Naturalist	55(4): 361	1995	0017-3614				41712912				
 988148-1	Astragalus laxmannii var. robustior	(Hook.) Barneby & S.L.Welsh	Great Basin Naturalist	56(1): 85	1996	0017-3614				41712929				
-988149-1	Astragalus laxmannii var. tananaicus	(Hultén) Barneby & S.L.Welsh	Great Basin Naturalist	56(1): 85	1996	0017-3614				41712929				
+988149-1	Astragalus laxmannii var. tananaicus	(HultÃ©n) Barneby & S.L.Welsh	Great Basin Naturalist	56(1): 85	1996	0017-3614				41712929				
 997924-1	Astragalus conjunctus var. rickardii	S.L.Welsh, F.Caplow & K.Beck	Great Basin Naturalist	57(4): 354	1997	0017-3614				41713023				
 999727-1	Astragalus molybdenus var. shultziorum	(Barneby) S.L.Welsh	Great Basin Naturalist	58(1): 46	1998	0017-3614				41713036				
-999728-1	Astragalus australis var. muriei	(Hultén) S.L.Welsh	Great Basin Naturalist	58(1): 47	1998	0017-3614				41713036				
-999729-1	Astragalus australis var. lepagei	(Hultén) S.L.Welsh	Great Basin Naturalist	58(1): 47	1998	0017-3614				41713036				
+999728-1	Astragalus australis var. muriei	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	58(1): 47	1998	0017-3614				41713036				
+999729-1	Astragalus australis var. lepagei	(HultÃ©n) S.L.Welsh	Great Basin Naturalist	58(1): 47	1998	0017-3614				41713036				
 999730-1	Astragalus australis var. aboriginorum	(Richardson) S.L.Welsh	Great Basin Naturalist	58(1): 48	1998	0017-3614				41713036				
 999731-1	Astragalus australis var. cottonii	(M.E.Jones) S.L.Welsh	Great Basin Naturalist	58(1): 48	1998	0017-3614				41713036				
 999732-1	Astragalus subcinereus var. sileranus	(M.E.Jones) S.L.Welsh	Great Basin Naturalist	58(1): 49	1998	0017-3614				41713036				

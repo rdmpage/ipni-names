@@ -3,18 +3,18 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1002174-1	Taltalia graminea	(Phil.) Ehr.Bayer	Sendtnera	5: 7 (1998):	1998	0944-0178		144817	15043452					
 1002175-1	Aspidistra hekouensis	H.Li, C.L.Long & Bogner	Sendtnera	5: 15 (1998)	1998	0944-0178		144818	15043460					
 1002176-1	Senecio botijae	C.Ehrh.	Sendtnera	5: 30 (1998)	1998	0944-0178		144820	15043475					
-1002177-1	Heliotropium sect. Pseudocoeloma	Förther	Sendtnera	5: 111 (1998).	1998	0944-0178		144821	15043556					
-1002178-1	Heliotropium sect. Zeylanica	Förther	Sendtnera	5: 125 (1998), nom. superfl.	1998	0944-0178		144821	15043570					
-1002179-1	Hilgeria	Förther	Sendtnera	5: 132 (1998).	1998	0944-0178		144821	15043577					
-1002180-1	Hilgeria hypogaea	(Urb. & Ekman) Förther	Sendtnera	5: 133 (1998):	1998	0944-0178		144821	15043578					
-1002181-1	Hilgeria pedicellaris	(Urb. & Ekman) Förther	Sendtnera	5: 133 (1998):	1998	0944-0178		144821	15043578					
-1002182-1	Hilgeria serpylloides	(Griseb.) Förther	Sendtnera	5: 133 (1998):	1998	0944-0178		144821	15043578					
+1002177-1	Heliotropium sect. Pseudocoeloma	FÃ¶rther	Sendtnera	5: 111 (1998).	1998	0944-0178		144821	15043556					
+1002178-1	Heliotropium sect. Zeylanica	FÃ¶rther	Sendtnera	5: 125 (1998), nom. superfl.	1998	0944-0178		144821	15043570					
+1002179-1	Hilgeria	FÃ¶rther	Sendtnera	5: 132 (1998).	1998	0944-0178		144821	15043577					
+1002180-1	Hilgeria hypogaea	(Urb. & Ekman) FÃ¶rther	Sendtnera	5: 133 (1998):	1998	0944-0178		144821	15043578					
+1002181-1	Hilgeria pedicellaris	(Urb. & Ekman) FÃ¶rther	Sendtnera	5: 133 (1998):	1998	0944-0178		144821	15043578					
+1002182-1	Hilgeria serpylloides	(Griseb.) FÃ¶rther	Sendtnera	5: 133 (1998):	1998	0944-0178		144821	15043578					
 1002183-1	subfam. Leptaspidoideae	C.O.Morales	Sendtnera	5: 244 (1998):	1998	0944-0178			15043689					
-1002184-1	Astragalus nigrifructus	Podlech & Aytaç	Sendtnera	5: 265 (1998)	1998	0944-0178		144823	15043710					
-1002185-1	Astragalus beypazaricus	Podlech & Aytaç	Sendtnera	5: 266 (1998)	1998	0944-0178		144823	15043711					
-1008175-1	Ceballosia	G.Kunkel ex Förther	Sendtnera	5: 129 (1998).	1998	0944-0178		144821	15043574					
-1008176-1	Ceballosia fruticosa	(L.f.) G.Kunkel ex Förther	Sendtnera	5: 130 (1998):	1998	0944-0178		144821	15043575					
-1008177-1	Ceballosia fruticosa var. angustifolia	(Lam.) G.Kunkel ex Förther	Sendtnera	5: 130 (1998):	1998	0944-0178		144821	15043575					
+1002184-1	Astragalus nigrifructus	Podlech & AytaÃ§	Sendtnera	5: 265 (1998)	1998	0944-0178		144823	15043710					
+1002185-1	Astragalus beypazaricus	Podlech & AytaÃ§	Sendtnera	5: 266 (1998)	1998	0944-0178		144823	15043711					
+1008175-1	Ceballosia	G.Kunkel ex FÃ¶rther	Sendtnera	5: 129 (1998).	1998	0944-0178		144821	15043574					
+1008176-1	Ceballosia fruticosa	(L.f.) G.Kunkel ex FÃ¶rther	Sendtnera	5: 130 (1998):	1998	0944-0178		144821	15043575					
+1008177-1	Ceballosia fruticosa var. angustifolia	(Lam.) G.Kunkel ex FÃ¶rther	Sendtnera	5: 130 (1998):	1998	0944-0178		144821	15043575					
 1011919-1	Limonium nydeggeri	Erben	Sendtnera	6: 103 (1999)	1999	0944-0178		144828	27804243					
 1011920-1	Alonsoa honoraria	Grau	Sendtnera	6: 110 (1999)	1999	0944-0178		144829	27804250					
 1011921-1	Astragalus sect. Aberrantes	Podlech	Sendtnera	6: 136 (1999).	1999	0944-0178		144831	27804276					
@@ -94,13 +94,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20001054-1	Limonium fesianum	Erben	Sendtnera	7: 77 (2001)	2001	0944-0178		144839	15042592					
 20001055-1	Limonium comosum	Erben	Sendtnera	7: 80 (2001)	2001	0944-0178		144839	15042595					
 20001056-1	Limonium bollei	(Webb ex Wangerin) Erben	Sendtnera	7: 84 (2001)	2001	0944-0178		144839	15042599					
-20001074-1	Hyacinthoides hispanica subsp. algeriensis	(Batt.) Förther & Podlech	Sendtnera	7: 86 (2001)	2001	0944-0178		144840	15042601					
-20001075-1	Hyacinthoides hispanica subsp. algeriensis	(Batt.) Förther & Podlech	Sendtnera	7: 86 (2001)	2001	0944-0178		144840	15042601					
-20001076-1	Drimia maritima subsp. maura	(Maire) Förther & Podlech	Sendtnera	7: 86 (2001)	2001	0944-0178		144840	15042601					
-20001077-1	Erodium maroccanum	(Maire) Förther & Podlech	Sendtnera	7: 87 (2001)	2001	0944-0178		144840	15042602					
-20001078-1	Aaronsohnia pubescens subsp. maroccana	(Ball) Förther & Podlech	Sendtnera	7: 89 (2001)	2001	0944-0178		144840	15042604					
-20001079-1	Centaurea pungens subsp. austromaroccana	Förther & Podlech	Sendtnera	7: 89 (2001)	2001	0944-0178		144840	15042604					
-20001080-1	Pulicaria antiatlantica	Förther & Podlech	Sendtnera	7: 90 (2001)	2001	0944-0178		144840	15042605					
+20001074-1	Hyacinthoides hispanica subsp. algeriensis	(Batt.) FÃ¶rther & Podlech	Sendtnera	7: 86 (2001)	2001	0944-0178		144840	15042601					
+20001075-1	Hyacinthoides hispanica subsp. algeriensis	(Batt.) FÃ¶rther & Podlech	Sendtnera	7: 86 (2001)	2001	0944-0178		144840	15042601					
+20001076-1	Drimia maritima subsp. maura	(Maire) FÃ¶rther & Podlech	Sendtnera	7: 86 (2001)	2001	0944-0178		144840	15042601					
+20001077-1	Erodium maroccanum	(Maire) FÃ¶rther & Podlech	Sendtnera	7: 87 (2001)	2001	0944-0178		144840	15042602					
+20001078-1	Aaronsohnia pubescens subsp. maroccana	(Ball) FÃ¶rther & Podlech	Sendtnera	7: 89 (2001)	2001	0944-0178		144840	15042604					
+20001079-1	Centaurea pungens subsp. austromaroccana	FÃ¶rther & Podlech	Sendtnera	7: 89 (2001)	2001	0944-0178		144840	15042604					
+20001080-1	Pulicaria antiatlantica	FÃ¶rther & Podlech	Sendtnera	7: 90 (2001)	2001	0944-0178		144840	15042605					
 20001081-1	Astragalus behbehanensis	Podlech	Sendtnera	7: 175 (2001)	2001	0944-0178		144843	15042690					
 20001082-1	Astragalus bozakmanii	Podlech	Sendtnera	7: 175 (2001)	2001	0944-0178		144843	15042690					
 20001083-1	Astragalus spitzenbergeri	Podlech	Sendtnera	7: 177 (2001)	2001	0944-0178		144843	15042692					
@@ -140,9 +140,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20010364-1	Cousinia zagrica	Attar, Ghahr. & Assadi	Sendtnera	8: 5 (2002)	2002	0944-0178		144848	28677747					
 20010365-1	Limonium lambinonii	Erben	Sendtnera	8: 25 (2002)	2002	0944-0178		144851	28677727					
 20010366-1	Limonium calanchicola	Erben	Sendtnera	8: 27 (2002)	2002	0944-0178		144851	28677725					
-20010368-1	Hypochaeris salzmanniana subsp. maroccana	Förther & Podlech	Sendtnera	8: 41 (2002)	2002	0944-0178		144852	28677687					
-20010369-1	Astragalus aberrans	Förther & Podlech	Sendtnera	8: 49 (2002)	2002	0944-0178		144853	28677695					
-20010370-1	Teucrium takoumitense	Förther & Podlech	Sendtnera	8: 55 (2002)	2002	0944-0178		144853	28677701					
+20010368-1	Hypochaeris salzmanniana subsp. maroccana	FÃ¶rther & Podlech	Sendtnera	8: 41 (2002)	2002	0944-0178		144852	28677687					
+20010369-1	Astragalus aberrans	FÃ¶rther & Podlech	Sendtnera	8: 49 (2002)	2002	0944-0178		144853	28677695					
+20010370-1	Teucrium takoumitense	FÃ¶rther & Podlech	Sendtnera	8: 55 (2002)	2002	0944-0178		144853	28677701					
 20010371-1	Alchemilla ayazii	Kalheber	Sendtnera	8: 60 (2002)	2002	0944-0178		144854	28677706					
 20010372-1	Alchemilla ayderensis	Kalheber	Sendtnera	8: 60 (2002)	2002	0944-0178		144854	28677706					
 20010373-1	Alchemilla basakii	Kalheber	Sendtnera	8: 61 (2002)	2002	0944-0178		144854	28677707					
@@ -161,8 +161,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20010386-1	Astragalus parvarensis	Podlech & Sytin	Sendtnera	8: 163 (2002)	2002	0944-0178		144857	28677847					
 20010387-1	Astragalus circumlacustris	Podlech & Sytin	Sendtnera	8: 164 (2002)	2002	0944-0178		144857	28677848					
 20010388-1	Astragalus rubicundus	Podlech & Sytin	Sendtnera	8: 165 (2002)	2002	0944-0178		144857	28677849					
-20010389-1	Hieracium hypeuryum subsp. obtusifolium	(Nägeli & Peter) Schuhw.	Sendtnera	8: 180 (2002)	2002	0944-0178		144858	28677864					
-20010390-1	Juncus mogadorensis	(H.Lindb.) Förther & Podlech	Sendtnera	8: 46 (2002)	2002	0944-0178		144853	28677692					
+20010389-1	Hieracium hypeuryum subsp. obtusifolium	(NÃ¤geli & Peter) Schuhw.	Sendtnera	8: 180 (2002)	2002	0944-0178		144858	28677864					
+20010390-1	Juncus mogadorensis	(H.Lindb.) FÃ¶rther & Podlech	Sendtnera	8: 46 (2002)	2002	0944-0178		144853	28677692					
 300686-2	Loasa roseoalba	Weigend	Sendtnera	3: 230, fig	1996	0944-0178		144814	15044399					
 303041-2	Loasa santa-martae	Weigend	Sendtnera	3: 236, fig	1996	0944-0178		144814	15044405					
 304528-2	Loasa ramirezii	Weigend	Sendtnera	3: 231	1996	0944-0178		144814	15044400					
@@ -183,7 +183,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 975515-1	Ptilotus humifusus	Benl	Sendtnera	1: 39 (1993)	1993	0944-0178		144773	14953592					
 975516-1	Astragalus jarmalii	Podlech	Sendtnera	1: 49 (1993)	1993	0944-0178		144774	14953602					
 975517-1	Astragalus rassulovae	Podlech	Sendtnera	1: 58 (1993)	1993	0944-0178		144774	14953630					
-975518-1	Ononis tazaensis	Förther & Podlech	Sendtnera	1: 65 (1993)	1993	0944-0178		144775	14953637					
+975518-1	Ononis tazaensis	FÃ¶rther & Podlech	Sendtnera	1: 65 (1993)	1993	0944-0178		144775	14953637					
 975519-1	Astragalus coronilla subsp. semnanicus	Gazer & Podlech	Sendtnera	1: 92 (1993)	1993	0944-0178		144776	14953664					
 975520-1	Astragalus pseudosinaicus	Gazer & Podlech	Sendtnera	1: 110 (1993)	1993	0944-0178		144776	14953682					
 975521-1	Astragalus subsect. Dasyphylloides	Maassoumi	Sendtnera	1: 166 (1993).	1993	0944-0178		144777	14953738					
@@ -200,7 +200,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 975532-1	Astragalus caligineus	Maassoumi	Sendtnera	1: 193 (1993)	1993	0944-0178		144777	14953765					
 975533-1	Astragalus indomitus	Maassoumi	Sendtnera	1: 195 (1993)	1993	0944-0178		144777	14953767					
 975534-1	Astragalus pseudomacrostachys	Maassoumi	Sendtnera	1: 211 (1993)	1993	0944-0178		144777	14953783					
-975535-1	Astragalus subsect. Bornmuelleriana	(Širj. & Rech.f.) Maassoumi	Sendtnera	1: 212 (1993):	1993	0944-0178		144777	14953784					
+975535-1	Astragalus subsect. Bornmuelleriana	(Å irj. & Rech.f.) Maassoumi	Sendtnera	1: 212 (1993):	1993	0944-0178		144777	14953784					
 975536-1	Veronica islensis	E.Gamal-Eldin	Sendtnera	1: 242 (1993)	1993	0944-0178		144778	14953814					
 975537-1	Tephrosia purpurea subsp. apollinea	(Delile) Hosni & El Karemy	Sendtnera	1: 248 (1993):	1993	0944-0178		144779	14953820					
 975538-1	Astragalus brevirhachis	Tietz & Zarre	Sendtnera	1: 259 (1993)	1993	0944-0178		144780	14953831					
@@ -221,8 +221,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 980334-1	Ophiocarpus aitchisonii	(Baker) Podlech	Sendtnera	2: 162 (1994):	1994	0944-0178		144790	15177861					
 980335-1	Barnebyella	Podlech	Sendtnera	2: 164 (1994).	1994	0944-0178		144790	15177863					
 980336-1	Barnebyella calycina	(Stocks) Podlech	Sendtnera	2: 165 (1994):	1994	0944-0178		144790	15177864					
-980337-1	Heliotropium aucheri subsp. carmanicum	(Bunge) Akhani & Förther	Sendtnera	2: 205 (1994):	1994	0944-0178		144792	15177904					
-980338-1	Heliotropium dasycarpum subsp. transoxanum	(Bunge) Akhani & Förther	Sendtnera	2: 230 (1994):	1994	0944-0178		144792	15177929					
+980337-1	Heliotropium aucheri subsp. carmanicum	(Bunge) Akhani & FÃ¶rther	Sendtnera	2: 205 (1994):	1994	0944-0178		144792	15177904					
+980338-1	Heliotropium dasycarpum subsp. transoxanum	(Bunge) Akhani & FÃ¶rther	Sendtnera	2: 230 (1994):	1994	0944-0178		144792	15177929					
 980339-1	Astragalus tietziae	Ghahr. & Zarre	Sendtnera	2: 283 (1994), as 'titziae'	1994	0944-0178		144794	15177982					
 980340-1	Astragalus ebenoides subsp. naghadehensis	Tietz & Zarre	Sendtnera	2: 304 (1994)	1994	0944-0178		144795	15178003					
 980341-1	Astragalus murinus subsp. bornmuelleri	Tietz & Zarre	Sendtnera	2: 320 (1994)	1994	0944-0178		144795	15178019					
@@ -242,7 +242,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 980355-1	Alchemilla hemsinica	Kalheber	Sendtnera	2: 408 (1994)	1994	0944-0178		144798	15178109					
 980356-1	Alchemilla ancerensis	Kalheber	Sendtnera	2: 412 (1994)	1994	0944-0178		144798	15178113					
 987179-1	Salsola zehzadii	Akhani	Sendtnera	3: 6 (1996)	1996	0944-0178		144801	15044175					
-987180-1	Danthonia chilensis var. aureofulva	(É.Desv.) C.M.Baeza	Sendtnera	3: 32 (1996):	1996	0944-0178		144802	15044201					
+987180-1	Danthonia chilensis var. aureofulva	(Ã‰.Desv.) C.M.Baeza	Sendtnera	3: 32 (1996):	1996	0944-0178		144802	15044201					
 987181-1	Danthonia secundiflora subsp. mattheii	C.M.Baeza	Sendtnera	3: 55 (1996)	1996	0944-0178		144802	15044224					
 987182-1	Allium valdesianum	Brullo, Pavone & Salmeri	Sendtnera	3: 96 (1996)	1996	0944-0178		144803	15044265					
 987183-1	Drosera kansaiensis	Debbert	Sendtnera	3: 101 (1996)	1996	0944-0178		144804	15044270					

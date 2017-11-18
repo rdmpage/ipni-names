@@ -12,6 +12,7 @@ $db->Connect("localhost",
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
+$db->EXECUTE("set names 'utf8'"); 
 
 $path = 'journals';
 
@@ -218,6 +219,11 @@ $views = array(
 'wrightia'
 );
 
+/*
+$views = array(
+'acta amazonica'
+);
+*/
 
 foreach ($views as $view)
 {

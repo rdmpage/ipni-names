@@ -526,7 +526,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 127083-1	Bursera arborea	Riley.	Bull. Misc. Inform. Kew	1923, 167		0366-4457	10.2307/4118538							
 127088-1	Bursera attenuata	Riley.	Bull. Misc. Inform. Kew	1923, 167.		0366-4457	10.2307/4118538							
 127107-1	Bursera concinna	Sandwith	Bull. Misc. Inform. Kew	1926, 434.		0366-4457	10.2307/4114286							
-127109-1	Bursera copallifera	(Sessé & Moc. ex DC.) Bullock	Bull. Misc. Inform. Kew	1936, 357		0366-4457	10.2307/4111803							
+127109-1	Bursera copallifera	(SessÃ© & Moc. ex DC.) Bullock	Bull. Misc. Inform. Kew	1936, 357		0366-4457	10.2307/4111803							
 127111-1	Bursera coyucensis	Bullock	Bull. Misc. Inform. Kew	1936, 358.		0366-4457	10.2307/4111803							
 127119-1	Bursera dubia	Bullock	Bull. Misc. Inform. Kew	1937, 452		0366-4457	10.2307/4107142							
 127127-1	Bursera fragrantissima	Bullock	Bull. Misc. Inform. Kew	1936, 454.		0366-4457	10.2307/4111612							
@@ -654,7 +654,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 13615-2	Anemopaegma rugosum	Sprague	Bull. Misc. Inform. Kew	1931: 223	1931	0366-4457								
 136153-1	Nichelia fusca	(Muehlenpf.) Bullock	Bull. Misc. Inform. Kew	1938, 298		0366-4457	10.2307/4107584							
 136154-1	Nichelia jussieui	(Monville) Bullock	Bull. Misc. Inform. Kew	1938, 297		0366-4457	10.2307/4107584							
-136155-1	Nichelia nidus	(Söhrens) Bullock	Bull. Misc. Inform. Kew	1938, 297		0366-4457	10.2307/4107584							
+136155-1	Nichelia nidus	(SÃ¶hrens) Bullock	Bull. Misc. Inform. Kew	1938, 297		0366-4457	10.2307/4107584							
 136156-1	Nichelia nigricans	(Linke) Bullock	Bull. Misc. Inform. Kew	1938, 298		0366-4457	10.2307/4107584							
 136157-1	Nichelia occulta	(Phil.) Bullock	Bull. Misc. Inform. Kew	1938, 298		0366-4457	10.2307/4107584							
 136392-3	Cyperus victoriensis	C.B.Clarke	Bulletin of Miscellaneous Information, Kew - Additional Series 8 (New Genera and Species of Cyperaceae)		1908 (Jun. 1908)	0366-4457		222794						
@@ -1090,7 +1090,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 169690-1	Amoreuxia schiedeana	Sprague	Bull. Misc. Inform. Kew	1922, 105.		0366-4457	10.2307/4113389							
 169720-2	Nichelia fusca	(Muehlenpf.) Bullock	Bull. Misc. Inform. Kew	1938: 298	1938	0366-4457	10.2307/4107584							
 169721-2	Nichelia jussieui	(Monv.) Bullock	Bull. Misc. Inform. Kew	1938: 297	1938	0366-4457	10.2307/4107584							
-169722-2	Nichelia nidus	(Söhrens) Bullock	Bull. Misc. Inform. Kew	1938: 297	1938	0366-4457	10.2307/4107584							
+169722-2	Nichelia nidus	(SÃ¶hrens) Bullock	Bull. Misc. Inform. Kew	1938: 297	1938	0366-4457	10.2307/4107584							
 169723-2	Nichelia nigricans	(Linke) Bullock	Bull. Misc. Inform. Kew	1938: 298	1938	0366-4457	10.2307/4107584							
 169724-2	Nichelia occulta	(Phil.) Bullock	Bull. Misc. Inform. Kew	1938: 298	1938	0366-4457	10.2307/4107584							
 169725-1	Anogeissus bentii	Baker	Bull. Misc. Inform. Kew	(1894) 332; et in Hook. Icon. pl. xxiv. (1895) t. 2354.		0366-4457	10.2307/4118301							
@@ -1267,7 +1267,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 173002-2	Oenothera fusca	Sprague & L.Riley	Bull. Misc. Inform. Kew	1921: 199	1921	0366-4457								
 17301660-1	Aspidium pteroides	F.Ballard	Bull. Misc. Inform. Kew	1932. 75	1932	0366-4457								
 17308050-1	Bolbitis aliena	(Sw.) Alston	Bull. Misc. Inform. Kew	1932. 310.	1932	0366-4457								
-17308710-1	Bolbitis semipinnatifida	(Fée) Alston	Bull. Misc. Inform. Kew	1932. 310.	1932	0366-4457								
+17308710-1	Bolbitis semipinnatifida	(FÃ©e) Alston	Bull. Misc. Inform. Kew	1932. 310.	1932	0366-4457								
 173089-1	Spatholirion longifolium	Dunn	Bull. Misc. Inform. Kew	1911, 162.		0366-4457	10.2307/4114985							
 173091-1	Spatholirion scandens	Dunn	Bull. Misc. Inform. Kew	1911, 162.		0366-4457	10.2307/4114985							
 17320580-1	Diplazium bakerianum	Domin	Bull. Misc. Inform. Kew	1929. 219, Mem. R. Czech. Soc. Sci. n. s. 2. 158, t. 27 f. 2. 1929.	1929	0366-4457								
@@ -1286,10 +1286,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17341500-1	Microsorum thurnii	Alston	Bull. Misc. Inform. Kew	1932. 315.	1932	0366-4457								
 17355560-1	Polytaenium guyanense	Alston	Bull. Misc. Inform. Kew	1932. 314.	1932	0366-4457								
 17357520-1	Salpichlaena hookeriana	Alston	Bull. Misc. Inform. Kew	1932. 312	1932	0366-4457								
-17359040-1	Stigmatopteris varians	(Fée) Alston	Bull. Misc. Inform. Kew	1932. 309.	1932	0366-4457								
+17359040-1	Stigmatopteris varians	(FÃ©e) Alston	Bull. Misc. Inform. Kew	1932. 309.	1932	0366-4457								
 17362090-1	Thelypteris funesta	Alston	Bull. Misc. Inform. Kew	1932. 309	1932	0366-4457								
 17362160-1	Thelypteris serrata	Alston	Bull. Misc. Inform. Kew	1932. 309.	1932	0366-4457								
-17362690-1	Trichomanes cordifolium	(Fée) Alston	Bull. Misc. Inform. Kew	1932. 306.	1932	0366-4457								
+17362690-1	Trichomanes cordifolium	(FÃ©e) Alston	Bull. Misc. Inform. Kew	1932. 306.	1932	0366-4457								
 17366040-1	Bolbitis gaboonensis	(Hook.) Alston	Bull. Misc. Inform. Kew	1934 Suppl. 3; Ching supra p. 48.	1934	0366-4457								
 17366050-1	Bolbitis heudelotii	(Bory) Alston	Bull. Misc. Inform. Kew	1934; Ching, supra p. 48.	1934	0366-4457								
 17366090-1	Bolbitis nicotianifolia	(Sw.) Alston	Bull. Misc. Inform. Kew	1932. 310; Ching supra p. 49.	1932	0366-4457								
@@ -1871,7 +1871,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 2344-2	Achimenes brevifolia	C.V.Morton	Bull. Misc. Inform. Kew	1938: 292	1938	0366-4457	10.2307/4107581							
 234445-1	Nidorella malosana	Baker	Bull. Misc. Inform. Kew	1898, 149.		0366-4457	10.2307/4118397							
 234659-1	Odontospermum lanzarotense	Hutch.	Bull. Misc. Inform. Kew	1916, 231.		0366-4457	10.2307/4114331							
-234726-2	Sequoia wellingtonia var. pendula	(Carrière) M.L.Green	Bull. Misc. Inform. Kew	1938: 86	1938	0366-4457								
+234726-2	Sequoia wellingtonia var. pendula	(CarriÃ¨re) M.L.Green	Bull. Misc. Inform. Kew	1938: 86	1938	0366-4457								
 2350-2	Achimenes dulcis	C.V.Morton	Bull. Misc. Inform. Kew	1938: 293	1938	0366-4457	10.2307/4107582							
 235015-2	Serrastylis modesta	Rolfe	Bull. Misc. Inform. Kew	1894: 158	1894	0366-4457	10.2307/4114908							
 2354-2	Achimenes fimbriata	Rose ex C.V.Morton	Bull. Misc. Inform. Kew	1936: 12	1936	0366-4457	10.2307/4118561							
@@ -2069,7 +2069,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 248807-2	Tabebuia stenocalyx	Sprague & Stapf	Bull. Misc. Inform. Kew	1910: 196	1910	0366-4457	10.2307/4113303							
 248812-2	Tabebuia subtilis	Sprague & Sandwith	Bull. Misc. Inform. Kew	1932: 23	1932	0366-4457	10.2307/4107726							
 249225-2	Talisia furfuracea	Sandwith	Bull. Misc. Inform. Kew	1935: 121	1935	0366-4457	10.2307/4107111							
-249963-1	× Solidaster luteus	(Everett) M.L.Green	Bull. Misc. Inform. Kew	1937, 352		0366-4457	10.2307/4107189							
+249963-1	Ã— Solidaster luteus	(Everett) M.L.Green	Bull. Misc. Inform. Kew	1937, 352		0366-4457	10.2307/4107189							
 250065-2	Teliostachya mazarunensis	Bremek. in Sandwith	Bull. Misc. Inform. Kew	1939: 558	1939	0366-4457	10.2307/4118170							
 250334-2	Tephrosia brandegeei	L.Riley	Bull. Misc. Inform. Kew	1923: 339	1923	0366-4457	10.2307/4120239							
 250357-2	Tephrosia egregia	Sandwith	Bull. Misc. Inform. Kew	1927: 249	1927	0366-4457	10.2307/4107707							
@@ -2211,7 +2211,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 260102-2	Tropaeolum trilobum	Hughes	Bull. Misc. Inform. Kew	1922: 85, 84 fig. A	1922	0366-4457	10.2307/4113568							
 260267-1	Wedelia oblonga	Hutch.	Bull. Misc. Inform. Kew	1909, 18.		0366-4457	10.2307/4111821							
 261145-1	Youngia nilgiriensis	Babc.	Bull. Misc. Inform. Kew	1939, 662 (1940).		0366-4457	10.2307/4118179							
-261561-2	× Urceocharis edentata	C.H.Wright	Bull. Misc. Inform. Kew	1910: 24	1910	0366-4457	10.2307/4115018							
+261561-2	Ã— Urceocharis edentata	C.H.Wright	Bull. Misc. Inform. Kew	1910: 24	1910	0366-4457	10.2307/4115018							
 261882-2	Vaccinium glaucescens	L.Riley	Bull. Misc. Inform. Kew	1922: 185	1922	0366-4457	10.2307/4107461							
 261884-2	Vaccinium gonzalezii	L.Riley	Bull. Misc. Inform. Kew	1923: 116	1923	0366-4457	10.2307/4118297							
 262164-2	Valeriana chionophila	Sandwith	Bull. Misc. Inform. Kew	1928: 110	1928	0366-4457	10.2307/4107700							
@@ -2438,13 +2438,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 275610-2	Cyperus parryi	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 9	1908	0366-4457		222794						
 275724-1	Sedum mossii	Raym.-Hamet	Bull. Misc. Inform. Kew	1913, 153.		0366-4457	10.2307/4107488							
 275824-1	Sedum paraguayense	(N.E.Br.) Bullock	Bull. Misc. Inform. Kew	1937, 276		0366-4457								
-275846-1	Sedum petiolatum	Fröd.	Bull. Misc. Inform. Kew	1937, 96.		0366-4457	10.2307/4107199							
+275846-1	Sedum petiolatum	FrÃ¶d.	Bull. Misc. Inform. Kew	1937, 96.		0366-4457	10.2307/4107199							
 275866-2	Dimorphandra congestiflora	Sprague & Sandwith	Bull. Misc. Inform. Kew	1932: 401	1932	0366-4457	10.2307/4113483							
 275873-2	Dimorphandra megacarpa	Rolfe	Bull. Misc. Inform. Kew	1894: 345	1894	0366-4457	10.2307/4118302							
 275934-1	Sedum rariflorum	N.E.Br.	Bull. Misc. Inform. Kew	1914, 208.		0366-4457	10.2307/4119502							
 275942-1	Sedum rendlei	Raym.-Hamet	Bull. Misc. Inform. Kew	1913, 157.		0366-4457	10.2307/4107489							
-276010-1	Sedum sangpo-tibetanum	Fröd.	Bull. Misc. Inform. Kew	1937, 97.		0366-4457	10.2307/4107199							
-276060-1	Sedum shigatsense	Fröd.	Bull. Misc. Inform. Kew	1937, 97.		0366-4457	10.2307/4107199							
+276010-1	Sedum sangpo-tibetanum	FrÃ¶d.	Bull. Misc. Inform. Kew	1937, 97.		0366-4457	10.2307/4107199							
+276060-1	Sedum shigatsense	FrÃ¶d.	Bull. Misc. Inform. Kew	1937, 97.		0366-4457	10.2307/4107199							
 276097-1	Sedum stapfii	Raym.-Hamet	Bull. Misc. Inform. Kew	1913, 156.		0366-4457	10.2307/4107489							
 276172-1	Sedum tillaeoides	Duthie & C.E.C.Fisch.	Bull. Misc. Inform. Kew	1926, 436, descr		0366-4457	10.2307/4114286							
 276266-1	Sedum woodwardii	N.E.Br.	Bull. Misc. Inform. Kew	1912, 390.		0366-4457	10.2307/4104556							
@@ -2480,7 +2480,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 285786-1	Isatis guestii	Blakelock	Bull. Misc. Inform. Kew	1939, 186.		0366-4457	10.2307/4111537							
 286328-1	Lepidium oxytrichum	Sprague	Bull. Misc. Inform. Kew	1915, 123.		0366-4457								
 287045-1	Menonvillea comberi	Sandwith	Bull. Misc. Inform. Kew	1928, 108.		0366-4457	10.2307/4107700							
-287812-2	× Solidaster luteus	M.L.Green	Bull. Misc. Inform. Kew	1937: 352	1937	0366-4457	10.2307/4107189							
+287812-2	Ã— Solidaster luteus	M.L.Green	Bull. Misc. Inform. Kew	1937: 352	1937	0366-4457	10.2307/4107189							
 287970-1	Parrya finchiana	Dunn	Bull. Misc. Inform. Kew	1927, 247.		0366-4457	10.2307/4107706							
 288122-2	Lachemilla trevirani	Rothm.	Bull. Misc. Inform. Kew	1938: 271	1938	0366-4457	10.2307/4107578							
 28920-2	Banara regia	Sandwith	Bull. Misc. Inform. Kew	1930: 154	1930	0366-4457	10.2307/4107560							
@@ -2554,7 +2554,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 298217-1	Bulbostylis japonica	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 27	1908	0366-4457		222794						
 298225-1	Bulbostylis laeta	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 28	1908	0366-4457		222794						
 298226-1	Bulbostylis lanata	(Kunth) C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 26	1908	0366-4457		222794						
-298242-1	Bulbostylis moggii	Schönland & Turrill	Bull. Misc. Inform. Kew	1925, 70.		0366-4457	10.2307/4107520							
+298242-1	Bulbostylis moggii	SchÃ¶nland & Turrill	Bull. Misc. Inform. Kew	1925, 70.		0366-4457	10.2307/4107520							
 298248-1	Bulbostylis nesiotis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 27	1908	0366-4457		222794						
 298248-2	Gynocraterium	Bremek. in Sandwith	Bull. Misc. Inform. Kew	1939: 557	1939	0366-4457	10.2307/4118170							
 298257-1	Bulbostylis paraensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 28	1908	0366-4457		222794						
@@ -2570,7 +2570,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 298492-1	Carex algeriensis	Nelmes	Bull. Misc. Inform. Kew	1939, 99.		0366-4457	10.2307/4111689							
 298524-1	Carex alterna	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 69	1908	0366-4457		222794						
 298561-1	Carex angolensis	Nelmes	Bull. Misc. Inform. Kew	1940, 162.		0366-4457	10.2307/4111494							
-298567-1	Carex angustifructus	(Kük.) Nelmes	Bull. Misc. Inform. Kew	1939, 271, cum descr. ampl.		0366-4457	10.2307/4111737							
+298567-1	Carex angustifructus	(KÃ¼k.) Nelmes	Bull. Misc. Inform. Kew	1939, 271, cum descr. ampl.		0366-4457	10.2307/4111737							
 298613-1	Carex arakamensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 82	1908	0366-4457		222794						
 298658-1	Carex arizonensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 68	1908	0366-4457		222794						
 298668-1	Carex artinux	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 80	1908	0366-4457		222794						
@@ -2587,7 +2587,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 299253-1	Carex conspicua	Boott ex C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 82	1908	0366-4457		222794						
 299289-1	Carex cranaocarpa	Nelmes	Bull. Misc. Inform. Kew	1939, 184.		0366-4457	10.2307/4111536							
 299291-1	Carex craspedotricha	Nelmes	Bull. Misc. Inform. Kew	1939, 657 (1940).		0366-4457	10.2307/4118177							
-299335-1	Carex cuprea	(Kük.) Nelmes	Bull. Misc. Inform. Kew	1938, 247		0366-4457	10.2307/4113469							
+299335-1	Carex cuprea	(KÃ¼k.) Nelmes	Bull. Misc. Inform. Kew	1938, 247		0366-4457	10.2307/4113469							
 299342-1	Carex curtiglumis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 77	1908	0366-4457		222794						
 299415-1	Carex delicata	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 79	1908	0366-4457		222794						
 299416-1	Carex delicatula	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 79	1908 [Aug 1908]	0366-4457		222794						
@@ -2636,7 +2636,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 300881-1	Carex mariesii	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 80	1908	0366-4457		222794						
 300981-1	Carex microsacca	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 83	1908	0366-4457		222794						
 300999-1	Carex millsii	Dunn	Bull. Misc. Inform. Kew	1912, 109.		0366-4457	10.2307/4104543							
-301064-1	Carex montis-everestii	Kük.	Bull. Misc. Inform. Kew	1934, 261.		0366-4457	10.2307/4115406							
+301064-1	Carex montis-everestii	KÃ¼k.	Bull. Misc. Inform. Kew	1934, 261.		0366-4457	10.2307/4115406							
 301075-1	Carex mossii	Nelmes	Bull. Misc. Inform. Kew	1940, 137.		0366-4457	10.2307/4111644							
 301127-1	Carex nagasakensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 88	1908	0366-4457		222794						
 301181-1	Carex neoguineensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 73	1908	0366-4457		222794						
@@ -2712,7 +2712,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 303626-1	Cryptangium claussenii	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 65	1908	0366-4457		222794						
 303644-1	Cryptangium nudipes	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 65	1908	0366-4457		222794						
 303653-1	Cryptangium strictum	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 66	1908	0366-4457		222794						
-303732-1	Cyperus altsonii	Kük.	Bull. Misc. Inform. Kew	1932, 322.		0366-4457	10.2307/4113376							
+303732-1	Cyperus altsonii	KÃ¼k.	Bull. Misc. Inform. Kew	1932, 322.		0366-4457	10.2307/4113376							
 303766-1	Cyperus andrewsii	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 12	1908	0366-4457		222794						
 303903-1	Cyperus berlandieri	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 10	1908	0366-4457		222794						
 303918-1	Cyperus bifax	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 13	1908	0366-4457		222794						
@@ -2749,7 +2749,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 305864-1	Cyperus schlechteri	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 3	1908	0366-4457		222794						
 305942-1	Cyperus smithii	McClean	Bull. Misc. Inform. Kew	1927, 77.		0366-4457	10.2307/4107574							
 305949-1	Cyperus somaliensis	C.B.Clarke	Bull. Misc. Inform. Kew	(1895) 229.		0366-4457	10.2307/4114977							
-306065-1	Cyperus subtenax	Kük.	Bull. Misc. Inform. Kew	1932, 322.		0366-4457	10.2307/4113376							
+306065-1	Cyperus subtenax	KÃ¼k.	Bull. Misc. Inform. Kew	1932, 322.		0366-4457	10.2307/4113376							
 306074-1	Cyperus superatus	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 4	1908	0366-4457		222794						
 306166-1	Cyperus tokiensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 9	1908	0366-4457		222794						
 306171-1	Cyperus tonkinensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 11	1908	0366-4457		222794						
@@ -2853,7 +2853,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 309765-1	Kobresia utriculata	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 67	1908	0366-4457		222794						
 309801-2	Tropaeolum lehmannii	Hughes	Bull. Misc. Inform. Kew	1922: 75, fig. c	1922	0366-4457	10.2307/4113568							
 309893-1	Kyllinga microstyla	C.B.Clarke	Bull. Misc. Inform. Kew	(1895) 229.		0366-4457	10.2307/4114977							
-310001-1	Kyllingia pachystyla	Kük.	Bull. Misc. Inform. Kew	1911, 153.		0366-4457	10.2307/4114982							
+310001-1	Kyllingia pachystyla	KÃ¼k.	Bull. Misc. Inform. Kew	1911, 153.		0366-4457	10.2307/4114982							
 310005-1	Lagenocarpus alboniger	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 64	1908	0366-4457		222794						
 310010-1	Lagenocarpus brevirostris	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 65	1908	0366-4457		222794						
 310035-1	Lagenocarpus inversus	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 64	1908	0366-4457		222794						
@@ -3010,7 +3010,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 312539-1	Rhynchospora viridilutea	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 36	1908	0366-4457		222794						
 312659-1	Schoenoxiphium basutorum	Turrill	Bull. Misc. Inform. Kew	1914, 19		0366-4457	10.2307/4120259							
 312665-1	Schoenoxiphium caricoides	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 67	1908	0366-4457		222794						
-312670-1	Schoenoxiphium filiforme	Kük.	Bull. Misc. Inform. Kew	1910, 129.		0366-4457	10.2307/4114336							
+312670-1	Schoenoxiphium filiforme	KÃ¼k.	Bull. Misc. Inform. Kew	1910, 129.		0366-4457	10.2307/4114336							
 312671-1	Schoenoxiphium fragile	(C.B.Clarke) C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 67	1908	0366-4457		222794						
 312686-1	Schoenoxiphium schimperianum	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 67	1908	0366-4457		222794						
 312689-1	Schoenoxiphium sparteum	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 67	1908	0366-4457		222794						
@@ -3062,14 +3062,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 315117-1	Scleria uleana	Boeckeler ex C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 60	1908	0366-4457		222794						
 315233-1	Tetraria australiensis	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 48	1908	0366-4457		222794						
 315253-1	Tetraria compressa	Turrill	Bull. Misc. Inform. Kew	1925, 72.		0366-4457	10.2307/4107520							
-315267-1	Tetraria fourcadei	Turrill & Schönland	Bull. Misc. Inform. Kew	1925, 73.		0366-4457	10.2307/4107520							
-315269-1	Tetraria galpinii	Schönland & Turrill	Bull. Misc. Inform. Kew	1925, 73.		0366-4457	10.2307/4107520							
+315267-1	Tetraria fourcadei	Turrill & SchÃ¶nland	Bull. Misc. Inform. Kew	1925, 73.		0366-4457	10.2307/4107520							
+315269-1	Tetraria galpinii	SchÃ¶nland & Turrill	Bull. Misc. Inform. Kew	1925, 73.		0366-4457	10.2307/4107520							
 315270-1	Tetraria gracilis	Turrill	Bull. Misc. Inform. Kew	1925, 73.		0366-4457	10.2307/4107520							
 315281-1	Tetraria lucida	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 48	1908	0366-4457		222794						
-315284-1	Tetraria maculata	Schönland & Turrill	Bull. Misc. Inform. Kew	1925, 74.		0366-4457	10.2307/4107520							
-315298-1	Tetraria pubescens	Schönland & Turrill	Bull. Misc. Inform. Kew	1925, 75.		0366-4457	10.2307/4107520							
+315284-1	Tetraria maculata	SchÃ¶nland & Turrill	Bull. Misc. Inform. Kew	1925, 74.		0366-4457	10.2307/4107520							
+315298-1	Tetraria pubescens	SchÃ¶nland & Turrill	Bull. Misc. Inform. Kew	1925, 75.		0366-4457	10.2307/4107520							
 315307-1	Tetraria schonlandii	Turrill	Bull. Misc. Inform. Kew	1925, 75.		0366-4457	10.2307/4107520							
-315318-1	Tetraria vaginata	Schönland & Turrill	Bull. Misc. Inform. Kew	1925, 76.		0366-4457	10.2307/4107520							
+315318-1	Tetraria vaginata	SchÃ¶nland & Turrill	Bull. Misc. Inform. Kew	1925, 76.		0366-4457	10.2307/4107520							
 315323-1	Tetrariopsis octandra	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 45	1908	0366-4457		222794						
 315324-1	Thoracostachyum angustifolium	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 52	1908	0366-4457		222794						
 315353-1	Torulinium angolense	Turrill	Bull. Misc. Inform. Kew	1915, 18.		0366-4457	10.2307/4115447							
@@ -3153,7 +3153,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 318625-1	Dioscorea stemoniodes	Prain & Burkill	Bull. Misc. Inform. Kew	1927, 244.		0366-4457	10.2307/4107706							
 318643-1	Dioscorea sumatrana	Prain & Burkill	Bull. Misc. Inform. Kew	1931, 90.		0366-4457	10.2307/4102517							
 318764-1	Dioscorea vanvuurenii	Prain & Burkill	Bull. Misc. Inform. Kew	1925, 63.		0366-4457	10.2307/4107519							
-318945-1	Testudinaria paniculata	Dümmer	Bull. Misc. Inform. Kew	1912, 195.		0366-4457	10.2307/4104530							
+318945-1	Testudinaria paniculata	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 195.		0366-4457	10.2307/4104530							
 3194-1	Anisopus	N.E.Br.	Bull. Misc. Inform. Kew	(1895) 259.		0366-4457	10.2307/4115436							
 319680-1	Scabiosa albanensis	R.A.Dyer	Bull. Misc. Inform. Kew	1934, 267.		0366-4457	10.2307/4115407							
 320103-1	Scabiosa rhodopensis	Stoj. & Stef.	Bull. Misc. Inform. Kew	1924, 99.		0366-4457	10.2307/4111780							
@@ -3377,10 +3377,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 33595-1	Peglera	Bolus	Bull. Misc. Inform. Kew	1907, 362.		0366-4457	10.2307/4111696							
 336913-1	Erythroxylum brownianum	Burtt Davy	Bull. Misc. Inform. Kew	1924, 230.		0366-4457	10.2307/4111749							
 337010-1	Erythroxylum oblanceolatum	Craib	Bull. Misc. Inform. Kew	1926, 155.		0366-4457	10.2307/4118686							
-337081-1	Nectaropetalum zuluense	(Schönland) Corbishley	Bull. Misc. Inform. Kew	1919(10): 449, 450 (1919)		0366-4457								
-337094-1	Eucryphia × hybrida	Bausch	Bull. Misc. Inform. Kew	1938, 331.		0366-4457	10.2307/4114312							
-337095-1	Eucryphia × intermedia	Bausch	Bull. Misc. Inform. Kew	1937, 193.		0366-4457								
-337098-1	Eucryphia × nymansensis	Bausch	Bull. Misc. Inform. Kew	1938, 324.		0366-4457	10.2307/4114312							
+337081-1	Nectaropetalum zuluense	(SchÃ¶nland) Corbishley	Bull. Misc. Inform. Kew	1919(10): 449, 450 (1919)		0366-4457								
+337094-1	Eucryphia Ã— hybrida	Bausch	Bull. Misc. Inform. Kew	1938, 331.		0366-4457	10.2307/4114312							
+337095-1	Eucryphia Ã— intermedia	Bausch	Bull. Misc. Inform. Kew	1937, 193.		0366-4457								
+337098-1	Eucryphia Ã— nymansensis	Bausch	Bull. Misc. Inform. Kew	1938, 324.		0366-4457	10.2307/4114312							
 337146-1	Acalypha allenii	Hutch.	Bull. Misc. Inform. Kew	1911, 229.		0366-4457	10.2307/4118394							
 337234-1	Acalypha capensis	Prain	Bull. Misc. Inform. Kew	1913, 15		0366-4457								
 337272-1	Acalypha claoxyloides	Hutch.	Bull. Misc. Inform. Kew	1918, 205.		0366-4457	10.2307/4118520							
@@ -3644,7 +3644,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 356700-1	Synadenium cameronii	N.E.Br.	Bull. Misc. Inform. Kew	1901, 133.		0366-4457								
 35678-2	Bouvardia hintonii	Bullock	Bull. Misc. Inform. Kew	1937: 307	1937	0366-4457	10.2307/4107169							
 356878-1	Thecacoris batesii	Hutch.	Bull. Misc. Inform. Kew	1910, 58.		0366-4457	10.2307/4114326							
-357655-1	Tragia affinis	Müll.Arg. ex Prain	Bull. Misc. Inform. Kew	1912, 334.		0366-4457	10.2307/4104549							
+357655-1	Tragia affinis	MÃ¼ll.Arg. ex Prain	Bull. Misc. Inform. Kew	1912, 334.		0366-4457	10.2307/4104549							
 357656-1	Tragia akwapimensis	Prain	Bull. Misc. Inform. Kew	1912, 235.		0366-4457	10.2307/4104589							
 357665-1	Tragia anomala	Prain	Bull. Misc. Inform. Kew	1912, 194.		0366-4457	10.2307/4104530							
 357674-1	Tragia baroniana	Prain	Bull. Misc. Inform. Kew	1912, 235.		0366-4457	10.2307/4104589							
@@ -3893,10 +3893,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 368703-1	Gentiana praeclara	C.Marquand	Bull. Misc. Inform. Kew	1928, 54.		0366-4457	10.2307/4107647							
 368713-1	Gentiana pricei	C.Marquand	Bull. Misc. Inform. Kew	1931, 75.		0366-4457	10.2307/4102516							
 368734-1	Gentiana pseudodecumbens	Harry Sm.	Bull. Misc. Inform. Kew	1937, 130.		0366-4457	10.2307/4107178							
-36874-2	Bromelia magdalenae	(André) C.H.Wright	Bull. Misc. Inform. Kew	1923: 267	1923	0366-4457	10.2307/4120583							
+36874-2	Bromelia magdalenae	(AndrÃ©) C.H.Wright	Bull. Misc. Inform. Kew	1923: 267	1923	0366-4457	10.2307/4120583							
 368746-1	Gentiana pubigera	C.Marquand	Bull. Misc. Inform. Kew	1928, 59		0366-4457	10.2307/4107647							
 368767-1	Gentiana purdomii	C.Marquand	Bull. Misc. Inform. Kew	1928, 55.		0366-4457	10.2307/4107647							
-368784-1	Gentiana × quaterna	Harry Sm.	Bull. Misc. Inform. Kew	1937, 125.		0366-4457	10.2307/4107178							
+368784-1	Gentiana Ã— quaterna	Harry Sm.	Bull. Misc. Inform. Kew	1937, 125.		0366-4457	10.2307/4107178							
 368790-1	Gentiana quinquenervia	Turrill	Bull. Misc. Inform. Kew	1914, 328.		0366-4457	10.2307/4118645							
 368792-1	Gentiana radiata	C.Marquand	Bull. Misc. Inform. Kew	1931, 87.		0366-4457	10.2307/4102516							
 368861-1	Gentiana saltuum	C.Marquand	Bull. Misc. Inform. Kew	1928, 55.		0366-4457	10.2307/4107647							
@@ -4128,7 +4128,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 385612-1	Agrostis continuata	Stapf	Bull. Misc. Inform. Kew	1897, 290.		0366-4457								
 38567-2	Bursera concinna	Sandwith	Bull. Misc. Inform. Kew	1926: 434	1926	0366-4457	10.2307/4114286							
 385672-1	Agrostis dissitiflora	C.E.Hubb.	Bull. Misc. Inform. Kew	1936, 307.		0366-4457	10.2307/4111703							
-38569-2	Bursera copallifera	(Sessé & Moc.) Bullock	Bull. Misc. Inform. Kew	1936: 357	1936	0366-4457	10.2307/4111803							
+38569-2	Bursera copallifera	(SessÃ© & Moc.) Bullock	Bull. Misc. Inform. Kew	1936: 357	1936	0366-4457	10.2307/4111803							
 38571-2	Bursera coyucensis	Bullock	Bull. Misc. Inform. Kew	1936: 358	1936	0366-4457	10.2307/4111803							
 385745-1	Agrostis fissa	Stapf	Bull. Misc. Inform. Kew	1897, 289.		0366-4457								
 385763-1	Agrostis friesiorum	C.E.Hubb.	Bull. Misc. Inform. Kew	1936, 305.		0366-4457	10.2307/4111703							
@@ -4351,7 +4351,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 40278-1	Neogoezia	Hemsl.	Bull. Misc. Inform. Kew	(1894) 354; et in Hook. Icon. pl. xxv. (1895) t. 2424; Coult. & J.N. Rose, in Contrib. U.S. Nat. Herb. iii. 3 (1895) 305.		0366-4457								
 403101-1	Festuca monantha	Stapf	Bull. Misc. Inform. Kew	1899, 117.		0366-4457								
 403230-1	Festuca papuana	Stapf	Bull. Misc. Inform. Kew	1899, 117.		0366-4457								
-403758-1	× Festulolium loliaceum	(Huds.) C.E.Hubb.	Bull. Misc. Inform. Kew	1939, 101		0366-4457								
+403758-1	Ã— Festulolium loliaceum	(Huds.) C.E.Hubb.	Bull. Misc. Inform. Kew	1939, 101		0366-4457								
 403897-1	Garnotia sechellensis	C.E.Hubb. & Summerh.	Bull. Misc. Inform. Kew	1928, 394.		0366-4457	10.2307/4107106							
 403917-1	Garnotiella leptos	Stapf	Bull. Misc. Inform. Kew	1910, 302		0366-4457	10.2307/4111724							
 403971-1	Germainia flosculosa	(F.Muell.) C.E.Hubb.	Bull. Misc. Inform. Kew	1934, 445		0366-4457	10.2307/4114349							
@@ -4610,7 +4610,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 422108-1	Sorghum coriaceum	Snowden	Bull. Misc. Inform. Kew	1935, 240.		0366-4457	10.2307/4107126							
 422116-1	Sorghum dochna	(Forssk.) Snowden	Bull. Misc. Inform. Kew	1935, 234		0366-4457	10.2307/4107126							
 422121-1	Sorghum dulcicaule	Snowden	Bull. Misc. Inform. Kew	1935, 247.		0366-4457	10.2307/4107126							
-422124-1	Sorghum elegans	(Körn.) Snowden	Bull. Misc. Inform. Kew	1935, 238		0366-4457	10.2307/4107126							
+422124-1	Sorghum elegans	(KÃ¶rn.) Snowden	Bull. Misc. Inform. Kew	1935, 238		0366-4457	10.2307/4107126							
 422128-1	Sorghum exsertum	Snowden	Bull. Misc. Inform. Kew	1935, 230.		0366-4457	10.2307/4107126							
 422131-1	Sorghum friesii	(Pilg.) C.E.Hubb.	Bull. Misc. Inform. Kew	1934, 109		0366-4457	10.2307/4111599							
 422134-1	Sorghum gambicum	Snowden	Bull. Misc. Inform. Kew	1935, 229.		0366-4457	10.2307/4107126							
@@ -4934,7 +4934,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 44366-2	Canavalia plagiosperma	Piper	Bull. Misc. Inform. Kew	1922: 141	1922	0366-4457	10.2307/4120203							
 444154-1	Triglochin stowardii	N.E.Br.	Bull. Misc. Inform. Kew	1914, 189.		0366-4457	10.2307/4113306							
 444167-1	Achyrospermum axillare	E.A.Bruce	Bull. Misc. Inform. Kew	1936, 56.		0366-4457	10.2307/4118566							
-444170-1	Achyrospermum ciliatum	Gürke & E.A.Bruce	Bull. Misc. Inform. Kew	1936, 55, descr. emend.		0366-4457	10.2307/4118566							
+444170-1	Achyrospermum ciliatum	GÃ¼rke & E.A.Bruce	Bull. Misc. Inform. Kew	1936, 55, descr. emend.		0366-4457	10.2307/4118566							
 444171-1	Achyrospermum cryptanthum	Baker	Bull. Misc. Inform. Kew	1898, 162.		0366-4457	10.2307/4118397							
 444177-1	Achyrospermum laterale	Baker & E.A.Bruce	Bull. Misc. Inform. Kew	193, 53, descr. emend.		0366-4457								
 444183-1	Achyrospermum oblongifolium	Baker & E.A.Bruce	Bull. Misc. Inform. Kew	1936, 55, descr. emend.		0366-4457	10.2307/4118566							
@@ -5353,26 +5353,26 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 473456-1	Alexa leiopetala	Sandwith	Bull. Misc. Inform. Kew	1941, 228 (1942).		0366-4457	10.2307/4102524							
 473479-1	Alistilus bechuanicus	N.E.Br.	Bull. Misc. Inform. Kew	1921, 294.		0366-4457	10.2307/4113554							
 47374-2	Carex varica	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 69	1908	0366-4457		222794						
-473911-1	Amphithalea bodkinii	Dümmer	Bull. Misc. Inform. Kew	1912, 270.		0366-4457	10.2307/4104582							
+473911-1	Amphithalea bodkinii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 270.		0366-4457	10.2307/4104582							
 473992-1	Anarthrophyllum ornithopodum	Sandwith	Bull. Misc. Inform. Kew	1927, 179.		0366-4457	10.2307/4107592							
 47401-2	Carex violacea	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 87	1908	0366-4457		222794						
 47448-1	Dicliptera aquatica	Leonard	Bull. Misc. Inform. Kew	1938, 70.		0366-4457	10.2307/4107681							
 47449-1	Dicliptera arenaria	Milne-Redh.	Bull. Misc. Inform. Kew	1937, 427.		0366-4457	10.2307/4107099							
 474623-1	Anthyllis aegaea	Turrill	Bull. Misc. Inform. Kew	1939, 189.		0366-4457	10.2307/4111537							
 47478-1	Dicliptera capitata	Milne-Redh.	Bull. Misc. Inform. Kew	1937, 428.		0366-4457	10.2307/4107099							
-475128-1	Argyrolobium aciculare	Dümmer	Bull. Misc. Inform. Kew	1912, 271.		0366-4457	10.2307/4104582							
+475128-1	Argyrolobium aciculare	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 271.		0366-4457	10.2307/4104582							
 475160-1	Argyrolobium deflexiflorum	Baker	Bull. Misc. Inform. Kew	1897, 253.		0366-4457								
 475193-1	Argyrolobium leucophyllum	Baker	Bull. Misc. Inform. Kew	1897, 253.		0366-4457								
 475196-1	Argyrolobium longipes	N.E.Br.	Bull. Misc. Inform. Kew	1897, 254.		0366-4457								
-475210-1	Argyrolobium muddii	Dümmer	Bull. Misc. Inform. Kew	1912, 271.		0366-4457	10.2307/4104582							
-475214-1	Argyrolobium natalense	Dümmer	Bull. Misc. Inform. Kew	1912, 272.		0366-4457	10.2307/4104582							
-475215-1	Argyrolobium nigrescens	Dümmer	Bull. Misc. Inform. Kew	1912, 272.		0366-4457	10.2307/4104582							
-475229-1	Argyrolobium podalyrioides	Dümmer	Bull. Misc. Inform. Kew	1912, 273.		0366-4457	10.2307/4104582							
-475236-1	Argyrolobium rarum	Dümmer	Bull. Misc. Inform. Kew	1912, 273.		0366-4457	10.2307/4104582							
+475210-1	Argyrolobium muddii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 271.		0366-4457	10.2307/4104582							
+475214-1	Argyrolobium natalense	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 272.		0366-4457	10.2307/4104582							
+475215-1	Argyrolobium nigrescens	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 272.		0366-4457	10.2307/4104582							
+475229-1	Argyrolobium podalyrioides	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 273.		0366-4457	10.2307/4104582							
+475236-1	Argyrolobium rarum	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 273.		0366-4457	10.2307/4104582							
 475237-1	Argyrolobium reflexum	N.E.Br.	Bull. Misc. Inform. Kew	1906, 18.		0366-4457	10.2307/4115505							
-475248-1	Argyrolobium sankeyi	Dümmer	Bull. Misc. Inform. Kew	1912, 273.		0366-4457	10.2307/4104582							
+475248-1	Argyrolobium sankeyi	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 273.		0366-4457	10.2307/4104582							
 475278-1	Argyrolobium variopile	N.E.Br.	Bull. Misc. Inform. Kew	1906, 18.		0366-4457	10.2307/4115505							
-475283-1	Argyrolobium woodii	Dümmer	Bull. Misc. Inform. Kew	1912, 274.		0366-4457	10.2307/4104582							
+475283-1	Argyrolobium woodii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 274.		0366-4457	10.2307/4104582							
 47540-1	Dicliptera glanduligera	Chiov.	Bull. Misc. Inform. Kew	1941, 171 (1941).		0366-4457	10.2307/4102534							
 47542-2	Carlowrightia coyucana	Leonard	Bull. Misc. Inform. Kew	1938: 67	1938	0366-4457	10.2307/4107681							
 47549-2	Carlowrightia lanceolata	Leonard	Bull. Misc. Inform. Kew	1938: 66	1938	0366-4457	10.2307/4107681							
@@ -5458,10 +5458,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 482264-1	Brachystegia utilis	Hutch. & Burtt Davy	Bull. Misc. Inform. Kew	1923, 155.		0366-4457	10.2307/4118537							
 482266-1	Brachystegia venosa	Hutch. & Burtt Davy	Bull. Misc. Inform. Kew	1923, 158.		0366-4457	10.2307/4118537							
 48228-2	Casselia rosularis	Sandwith	Bull. Misc. Inform. Kew	1929: 124	1929	0366-4457	10.2307/4111502							
-482477-1	Buchenroedera glabrescens	Dümmer	Bull. Misc. Inform. Kew	1912, 225.		0366-4457	10.2307/4104589							
+482477-1	Buchenroedera glabrescens	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 225.		0366-4457	10.2307/4104589							
 482478-1	Buchenroedera glabriflora	N.E.Br.	Bull. Misc. Inform. Kew	1901, 120.		0366-4457								
-482485-1	Buchenroedera macowanii	Dümmer	Bull. Misc. Inform. Kew	1912, 225.		0366-4457	10.2307/4104589							
-482495-1	Buchenroedera uniflora	Dümmer	Bull. Misc. Inform. Kew	1912, 226.		0366-4457	10.2307/4104589							
+482485-1	Buchenroedera macowanii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 225.		0366-4457	10.2307/4104589							
+482495-1	Buchenroedera uniflora	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 226.		0366-4457	10.2307/4104589							
 482541-1	Bussea xylocarpa	Sprague & Craib	Bull. Misc. Inform. Kew	1909, 351		0366-4457								
 482571-1	Butea pellita	Hook.f. ex Prain	Bull. Misc. Inform. Kew	1908, 885.		0366-4457								
 482641-1	Caesalpinia bicolor	C.H.Wright	Bull. Misc. Inform. Kew	1896, 22.		0366-4457	10.2307/4119498							
@@ -5495,9 +5495,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 486415-1	Cladrastis australis	Dunn	Bull. Misc. Inform. Kew, Addit. Ser.	10: 86	1912	0366-4457								
 486437-1	Clathrotropis paradoxa	Sandwith	Bull. Misc. Inform. Kew	1928, 369.		0366-4457	10.2307/4107150							
 48652-2	Cassia hintonii	Sandwith	Bull. Misc. Inform. Kew	1936: 5	1936	0366-4457	10.2307/4118561							
-486660-1	Coelidium amphithaleoides	Dümmer	Bull. Misc. Inform. Kew	1912, 270.		0366-4457	10.2307/4104582							
+486660-1	Coelidium amphithaleoides	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 270.		0366-4457	10.2307/4104582							
 486665-1	Coelidium cymbifolium	C.A.Sm.	Bull. Misc. Inform. Kew	1931, 98.		0366-4457	10.2307/4102519							
-486668-1	Coelidium euchaetioides	Dümmer	Bull. Misc. Inform. Kew	1912, 270.		0366-4457	10.2307/4104582							
+486668-1	Coelidium euchaetioides	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 270.		0366-4457	10.2307/4104582							
 486981-1	Copaifera conjugata	(Bolle) Milne-Redh.	Bull. Misc. Inform. Kew	1934, 400.		0366-4457								
 486982-1	Copaifera copallifera	(Benn.) Milne-Redh.	Bull. Misc. Inform. Kew	1934, 400.		0366-4457								
 487135-1	Cordeauxia edulis	Hemsl.	Bull. Misc. Inform. Kew	1907, 361		0366-4457	10.2307/4111696							
@@ -5859,19 +5859,19 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 505564-1	Machaerium quinata	(Aubl.) Sandwith	Bull. Misc. Inform. Kew	1931, 359		0366-4457	10.2307/4102495							
 505684-1	Macrolobium elongatum	Hutch.	Bull. Misc. Inform. Kew	1916, 229.		0366-4457	10.2307/4114330							
 505800-1	Macrolobium vignei	Hoyle	Bull. Misc. Inform. Kew	1933, 171.		0366-4457	10.2307/4114339							
-506067-1	Medicago archiducis-nicolai	Širj.	Bull. Misc. Inform. Kew	1928, 270.		0366-4457	10.2307/4107083							
+506067-1	Medicago archiducis-nicolai	Å irj.	Bull. Misc. Inform. Kew	1928, 270.		0366-4457	10.2307/4107083							
 50609-1	Justicia decumbens	Craib	Bull. Misc. Inform. Kew	1912, 269.		0366-4457	10.2307/4104581							
 50610-1	Justicia decurrens	J.B.Imlay	Bull. Misc. Inform. Kew	1939, 142.		0366-4457	10.2307/4111677							
 50621-1	Justicia diacantha	J.B.Imlay	Bull. Misc. Inform. Kew	1939, 138.		0366-4457	10.2307/4111677							
-506360-1	Medicago popovii	Širj.	Bull. Misc. Inform. Kew	1928, 271, in obs.		0366-4457	10.2307/4107083							
-506374-1	Medicago pubescens	Širj.	Bull. Misc. Inform. Kew	1928, 271, in obs.		0366-4457	10.2307/4107083							
+506360-1	Medicago popovii	Å irj.	Bull. Misc. Inform. Kew	1928, 271, in obs.		0366-4457	10.2307/4107083							
+506374-1	Medicago pubescens	Å irj.	Bull. Misc. Inform. Kew	1928, 271, in obs.		0366-4457	10.2307/4107083							
 50638-1	Justicia distincta	J.B.Imlay	Bull. Misc. Inform. Kew	1939, 147.		0366-4457	10.2307/4111677							
 507124-1	Melolobium burchellii	N.E.Br.	Bull. Misc. Inform. Kew	1901, 120.		0366-4457								
-507131-1	Melolobium decorum	Dümmer	Bull. Misc. Inform. Kew	1912, 226.		0366-4457	10.2307/4104589							
-507134-1	Melolobium glanduliferum	Dümmer	Bull. Misc. Inform. Kew	1912, 227.		0366-4457	10.2307/4104589							
-507137-1	Melolobium macrocalyx	Dümmer	Bull. Misc. Inform. Kew	1912, 227.		0366-4457	10.2307/4104589							
-507139-1	Melolobium mixtum	Dümmer	Bull. Misc. Inform. Kew	1912, 228.		0366-4457	10.2307/4104589							
-507142-1	Melolobium peglerae	Dümmer	Bull. Misc. Inform. Kew	1912, 229.		0366-4457	10.2307/4104589							
+507131-1	Melolobium decorum	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 226.		0366-4457	10.2307/4104589							
+507134-1	Melolobium glanduliferum	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 227.		0366-4457	10.2307/4104589							
+507137-1	Melolobium macrocalyx	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 227.		0366-4457	10.2307/4104589							
+507139-1	Melolobium mixtum	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 228.		0366-4457	10.2307/4104589							
+507142-1	Melolobium peglerae	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 229.		0366-4457	10.2307/4104589							
 507148-1	Melolobium subspicatum	Conrath	Bull. Misc. Inform. Kew	1908, 222.		0366-4457	10.2307/4111712							
 507215-1	Microcharis galpinii	N.E.Br.	Bull. Misc. Inform. Kew	1897, 258.		0366-4457								
 50724-2	Ceanothus leucodermis	Greene	Bull. Misc. Inform. Kew	1895: 15	1895	0366-4457	10.2307/4111415							
@@ -6008,7 +6008,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 519166-1	Spatholobus pallidus	Craib	Bull. Misc. Inform. Kew	1928, 62.		0366-4457	10.2307/4107647							
 519169-1	Spatholobus persicinus	Ridl.	Bull. Misc. Inform. Kew	1938, 278.		0366-4457	10.2307/4107579							
 519184-1	Spatholobus strigillifer	Ridl.	Bull. Misc. Inform. Kew	1929, 254.		0366-4457	10.2307/4113524							
-51931-2	Cephaëlis altsonii	Sandwith	Bull. Misc. Inform. Kew	1931: 475	1931	0366-4457	10.2307/4102561							
+51931-2	CephaÃ«lis altsonii	Sandwith	Bull. Misc. Inform. Kew	1931: 475	1931	0366-4457	10.2307/4102561							
 51950-1	Lepidagathis acicularis	Turrill	Bull. Misc. Inform. Kew	1912, 361.		0366-4457	10.2307/4111790							
 519776-1	Swainsona inceii	Price	Bull. Misc. Inform. Kew	1910, 382.		0366-4457	10.2307/4113251							
 519780-1	Swainsona lessertiifolia	DC. & Summerh.	Bull. Misc. Inform. Kew	1926, 239, descr. ampl.		0366-4457	10.2307/4118652							
@@ -6019,7 +6019,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 519968-1	Swartzia oblanceolata	Sandwith	Bull. Misc. Inform. Kew	1934, 363.		0366-4457	10.2307/4115427							
 520010-1	Swartzia roraimae	Sandwith	Bull. Misc. Inform. Kew	1934, 362.		0366-4457	10.2307/4115427							
 520051-1	Swartzia xanthopetala	Sandwith	Bull. Misc. Inform. Kew	1931, 359.		0366-4457	10.2307/4102495							
-52022-2	Cephaëlis nivea	Sandwith	Bull. Misc. Inform. Kew	1939: 551	1939	0366-4457	10.2307/4118170							
+52022-2	CephaÃ«lis nivea	Sandwith	Bull. Misc. Inform. Kew	1939: 551	1939	0366-4457	10.2307/4118170							
 520434-1	Tephrosia brandegeei	L.Riley	Bull. Misc. Inform. Kew	1923, 339		0366-4457	10.2307/4120239							
 520437-1	Tephrosia burchellii	Burtt Davy	Bull. Misc. Inform. Kew	1921, 50.		0366-4457	10.2307/4115053							
 520479-1	Tephrosia contorta	N.E.Br.	Bull. Misc. Inform. Kew	1909, 103.		0366-4457	10.2307/4111525							
@@ -7406,7 +7406,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 619645-1	Bulbophyllum nigripetalum	Rolfe	Bull. Misc. Inform. Kew	(1891) 197; et in Gard. Chron. (1891) ii. 215.		0366-4457								
 619655-1	Bulbophyllum noeanum	Kerr	Bull. Misc. Inform. Kew	1927. 219.		0366-4457								
 619658-1	Bulbophyllum nudiscapum	Rolfe	Bull. Misc. Inform. Kew	1909, 365.		0366-4457	10.2307/4113322							
-61983-1	Agave × franzosinii	Hort.Hanb. ex W.Wats.	Bull. Misc. Inform. Kew	iii. (1889) 301; et Baker, in Gard. Chron. (1892) ii. 179, fig. 31.		0366-4457								
+61983-1	Agave Ã— franzosinii	Hort.Hanb. ex W.Wats.	Bull. Misc. Inform. Kew	iii. (1889) 301; et Baker, in Gard. Chron. (1892) ii. 179, fig. 31.		0366-4457								
 619920-1	Bulbophyllum pteriphilum	Rolfe	Bull. Misc. Inform. Kew	(1894) 391.		0366-4457	10.2307/4119555							
 619968-1	Bulbophyllum racemosum	Rolfe	Bull. Misc. Inform. Kew	(1893)61.		0366-4457								
 620081-1	Bulbophyllum sanderianum	Rolfe	Bull. Misc. Inform. Kew	(1893) 4; et ex Gard. Chron. (1893) i. 291.		0366-4457								
@@ -8174,7 +8174,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 666967-1	Euterpe ventricosa	C.H.Wright	Bull. Misc. Inform. Kew	1906, 203.		0366-4457	10.2307/4113208							
 668-1	Isotheca	Turrill	Bull. Misc. Inform. Kew	1922, 187.		0366-4457	10.2307/4107461							
 669262-1	Pritchardia filamentosa	Hort. ex W.Wats.	Bull. Misc. Inform. Kew	iii. (1889) 296		0366-4457	10.2307/4113350							
-66985-1	× Urceocharis edentata	C.H.Wright	Bull. Misc. Inform. Kew	1910, 24.		0366-4457	10.2307/4115018							
+66985-1	Ã— Urceocharis edentata	C.H.Wright	Bull. Misc. Inform. Kew	1910, 24.		0366-4457	10.2307/4115018							
 67035-1	Vellozia acuminata	Baker	Bull. Misc. Inform. Kew	(1895) 228.		0366-4457	10.2307/4114977							
 670398-1	Freycinetia beccarii	Hemsl.	Bull. Misc. Inform. Kew	1896, 166.		0366-4457								
 67040-1	Vellozia arabica	Baker	Bull. Misc. Inform. Kew	(1894) 342; et in Hook. Icon. pl. xxiv. (1895) t. 2364.		0366-4457	10.2307/4118301							
@@ -8903,7 +8903,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 744394-1	Belonophora coriacea	Hoyle	Bull. Misc. Inform. Kew	1935, 263.		0366-4457	10.2307/4107127							
 744396-1	Belonophora glomerata	M.B.Moss	Bull. Misc. Inform. Kew	1929, 195.		0366-4457								
 744399-1	Belonophora morganae	Hutch.	Bull. Misc. Inform. Kew	1921, 249.		0366-4457	10.2307/4115374							
-74452-2	Cyperus altsonii	Kük.	Bull. Misc. Inform. Kew	1932: 322	1932	0366-4457	10.2307/4113376							
+74452-2	Cyperus altsonii	KÃ¼k.	Bull. Misc. Inform. Kew	1932: 322	1932	0366-4457	10.2307/4113376							
 74486-1	Platymitra siamensis	Craib	Bull. Misc. Inform. Kew	1912, 145.		0366-4457	10.2307/4104569							
 74495-2	Cyperus berlandieri	C.B.Clarke	Bull. Misc. Inform. Kew, Addit. Ser.	8: 10	1908	0366-4457		222794						
 745046-1	Bouvardia hintonii	Bullock	Bull. Misc. Inform. Kew	1937, 307.		0366-4457	10.2307/4107169							
@@ -8952,10 +8952,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 745689-1	Canthium tophamii	Bullock & Dunkley	Bull. Misc. Inform. Kew	1937, 420.		0366-4457	10.2307/4107099							
 74569-1	Polyalthia flagellaris	(Becc.) Airy Shaw	Bull. Misc. Inform. Kew	1939, 283		0366-4457	10.2307/4111738							
 745720-1	Canthium vulgare	(K.Schum.) Bullock	Bull. Misc. Inform. Kew	1932, 374		0366-4457	10.2307/4113481							
-745915-1	Cephaëlis altsonii	Sandwith	Bull. Misc. Inform. Kew	1931, 475.		0366-4457	10.2307/4102561							
+745915-1	CephaÃ«lis altsonii	Sandwith	Bull. Misc. Inform. Kew	1931, 475.		0366-4457	10.2307/4102561							
 74606-1	Polyalthia insignis	(Hook.f.) Airy Shaw	Bull. Misc. Inform. Kew	1939, 279		0366-4457	10.2307/4111738							
-746088-1	Cephaëlis nivea	Sandwith	Bull. Misc. Inform. Kew	1939, 551 (1940).		0366-4457	10.2307/4118170							
-746145-1	Cephaëlis siamica	Craib	Bull. Misc. Inform. Kew	1911, 395.		0366-4457	10.2307/4115077							
+746088-1	CephaÃ«lis nivea	Sandwith	Bull. Misc. Inform. Kew	1939, 551 (1940).		0366-4457	10.2307/4118170							
+746145-1	CephaÃ«lis siamica	Craib	Bull. Misc. Inform. Kew	1911, 395.		0366-4457	10.2307/4115077							
 746336-1	Chassalia chartacea	Craib	Bull. Misc. Inform. Kew	1931, 279.		0366-4457	10.2307/4102489							
 746339-1	Chassalia lushaiensis	(C.E.C.Fisch.) C.E.C.Fisch.	Bull. Misc. Inform. Kew	1931, 282.		0366-4457	10.2307/4102490							
 746340-1	Chassalia membranacea	Craib	Bull. Misc. Inform. Kew	1931, 280.		0366-4457	10.2307/4102489							
@@ -9487,12 +9487,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 770705-1	Acronychia muelleri	(Engl.) W.D.Francis	Bull. Misc. Inform. Kew	1931, 190		0366-4457	10.2307/4102574							
 77075839-1	Drepananthus carinatus var. deltoideus	Airy Shaw	Bull. Misc. Inform. Kew	1939: 288	1939	0366-4457	10.2307/4111738							
 77076-1	Anodendron nervosum	Kerr	Bull. Misc. Inform. Kew	1937, 93.		0366-4457	10.2307/4107198							
-770798-1	Adenandra schlechteri	Dümmer	Bull. Misc. Inform. Kew	1912, 328.		0366-4457	10.2307/4104548							
+770798-1	Adenandra schlechteri	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 328.		0366-4457	10.2307/4104548							
 770825-1	Aeglopsis eggelingii	M.Taylor	Bull. Misc. Inform. Kew	1940, 53.		0366-4457	10.2307/4111842							
 77082839-1	Daniellia soyauxii	(Harms) Rolfe	Bull. Misc. Inform. Kew	1912(1): 97	1912	0366-4457	10.2307/4104542							
 770865-1	Agathosma bicornuta	R.A.Dyer	Bull. Misc. Inform. Kew	1934, 269.		0366-4457	10.2307/4115407							
 77087-1	Anodendron sutepense	Kerr	Bull. Misc. Inform. Kew	1937, 94.		0366-4457	10.2307/4107198							
-770878-1	Agathosma burchellii	Dümmer	Bull. Misc. Inform. Kew	1912, 328.		0366-4457	10.2307/4104548							
+770878-1	Agathosma burchellii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 328.		0366-4457	10.2307/4104548							
 770889-1	Agathosma clavisepala	R.A.Dyer	Bull. Misc. Inform. Kew	1934, 270.		0366-4457	10.2307/4115407							
 77098754-1	Achyrospermum radicans var. grandibracteatum	E.A.Bruce	Bull. Misc. Inform. Kew	1936(1): 53	1936	0366-4457	10.2307/4118566							
 77100387-1	Ornithogalum diphyllum	Baker	Bull. Misc. Inform. Kew	1895: 153	1895	0366-4457								
@@ -9500,16 +9500,16 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77121157-1	Impatiens pusilla var. nematostachys	Hook.f.	Bull. Misc. Inform. Kew	1910: 294	1910	0366-4457	10.2307/4111723							
 77126629-1		Stapf	Bull. Misc. Inform. Kew	1912: 380	1912 [13 Dec 1912]	0366-4457	10.2307/4104555							
 771299-1	Haplophyllum lindsayi	Turrill	Bull. Misc. Inform. Kew	1927, 7, in obs.		0366-4457	10.2307/4107093							
-771498-1	Barosma peglerae	Dümmer	Bull. Misc. Inform. Kew	1912, 327.		0366-4457	10.2307/4104548							
+771498-1	Barosma peglerae	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 327.		0366-4457	10.2307/4104548							
 772145-1	Clausena kerrii	Craib	Bull. Misc. Inform. Kew	1913, 67.		0366-4457	10.2307/4111652							
 772151-1	Clausena longipes	Craib	Bull. Misc. Inform. Kew	1926, 340.		0366-4457	10.2307/4118199							
 772183-1	Clausenopsis hildebrandtii	(Engl.) Milne-Redh.	Bull. Misc. Inform. Kew	1935, 278, cum descr. ampl.		0366-4457	10.2307/4107129							
 772624-1	Diphasia angolensis	I.Verd.	Bull. Misc. Inform. Kew	1926, 411		0366-4457	10.2307/4118639							
 772807-1	Erythrochiton incomparabilis	L.Riley	Bull. Misc. Inform. Kew	1927, 121.		0366-4457	10.2307/4107541							
-772871-1	Euchaetis bolusii	Dümmer	Bull. Misc. Inform. Kew	1912, 90.		0366-4457	10.2307/4104541							
-772872-1	Euchaetis burchellii	Dümmer	Bull. Misc. Inform. Kew	1912, 90.		0366-4457	10.2307/4104541							
-772878-1	Euchaetis ericoides	Dümmer	Bull. Misc. Inform. Kew	1912, 91.		0366-4457	10.2307/4104542							
-772891-1	Euchaetis radiata	Dümmer	Bull. Misc. Inform. Kew	1912, 91.		0366-4457	10.2307/4104542							
+772871-1	Euchaetis bolusii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 90.		0366-4457	10.2307/4104541							
+772872-1	Euchaetis burchellii	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 90.		0366-4457	10.2307/4104541							
+772878-1	Euchaetis ericoides	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 91.		0366-4457	10.2307/4104542							
+772891-1	Euchaetis radiata	DÃ¼mmer	Bull. Misc. Inform. Kew	1912, 91.		0366-4457	10.2307/4104542							
 772957-1	Euodia colorata	Dunn	Bull. Misc. Inform. Kew	1906, 2.		0366-4457	10.2307/4115504							
 772959-1	Euodia concinna	Ridl.	Bull. Misc. Inform. Kew	1930, 78.		0366-4457	10.2307/4107689							
 773006-1	Euodia glomerata	Craib	Bull. Misc. Inform. Kew	1918, 362.		0366-4457	10.2307/4111886							
@@ -9901,7 +9901,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 803587-1	Harveya anisodonta	C.A.Sm.	Bull. Misc. Inform. Kew	1931, 66.		0366-4457	10.2307/4102514							
 803595-1	Harveya crispula	Conrath	Bull. Misc. Inform. Kew	1914. 134.		0366-4457								
 803657-1	Hebe brachysiphon	Summerh.	Bull. Misc. Inform. Kew	1927, 397.		0366-4457	10.2307/4107548							
-803936-1	Hyobanche robusta	Schönland	Bull. Misc. Inform. Kew	1913, 301.		0366-4457	10.2307/4118441							
+803936-1	Hyobanche robusta	SchÃ¶nland	Bull. Misc. Inform. Kew	1913, 301.		0366-4457	10.2307/4118441							
 803937-1	Hyobanche rubra	N.E.Br.	Bull. Misc. Inform. Kew	1901, 129.		0366-4457								
 80394-3	Rhynchospora leae	C.B.Clarke	Bulletin of Miscellaneous Information, Kew - Additional Series 8 (New Genera and Species of Cyperaceae)		1908 (Jun. 1908)	0366-4457		222794						
 80415-2	Dimorphandra congestiflora	Sprague & Sandwith	Bull. Misc. Inform. Kew	1932: 401	1932	0366-4457	10.2307/4113483							
@@ -10877,7 +10877,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 95741-1	Ceropegia rendallii	N.E.Br.	Bull. Misc. Inform. Kew	(1894) 106.		0366-4457	10.2307/4118157							
 95766-1	Ceropegia scandens	N.E.Br.	Bull. Misc. Inform. Kew	(1895) 262.		0366-4457	10.2307/4115436							
 95770-1	Ceropegia schoenlandii	N.E.Br.	Bull. Misc. Inform. Kew	1913, 303.		0366-4457	10.2307/4118441							
-957730-1	Strelitzia × kewensis	Skan	Bull. Misc. Inform. Kew	1910: 65 (1910)	1910	0366-4457								
+957730-1	Strelitzia Ã— kewensis	Skan	Bull. Misc. Inform. Kew	1910: 65 (1910)	1910	0366-4457								
 95778-1	Ceropegia siamensis	Kerr	Bull. Misc. Inform. Kew	1939, 465.		0366-4457	10.2307/4113547							
 95783-1	Ceropegia sobolifera	N.E.Br.	Bull. Misc. Inform. Kew	(1895) 261.		0366-4457	10.2307/4115436							
 95785-1	Ceropegia sootepensis	Craib	Bull. Misc. Inform. Kew	1911, 420.		0366-4457	10.2307/4115077							

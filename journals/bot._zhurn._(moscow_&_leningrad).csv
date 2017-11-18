@@ -81,8 +81,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1001806-1	Dianthus klokovii	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	82(11): 80	1997	0006-8136								
 1001807-1	Gagea gadzhievii	Askerova	Bot. Zhurn. (Moscow & Leningrad)	82(11): 84	1997	0006-8136								
 1001808-1	Centaurea scripczinskyi	Mikheev	Bot. Zhurn. (Moscow & Leningrad)	82(11): 86	1997	0006-8136								
-1001809-1	Potamogeton ◊ biformoides	Papch.	Bot. Zhurn. (Moscow & Leningrad)	82(12): 69	1997	0006-8136								
-1001810-1	Potamogeton ◊ mariensis	Papch.	Bot. Zhurn. (Moscow & Leningrad)	82(12): 71	1997	0006-8136								
+1001809-1	Potamogeton √ó biformoides	Papch.	Bot. Zhurn. (Moscow & Leningrad)	82(12): 69	1997	0006-8136								
+1001810-1	Potamogeton √ó mariensis	Papch.	Bot. Zhurn. (Moscow & Leningrad)	82(12): 71	1997	0006-8136								
 1001811-1	Erysimum altum	(Ahti) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	82(12): 94	1997	0006-8136								
 1001812-1	Galeopsis ladanum var. glandulosissima	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	82(12): 95	1997	0006-8136								
 1001813-1	Callitriche hermaphroditica subsp. exalata	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	82(12): 96	1997	0006-8136								
@@ -93,54 +93,54 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1009295-1	Hylotelephium uralense	(Rupr.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	83(1): 128	1998	0006-8136								
 1009296-1	Bunium pinnatifolium	Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	83(1): 139	1998	0006-8136								
 1009297-1	Oenanthe cyclocarpa	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	83(1): 142	1998	0006-8136								
-1009298-1	Hieracium acroxanthum	(Sosn. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 70	1998	0006-8136								
-1009299-1	Hieracium albellipes	(Schelk. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 70, isonym	1998	0006-8136								
-1009300-1	Hieracium amphitephrodes	(Sosn. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 70, isonym	1998	0006-8136								
-1009301-1	Hieracium aryslynense	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
-1009302-1	Hieracium bakurianense	(Fomin & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
-1009303-1	Hieracium beschtavicum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
-1009304-1	Hieracium bichloricolor	(Ganesch. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
-1009305-1	Hieracium chaetothyrsoides	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009306-1	Hieracium chaetothyrsum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009307-1	Hieracium chloroleucolepium	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009308-1	Hieracium chlorophilum	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009309-1	Hieracium concinnidens	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009310-1	Hieracium coniciforme	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009311-1	Hieracium dechyi	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009312-1	Hieracium epichlorum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009313-1	Hieracium fariniramum	(Ganesch. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
-1009314-1	Hieracium flocciparum	(Schelk. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009315-1	Hieracium glomerellum	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009316-1	Hieracium goriense	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009317-1	Hieracium heterodontoides	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009318-1	Hieracium hylogeton	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009319-1	Hieracium hypoglaucum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009320-1	Hieracium hypopitys	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009321-1	Hieracium kiderense	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
-1009322-1	Hieracium kubanicum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009323-1	Hieracium lailanum	(Schelk. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009324-1	Hieracium lespinassei	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009325-1	Hieracium leucothyrsogenes	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009326-1	Hieracium leucothyrsoides	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009327-1	Hieracium leucothyrsum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009328-1	Hieracium macrolepidiforme	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009329-1	Hieracium macrolepioides	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
-1009330-1	Hieracium membranulatum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
-1009331-1	Hieracium miansarofii	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
-1009332-1	Hieracium niphocladum	(Schelk. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
-1009333-1	Hieracium obscuricaule	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
-1009334-1	Hieracium samurense	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 76, isonym	1998	0006-8136								
-1009335-1	Hieracium sericicaule	(Schelk. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 76, isonym	1998	0006-8136								
-1009336-1	Hieracium subsvaneticum	(Litv. & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
-1009337-1	Hieracium tephrophilum	(Koslovsky & Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
-1009338-1	Hieracium tridentaticeps	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
-1009339-1	Hieracium villosellipes	(Zahn) ‹ksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
+1009298-1	Hieracium acroxanthum	(Sosn. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 70	1998	0006-8136								
+1009299-1	Hieracium albellipes	(Schelk. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 70, isonym	1998	0006-8136								
+1009300-1	Hieracium amphitephrodes	(Sosn. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 70, isonym	1998	0006-8136								
+1009301-1	Hieracium aryslynense	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
+1009302-1	Hieracium bakurianense	(Fomin & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
+1009303-1	Hieracium beschtavicum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
+1009304-1	Hieracium bichloricolor	(Ganesch. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 71, isonym	1998	0006-8136								
+1009305-1	Hieracium chaetothyrsoides	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009306-1	Hieracium chaetothyrsum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009307-1	Hieracium chloroleucolepium	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009308-1	Hieracium chlorophilum	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009309-1	Hieracium concinnidens	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009310-1	Hieracium coniciforme	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009311-1	Hieracium dechyi	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009312-1	Hieracium epichlorum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009313-1	Hieracium fariniramum	(Ganesch. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 72, isonym	1998	0006-8136								
+1009314-1	Hieracium flocciparum	(Schelk. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009315-1	Hieracium glomerellum	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009316-1	Hieracium goriense	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009317-1	Hieracium heterodontoides	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009318-1	Hieracium hylogeton	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009319-1	Hieracium hypoglaucum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009320-1	Hieracium hypopitys	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009321-1	Hieracium kiderense	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 73, isonym	1998	0006-8136								
+1009322-1	Hieracium kubanicum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009323-1	Hieracium lailanum	(Schelk. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009324-1	Hieracium lespinassei	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009325-1	Hieracium leucothyrsogenes	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009326-1	Hieracium leucothyrsoides	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009327-1	Hieracium leucothyrsum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009328-1	Hieracium macrolepidiforme	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009329-1	Hieracium macrolepioides	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 74, isonym	1998	0006-8136								
+1009330-1	Hieracium membranulatum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
+1009331-1	Hieracium miansarofii	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
+1009332-1	Hieracium niphocladum	(Schelk. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
+1009333-1	Hieracium obscuricaule	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 75, isonym	1998	0006-8136								
+1009334-1	Hieracium samurense	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 76, isonym	1998	0006-8136								
+1009335-1	Hieracium sericicaule	(Schelk. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 76, isonym	1998	0006-8136								
+1009336-1	Hieracium subsvaneticum	(Litv. & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
+1009337-1	Hieracium tephrophilum	(Koslovsky & Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
+1009338-1	Hieracium tridentaticeps	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
+1009339-1	Hieracium villosellipes	(Zahn) √úksip ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 77, isonym	1998	0006-8136								
 1009340-1	Hieracium circumstellatum	(Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
-1009341-1	Pilosella caucasica	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
+1009341-1	Pilosella caucasica	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
 1009342-1	Pilosella dublitzkii	(B.Fedtsch. & Nevski) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
 1009343-1	Pilosella kumbelica	(B.Fedtsch. & Nevski) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
-1009344-1	Pilosella leptadeniiformis	(‹ksip) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
-1009345-1	Pilosella longiscapa	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
+1009344-1	Pilosella leptadeniiformis	(√úksip) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
+1009345-1	Pilosella longiscapa	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 78	1998	0006-8136								
 1009346-1	Pilosella massagetovii	(Gamajun. ex Kamelin & Zuckerw.) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 79	1998	0006-8136								
 1009347-1	Pilosella sosnowskyi	(Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(2): 79	1998	0006-8136								
 1009348-1	Gagea ancestralis	Levichev	Bot. Zhurn. (Moscow & Leningrad)	83(2): 110	1998	0006-8136								
@@ -150,21 +150,21 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1009352-1	Bupleurum sibiricum subsp. americanum	(J.M.Coult. & Rose) Krasnob.	Bot. Zhurn. (Moscow & Leningrad)	83(2): 125	1998	0006-8136								
 1009362-1	Pilosella akinfiewii	(Woronow & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 62	1998	0006-8136								
 1009363-1	Pilosella antennarioidiformis	(Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 62	1998	0006-8136								
-1009364-1	Pilosella branae	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 63	1998	0006-8136								
-1009365-1	Pilosella buhsei	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 63	1998	0006-8136								
+1009364-1	Pilosella branae	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 63	1998	0006-8136								
+1009365-1	Pilosella buhsei	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 63	1998	0006-8136								
 1009366-1	Pilosella cymanthodes	(Koslovsky & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 63	1998	0006-8136								
 1009367-1	Pilosella farinoderma	(Litv. & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 64	1998	0006-8136								
 1009368-1	Pilosella fastigiatiformis	(Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 64	1998	0006-8136								
-1009369-1	Pilosella freynii	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 64	1998	0006-8136								
+1009369-1	Pilosella freynii	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 64	1998	0006-8136								
 1009370-1	Pilosella lamprocomoides	(Woronow & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 66	1998	0006-8136								
-1009371-1	Pilosella lasiothrix	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 66	1998	0006-8136								
+1009371-1	Pilosella lasiothrix	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 66	1998	0006-8136								
 1009372-1	Pilosella perileuca	(Schelk. & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 68	1998	0006-8136								
 1009373-1	Pilosella procerigena	(Litv. & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 69	1998	0006-8136								
 1009374-1	Pilosella rubrobauhinii	(Schelk. & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 69	1998	0006-8136								
 1009375-1	Pilosella stupposipila	(Woronow & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 70	1998	0006-8136								
 1009376-1	Hieracium obscuriceps	(Dahlst.) Schljakov ex Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 71	1998	0006-8136								
 1009377-1	Pilosella subrubella	(Schelk. & Zahn) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 71	1998	0006-8136								
-1009378-1	Pilosella virentisquama	(N‰geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 73	1998	0006-8136								
+1009378-1	Pilosella virentisquama	(N√§geli & Peter) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	83(3): 73	1998	0006-8136								
 1009379-1	Viola ser. Denticulatae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 129	1998	0006-8136								
 1009380-1	Viola ser. Rupestres	Juz. ex Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 129	1998	0006-8136								
 1009381-1	Viola ser. Fimbriatae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 129	1998	0006-8136								
@@ -172,7 +172,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1009383-1	Viola ser. Cuneatifoliae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 130, as 'Cuneatofoliae'	1998	0006-8136								
 1009384-1	Viola ser. Vericaninae	Juz. ex Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 130	1998	0006-8136								
 1009385-1	Viola ser. Lacteae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 130	1998	0006-8136								
-1009386-1	Viola sect. Mirabiles	(Nyman ex Borb·s) Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 130	1998	0006-8136								
+1009386-1	Viola sect. Mirabiles	(Nyman ex Borb√°s) Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 130	1998	0006-8136								
 1009387-1	Viola ser. Hirtae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 131	1998	0006-8136								
 1009388-1	Viola ser. Pyrenaicae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 131	1998	0006-8136								
 1009389-1	Viola ser. Scotophyllae	Juz. ex Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	83(3): 132	1998	0006-8136								
@@ -218,10 +218,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1009451-1	Pedicularis ser. Crassirostres	Vved. ex Ivanina & T.N.Popova	Bot. Zhurn. (Moscow & Leningrad)	83(10): 97	1998	0006-8136								
 1009452-1	Pedicularis ser. Chamissonianae	Vved. ex Ivanina & T.N.Popova	Bot. Zhurn. (Moscow & Leningrad)	83(10): 97	1998	0006-8136								
 1009453-1	Pedicularis ser. Spicatae	Vved. ex Ivanina & T.N.Popova	Bot. Zhurn. (Moscow & Leningrad)	83(10): 98	1998	0006-8136								
-1013113-1	Salix ◊ schaburovii	I.V.Belyaeva	Bot. Zhurn. (Moscow & Leningrad)	83(11): 111	1998	0006-8136								
+1013113-1	Salix √ó schaburovii	I.V.Belyaeva	Bot. Zhurn. (Moscow & Leningrad)	83(11): 111	1998	0006-8136								
 1013114-1	Festuca kuprijanovii	Chus.	Bot. Zhurn. (Moscow & Leningrad)	83(11): 113	1998	0006-8136								
 1013306-1	Linaria subsect. Pyramidales	Menitsky	Bot. Zhurn. (Moscow & Leningrad)	83(12): 130	1998	0006-8136								
-1013307-1	Hedysarum ◊ polychromum	Kulikov	Bot. Zhurn. (Moscow & Leningrad)	83(12): 141	1998	0006-8136								
+1013307-1	Hedysarum √ó polychromum	Kulikov	Bot. Zhurn. (Moscow & Leningrad)	83(12): 141	1998	0006-8136								
 1013308-1	Eritrichium uralense subsp. krascheninnikovii	Knjaz. & S.V.Balandin	Bot. Zhurn. (Moscow & Leningrad)	84(1): 87	1999	0006-8136								
 1013309-1	Linaria subsect. Macrocentrum	(D.A.Sutton) Menitsky	Bot. Zhurn. (Moscow & Leningrad)	84(1): 130	1999	0006-8136								
 1013310-1	Papaver tolmatschevianum	N.S.Pavlova	Bot. Zhurn. (Moscow & Leningrad)	84(2): 112	1999	0006-8136								
@@ -229,7 +229,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1013312-1	Ranunculus permiensis	Chugayn.	Bot. Zhurn. (Moscow & Leningrad)	84(2): 117	1999	0006-8136								
 1013419-1	Conioselinum papyraceum	(C.B.Clarke) Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	84(3): 91	1999	0006-8136								
 1013420-1	Hieracium prolixiforme var. nemorum	(Fr. ex Lindeb.) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(3): 123	1999	0006-8136								
-1013421-1	Hieracium caesiomurorum var. chlorelliceps	(Norrl. ex ‹ksip) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(3): 124	1999	0006-8136								
+1013421-1	Hieracium caesiomurorum var. chlorelliceps	(Norrl. ex √úksip) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(3): 124	1999	0006-8136								
 1013422-1	Euphorbia saurica	Baikov	Bot. Zhurn. (Moscow & Leningrad)	84(3): 108	1999	0006-8136								
 1013423-1	Pulsatilla archarensis	Kudrin	Bot. Zhurn. (Moscow & Leningrad)	84(4): 112	1999	0006-8136								
 1013424-1	Artemisia kotuchovii	Kupr.	Bot. Zhurn. (Moscow & Leningrad)	84(4): 114	1999	0006-8136								
@@ -243,7 +243,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1013458-1	Stuckenia intramongolica	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 111	1999	0006-8136								
 1013459-1	Stuckenia macrocarpa	(Dobrocz.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 111	1999	0006-8136								
 1013460-1	Stuckenia marina	(L.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 111	1999	0006-8136								
-1013461-1	Stuckenia ◊ meinshausenii	(Juz.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 111	1999	0006-8136								
+1013461-1	Stuckenia √ó meinshausenii	(Juz.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 111	1999	0006-8136								
 1013462-1	Stuckenia zosteracea	(Fr.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 111	1999	0006-8136								
 1013463-1	Kreczetoviczia	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 112	1999	0006-8136								
 1013464-1	Kreczetoviczia caespitosa	(L.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(7): 112	1999	0006-8136								
@@ -298,7 +298,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1015749-1	Astragalus varius subsp. eupatoricus	Sytin	Bot. Zhurn. (Moscow & Leningrad)	84(12): 121	1999	0006-8136								
 1015750-1	Hieracium sect. Robusta	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(12): 127	1999	0006-8136								
 1015751-1	Hieracium sect. Prenanthella	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(12): 128	1999	0006-8136								
-1015752-1	Hieracium sect. Aestiva	(‹ksip ex Schljakov) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(12): 129	1999	0006-8136								
+1015752-1	Hieracium sect. Aestiva	(√úksip ex Schljakov) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(12): 129	1999	0006-8136								
 1015753-1	Hieracium chlorinum	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(12): 130	1999	0006-8136								
 1015754-1	Hieracium pinegense	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	84(12): 131	1999	0006-8136								
 1016440-1	Delphinium alpinum var. hebecarpum	Kulikov	Bot. Zhurn. (Moscow & Leningrad)	85(4): 133	2000	0006-8136								
@@ -414,8 +414,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1018815-1	Gastrolychnis pauciflora	(Ledeb.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	85(11): 100	2000	0006-8136								
 1018816-1	Gastrolychnis uniflora	(Ledeb.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	85(11): 101	2000	0006-8136								
 1018817-1	Carduus kirghisicus	Sultanova	Bot. Zhurn. (Moscow & Leningrad)	85(11): 103	2000	0006-8136								
-1018818-1	Pilosella ◊ ciesielskii	(B?ocki) Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	85(11): 112	2000	0006-8136								
-1018819-1	Pilosella ◊ solacolui	(Prodan ex Ny·r.) Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	85(11): 113	2000	0006-8136								
+1018818-1	Pilosella √ó ciesielskii	(B≈Çocki) Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	85(11): 112	2000	0006-8136								
+1018819-1	Pilosella √ó solacolui	(Prodan ex Ny√°r.) Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	85(11): 113	2000	0006-8136								
 1018820-1	Craniospermum sect. Leucolachnos	Ovczinnikova	Bot. Zhurn. (Moscow & Leningrad)	85(12): 79	2000	0006-8136								
 1018821-1	Craniospermum subsect. Floccosa	Ovczinnikova	Bot. Zhurn. (Moscow & Leningrad)	85(12): 83	2000	0006-8136								
 1018822-1	Craniospermum subsect. Diploloma	(Schrenk) Ovczinnikova	Bot. Zhurn. (Moscow & Leningrad)	85(12): 83	2000	0006-8136								
@@ -430,29 +430,29 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1019456-1	Viola canina subsp. contracta	(Vl.V.Nikitin) Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 135	2001	0006-8136								
 1019457-1	Viola nemoralis subsp. abbreviata	(Vl.V.Nikitin) Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 135	2001	0006-8136								
 1019458-1	Viola litoralis subsp. litvinovii	(Vl.V.Nikitin) Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 136	2001	0006-8136								
-1019459-1	Viola ◊ pynzarii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 136	2001	0006-8136								
-1019460-1	Viola ◊ tzvelevii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 136	2001	0006-8136								
+1019459-1	Viola √ó pynzarii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 136	2001	0006-8136								
+1019460-1	Viola √ó tzvelevii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 136	2001	0006-8136								
 1019461-1	Viola tzvelevii f. tschistopolensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 139	2001	0006-8136								
-1019462-1	Viola ◊ poltavensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 139	2001	0006-8136								
-1019463-1	Viola ◊ tichomirovii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 139	2001	0006-8136								
-1019464-1	Viola ◊ igoschinae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 140	2001	0006-8136								
-1019465-1	Viola ◊ neglectiformis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 141	2001	0006-8136								
+1019462-1	Viola √ó poltavensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 139	2001	0006-8136								
+1019463-1	Viola √ó tichomirovii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 139	2001	0006-8136								
+1019464-1	Viola √ó igoschinae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 140	2001	0006-8136								
+1019465-1	Viola √ó neglectiformis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 141	2001	0006-8136								
 1019466-1	Viola braunii nothosubsp. zinserlingii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 142	2001	0006-8136								
-1019467-1	Viola ◊ wilibaldii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 142, nom. nov.	2001	0006-8136								
-1019468-1	Viola ◊ rupestriformis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 143	2001	0006-8136								
+1019467-1	Viola √ó wilibaldii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 142, nom. nov.	2001	0006-8136								
+1019468-1	Viola √ó rupestriformis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 143	2001	0006-8136								
 1019469-1	Viola rupestriformis nothosubsp. kovenensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 143	2001	0006-8136								
-1019470-1	Viola ◊ krascheninnikoviorum	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 144	2001	0006-8136								
-1019471-1	Viola ◊ sukaczewii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 144	2001	0006-8136								
-1019472-1	Viola ◊ yurii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 144	2001	0006-8136								
-1019473-1	Viola ◊ bachtschisaraensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 145	2001	0006-8136								
-1019474-1	Viola ◊ matczkasensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 146	2001	0006-8136								
+1019470-1	Viola √ó krascheninnikoviorum	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 144	2001	0006-8136								
+1019471-1	Viola √ó sukaczewii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 144	2001	0006-8136								
+1019472-1	Viola √ó yurii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 144	2001	0006-8136								
+1019473-1	Viola √ó bachtschisaraensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 145	2001	0006-8136								
+1019474-1	Viola √ó matczkasensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 146	2001	0006-8136								
 1019475-1	Viola matczkasensis nothosubsp. saburensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 146	2001	0006-8136								
-1019476-1	Viola ◊ viatkensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 146	2001	0006-8136								
-1020461-1	Festuca ◊ sjuzevii	Kulikov	Bot. Zhurn. (Moscow & Leningrad)	86(2): 61	2001	0006-8136								
+1019476-1	Viola √ó viatkensis	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	86(1): 146	2001	0006-8136								
+1020461-1	Festuca √ó sjuzevii	Kulikov	Bot. Zhurn. (Moscow & Leningrad)	86(2): 61	2001	0006-8136								
 1020462-1	Oxytropis ser. Approximatae	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 79	2001	0006-8136								
 1020463-1	Oxytropis hippolyti var. pauciflora	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 81	2001	0006-8136								
 1020464-1	Oxytropis gmelinii var. elongata	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 83	2001	0006-8136								
-1020465-1	Oxytropis ◊ lessingiana	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 83	2001	0006-8136								
+1020465-1	Oxytropis √ó lessingiana	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 83	2001	0006-8136								
 1020466-1	Oxytropis sibajensis	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 85	2001	0006-8136								
 1020467-1	Senecio sect. Reniformes	(Boiss.) Menitsky & Konechn.	Bot. Zhurn. (Moscow & Leningrad)	86(2): 93	2001	0006-8136								
 1020857-1	Crepis coreana	(Nakai) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	86(3): 57	2001	0006-8136								
@@ -650,12 +650,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17448520-1	Plenasium zeylanicum	(Kunze) A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	52: 1606	1967	0006-8136								
 17450210-1	Polypodium aleuticum	A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	49: 542	1964	0006-8136								
 17450480-1	Polypodium macaronesicum	A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	49: 540	1964	0006-8136								
-17450940-1	Polystichum ◊ fominii	Askerov & A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	57: 1298	1972	0006-8136								
+17450940-1	Polystichum √ó fominii	Askerov & A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	57: 1298	1972	0006-8136								
 17451040-1	Polystichum kadyrovii	Askerov & A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	57: 1297	1972	0006-8136								
-17451330-1	Polystichum ◊ safarovii	Askerov & A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	57: 1298	1972	0006-8136								
+17451330-1	Polystichum √ó safarovii	Askerov & A.E.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	57: 1298	1972	0006-8136								
 17512090-1	Dryopteris heterospora	(Wagner) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	66(7): 944	1981	0006-8136								
 17534840-1	Diphasiastrum montellii	(Kukk.) Miniaev & Ivanenko	Bot. Zhurn. (Moscow & Leningrad)	71(8): 1126	1986	0006-8136								
-17546660-1	Diphasiastrum ◊ takedae	Ivanenko	Bot. Zhurn. (Moscow & Leningrad)	77(8): 124	1992	0006-8136								
+17546660-1	Diphasiastrum √ó takedae	Ivanenko	Bot. Zhurn. (Moscow & Leningrad)	77(8): 124	1992	0006-8136								
 17551270-1	Crypsinus tamdaoensis	Vu Nguyen Tu	Bot. Zhurn. (Moscow & Leningrad)	64(9): 1316	1979	0006-8136								
 17551350-1	Microsorum baithoense	Vu Nguyen Tu	Bot. Zhurn. (Moscow & Leningrad)	64(12): 1770	1979	0006-8136								
 17551360-1	Microsorum piliferum	Vu Nguyen Tu	Bot. Zhurn. (Moscow & Leningrad)	64(12): 1772	1979	0006-8136								
@@ -668,13 +668,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17565490-1	Asplenium trichomanes subsp. kulumyssiense	Stepanov	Bot. Zhurn. (Moscow & Leningrad)	79(10): 92	1994	0006-8136								
 17572850-1	Huperzia chinensis subsp. miyoshiana	(Makino) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	84(1): 84	1999	0006-8136								
 179217-1	Artemisia arctisibirica	Korobkov	Bot. Zhurn. (Moscow & Leningrad)	64(5): 669, nom. nov.	1979	0006-8136								
-18238-1	◊ Hordelymus	Bachteev & Darevsk.	Bot. Zhurn. (Moscow & Leningrad)	35: 191	1950	0006-8136								
+18238-1	√ó Hordelymus	Bachteev & Darevsk.	Bot. Zhurn. (Moscow & Leningrad)	35: 191	1950	0006-8136								
 185858-1	Brachanthemum mongolorum	Grubov	Bot. Zhurn. (Moscow & Leningrad)	57(12): 1593	1972	0006-8136								
 190604-1	Centaurea grossheimii	Sosn.	Bot. Zhurn. (Moscow & Leningrad)	34: 288	1949	0006-8136								
 191022-1	Centaurea modesti	Fed.	Bot. Zhurn. (Moscow & Leningrad)	33: 37	1948	0006-8136								
 192462-1	Chamaemelum grossheimii	Fed.	Bot. Zhurn. (Moscow & Leningrad)	34: 291	1949	0006-8136								
 193362-1	Chrysanthemum chalchingolicum	Grubov	Bot. Zhurn. (Moscow & Leningrad)	57(12): 1592	1972	0006-8136								
-199172-1	Cousinia ◊ paraatripurpurea	Kamelin	Bot. Zhurn. (Moscow & Leningrad)	58(5): 632, without latin descr.	1973	0006-8136								
+199172-1	Cousinia √ó paraatripurpurea	Kamelin	Bot. Zhurn. (Moscow & Leningrad)	58(5): 632, without latin descr.	1973	0006-8136								
 20000530-1	Hornungia angustilimbata	V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	86(4): 134 (2001)	2001	0006-8136								
 20000531-1	Oxytropis kasakorum	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	86(4): 144 (2001)	2001	0006-8136								
 20000532-1	Ducrosia areysiana	(Deflers) Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	86(4): 151	2001	0006-8136								
@@ -748,7 +748,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20006368-1	Minuartia subgen. Charadzia	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 123	2002	0006-8136								
 20006369-1	Minuartia subgen. Tryphane	(Fenzl) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 124	2002	0006-8136								
 20006370-1	Minuartia helmii var. igoschinae	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 124	2002	0006-8136								
-20006371-1	Minuartia zarencznyi var. divestita	(Zapa?.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 125	2002	0006-8136								
+20006371-1	Minuartia zarencznyi var. divestita	(Zapa≈Ç.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 125	2002	0006-8136								
 20006372-1	Minuartia uralensis	(Clerc) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 125	2002	0006-8136								
 20006373-1	Minuartia subgen. Sabulina	(Rchb.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 126	2002	0006-8136								
 20006374-1	Minuartia subgen. Chetropis	(Raf.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 126	2002	0006-8136								
@@ -756,7 +756,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20006376-1	Minuartia setacea var. aucta	(Klokov) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 127	2002	0006-8136								
 20006377-1	Minuartia setacea var. puberula	(Kleopow) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 127	2002	0006-8136								
 20006378-1	Minuartia sect. Xeralsine	(Fourr.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 127	2002	0006-8136								
-20006379-1	Oberna behen subsp. carpatica	(Zapa?.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 128	2002	0006-8136								
+20006379-1	Oberna behen subsp. carpatica	(Zapa≈Ç.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 128	2002	0006-8136								
 20006380-1	Oberna schottiana	(Schur) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 129	2002	0006-8136								
 20006381-1	Salix rhamnifolia subsp. turuchanensis	A.K.Skvortsov & Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	87(3): 131	2002	0006-8136								
 20006382-1	Momordica rumphii	W.J.de Wilde	Bot. Zhurn. (Moscow & Leningrad)	87(3): 144	2002	0006-8136								
@@ -776,11 +776,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20010843-1	Vicia uralensis	Knjaz., Kulikov & E.G.Philippov	Bot. Zhurn. (Moscow & Leningrad)	87(8): 87 (2002)	2002	0006-8136								
 20010844-1	Oenanthe hiepii	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	87(8): 131 (2002)	2002	0006-8136								
 20010845-1	Seseli averyanovii	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	87(8): 134 (2002)	2002	0006-8136								
-20010846-1	Epilobium ◊ ludmilae	Chemeris & A.A.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	87(8): 138 (2002)	2002	0006-8136								
+20010846-1	Epilobium √ó ludmilae	Chemeris & A.A.Bobrov	Bot. Zhurn. (Moscow & Leningrad)	87(8): 138 (2002)	2002	0006-8136								
 20010847-1	Rosa rammiorum	N.V.Mironova	Bot. Zhurn. (Moscow & Leningrad)	87(9): 114 (2002)	2002	0006-8136								
 201191-1	Dendranthema xeromorpha	A.P.Khokhr.	Bot. Zhurn. (Moscow & Leningrad)	62(10): 1447	1977	0006-8136								
 202-1	trib. Acosmieae	Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	57(6): 587, nom. nov.	1972	0006-8136								
-2021-1	Enicosanthellum	B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(6): 808	1975	0006-8136								
+2021-1	Enicosanthellum	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(6): 808	1975	0006-8136								
 204058-2	Poa abbreviata var. jordalii	(A.E.Porsild) Prob.	Bot. Zhurn. (Moscow & Leningrad)	69: 259	1984	0006-8136								
 204197-1	Erigeron nabidshonii	Kamelin	Bot. Zhurn. (Moscow & Leningrad)	59(10): 1454	1974	0006-8136								
 205-1	trib. Camoensieae	Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	57(6): 594	1972	0006-8136								
@@ -919,7 +919,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 287875-1	Oreoloma violaceum	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	65(3): 426	1980	0006-8136								
 288145-1	Physoptychis caspica	(Hablizl) Botsch.	Bot. Zhurn. (Moscow & Leningrad)	61(10): 1440	1976	0006-8136								
 288280-1	Pterygostemon spathulatus	(Kar. & Kir.) V.V.Botschantz.	Bot. Zhurn. (Moscow & Leningrad)	62(10): 1504	1977	0006-8136								
-289667-2	◊ Dupontopoa	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69: 689	1984	0006-8136								
+289667-2	√ó Dupontopoa	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69: 689	1984	0006-8136								
 289889-1	Smelowskia jurtzevii	Velichkin	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1806	1974	0006-8136								
 289893-1	Smelowskia media	(Drury & Rollins) Velichkin	Bot. Zhurn. (Moscow & Leningrad)	64(2): 167	1979	0006-8136								
 289903-1	Smelowskia spathulatifolia	Velichkin	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1805, nom. nov.	1974	0006-8136								
@@ -950,7 +950,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 293153-1	Melo adana	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 576	1950	0006-8136								
 293154-1	Melo adzhur	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 575	1950	0006-8136								
 293155-1	Melo agrestis	(Naudin) Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 580	1950	0006-8136								
-293156-1	Melo ◊ ambiguus	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 577	1950	0006-8136								
+293156-1	Melo √ó ambiguus	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 577	1950	0006-8136								
 293157-1	Melo ameri	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 578	1950	0006-8136								
 293158-1	Melo cantalupa	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 576	1950	0006-8136								
 293159-1	Melo cassaba	Pangalo	Bot. Zhurn. (Moscow & Leningrad)	35: 575	1950	0006-8136								
@@ -999,22 +999,22 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 402486-1	Festuca buschiana	(St.-Yves) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	56(9): 1254	1971	0006-8136								
 402884-1	Festuca igoschiniae	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	56(9): 1254	1971	0006-8136								
 402950-1	Festuca kolesnikovii	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	56(9): 1254	1971	0006-8136								
-403309-1	Festuca polita	(Hal·csy) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	56(9): 1255	1971	0006-8136								
+403309-1	Festuca polita	(Hal√°csy) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	56(9): 1255	1971	0006-8136								
 403651-1	Festuca transcaucasica	(St.-Yves) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	56(9): 1254	1971	0006-8136								
 404626-1	Helictotrichon sangilense	Krasnob.	Bot. Zhurn. (Moscow & Leningrad)	62(6): 854	1977	0006-8136								
 40526-1	Siella	Pimenov	Bot. Zhurn. (Moscow & Leningrad)	63(12): 1746, nom. nov. nom. superfl. illegit., Berula Hoffm. ex Bess. not validly publ.	1978	0006-8136								
-41102-1	◊ Rhodocinium	Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43: 1723	1958	0006-8136								
+41102-1	√ó Rhodocinium	Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43: 1723	1958	0006-8136								
 41103-1	Rhodococcum	(Rupr.) Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43(12): 1721	1958	0006-8136								
 417321-1	Poa kolymensis	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	57(6): 646	1972	0006-8136								
-41805-1	Goniothalamus subsect. Goniothalamotypus	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
-41806-1	Goniothalamus subsect. Infundibuliformes	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
-41807-1	Goniothalamus sect. Infundibulistigma	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
-41808-1	Goniothalamus sect. Longistigma	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 552	1974	0006-8136								
-41809-1	Goniothalamus subsect. Multiseminales	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
-41810-1	Goniothalamus subsect. Pauciseminales	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
-41811-1	Goniothalamus subsect. Pleiospermi	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 552	1974	0006-8136								
-41812-1	Goniothalamus subsect. Polyspermi	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
-41813-1	Goniothalamus subgen. Truncatella	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41805-1	Goniothalamus subsect. Goniothalamotypus	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41806-1	Goniothalamus subsect. Infundibuliformes	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41807-1	Goniothalamus sect. Infundibulistigma	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41808-1	Goniothalamus sect. Longistigma	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 552	1974	0006-8136								
+41809-1	Goniothalamus subsect. Multiseminales	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41810-1	Goniothalamus subsect. Pauciseminales	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41811-1	Goniothalamus subsect. Pleiospermi	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 552	1974	0006-8136								
+41812-1	Goniothalamus subsect. Polyspermi	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
+41813-1	Goniothalamus subgen. Truncatella	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 551	1974	0006-8136								
 41881-1	Scheffleropsis sect. Integrifoliae	Grushv. & Skvortsova	Bot. Zhurn. (Moscow & Leningrad)	58(10): 1495	1973	0006-8136								
 42219-1	Cacalia ser. Auriculatae	Pojark. ex Boiko	Bot. Zhurn. (Moscow & Leningrad)	63(10): 1514	1978	0006-8136								
 42333-1	Helianthus sect. Angustifolia	Anashch.	Bot. Zhurn. (Moscow & Leningrad)	59(10): 1478	1974	0006-8136								
@@ -1031,7 +1031,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 42664-1	Strigosella subsect. Brevipetalae	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	57(9): 1040	1972	0006-8136								
 42665-1	Strigosella sect. Fedtschenkoa	(Regel) Botsch.	Bot. Zhurn. (Moscow & Leningrad)	57(9): 1039	1972	0006-8136								
 42666-1	Strigosella subsect. Longipetalae	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	57(9): 1042	1972	0006-8136								
-42667-1	Strigosella sect. Schirjajevija	(F.Dvo?·k) Botsch.	Bot. Zhurn. (Moscow & Leningrad)	57(9): 1038	1972	0006-8136								
+42667-1	Strigosella sect. Schirjajevija	(F.Dvo≈ô√°k) Botsch.	Bot. Zhurn. (Moscow & Leningrad)	57(9): 1038	1972	0006-8136								
 42752-1	Ephedra subsect. Americanae	I.F.Musaev	Bot. Zhurn. (Moscow & Leningrad)	63(4): 528	1978	0006-8136								
 42753-1	Ephedra subsect. Antisyphiliticae	I.F.Musaev	Bot. Zhurn. (Moscow & Leningrad)	63(4): 532	1978	0006-8136								
 42755-1	Ephedra subsect. Trifurcae	I.F.Musaev	Bot. Zhurn. (Moscow & Leningrad)	63(4): 536	1978	0006-8136								
@@ -1193,7 +1193,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60431938-2	Pinus ser. Attenuatae	(Burgh) L.V.Orlova	Bot. Zhurn. (Moscow & Leningrad)	88(6): 90 (24 June 2003)	2003	0006-8136								
 60431939-2	Hippocrepis subgen. Emerus	(Mill.) D.D.Sokoloff	Bot. Zhurn. (Moscow & Leningrad)	88(6): 112 (24 June 2003)	2003	0006-8136								
 60431940-2	Coronilla subgen. Securigera	(DC.) D.D.Sokoloff	Bot. Zhurn. (Moscow & Leningrad)	88(6): 112 (24 June 2003)	2003	0006-8136								
-60431942-2	Coronilla subgen. Ballia	(Hrab?tov·) D.D.Sokoloff	Bot. Zhurn. (Moscow & Leningrad)	88(6): 112 (24 June 2003)	2003	0006-8136								
+60431942-2	Coronilla subgen. Ballia	(Hrabƒõtov√°) D.D.Sokoloff	Bot. Zhurn. (Moscow & Leningrad)	88(6): 112 (24 June 2003)	2003	0006-8136								
 60431943-2	Astragalus ergenensis	Kamelin & Sytin	Bot. Zhurn. (Moscow & Leningrad)	88(6): 114 (-116; fig.) (24 June 2003)	2003	0006-8136								
 60431944-2	Astragalus subsect. Occidentalia	Kamelin & Sytin	Bot. Zhurn. (Moscow & Leningrad)	88(6): 118 (24 June 2003)	2003	0006-8136								
 60431945-2	Gastrolychnis alexeenkoi	Lazkov	Bot. Zhurn. (Moscow & Leningrad)	88(6): 120 (119-122; fig.) (24 June 2003)	2003	0006-8136								
@@ -1232,7 +1232,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60435917-2	Czeikia biloba	(Schiman-Czeika) Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	89(1): 115	2004 [25 Jan. 2004]	0006-8136								
 60435918-2	Festuca arietina var. barbata	V.A.Agaf.	Bot. Zhurn. (Moscow & Leningrad)	89(1): 118	2004 [25 Jan. 2004]	0006-8136								
 60435919-2	Salix bicolor subsp. basaltica	(H.J.Coste) I.V.Belyaeva	Bot. Zhurn. (Moscow & Leningrad)	89(2): 299	2004 [25 Feb. 2004]	0006-8136								
-60435920-2	Polygala ◊ kotovii	Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	89(4): 656 (-658)	2004	0006-8136								
+60435920-2	Polygala √ó kotovii	Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	89(4): 656 (-658)	2004	0006-8136								
 60451280-2	Eremopoa altaica subsp. songarica	(Schrenk ex Fisch. & C.A.Mey.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	51: 1104	1966	0006-8136								
 60451702-2	trib. Theodorovieae	Kolak.	Bot. Zhurn. (Moscow & Leningrad)	79(1): 115	1994 [24 Jan 1994]	0006-8136								
 662392-1	Orobanche grossheimii	Novopokr.	Bot. Zhurn. (Moscow & Leningrad)	34: 283	1949	0006-8136								
@@ -1248,16 +1248,16 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 686801-1	Limonium grubovii	Lincz.	Bot. Zhurn. (Moscow & Leningrad)	56(11): 1635	1971	0006-8136								
 687041-1	Neogontscharovia mira	(Lincz.) Lincz.	Bot. Zhurn. (Moscow & Leningrad)	56(11): 1634	1971	0006-8136								
 687042-1	Neogontscharovia miranda	(Lincz.) Lincz.	Bot. Zhurn. (Moscow & Leningrad)	56(11): 1634	1971	0006-8136								
-687043-1	Neogontscharovia saxifragifolia	(Rech.f. & Kˆie) Lincz.	Bot. Zhurn. (Moscow & Leningrad)	56(11): 1634	1971	0006-8136								
+687043-1	Neogontscharovia saxifragifolia	(Rech.f. & K√∂ie) Lincz.	Bot. Zhurn. (Moscow & Leningrad)	56(11): 1634	1971	0006-8136								
 687110-1	Popoviolimon turcomanicum	(Popov ex Lincz.) Lincz.	Bot. Zhurn. (Moscow & Leningrad)	56(11): 1633	1971	0006-8136								
 6887-1	Hammada	Iljin	Bot. Zhurn. (Moscow & Leningrad)	33: 582	1948	0006-8136								
 693111-1	Atraphaxis daghestanica	(Lovelius) Lovelius	Bot. Zhurn. (Moscow & Leningrad)	60(12): 1728	1975	0006-8136								
 693138-1	Atraphaxis rodinii	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	62(9): 1299	1977	0006-8136								
-693291-1	Calligonum ◊ barsukiense	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
-693389-1	Calligonum ◊ pseudodubjanskyi	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
-693390-1	Calligonum ◊ pseudomuravljanskyi	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
-693392-1	Calligonum ◊ pseudotetrapterum	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
-693422-1	Calligonum ◊ zaissano-muravljanskyi	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
+693291-1	Calligonum √ó barsukiense	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
+693389-1	Calligonum √ó pseudodubjanskyi	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
+693390-1	Calligonum √ó pseudomuravljanskyi	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
+693392-1	Calligonum √ó pseudotetrapterum	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
+693422-1	Calligonum √ó zaissano-muravljanskyi	Soskov	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1163	1975	0006-8136								
 695552-1	Polygonum chlorochryseum	M.M.Ivanova	Bot. Zhurn. (Moscow & Leningrad)	65(2): 279	1980	0006-8136								
 695924-1	Polygonum iturupense	V.P.Mishurov	Bot. Zhurn. (Moscow & Leningrad)	65(2): 275	1980	0006-8136								
 695935-1	Polygonum jurii	A.K.Skvortsov	Bot. Zhurn. (Moscow & Leningrad)	57(5): 494, nom. nov.	1972	0006-8136								
@@ -1315,41 +1315,41 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 713944-1	Ranunculus tebulossicus	Prima	Bot. Zhurn. (Moscow & Leningrad)	59(3): 369	1974	0006-8136								
 714589-1	Thalictrum macrophyllum	V.V.Botschantz.	Bot. Zhurn. (Moscow & Leningrad)	58(11): 1643, as 'macrophylliym'	1973	0006-8136								
 721637-1	Armeniaca kostiniae	E.N.Lomakin	Bot. Zhurn. (Moscow & Leningrad)	62(6): 857	1977	0006-8136								
-72701-1	Cyathostemma vietnamense	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(8): 1157	1974	0006-8136								
-72733-1	Dasymaschalon filipes	(Ridl.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 229	1975	0006-8136								
-727363-1	Photinia cucphuongensis	T.H.NguyÍn & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	65(9): 1351 (in error as 1251)	1980	0006-8136								
-72746-1	Dasymaschalon yunnanense	(Hu) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 230	1975	0006-8136								
-72797-1	Desmos macrocarpus	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1775	1974	0006-8136								
-72802-1	Desmos pedunculosus	(A.DC.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1774	1974	0006-8136								
+72701-1	Cyathostemma vietnamense	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(8): 1157	1974	0006-8136								
+72733-1	Dasymaschalon filipes	(Ridl.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 229	1975	0006-8136								
+727363-1	Photinia cucphuongensis	T.H.Nguy√™n & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	65(9): 1351 (in error as 1251)	1980	0006-8136								
+72746-1	Dasymaschalon yunnanense	(Hu) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 230	1975	0006-8136								
+72797-1	Desmos macrocarpus	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1775	1974	0006-8136								
+72802-1	Desmos pedunculosus	(A.DC.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1774	1974	0006-8136								
 728813-1	Potentilla pulviniformis	A.P.Khokhr.	Bot. Zhurn. (Moscow & Leningrad)	65(9): 1354 (in error as 1254)	1980	0006-8136								
 728895-1	Potentilla rupifraga	A.P.Khokhr.	Bot. Zhurn. (Moscow & Leningrad)	65(9): 1352 (in error as 1252)	1980	0006-8136								
 729266-1	Potentilla wrangelii	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	62(5): 675	1977	0006-8136								
-72951-1	Enicosanthellum petelotii	(Merr.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(6): 812	1975	0006-8136								
-72952-1	Enicosanthellum plagioneurum	(Diels) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(6): 812	1975	0006-8136								
+72951-1	Enicosanthellum petelotii	(Merr.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(6): 812	1975	0006-8136								
+72952-1	Enicosanthellum plagioneurum	(Diels) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(6): 812	1975	0006-8136								
 731500-1	Rosa alabukensis	V.I.Tkachenko	Bot. Zhurn. (Moscow & Leningrad)	64(2): 218	1979	0006-8136								
-73156-1	Goniothalamus bracteosus	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 553	1974	0006-8136								
-73173-1	Goniothalamus clemensii	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 552	1974	0006-8136								
+73156-1	Goniothalamus bracteosus	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 553	1974	0006-8136								
+73173-1	Goniothalamus clemensii	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 552	1974	0006-8136								
 731921-1	Rosa calantha	V.I.Tkachenko	Bot. Zhurn. (Moscow & Leningrad)	64(2): 218	1979	0006-8136								
-73209-1	Goniothalamus laoticus	(Finet & Gagnep.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 554	1974	0006-8136								
+73209-1	Goniothalamus laoticus	(Finet & Gagnep.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(4): 554	1974	0006-8136								
 732344-1	Rosa dsharkenti	Chrshanovsky	Bot. Zhurn. (Moscow & Leningrad)	33: 417	1948	0006-8136								
 732988-1	Rosa karaalmensis	V.I.Tkachenko	Bot. Zhurn. (Moscow & Leningrad)	64(2): 219	1979	0006-8136								
 734096-1	Rosa russanovii	V.I.Tkachenko	Bot. Zhurn. (Moscow & Leningrad)	64(2): 219	1979	0006-8136								
 734630-1	Rosa vassilczenkoi	V.I.Tkachenko	Bot. Zhurn. (Moscow & Leningrad)	64(2): 220	1979	0006-8136								
-73804-1	Meiogyne hainanensis	(Merr.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	58(8): 1148	1973	0006-8136								
-73809-1	Meiogyne monogyna	(Merr.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1778	1974	0006-8136								
-73841-1	Melodorum forbesii	(Baker f.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 240	1974	0006-8136								
-73870-1	Melodorum oligocarpum	(Diels) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 240	1974	0006-8136								
-73875-1	Melodorum papuasicum	(Diels) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 240	1974	0006-8136								
-73893-1	Melodorum siamense	(Scheff.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 241	1974	0006-8136								
-73895-1	Melodorum subglabrum	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 242	1974	0006-8136								
-73901-1	Melodorum vietnamense	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 242, nom. nov.	1974	0006-8136								
-73968-1	Mitrella aberrans	(Maing. ex Hook.f. & Thomson) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 244	1974	0006-8136								
-73973-1	Mitrella mesnyi	(Pierre) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 244	1974	0006-8136								
+73804-1	Meiogyne hainanensis	(Merr.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	58(8): 1148	1973	0006-8136								
+73809-1	Meiogyne monogyna	(Merr.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1778	1974	0006-8136								
+73841-1	Melodorum forbesii	(Baker f.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 240	1974	0006-8136								
+73870-1	Melodorum oligocarpum	(Diels) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 240	1974	0006-8136								
+73875-1	Melodorum papuasicum	(Diels) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 240	1974	0006-8136								
+73893-1	Melodorum siamense	(Scheff.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 241	1974	0006-8136								
+73895-1	Melodorum subglabrum	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 242	1974	0006-8136								
+73901-1	Melodorum vietnamense	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 242, nom. nov.	1974	0006-8136								
+73968-1	Mitrella aberrans	(Maing. ex Hook.f. & Thomson) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 244	1974	0006-8136								
+73973-1	Mitrella mesnyi	(Pierre) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 244	1974	0006-8136								
 741729-1	Sorbus fedorovii	Zaik.	Bot. Zhurn. (Moscow & Leningrad)	59(11): 1605	1974	0006-8136								
 741780-1	Sorbus himalaica	Gabrieljan	Bot. Zhurn. (Moscow & Leningrad)	56(5): 658	1971	0006-8136								
-74187-1	Oncodostigma mindorense	(Merr.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1779	1974	0006-8136								
-74711-1	Polyalthia rubra	(Merr.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1779	1974	0006-8136								
-74721-1	Polyalthia sessiliflora	(Ast) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1779	1974	0006-8136								
+74187-1	Oncodostigma mindorense	(Merr.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1779	1974	0006-8136								
+74711-1	Polyalthia rubra	(Merr.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1779	1974	0006-8136								
+74721-1	Polyalthia sessiliflora	(Ast) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1779	1974	0006-8136								
 77063026-1	Silene assyriaca	Hausskn. & Bornm. ex Lazkov	Bot. Zhurn. (Moscow & Leningrad)	89(7): 1181 (1180; fig.)	2004 [21 July 2004]	0006-8136								
 77063027-1	Adenophora probatovae	A.E.Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	89(7): 1211	2004 [21 July 2004]	0006-8136								
 77063028-1	Ophioiris	(Y.T.Zhao) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	89(8): 1359	2004 [Aug 2004]	0006-8136								
@@ -1368,7 +1368,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77068725-1	Xyridion carthaliniae	(Fomin) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 58	2005 [27 Jan 2005]	0006-8136								
 77068726-1	Xyridion pseudonothum	(Galushko) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 58	2005 [27 Jan 2005]	0006-8136								
 77068727-1	Xyridion orientalis	(Mill.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 58	2005 [27 Jan 2005]	0006-8136								
-77068728-1	Xyridion ponticum	(Zapa?.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 59	2005 [27 Jan 2005]	0006-8136								
+77068728-1	Xyridion ponticum	(Zapa≈Ç.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 59	2005 [27 Jan 2005]	0006-8136								
 77068729-1	Xyridion ser. Ludwigia	(Doronkin) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 59	2005 [27 Jan 2005]	0006-8136								
 77068730-1	Xyridion ludwigii	(Maxim.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 59	2005 [27 Jan 2005]	0006-8136								
 77068732-1	Xyridion sect. Spathula	(Tausch) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	90(1): 59	2005 [27 Jan 2005]	0006-8136								
@@ -1464,7 +1464,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77074087-1	Acantholimon strictiforme	Nikitina ex Lazkov	Bot. Zhurn. (Moscow & Leningrad)	90(12): 1895 (-1896; fig.)	2005 [20 Dec 2005]	0006-8136								
 77074088-1	Acantholimon narynense	Lazkov	Bot. Zhurn. (Moscow & Leningrad)	90(12): 1895 (1897; fig.)	2005 [20 Dec 2005]	0006-8136								
 77074089-1	Pternopetalum bipinnatum	Li S.Wang	Bot. Zhurn. (Moscow & Leningrad)	90(12): 1898 (-1902; fig.)	2005 [20 Dec 2005]	0006-8136								
-77074090-1	Potamogeton ◊ vepsicus	A.A.Bobrov & Chemeris	Bot. Zhurn. (Moscow & Leningrad)	91(1): 74 (71-84; figs. 1-5)	2006 [25 Jan 2006]	0006-8136								
+77074090-1	Potamogeton √ó vepsicus	A.A.Bobrov & Chemeris	Bot. Zhurn. (Moscow & Leningrad)	91(1): 74 (71-84; figs. 1-5)	2006 [25 Jan 2006]	0006-8136								
 77074091-1	Potentilla muldaschevii	Knjaz. & Semerikov	Bot. Zhurn. (Moscow & Leningrad)	91(1): 86 (-90; figs. 1(2), 2)	2006 [25 Jan 2006]	0006-8136								
 77074092-1	Glyceria subgen. Hydropoa	(Dumort.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	91(2): 258	2006 [20 Feb 2006]	0006-8136								
 77074093-1	Glyceria triflora var. fauriei	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	91(2): 258	2006 [20 Feb 2006]	0006-8136								
@@ -1493,7 +1493,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77074118-1	Aldina speciosa	M.Yu.Gontsch. & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	91(2): 316 (315-318; figs. 1(2), 3)	2006 [20 Feb 2006]	0006-8136								
 77074119-1	Aldina amazonica	M.Yu.Gontsch. & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	91(2): 318 (315, 319; figs. 1(3), 4)	2006 [20 Feb 2006]	0006-8136								
 77074120-1	Aldina microphylla	M.Yu.Gontsch. & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	91(2): 319 (315, 320-321; figs. 1(4), 5)	2006 [20 Feb 2006]	0006-8136								
-77074121-1	Pilosella gypsicola	(B?ocki) Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	91(4): 596	2006 [Apr 2006]	0006-8136								
+77074121-1	Pilosella gypsicola	(B≈Çocki) Val.N.Tikhom.	Bot. Zhurn. (Moscow & Leningrad)	91(4): 596	2006 [Apr 2006]	0006-8136								
 77077679-1	Sinobaijiania	C.Jeffrey & W.J.de Wilde	Bot. Zhurn. (Moscow & Leningrad)	91(5): 769	2006 [25 May 2006]	0006-8136								
 77079982-1	Sinobaijiania yunnanensis	(A.M.Lu & Zhi Y.Zhang) C.Jeffrey & W.J.de Wilde	Bot. Zhurn. (Moscow & Leningrad)	91(5): 769	2006 [25 May 2006]	0006-8136								
 77079983-1	Sinobaijiania decipiens	C.Jeffrey & W.J.de Wilde	Bot. Zhurn. (Moscow & Leningrad)	91(5): 769 (-770)	2006 [25 May 2006]	0006-8136								
@@ -1515,14 +1515,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77080002-1	Geranium amurense	Tsyren.	Bot. Zhurn. (Moscow & Leningrad)	91(8): 1253 (1252-1255)	2006 [22 Aug 2006]	0006-8136								
 77080003-1	Lamiostachys	Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	91(8): 1258	2006 [22 Aug 2006]	0006-8136								
 77080004-1	Lamiostachys tubulosa	(MacOwan) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	91(8): 1258	2006 [22 Aug 2006]	0006-8136								
-77080005-1	Prunus ◊ rossica	Eremin	Bot. Zhurn. (Moscow & Leningrad)	91(9): 1408 (1405-1410)	2006 [25 Sep 2006]	0006-8136								
+77080005-1	Prunus √ó rossica	Eremin	Bot. Zhurn. (Moscow & Leningrad)	91(9): 1408 (1405-1410)	2006 [25 Sep 2006]	0006-8136								
 77080006-1	Ferula pimenovii	Lazkov	Bot. Zhurn. (Moscow & Leningrad)	91(9): 1410 (-1412; fig.)	2006 [25 Sep 2006]	0006-8136								
 77080007-1	Stachys sect. Longipedunculatae	Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	91(10): 1585	2006 [24 Oct 2006]	0006-8136								
 77080009-1	Eremiris	(Spach) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	91(11): 1707 (-1708)	2006 [24 Nov 2006]	0006-8136								
 77080010-1	Eremiris lactea	(Pall.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	91(11): 1708	2006 [24 Nov 2006]	0006-8136								
 77080012-1	Eremiris oxypetala	(Bunge) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	91(11): 1708	2006 [24 Nov 2006]	0006-8136								
 77080014-1	Platanthera densa subsp. orientalis	(Schltr.) Efimov	Bot. Zhurn. (Moscow & Leningrad)	91(11): 1723	2006 [24 Nov 2006]	0006-8136								
-77080015-1	Platanthera ◊ mixta	Efimov	Bot. Zhurn. (Moscow & Leningrad)	91(11): 1728 (-1729; fig. 9, map)	2006 [24 Nov 2006]	0006-8136								
+77080015-1	Platanthera √ó mixta	Efimov	Bot. Zhurn. (Moscow & Leningrad)	91(11): 1728 (-1729; fig. 9, map)	2006 [24 Nov 2006]	0006-8136								
 77080016-1	Menitskia	(Krestovsk.) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	91(12): 1893	2006 [Dec 2006]	0006-8136								
 77080017-1	Menitskia tibetica	(Vatke) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	91(12): 1894	2006 [Dec 2006]	0006-8136								
 77080018-1	Sclerosiphon ventricosum	(Pall.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	91(12): 1897	2006 [Dec 2006]	0006-8136								
@@ -1539,18 +1539,18 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77089248-1	Euphorbia tshuiensis var. tuvinica	Baikov	Bot. Zhurn. (Moscow & Leningrad)	92(1): 151	2007 [25 Jan 2007]	0006-8136								
 77089249-1	Euphorbia ser. Subcordatae	Baikov	Bot. Zhurn. (Moscow & Leningrad)	92(1): 154	2007 [25 Jan 2007]	0006-8136								
 77089250-1	Trapa nedoluzhkoi	Pshenn.	Bot. Zhurn. (Moscow & Leningrad)	92(1): 160 (159)	2007 [25 Jan 2007]	0006-8136								
-77089251-1	Aizopsis ◊ pilosa	S.B.Gontch. & Koldaeva	Bot. Zhurn. (Moscow & Leningrad)	92(1): 161 (-163; fig. 1)	2007 [25 Jan 2007]	0006-8136								
+77089251-1	Aizopsis √ó pilosa	S.B.Gontch. & Koldaeva	Bot. Zhurn. (Moscow & Leningrad)	92(1): 161 (-163; fig. 1)	2007 [25 Jan 2007]	0006-8136								
 77089252-1	Stachys sect. Prostratae	Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	92(2): 286	2007 [26 Feb 2007]	0006-8136								
 77089253-1	Viola rudolfii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 385 (-387; fig. 1)	2007 [26 Mar 2007]	0006-8136								
-77089254-1	Viola ◊ schauloi	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 387 (-389; fig. 3, map)	2007 [26 Mar 2007]	0006-8136								
-77089255-1	Viola ◊ ganeschinii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 389 (-390; fig. 4)	2007 [26 Mar 2007]	0006-8136								
-77089256-1	Viola ◊ nataliae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 390 (-392; fig. 5)	2007 [26 Mar 2007]	0006-8136								
-77089257-1	Viola ◊ bezdelevae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 392 (-393; fig. 6)	2007 [26 Mar 2007]	0006-8136								
-77089258-1	Viola ◊ incissecta	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 393 (-395; fig. 7)	2007 [26 Mar 2007]	0006-8136								
-77089259-1	Viola ◊ grubovii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 395 (-397; fig. 10)	2007 [26 Mar 2007]	0006-8136								
-77089260-1	Viola ◊ juzepczukii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 397 (-398; fig. 12)	2007 [26 Mar 2007]	0006-8136								
-77089261-1	Viola ◊ karakulensis	Vl.V.Nikitin & O.Baranova	Bot. Zhurn. (Moscow & Leningrad)	92(3): 398 (-399; fig. 13, map)	2007 [26 Mar 2007]	0006-8136								
-77089262-1	Viola ◊ marihelenae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 399 (-402; fig. 14, map)	2007 [26 Mar 2007]	0006-8136								
+77089254-1	Viola √ó schauloi	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 387 (-389; fig. 3, map)	2007 [26 Mar 2007]	0006-8136								
+77089255-1	Viola √ó ganeschinii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 389 (-390; fig. 4)	2007 [26 Mar 2007]	0006-8136								
+77089256-1	Viola √ó nataliae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 390 (-392; fig. 5)	2007 [26 Mar 2007]	0006-8136								
+77089257-1	Viola √ó bezdelevae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 392 (-393; fig. 6)	2007 [26 Mar 2007]	0006-8136								
+77089258-1	Viola √ó incissecta	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 393 (-395; fig. 7)	2007 [26 Mar 2007]	0006-8136								
+77089259-1	Viola √ó grubovii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 395 (-397; fig. 10)	2007 [26 Mar 2007]	0006-8136								
+77089260-1	Viola √ó juzepczukii	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 397 (-398; fig. 12)	2007 [26 Mar 2007]	0006-8136								
+77089261-1	Viola √ó karakulensis	Vl.V.Nikitin & O.Baranova	Bot. Zhurn. (Moscow & Leningrad)	92(3): 398 (-399; fig. 13, map)	2007 [26 Mar 2007]	0006-8136								
+77089262-1	Viola √ó marihelenae	Vl.V.Nikitin	Bot. Zhurn. (Moscow & Leningrad)	92(3): 399 (-402; fig. 14, map)	2007 [26 Mar 2007]	0006-8136								
 77089263-1	Cotoneaster mamajevii	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	92(3): 423 (-426; fig. 1, map)	2007 [26 Mar 2007]	0006-8136								
 77089279-1	Limniris sanguinea	(Hornem.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	92(4): 551	2007 [18 Apr 2007]	0006-8136								
 77089280-1	Limniris typhifolia	(Kitag.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	92(4): 551	2007 [18 Apr 2007]	0006-8136								
@@ -1604,7 +1604,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77089338-1	Limniris clarkei	(Baker ex Hook.f.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	92(4): 551	2007 [18 Apr 2007]	0006-8136								
 77089339-1	Limniris tenax	(Douglas ex Lindl.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	92(4): 552	2007 [18 Apr 2007]	0006-8136								
 77089340-1	Limniris laevigata	(Fisch.) Rodion.	Bot. Zhurn. (Moscow & Leningrad)	92(4): 552	2007 [18 Apr 2007]	0006-8136								
-77089345-1	Rhamnus ◊ pissjaukovae	O.A.Popova	Bot. Zhurn. (Moscow & Leningrad)	92(4): 556 (554-557; map)	2007 [18 Apr 2007]	0006-8136								
+77089345-1	Rhamnus √ó pissjaukovae	O.A.Popova	Bot. Zhurn. (Moscow & Leningrad)	92(4): 556 (554-557; map)	2007 [18 Apr 2007]	0006-8136								
 77089348-1	subtrib. Allocaryinae	Grig. ex Ovczinnikova	Bot. Zhurn. (Moscow & Leningrad)	92(5): 753 (-754)	2007 [16 May 2007]	0006-8136								
 77089349-1	subtrib. Anoplocaryinae	Ovczinnikova	Bot. Zhurn. (Moscow & Leningrad)	92(5): 754	2007 [16 May 2007]	0006-8136								
 77089350-1	trib. Asperugeae	Zakirov ex Ovczinnikova	Bot. Zhurn. (Moscow & Leningrad)	92(5): 755	2007 [16 May 2007]	0006-8136								
@@ -1673,10 +1673,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77095190-1	Bryophyllum cymbifolium	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 463	2008 [31 Mar 2008]	0006-8136								
 77095191-1	Bryophyllum inauratum	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 463	2008 [31 Mar 2008]	0006-8136								
 77095192-1	Bryophyllum laetivirens	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 463	2008 [31 Mar 2008]	0006-8136								
-77095193-1	Bryophyllum ◊ lokarana	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 463	2008 [31 Mar 2008]	0006-8136								
+77095193-1	Bryophyllum √ó lokarana	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 463	2008 [31 Mar 2008]	0006-8136								
 77095194-1	Bryophyllum peltatum	(Baker) V.V.Byalt, Udalova & I.M.Vassiljeva	Bot. Zhurn. (Moscow & Leningrad)	93(3): 463	2008 [31 Mar 2008]	0006-8136								
 77095195-1	Bryophyllum peltigerum	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 464	2008 [31 Mar 2008]	0006-8136								
-77095196-1	Bryophyllum ◊ rechingeri	(Raym.-Hamet ex Rauh & Hebding) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 464	2008 [31 Mar 2008]	0006-8136								
+77095196-1	Bryophyllum √ó rechingeri	(Raym.-Hamet ex Rauh & Hebding) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 464	2008 [31 Mar 2008]	0006-8136								
 77095197-1	Bryophyllum sanctulum	(Desc.) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 464	2008 [31 Mar 2008]	0006-8136								
 77095198-1	Kalanchoe auriculata	(Raadts) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	93(3): 464	2008 [31 Mar 2008]	0006-8136								
 77095199-1	Pteridium aquilinum subsp. tauricum	(C.Presl) Gureeva & C.N.Page	Bot. Zhurn. (Moscow & Leningrad)	93(6): 929	2008 [30 Jun 2008]	0006-8136								
@@ -1721,12 +1721,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77099157-1	Lepidium subsect. Foetidum	V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	93(12): 1968	2008 [25 Dec 2008]	0006-8136								
 77099158-1	Lepidium subsect. Densiflorum	V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	93(12): 1968 (-1969)	2008 [25 Dec 2008]	0006-8136								
 77099159-1	Lepidium subgen. Phaenopterum	V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	93(12): 1970	2008 [25 Dec 2008]	0006-8136								
-77099160-1	Salix ◊ zhataica	Efimova, Shurduk & Ahti	Bot. Zhurn. (Moscow & Leningrad)	94(1): 83 (-89; figs. 1-2, map)	2009 [30 Jan 2009]	0006-8136								
+77099160-1	Salix √ó zhataica	Efimova, Shurduk & Ahti	Bot. Zhurn. (Moscow & Leningrad)	94(1): 83 (-89; figs. 1-2, map)	2009 [30 Jan 2009]	0006-8136								
 77099161-1	Centrolepis racemosa	D.D.Sokoloff & Remizowa	Bot. Zhurn. (Moscow & Leningrad)	94(1): 93 (92-100; figs.)	2009 [30 Jan 2009]	0006-8136								
 77099186-1	Aldina barnebyana	M.Yu.Gontsch. & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 270 (-271; fig. 1)	2009 [16 Feb 2009]	0006-8136								
 77099187-1	Aldina rio-negrae	M.Yu.Gontsch. & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 271 (-273; fig. 2)	2009 [16 Feb 2009]	0006-8136								
 77099188-1	Aldina aquae-negrae	M.Yu.Gontsch. & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 273 (-274; fig. 3)	2009 [16 Feb 2009]	0006-8136								
-77099189-1	Elytrigia sect. Dasystachyae	(¡.Lˆve) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 275	2009 [16 Feb 2009]	0006-8136								
+77099189-1	Elytrigia sect. Dasystachyae	(√Å.L√∂ve) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 275	2009 [16 Feb 2009]	0006-8136								
 77099191-1	Agropyron glabrispiculatum	(Tzvelev) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 276	2009 [16 Feb 2009]	0006-8136								
 77099192-1	Leymus sect. Hystricoides	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 276 (-277)	2009 [16 Feb 2009]	0006-8136								
 77099193-1	Hystrix sect. Macrohystrix	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	94(2): 277	2009 [16 Feb 2009]	0006-8136								
@@ -1755,7 +1755,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77102000-1	Astragalus sytinii	Belous & Laktionov	Bot. Zhurn. (Moscow & Leningrad)	94(4): 573 (572-576, map)	2009 [28 Apr 2009]	0006-8136								
 77103367-1	Astragalus neokarelinianus	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	94(9): 1372 (-1375; fig. 1)	2009 [29 Sep 2009]	0006-8136								
 77103371-1	Clathrotropis rosea	M.Yu.Gontsch. & Povydysh	Bot. Zhurn. (Moscow & Leningrad)	94(9): 1380 (1378-1381; fig.)	2009 [29 Sep 2009]	0006-8136								
-77103374-1	Pedicularis ◊ sagalaevii	V.V.Byalt & Firsov	Bot. Zhurn. (Moscow & Leningrad)	94(10): 1556 (1555-1557)	2009 [19 Oct 2009]	0006-8136								
+77103374-1	Pedicularis √ó sagalaevii	V.V.Byalt & Firsov	Bot. Zhurn. (Moscow & Leningrad)	94(10): 1556 (1555-1557)	2009 [19 Oct 2009]	0006-8136								
 77103375-1	Puccinellia candida	Enustsch. & Gnutikov	Bot. Zhurn. (Moscow & Leningrad)	94(10): 1557 (-1559; fig.)	2009 [19 Oct 2009]	0006-8136								
 77103378-1	Mertensia sinica	Kamelin	Bot. Zhurn. (Moscow & Leningrad)	94(10): 1560 (-1562; fig.)	2009 [19 Oct 2009]	0006-8136								
 77103380-1	Mertensia bracteata	(Willd. ex Roem. & Schult.) Kamelin	Bot. Zhurn. (Moscow & Leningrad)	94(10): 1565	2009 [19 Oct 2009]	0006-8136								
@@ -1777,7 +1777,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77107369-1	Hierochloe chakassica	(Peschkova) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	95(6): 862	2010	0006-8136								
 77107395-1	Deschampsia leskovii	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	95(6): 860	2010	0006-8136								
 77107396-1	Deschampsia wilhelmsii	(Steud.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	95(6): 860	2010	0006-8136								
-77107397-1	Deschampsia ◊ hybridogena	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	95(6): 860 (-861)	2010	0006-8136								
+77107397-1	Deschampsia √ó hybridogena	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	95(6): 860 (-861)	2010	0006-8136								
 77107398-1	Deschampsia baicalensis	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	95(6): 861	2010	0006-8136								
 77107405-1	Calamagrostis sect. Deschampsioides	Tzvelev & Prob.	Bot. Zhurn. (Moscow & Leningrad)	95(6): 862	2010	0006-8136								
 77107406-1	Calamagrostis schmidtiana	Tzvelev & Prob.	Bot. Zhurn. (Moscow & Leningrad)	95(6): 862 (-863)	2010	0006-8136								
@@ -1806,8 +1806,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77109513-1	Elisanthe hoefftiana	(Fisch. ex C.A.Mey.) Lazkov	Bot. Zhurn. (Moscow & Leningrad)	95(10): 1485	2010 [Oct 2010]	0006-8136								
 77109533-1	Gypsophila neoszovitsiana	Lazkov	Bot. Zhurn. (Moscow & Leningrad)	95(10): 1485	2010 [Oct 2010]	0006-8136								
 77110923-1	Campanula karabaghensis	Mikheev	Bot. Zhurn. (Moscow & Leningrad)	95(11): 1623 (-1624)	2010	0006-8136								
-77111050-1	◊ Elyleymus magadanensis	(A.P.Khokhr.) Lysenko	Bot. Zhurn. (Moscow & Leningrad)	95(12): 1763	2010	0006-8136								
-77111052-1	◊ Elymotrigia versicolor	(A.P.Khokhr.) Lysenko	Bot. Zhurn. (Moscow & Leningrad)	95(12): 1764	2010	0006-8136								
+77111050-1	√ó Elyleymus magadanensis	(A.P.Khokhr.) Lysenko	Bot. Zhurn. (Moscow & Leningrad)	95(12): 1763	2010	0006-8136								
+77111052-1	√ó Elymotrigia versicolor	(A.P.Khokhr.) Lysenko	Bot. Zhurn. (Moscow & Leningrad)	95(12): 1764	2010	0006-8136								
 77115044-1	Baphia subgen. Macrobaphion	M.Yu.Gontsch. & Povydysh	Bot. Zhurn. (Moscow & Leningrad)	96(7): 929	2011 [Jul 2011]	0006-8136								
 77115045-1	Baphia multiflora subsp. bangweolensis	(R.E.Fr.) M.Yu.Gontsch. & Povydysh	Bot. Zhurn. (Moscow & Leningrad)	96(7): 937	2011 [Jul 2011]	0006-8136								
 77115046-1	Baphia dewevrei subsp. marceliana	(De Wild.) M.Yu.Gontsch. & Povydysh	Bot. Zhurn. (Moscow & Leningrad)	96(7): 944	2011 [Jul 2011]	0006-8136								
@@ -1821,7 +1821,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77115118-1	Primula matthioli subsp. pekinensis	(V.A.Richt.) Kovt.	Bot. Zhurn. (Moscow & Leningrad)	96(7): 963	2011 [Jul 2011]	0006-8136								
 77115119-1	Primula matthioli subsp. sachalinensis	(Losinsk.) Kovt.	Bot. Zhurn. (Moscow & Leningrad)	96(7): 964	2011 [Jul 2011]	0006-8136								
 77115120-1	Primula matthioli subsp. sibirica	(Andrz. ex Besser) Kovt.	Bot. Zhurn. (Moscow & Leningrad)	96(7): 964	2011 [Jul 2011]	0006-8136								
-77116132-1	Hedysarum ◊ smirnovii	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	96(8): 1123 (-1124; fig. 1, map)	2011 [25 Aug 2011]	0006-8136								
+77116132-1	Hedysarum √ó smirnovii	Knjaz.	Bot. Zhurn. (Moscow & Leningrad)	96(8): 1123 (-1124; fig. 1, map)	2011 [25 Aug 2011]	0006-8136								
 77116340-1	Astragalus buchtormensis var. fuscescens	Knjaz. & Kulikov	Bot. Zhurn. (Moscow & Leningrad)	96(10): 1361	2011 [Oct 2011]	0006-8136								
 77116342-1	Astragalus lagobromus	Knjaz. & Kulikov	Bot. Zhurn. (Moscow & Leningrad)	96(10): 1361 (-1364; fig. 1)	2011 [Oct 2011]	0006-8136								
 77116344-1	Crataegus talyschensis	Pojark. ex Ufimov	Bot. Zhurn. (Moscow & Leningrad)	96(9): 1254 (-1255; fig.)	2011 [Sep 2011]	0006-8136								
@@ -1889,30 +1889,30 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 848747-1	Seseli transcaucasicum	(Schischk.) Pimenov & Sdobnina	Bot. Zhurn. (Moscow & Leningrad)	60(8): 1119	1975	0006-8136								
 848801-1	Siella erecta	(Huds.) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	63(12): 1746, genus illegit.	1978	0006-8136								
 849850-1	Trinia biebersteinii	Fedor.	Bot. Zhurn. (Moscow & Leningrad)	63(4): 613	1978	0006-8136								
-858640-1	◊ Rhodocinium intermedium	(Ruthe) Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43: 1723	1958	0006-8136								
-858641-1	Rhodococcum ◊ hybridum	Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43(12): 1723	1958	0006-8136								
+858640-1	√ó Rhodocinium intermedium	(Ruthe) Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43: 1723	1958	0006-8136								
+858641-1	Rhodococcum √ó hybridum	Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43(12): 1723	1958	0006-8136								
 858642-1	Rhodococcum minus	(Lodd., G.Lodd. & W.Lodd.) Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43(12): 1722	1958	0006-8136								
 858643-1	Rhodococcum vitis-idaea	(L.) Avrorin	Bot. Zhurn. (Moscow & Leningrad)	43(12): 1723	1958	0006-8136								
 874094-1	Amaranthus graecizans subsp. thellungianus	(Nevski) Gusev	Bot. Zhurn. (Moscow & Leningrad)	57(5): 462	1972	0006-8136								
 874192-1	Pistacia vera f. semidehiscens	K.P.Popov	Bot. Zhurn. (Moscow & Leningrad)	61(2): 180, without latin descr. or type	1976	0006-8136								
-874223-1	Dasymaschalon blumei var. suratense	B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 229	1975	0006-8136								
-874224-1	Dasymaschalon blumei var. wallichii	(Hook.f. & Thomson) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 228	1975	0006-8136								
-874225-1	Dasymaschalon clusiflorum var. oblongatum	(Merr.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 231	1975	0006-8136								
-874226-1	Dasymaschalon rostratum var. glaucum	(Merr. & Chun) B‚n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 229	1975	0006-8136								
-874227-1	Desmos chinensis var. brevifolius	(Teijsm. & Binn. ex Boerl.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1773	1974	0006-8136								
-874228-1	Desmos chinensis var. lawii	(Hook.f. & Thomson) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1774	1974	0006-8136								
-874229-1	Desmos chinensis var. macropetalus	(Teijsm. & Binn. ex Boerl.) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1774	1974	0006-8136								
-874230-1	Desmos cochinchinensis var. fulvescells	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1770	1974	0006-8136								
-874231-1	Desmos pedunculosus var. tonkinensis	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1775	1974	0006-8136								
-874232-1	Goniothalamus amuyon var. ramosii	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 663	1974	0006-8136								
-874233-1	Goniothalamus dolichopetalus var. basilensis	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 671	1974	0006-8136								
-874234-1	Goniothalamus elmeri var. gitingensis	(Elmer) B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 664, without basionym ref.	1974	0006-8136								
-874235-1	Goniothalamus elmeri var. longipedicellatus	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 664	1974	0006-8136								
-874236-1	Goniothalamus gabriacianus var. coriaceifolius	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 662	1974	0006-8136								
-874237-1	Goniothalamus macrophyllus var. kerrii	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 670, as 'kerri'	1974	0006-8136								
-874238-1	Goniothalamus macrophyllus var. lanceolatus	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 670	1974	0006-8136								
-874239-1	Goniothalamus philippinensis var. ramosii	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 660	1974	0006-8136								
-874242-1	Melodorum vietnamense var. calcareum	B‚n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 242	1974	0006-8136								
+874223-1	Dasymaschalon blumei var. suratense	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 229	1975	0006-8136								
+874224-1	Dasymaschalon blumei var. wallichii	(Hook.f. & Thomson) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 228	1975	0006-8136								
+874225-1	Dasymaschalon clusiflorum var. oblongatum	(Merr.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 231	1975	0006-8136								
+874226-1	Dasymaschalon rostratum var. glaucum	(Merr. & Chun) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	60(2): 229	1975	0006-8136								
+874227-1	Desmos chinensis var. brevifolius	(Teijsm. & Binn. ex Boerl.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1773	1974	0006-8136								
+874228-1	Desmos chinensis var. lawii	(Hook.f. & Thomson) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1774	1974	0006-8136								
+874229-1	Desmos chinensis var. macropetalus	(Teijsm. & Binn. ex Boerl.) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1774	1974	0006-8136								
+874230-1	Desmos cochinchinensis var. fulvescells	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1770	1974	0006-8136								
+874231-1	Desmos pedunculosus var. tonkinensis	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(12): 1775	1974	0006-8136								
+874232-1	Goniothalamus amuyon var. ramosii	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 663	1974	0006-8136								
+874233-1	Goniothalamus dolichopetalus var. basilensis	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 671	1974	0006-8136								
+874234-1	Goniothalamus elmeri var. gitingensis	(Elmer) B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 664, without basionym ref.	1974	0006-8136								
+874235-1	Goniothalamus elmeri var. longipedicellatus	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 664	1974	0006-8136								
+874236-1	Goniothalamus gabriacianus var. coriaceifolius	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 662	1974	0006-8136								
+874237-1	Goniothalamus macrophyllus var. kerrii	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 670, as 'kerri'	1974	0006-8136								
+874238-1	Goniothalamus macrophyllus var. lanceolatus	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 670	1974	0006-8136								
+874239-1	Goniothalamus philippinensis var. ramosii	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(5): 660	1974	0006-8136								
+874242-1	Melodorum vietnamense var. calcareum	B√¢n	Bot. Zhurn. (Moscow & Leningrad)	59(2): 242	1974	0006-8136								
 874722-1	Alnus fruticosa f. arborescens	Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	65(5): 691	1980	0006-8136								
 874729-1	Betula cajanderi f. fruticans	Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	59(4): 504	1974	0006-8136								
 874730-1	Betula cajanderi subsp. minutifolia	Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	59(4): 504	1974	0006-8136								
@@ -2029,7 +2029,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 889729-1	Malus sieversii var. tianschanica	(Sumn.) Ponomar.	Bot. Zhurn. (Moscow & Leningrad)	62(6): 827	1977	0006-8136								
 889731-1	Malus sieversii var. turkmenorum	(Juz. & Popov) Ponomar.	Bot. Zhurn. (Moscow & Leningrad)	62(6): 827	1977	0006-8136								
 889743-1	Malus sylvestris var. praecox	(Pall.) Ponomar.	Bot. Zhurn. (Moscow & Leningrad)	62(6): 824	1977	0006-8136								
-890114-1	Spiraea kwangsiensis var. dongvanensis	T.H.NguyÍn	Bot. Zhurn. (Moscow & Leningrad)	65(6): 873	1980	0006-8136								
+890114-1	Spiraea kwangsiensis var. dongvanensis	T.H.Nguy√™n	Bot. Zhurn. (Moscow & Leningrad)	65(6): 873	1980	0006-8136								
 891129-1	Chrysosplenium alternifolium subsp. arctomontanum	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	65(5): 658	1980	0006-8136								
 891133-1	Chrysosplenium rimosum subsp. dezhnevii	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	57(6): 646	1972	0006-8136								
 891259-1	Euphrasia altaica subsp. glabra	Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	60(4): 508	1975 [Mar 1975]	0006-8136								
@@ -2045,11 +2045,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 893108-1	Tamamschjania	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	66(10): 1491	1981	0006-8136								
 893196-1	Muellerolimon	Lincz.	Bot. Zhurn. (Moscow & Leningrad)	67(5): 675	1982	0006-8136								
 893272-1	Cnidiocarpa	Pimenov	Bot. Zhurn. (Moscow & Leningrad)	68(1): 88	1983	0006-8136								
-893304-1	◊ Leymotrix	Kharkev. & Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1408	1983	0006-8136								
-893364-1	◊ Dupontopoa	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 689	1984	0006-8136								
+893304-1	√ó Leymotrix	Kharkev. & Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1408	1983	0006-8136								
+893364-1	√ó Dupontopoa	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 689	1984	0006-8136								
 893462-1	Magadania	Pimenov & Lavrova	Bot. Zhurn. (Moscow & Leningrad)	70(4): 530	1985	0006-8136								
 893595-1	Neopaulia	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	68(11): 1562, nom. nov.	1983	0006-8136								
-893662-1	Zuvanda	(F.Dvo?·k) Askerova	Bot. Zhurn. (Moscow & Leningrad)	70(4): 522	1985	0006-8136								
+893662-1	Zuvanda	(F.Dvo≈ô√°k) Askerova	Bot. Zhurn. (Moscow & Leningrad)	70(4): 522	1985	0006-8136								
 893807-1	Corydalis subsect. Chinenses	Gorovoj	Bot. Zhurn. (Moscow & Leningrad)	66(9): 1329	1981	0006-8136								
 893835-1	Elaeosticta sect. Allioides	Kljuykov & Pimenov	Bot. Zhurn. (Moscow & Leningrad)	66(3): 339	1981	0006-8136								
 893836-1	Elaeosticta subsect. Conicae	Kljuykov & Pimenov	Bot. Zhurn. (Moscow & Leningrad)	66(3): 338	1981	0006-8136								
@@ -2204,7 +2204,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 897783-1	Gagea caelestis	Levichev	Bot. Zhurn. (Moscow & Leningrad)	66(11): 1642	1981	0006-8136								
 897784-1	Gagea glaucescens	Levichev	Bot. Zhurn. (Moscow & Leningrad)	66(11): 1640	1981	0006-8136								
 897785-1	Gagea pseudominutiflora	Levichev	Bot. Zhurn. (Moscow & Leningrad)	66(11): 1639	1981	0006-8136								
-897824-1	Glyceria ◊ amurensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	66(11): 1589	1981	0006-8136								
+897824-1	Glyceria √ó amurensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	66(11): 1589	1981	0006-8136								
 898133-1	Lysiella nevskii	Aver.	Bot. Zhurn. (Moscow & Leningrad)	66(4): 580	1981	0006-8136								
 898340-1	Oxytropis norinii	Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	66(12): 1735	1981	0006-8136								
 898426-1	Placolobium ellipticum	N.D.Khoi & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(12): 1771	1981	0006-8136								
@@ -2218,13 +2218,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 898650-1	Salsola swakopmundi	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	66(7): 1039	1981	0006-8136								
 898651-1	Salsola unjabica	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	66(7): 1040	1981	0006-8136								
 898682-1	Saxifraga arctolitoralis	Jurtzev & V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	66(7): 1045	1981	0006-8136								
-898782-1	Sorbus brevipetiolata	T.H.NguyÍn & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1189	1981	0006-8136								
+898782-1	Sorbus brevipetiolata	T.H.Nguy√™n & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1189	1981	0006-8136								
 899118-1	Ajania grubovii	Muldashev	Bot. Zhurn. (Moscow & Leningrad)	67(11): 1529	1982	0006-8136								
 899119-1	Ajania roborowskii	Muldashev	Bot. Zhurn. (Moscow & Leningrad)	67(11): 1528	1982	0006-8136								
 899244-1	Astragalus igoschinae	Kamelin & Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	67(9): 1285	1982	0006-8136								
 899358-1	Bunium longilobum	Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	67(4): 544	1982	0006-8136								
-899678-1	Dactylorhiza ◊ komiensis	Aver.	Bot. Zhurn. (Moscow & Leningrad)	67(3): 310	1982	0006-8136								
-899788-1	Elyhordeum ◊ kolymense	Prob.	Bot. Zhurn. (Moscow & Leningrad)	67(1): 69	1982	0006-8136								
+899678-1	Dactylorhiza √ó komiensis	Aver.	Bot. Zhurn. (Moscow & Leningrad)	67(3): 310	1982	0006-8136								
+899788-1	Elyhordeum √ó kolymense	Prob.	Bot. Zhurn. (Moscow & Leningrad)	67(1): 69	1982	0006-8136								
 899791-1	Elytrigia kaachemica	Lomon. & Krasnob.	Bot. Zhurn. (Moscow & Leningrad)	67(8): 1138	1982	0006-8136								
 899904-1	Festuca cartagana	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	67(9): 1291	1982	0006-8136								
 899906-1	Festuca hintoniana	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	67(9): 1292	1982	0006-8136								
@@ -2244,13 +2244,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 901030-1	Sorbus pontica	Zaik.	Bot. Zhurn. (Moscow & Leningrad)	67(9): 1293	1982	0006-8136								
 901039-1	Stellaria kolymensis	A.P.Khokhr.	Bot. Zhurn. (Moscow & Leningrad)	67(11): 1524	1982	0006-8136								
 901121-1	Taraxacum guntense	Dengub.	Bot. Zhurn. (Moscow & Leningrad)	67(8): 1140	1982	0006-8136								
-901375-1	Agrostis ◊ amurensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1412	1983	0006-8136								
+901375-1	Agrostis √ó amurensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1412	1983	0006-8136								
 901379-1	Agrostis sokolovskajae	Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1411	1983	0006-8136								
 901443-1	Anemone juzepczukii	Starod.	Bot. Zhurn. (Moscow & Leningrad)	68(8): 1016	1983	0006-8136								
 901603-1	Bolbosaponaria kafirniganica	V.A.Shultz	Bot. Zhurn. (Moscow & Leningrad)	68(4): 539	1983	0006-8136								
 901629-1	Calamagrostis ajanensis	Kharkev. & Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1409	1983	0006-8136								
 901630-1	Calamagrostis amurensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1410	1983	0006-8136								
-901631-1	Calamagrostis ◊ badzhalensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1411	1983	0006-8136								
+901631-1	Calamagrostis √ó badzhalensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1411	1983	0006-8136								
 901655-1	Cancrinia krasnoborovii	Khanm.	Bot. Zhurn. (Moscow & Leningrad)	68(3): 402	1983	0006-8136								
 901732-1	Cnidiocarpa alaica	Pimenov	Bot. Zhurn. (Moscow & Leningrad)	68(1): 88	1983	0006-8136								
 901820-1	Cynorkis seychellarum	Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(11): 1566	1983	0006-8136								
@@ -2265,7 +2265,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 902139-1	Halothamnus samanganicus	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	68(8): 1122	1983	0006-8136								
 902226-1	Hyalolaena melanorrhiza	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1415	1983	0006-8136								
 902230-1	Hypacanthium evidens	Tscherneva	Bot. Zhurn. (Moscow & Leningrad)	68(5): 634	1983	0006-8136								
-902447-1	Leymotrix ◊ ajanensis	(V.Vassil.) Kharkev. & Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1408	1983	0006-8136								
+902447-1	Leymotrix √ó ajanensis	(V.Vassil.) Kharkev. & Prob.	Bot. Zhurn. (Moscow & Leningrad)	68(10): 1408	1983	0006-8136								
 902622-1	Neopaulia alaica	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	68(11): 1562	1983	0006-8136								
 902703-1	Papaver anadyrense	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	68(2): 229	1983	0006-8136								
 902704-1	Papaver atrovirens	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	68(2): 231	1983	0006-8136								
@@ -2287,22 +2287,22 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 903122-1	Sonchus araraticus	Nazarova & Barsegyan	Bot. Zhurn. (Moscow & Leningrad)	68(7): 950	1983	0006-8136								
 903456-1	Adoxa orientalis	Nepomn.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 260	1984	0006-8136								
 903473-1	Agropyron angarense	Peschkova	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1088	1984	0006-8136								
-903475-1	Agrostis ◊ clavatiformis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
-903478-1	Agrostis ◊ kamtschatica	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
+903475-1	Agrostis √ó clavatiformis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
+903478-1	Agrostis √ó kamtschatica	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
 903479-1	Agrostis kronokensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 251	1984	0006-8136								
-903481-1	Agrostis ◊ paramushirensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
+903481-1	Agrostis √ó paramushirensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
 903482-1	Agrostis pauzhetica	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 252	1984	0006-8136								
 903484-1	Agrostis sichotensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 252	1984	0006-8136								
-903486-1	Agrostis ◊ subclavata	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
-903487-1	Agrostis ◊ ussuriensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 254	1984	0006-8136								
+903486-1	Agrostis √ó subclavata	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 253	1984	0006-8136								
+903487-1	Agrostis √ó ussuriensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 254	1984	0006-8136								
 903691-1	Betula paramushirensis	Barkalov	Bot. Zhurn. (Moscow & Leningrad)	69(12): 1685	1984	0006-8136								
 903749-1	Calamagrostis chassanensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 254	1984	0006-8136								
-903752-1	Calamagrostis ◊ submonticola	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 255	1984	0006-8136								
+903752-1	Calamagrostis √ó submonticola	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 255	1984	0006-8136								
 903753-1	Calamagrostis tolmatschewii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 255	1984	0006-8136								
 903952-1	Corydalis gorinensis	Van	Bot. Zhurn. (Moscow & Leningrad)	69(4): 544	1984	0006-8136								
 904022-1	Deschampsia tzvelevii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 255	1984	0006-8136								
 904048-1	Dionysia gandzhinae	Kamelin	Bot. Zhurn. (Moscow & Leningrad)	69(10): 1403	1984	0006-8136								
-904090-1	Dupontopoa ◊ dezhnevii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 689	1984	0006-8136								
+904090-1	Dupontopoa √ó dezhnevii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 689	1984	0006-8136								
 904108-1	Elymus charkeviczii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 256	1984	0006-8136								
 904115-1	Elymus zejensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 257	1984	0006-8136								
 904188-1	Festuca azucarica	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	69(11): 1546	1984	0006-8136								
@@ -2317,10 +2317,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 904215-1	Frankenia tuvinica	Lomon.	Bot. Zhurn. (Moscow & Leningrad)	69(4): 548	1984	0006-8136								
 904366-1	Hieracium tuvinicum	Krasnob. & Shaulo	Bot. Zhurn. (Moscow & Leningrad)	69(4): 541	1984	0006-8136								
 904367-1	Hierochloe ochotensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 257	1984	0006-8136								
-904574-1	Leymotrigia ◊ pacifica	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 258	1984	0006-8136								
+904574-1	Leymotrigia √ó pacifica	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 258	1984	0006-8136								
 904819-1	Oxytropis charkeviczii	Vyschin	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1084	1984	0006-8136								
 904984-1	Poa arctostepporum	Jurtzev & Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 689	1984	0006-8136								
-904987-1	Poa ◊ magadanensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 691	1984	0006-8136								
+904987-1	Poa √ó magadanensis	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 691	1984	0006-8136								
 904991-1	Poa tzvelevii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 258	1984	0006-8136								
 905160-1	Salsola chaudharyi	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 687	1984	0006-8136								
 905236-1	Scrophularia kurbanovii	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	69(3): 409	1984	0006-8136								
@@ -2329,14 +2329,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 905408-1	Taraxacum tuvense	Krasnob. & Krasnikov	Bot. Zhurn. (Moscow & Leningrad)	69(4): 537	1984	0006-8136								
 905468-1	Trevesia longipedicellata	Grushv. & Skvortsova	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1026	1984	0006-8136								
 905469-1	Trevesia sphaerocarpa	Grushv. & Skvortsova	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1025	1984	0006-8136								
-905496-1	Trisetokoeleria ◊ jurtzevii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 691	1984	0006-8136								
+905496-1	Trisetokoeleria √ó jurtzevii	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(5): 691	1984	0006-8136								
 905604-1	Adoxa insularis	Nepomn.	Bot. Zhurn. (Moscow & Leningrad)	70(4): 524	1985	0006-8136								
 905632-1	Allium vodopjanovae	N.Friesen	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1247	1985	0006-8136								
 905663-1	Anthemis karabaghensis	Mikheev	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1258	1985	0006-8136								
 905782-1	Bunium kopetdagense	Geld.	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1559	1985	0006-8136								
 905783-1	Bunium korovinii	Kamelin & Geld.	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1562	1985	0006-8136								
 905811-1	Canarium lyi	Chan Din Dai & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	70(6): 783	1985	0006-8136								
-905831-1	Centaurea svanetica	T.K.Mardale?shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 265	1985	0006-8136								
+905831-1	Centaurea svanetica	T.K.Mardaleƒ≠shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 265	1985	0006-8136								
 905832-1	Centaurea takhtajanii	Gabrieljan & Tonyan	Bot. Zhurn. (Moscow & Leningrad)	70(4): 515	1985	0006-8136								
 905859-1	Chrysosplenium schagae	Kharkev. & Vyschin	Bot. Zhurn. (Moscow & Leningrad)	70(8): 1122	1985	0006-8136								
 905872-1	Climacoptera botschantzevii	U.P.Pratov	Bot. Zhurn. (Moscow & Leningrad)	70(5): 683	1985	0006-8136								
@@ -2354,7 +2354,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 906124-1	Festuca lanifera	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1246	1985	0006-8136								
 906125-1	Festuca steinbachii	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1243	1985	0006-8136								
 906126-1	Festuca trollii	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1245	1985	0006-8136								
-906148-1	Galium praemontanum	T.K.Mardale?shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 263	1985	0006-8136								
+906148-1	Galium praemontanum	T.K.Mardaleƒ≠shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 263	1985	0006-8136								
 906197-1	Gentianella malyschevii	Zuev	Bot. Zhurn. (Moscow & Leningrad)	70(10): 1401	1985	0006-8136								
 906252-1	Hedysarum theinum	Krasnob.	Bot. Zhurn. (Moscow & Leningrad)	70(7): 970	1985	0006-8136								
 906473-1	Lagochilus taukumensis	Zuckerw.	Bot. Zhurn. (Moscow & Leningrad)	70(6): 836	1985	0006-8136								
@@ -2367,13 +2367,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 906795-1	Papaver detritophilum	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	70(1): 114	1985	0006-8136								
 906796-1	Papaver hypsipetes	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	70(1): 113	1985	0006-8136								
 906798-1	Papaver schamurinii	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	70(1): 116	1985	0006-8136								
-906918-1	Prunus ◊ foveata	N.N.Luneva	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1491	1985	0006-8136								
+906918-1	Prunus √ó foveata	N.N.Luneva	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1491	1985	0006-8136								
 906986-1	Salix sichotensis	Kharkev. & Vyschin	Bot. Zhurn. (Moscow & Leningrad)	70(8): 1120	1985	0006-8136								
 907027-1	Seseli grubovii	V.M.Vinogr. & Sanchir	Bot. Zhurn. (Moscow & Leningrad)	70(7): 965	1985	0006-8136								
 907128-1	Symphytum podcumicum	Yu.M.Frolov	Bot. Zhurn. (Moscow & Leningrad)	70(4): 533	1985	0006-8136								
 907165-1	Tetradiclis corniculata	Khalk.	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1569	1985	0006-8136								
 907231-1	Ungernia badghysi	Botsch.	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1545	1985	0006-8136								
-907256-1	Veronica tumadzhanovii	T.K.Mardale?shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 262	1985	0006-8136								
+907256-1	Veronica tumadzhanovii	T.K.Mardaleƒ≠shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 262	1985	0006-8136								
 907257-1	Vicia popovii	O.D.Nikif.	Bot. Zhurn. (Moscow & Leningrad)	70(5): 606	1985	0006-8136								
 907664-1	Festuca magniflora	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	69(3): 351, nom. nov.	1984	0006-8136								
 907665-1	Festuca tucumanica	E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	69(3): 349, nom. nov.	1984	0006-8136								
@@ -2388,8 +2388,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 909549-1	Phaeostigma quercifolium	(W.W.Sm.) Muldashev	Bot. Zhurn. (Moscow & Leningrad)	66(4): 587	1981	0006-8136								
 909550-1	Phaeostigma salicifolium	(Mattf.) Muldashev	Bot. Zhurn. (Moscow & Leningrad)	66(4): 587	1981	0006-8136								
 909551-1	Phaeostigma variifolium	(C.C.Chang) Muldashev	Bot. Zhurn. (Moscow & Leningrad)	66(4): 587	1981	0006-8136								
-909705-1	Sorbus corymbifera	(Miq.) T.H.NguyÍn & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1188	1981	0006-8136								
-909706-1	Sorbus subulata	(Vidal) T.H.NguyÍn & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1188	1981	0006-8136								
+909705-1	Sorbus corymbifera	(Miq.) T.H.Nguy√™n & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1188	1981	0006-8136								
+909706-1	Sorbus subulata	(Vidal) T.H.Nguy√™n & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1188	1981	0006-8136								
 909710-1	Sphaerosciadium denaense	(Schischk.) Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	66(4): 480	1981	0006-8136								
 909741-1	Tamamschjania lazica	(Boiss. & Balansa) Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	66(10): 1491	1981	0006-8136								
 909750-1	Tephroseris aurea	(L.) Konechn.	Bot. Zhurn. (Moscow & Leningrad)	66(6): 841	1981	0006-8136								
@@ -2427,7 +2427,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 912236-1	Cnidiocarpa grossheimii	(Manden.) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	68(1): 88	1983	0006-8136								
 912349-1	Dactylorhiza affinis	(K.Koch) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(7): 895	1983	0006-8136								
 912350-1	Dactylorhiza alpestris	(Pugsley) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(9): 1164	1983	0006-8136								
-912355-1	Dactylorhiza markowitschii	(SoÛ) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(7): 893	1983	0006-8136								
+912355-1	Dactylorhiza markowitschii	(So√≥) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(7): 893	1983	0006-8136								
 912356-1	Dactylorhiza merovensis	(Grossh.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(7): 894	1983	0006-8136								
 912357-1	Dactylorhiza ochroleuca	(Wustnei ex Boll.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(7): 893	1983	0006-8136								
 912358-1	Dactylorhiza sesquipedales	(Willd.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	68(7): 895	1983	0006-8136								
@@ -2442,7 +2442,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 913894-1	Dactylorhiza francis-drucei	(Wilmott) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 913895-1	Dactylorhiza gemmana	(Pugsley) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 913896-1	Dactylorhiza integrata	(E.G.Camus) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
-913897-1	Dactylorhiza islandica	(¡.Lˆve & D.Lˆve) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
+913897-1	Dactylorhiza islandica	(√Å.L√∂ve & D.L√∂ve) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 913898-1	Dactylorhiza kolaensis	(Montell) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 913899-1	Dactylorhiza libanotica	(Mouterde) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 876	1984	0006-8136								
 913900-1	Dactylorhiza longifolia	(Neuman) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
@@ -2453,13 +2453,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 913906-1	Dactylorhiza pulchella	(Druce) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 913907-1	Dactylorhiza schurii	(Klinge) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 913908-1	Dactylorhiza sicula	(Tineo ex Rchb.f.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
-913909-1	Dactylorhiza sphagnicola	(Hˆppner ex SoÛ) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
+913909-1	Dactylorhiza sphagnicola	(H√∂ppner ex So√≥) Aver.	Bot. Zhurn. (Moscow & Leningrad)	69(6): 875	1984	0006-8136								
 914032-1	Festuca hystricola	(Hack.) E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	69(3): 352	1984	0006-8136								
 914033-1	Festuca meyenii	(St.-Yves) E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	69(3): 348	1984	0006-8136								
 914034-1	Festuca simpliciuscula	(Hack.) E.B.Alexeev	Bot. Zhurn. (Moscow & Leningrad)	69(3): 351	1984	0006-8136								
 914547-1	Saponaria tadzhikistanica	(Botsch.) V.A.Shultz	Bot. Zhurn. (Moscow & Leningrad)	69(11): 1481	1984	0006-8136								
 914603-1	Spanizium prostratum	(Willd.) V.A.Shultz	Bot. Zhurn. (Moscow & Leningrad)	69(4): 530	1984	0006-8136								
-914722-1	Trevesia cavaleriei	(LÈvl.) Grushv. & Skvortsova	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1023	1984	0006-8136								
+914722-1	Trevesia cavaleriei	(L√©vl.) Grushv. & Skvortsova	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1023	1984	0006-8136								
 914820-1	Angelica tenuifolia	(Pall. ex Spreng.) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	70(11): 1494	1985	0006-8136								
 914941-1	Ciminalis aquatica	(L.) Zuev	Bot. Zhurn. (Moscow & Leningrad)	70(7): 921	1985	0006-8136								
 914942-1	Ciminalis grandiflora	(Laxm.) Zuev	Bot. Zhurn. (Moscow & Leningrad)	70(7): 920	1985	0006-8136								
@@ -2505,12 +2505,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 917920-1	Papaver nudicaule subsp. insulare	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	68(2): 236	1983	0006-8136								
 918011-1	Salix arctica subsp. jamu-taridensis	A.K.Skvortsov ex V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	68(1): 31	1983	0006-8136								
 918014-1	Salix stolonifera subsp. carbonicola	V.V.Petrovsky	Bot. Zhurn. (Moscow & Leningrad)	68(1): 36, two types cited	1983	0006-8136								
-918246-1	Aristida neglecta subsp. decumbens	Catas˙s	Bot. Zhurn. (Moscow & Leningrad)	69(6): 874	1984	0006-8136								
-918247-1	Aristida spiciformis var. antillarum	Catas˙s	Bot. Zhurn. (Moscow & Leningrad)	69(6): 874	1984	0006-8136								
+918246-1	Aristida neglecta subsp. decumbens	Catas√∫s	Bot. Zhurn. (Moscow & Leningrad)	69(6): 874	1984	0006-8136								
+918247-1	Aristida spiciformis var. antillarum	Catas√∫s	Bot. Zhurn. (Moscow & Leningrad)	69(6): 874	1984	0006-8136								
 918312-1	Caragana korshinskii var. ordosica	Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	69(3): 358	1984	0006-8136								
 918596-1	Poa beringiana var. vivipara	Prob.	Bot. Zhurn. (Moscow & Leningrad)	69(2): 259	1984	0006-8136								
 918746-1	Trevesia longipedicellata var. palmatipartita	Grushv. & Skvortsova	Bot. Zhurn. (Moscow & Leningrad)	69(8): 1027	1984	0006-8136								
-918913-1	Galium praemontanum var. armazicum	T.K.Mardale?shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 265	1985	0006-8136								
+918913-1	Galium praemontanum var. armazicum	T.K.Mardaleƒ≠shvili	Bot. Zhurn. (Moscow & Leningrad)	70(2): 265	1985	0006-8136								
 918979-1	Lagochilus diacanthophyllus subsp. karataviensis	Knorring ex Zuckerw.	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1184	1985	0006-8136								
 918980-1	Lagochilus gypsaceus var. linearilobus	Vved. ex Zuckerw.	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1188	1985	0006-8136								
 918981-1	Lagochilus kschtutensis subsp. pubescens	Kamelin & Zuckerw.	Bot. Zhurn. (Moscow & Leningrad)	70(9): 1189	1985	0006-8136								
@@ -2533,7 +2533,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 920214-1	Phaeostigma variifolium var. ramosum	(C.C.Chang) Muldashev	Bot. Zhurn. (Moscow & Leningrad)	66(4): 587	1981	0006-8136								
 920224-1	Poa nemoralis subsp. tanfiljewii	(Roshev.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	66(7): 946	1981	0006-8136								
 920324-1	Silene chamarensis subsp. paucifolia	(Ledeb.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	66(7): 949	1981	0006-8136								
-920337-1	Sorbus corymbifera var. turbinata	(Card.) T.H.NguyÍn & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1188	1981	0006-8136								
+920337-1	Sorbus corymbifera var. turbinata	(Card.) T.H.Nguy√™n & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	66(8): 1188	1981	0006-8136								
 920346-1	Tanacetum vulgare subsp. boreale	(Fisch. ex DC.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	66(7): 954	1981	0006-8136								
 920366-1	Thymus reverdattoanus var. evenkiensis	(Byczenn.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	66(7): 953	1981	0006-8136								
 920400-1	Veronica longifolia subsp. borealis	(Trautv.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	66(7): 953, without basionym page	1981	0006-8136								
@@ -2813,7 +2813,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 926768-1	Ferulago sect. Lophosciadium	(DC.) Pimenov & Tomk.	Bot. Zhurn. (Moscow & Leningrad)	72(7): 968	1987	0006-8136								
 926769-1	Ferulago sect. Uloptera	(Fenzl) Pimenov & Tomk.	Bot. Zhurn. (Moscow & Leningrad)	72(7): 971	1987	0006-8136								
 926785-1	Hedinia ser. Hediniopsis	(Botsch. & V.V.Petrovsky) Jurtzev, Korobkov & Balandin	Bot. Zhurn. (Moscow & Leningrad)	72(8): 1035	1987	0006-8136								
-926794-1	Luzula subsect. Alpinae	(Chrtek & K?Ìsa) Kovt.	Bot. Zhurn. (Moscow & Leningrad)	72(10): 1399	1987	0006-8136								
+926794-1	Luzula subsect. Alpinae	(Chrtek & K≈ô√≠sa) Kovt.	Bot. Zhurn. (Moscow & Leningrad)	72(10): 1399	1987	0006-8136								
 926802-1	Erysimum sect. Pachygonum	(C.A.Mey.) V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	72(11): 1540	1987	0006-8136								
 926904-1	Cousinia sect. Regelianae	(Juz.) Tscherneva	Bot. Zhurn. (Moscow & Leningrad)	73(4): 596	1988	0006-8136								
 926972-1	Lilium sect. Pseudomartagon	(Waugh) Baranova	Bot. Zhurn. (Moscow & Leningrad)	73(9): 1322	1988	0006-8136								
@@ -2823,7 +2823,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 927025-1	Clematis sect. Aethusifoliae	(Tamura) Serov	Bot. Zhurn. (Moscow & Leningrad)	73(12): 1739	1988	0006-8136								
 927026-1	Clematis sect. Angustifoliae	(Tamura) Serov	Bot. Zhurn. (Moscow & Leningrad)	73(12): 1740	1988	0006-8136								
 927153-1	Gagea ser. Stipitatae	(Pasch.) Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(2): 230	1990	0006-8136								
-927154-1	Phlomoides subsect. Vulnerantes	(Rech.f. & Kˆie) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
+927154-1	Phlomoides subsect. Vulnerantes	(Rech.f. & K√∂ie) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
 927155-1	Phlomoides subsect. Cordatae	(Popov) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 246	1990	0006-8136								
 927156-1	Phlomoides subsect. Integrifoliae	(Popov) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 246	1990	0006-8136								
 927157-1	Phlomoides subsect. Rhodanthae	(Popov) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 246	1990	0006-8136								
@@ -2847,9 +2847,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 929323-1	Viola chassanica	R.I.Korkishko	Bot. Zhurn. (Moscow & Leningrad)	71(1): 87	1986	0006-8136								
 929324-1	Koeleria taurica	M.G.Kalenichenko	Bot. Zhurn. (Moscow & Leningrad)	71(1): 91	1986	0006-8136								
 929325-1	Koeleria calarashica	M.G.Kalenichenko	Bot. Zhurn. (Moscow & Leningrad)	71(1): 91	1986	0006-8136								
-929326-1	Dactylorhiza ◊ baicalica	Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 92	1986	0006-8136								
-929327-1	Dactylorhiza ◊ ishorica	Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-929388-1	Dactylorhiza ◊ robertsii	Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, without latin descr.	1986	0006-8136								
+929326-1	Dactylorhiza √ó baicalica	Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 92	1986	0006-8136								
+929327-1	Dactylorhiza √ó ishorica	Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+929388-1	Dactylorhiza √ó robertsii	Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, without latin descr.	1986	0006-8136								
 929983-1	Papaver alberti	Mikheev	Bot. Zhurn. (Moscow & Leningrad)	71(6): 809	1986	0006-8136								
 930146-1	Rousselia cubensis	Grudz.	Bot. Zhurn. (Moscow & Leningrad)	71(7): 939	1986	0006-8136								
 930147-1	Rousselia impariflora	Grudz.	Bot. Zhurn. (Moscow & Leningrad)	71(7): 940	1986	0006-8136								
@@ -2931,7 +2931,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 935741-1	Heliotropium magistri	L.M.Raenko	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1607	1988	0006-8136								
 935742-1	Cousinia gabrieljaniae	Takht. & K.G.Tamanyan	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1609	1988	0006-8136								
 935743-1	Potentilla uschakovii	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1613	1988	0006-8136								
-935744-1	Potentilla ◊ safronoviae	Jurtzev & Soj·k	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1615	1988	0006-8136								
+935744-1	Potentilla √ó safronoviae	Jurtzev & Soj√°k	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1615	1988	0006-8136								
 935745-1	Gagea kuraminica	Levichev	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1617	1988	0006-8136								
 935746-1	Gagea angrenica	Levichev	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1618	1988	0006-8136								
 935747-1	Gagea talassica	Levichev	Bot. Zhurn. (Moscow & Leningrad)	73(11): 1620	1988	0006-8136								
@@ -2967,7 +2967,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 938335-1	Salsola obpyrifolia	Botsch. & Akhani	Bot. Zhurn. (Moscow & Leningrad)	74(11): 1665	1989	0006-8136								
 938548-1	Cirsium roseolum	Gorl.	Bot. Zhurn. (Moscow & Leningrad)	74(12): 1783	1989	0006-8136								
 938549-1	Gypsophila rupestris	Kupr.	Bot. Zhurn. (Moscow & Leningrad)	74(12): 1785	1989	0006-8136								
-939024-1	Cymbidium ◊ pseudoballianum	Aver.	Bot. Zhurn. (Moscow & Leningrad)	75(5): 723, as 'nom. nov.' but really sp. hybr. nov. without latin descr.	1990	0006-8136								
+939024-1	Cymbidium √ó pseudoballianum	Aver.	Bot. Zhurn. (Moscow & Leningrad)	75(5): 723, as 'nom. nov.' but really sp. hybr. nov. without latin descr.	1990	0006-8136								
 939088-1	Corydalis sajanensis	Peschkova	Bot. Zhurn. (Moscow & Leningrad)	75(1): 85	1990	0006-8136								
 939089-1	Corydalis udokanica	Peschkova	Bot. Zhurn. (Moscow & Leningrad)	75(1): 87	1990	0006-8136								
 939090-1	Aulacospermum plicatum	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	75(1): 90	1990	0006-8136								
@@ -2988,9 +2988,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 939510-1	Thalictrum bykovii	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(3): 416	1990	0006-8136								
 939511-1	Thalictrum saissanicus	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(3): 418	1990	0006-8136								
 939512-1	Centaurea czirkejensis	Husseinov	Bot. Zhurn. (Moscow & Leningrad)	75(3): 430	1990	0006-8136								
-939745-1	Gagea ◊ turanica	Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(5): 663	1990	0006-8136								
-939746-1	Gagea ◊ vaga	Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(5): 665	1990	0006-8136								
-939747-1	Gagea ◊ absurda	Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(5): 665	1990	0006-8136								
+939745-1	Gagea √ó turanica	Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(5): 663	1990	0006-8136								
+939746-1	Gagea √ó vaga	Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(5): 665	1990	0006-8136								
+939747-1	Gagea √ó absurda	Levichev	Bot. Zhurn. (Moscow & Leningrad)	75(5): 665	1990	0006-8136								
 939748-1	Lupinaster popovii	Roskov	Bot. Zhurn. (Moscow & Leningrad)	75(5): 717	1990	0006-8136								
 940054-1	Chamaecrista takhtajanii	A.Barreto & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	75(6): 888	1990	0006-8136								
 940055-1	Chamaecrista bissei	A.Barreto & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	75(6): 889	1990	0006-8136								
@@ -3013,27 +3013,27 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 941249-1	Phlomoides kamelinii	Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 248, nom. nov., without replaced synonym	1990	0006-8136								
 942400-1	Dactylorhiza hebridensis	(Wilmott) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 92	1986	0006-8136								
 942401-1	Dactylorhiza vestita	(Lag. & Rodriguez) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 92	1986	0006-8136								
-942402-1	Dactylorhiza ◊ hochreutineriana	(Hellmayr) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 92	1986	0006-8136								
-942403-1	Dactylorhiza ◊ pardalina	(Pugsley) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942404-1	◊ Dactylodenia comigera	(Rchb.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942405-1	◊ Dactylodenia evansii	(Druce) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942406-1	◊ Dactylodenia fuchsii	(G.Keller & SoÛ) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
-942407-1	◊ Dactylodenia gracilis	(A.Camus) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
-942408-1	◊ Dactylodenia heinzeliana	(Reichardt) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942409-1	◊ Dactylodenia jeanjeanii	(G.Keller) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942410-1	◊ Dactylodenia klingeana	(Asch. & Graebn.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
-942411-1	◊ Dactylodenia souppensis	(E.G.Camus) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
-942412-1	◊ Dactylodenia quintinii	(Godfery) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, as 'st. quintinii'	1986	0006-8136								
-942413-1	◊ Dactylodenia varia	(T.Stephenson & T.A.Stephenson) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942414-1	◊ Dactylodenia vollmannii	(Schulze) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
-942415-1	◊ Dactylodenia wintonii	(Druce) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
-942416-1	◊ Dactyleucorchis albucina	(Cif. & Giacom.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942417-1	◊ Rhizanthera thilensis	(G.Keller & Jeanj.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942418-1	◊ Orchidactyla aquitaniensis	(G.Keller & Jeanj.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942419-1	◊ Orchidactyla kabyliensis	(G.Keller) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942420-1	◊ Orchidactyla lamarquei	(G.Keller & Jeanj.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942421-1	◊ Orchidactyla masteineri	(Cif. & Giacom.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
-942422-1	◊ Orchidactyla romanallens	(Cif. & Giacom.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942402-1	Dactylorhiza √ó hochreutineriana	(Hellmayr) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 92	1986	0006-8136								
+942403-1	Dactylorhiza √ó pardalina	(Pugsley) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942404-1	√ó Dactylodenia comigera	(Rchb.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942405-1	√ó Dactylodenia evansii	(Druce) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942406-1	√ó Dactylodenia fuchsii	(G.Keller & So√≥) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
+942407-1	√ó Dactylodenia gracilis	(A.Camus) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
+942408-1	√ó Dactylodenia heinzeliana	(Reichardt) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942409-1	√ó Dactylodenia jeanjeanii	(G.Keller) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942410-1	√ó Dactylodenia klingeana	(Asch. & Graebn.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
+942411-1	√ó Dactylodenia souppensis	(E.G.Camus) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
+942412-1	√ó Dactylodenia quintinii	(Godfery) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, as 'st. quintinii'	1986	0006-8136								
+942413-1	√ó Dactylodenia varia	(T.Stephenson & T.A.Stephenson) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942414-1	√ó Dactylodenia vollmannii	(Schulze) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
+942415-1	√ó Dactylodenia wintonii	(Druce) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93, isonym	1986	0006-8136								
+942416-1	√ó Dactyleucorchis albucina	(Cif. & Giacom.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942417-1	√ó Rhizanthera thilensis	(G.Keller & Jeanj.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942418-1	√ó Orchidactyla aquitaniensis	(G.Keller & Jeanj.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942419-1	√ó Orchidactyla kabyliensis	(G.Keller) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942420-1	√ó Orchidactyla lamarquei	(G.Keller & Jeanj.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942421-1	√ó Orchidactyla masteineri	(Cif. & Giacom.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
+942422-1	√ó Orchidactyla romanallens	(Cif. & Giacom.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	71(1): 93	1986	0006-8136								
 942883-1	Kitagawia baicalensis	(Redow. ex Willd.) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	71(7): 944	1986	0006-8136								
 942884-1	Kitagawia terebinthacea	(Fisch. ex Trevir.) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	71(7): 944	1986	0006-8136								
 942885-1	Kitagawia litoralis	(Vorosch. & Gorovoj) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	71(7): 948	1986	0006-8136								
@@ -3055,7 +3055,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 943798-1	Spongiocarpella grubovii	(N.Ulziykh.) Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	72(2): 258	1987	0006-8136								
 943799-1	Spongiocarpella spinosa	(P.C.Li) Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	72(2): 259	1987	0006-8136								
 943989-1	Oreogeum montanum	(L.) E.I.Golubk.	Bot. Zhurn. (Moscow & Leningrad)	72(6): 774	1987	0006-8136								
-943990-1	Oreogeum bulgaricum	(Pan?i?) E.I.Golubk.	Bot. Zhurn. (Moscow & Leningrad)	72(6): 774	1987	0006-8136								
+943990-1	Oreogeum bulgaricum	(Panƒçiƒá) E.I.Golubk.	Bot. Zhurn. (Moscow & Leningrad)	72(6): 774	1987	0006-8136								
 943991-1	Novosieversia reptans	(L.) E.I.Golubk.	Bot. Zhurn. (Moscow & Leningrad)	72(6): 775	1987	0006-8136								
 943992-1	Purshia alba	(Goodding) E.I.Golubk.	Bot. Zhurn. (Moscow & Leningrad)	72(6): 776	1987	0006-8136								
 943993-1	Alfredia integrifolia	(Iljin) Tulyag.	Bot. Zhurn. (Moscow & Leningrad)	72(6): 827	1987	0006-8136								
@@ -3161,7 +3161,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 947712-1	Phlomoides likiangensis	(C.Y.Wu) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
 947713-1	Phlomoides setifera	(Bureau & Franch.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
 947714-1	Phlomoides tatsienensis	(Bureau & Franch.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
-947715-1	Phlomoides vulnerans	(Rech.f. & Kˆie) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
+947715-1	Phlomoides vulnerans	(Rech.f. & K√∂ie) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 244	1990	0006-8136								
 947716-1	Phlomoides spectabilis	(Falc. ex Benth.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 245	1990	0006-8136								
 947717-1	Phlomoides chinghoensis	(C.Y.Wu) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 245	1990	0006-8136								
 947718-1	Phlomoides koraiensis	(Nakai) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 245	1990	0006-8136								
@@ -3175,7 +3175,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 947726-1	Phlomoides glabra	(Boiss. ex Benth.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 246	1990	0006-8136								
 947727-1	Phlomoides stenocalycina	(Rech.f.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 247	1990	0006-8136								
 947728-1	Phlomoides loasifolia	(Benth.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 247	1990	0006-8136								
-947729-1	Phlomoides gymnoclada	(Rech.f. & Kˆie) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 247	1990	0006-8136								
+947729-1	Phlomoides gymnoclada	(Rech.f. & K√∂ie) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 247	1990	0006-8136								
 947730-1	Phlomoides vicaryi	(Benth. ex Hook.f.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 247	1990	0006-8136								
 947731-1	Phlomoides bamianica	(Rech.f.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 248	1990	0006-8136								
 947732-1	Phlomoides superba	(Royle ex Benth.) Kamelin & Makhm.	Bot. Zhurn. (Moscow & Leningrad)	75(2): 248	1990	0006-8136								
@@ -3221,7 +3221,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 947965-1	Parapteroceras carnosum	(Seidenf.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	75(5): 723	1990	0006-8136								
 947966-1	Thrixspermum insularum	(Aver.) Aver.	Bot. Zhurn. (Moscow & Leningrad)	75(5): 723	1990	0006-8136								
 948126-1	Alfaroa roxburghiana	(Wall.) Iljinsk.	Bot. Zhurn. (Moscow & Leningrad)	75(6): 796	1990	0006-8136								
-948127-1	Discocrania disciflora	(Moc. & SessÈ ex DC.) Trifonova & I.G.Zubkova	Bot. Zhurn. (Moscow & Leningrad)	75(6): 823	1990	0006-8136								
+948127-1	Discocrania disciflora	(Moc. & Sess√© ex DC.) Trifonova & I.G.Zubkova	Bot. Zhurn. (Moscow & Leningrad)	75(6): 823	1990	0006-8136								
 949058-1	Caragana zahlbruckneri var. pilosa	Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	71(4): 482	1986	0006-8136								
 949185-1	Kitagawia terebinthacea subsp. trichootheca	Pimenov	Bot. Zhurn. (Moscow & Leningrad)	71(7): 947	1986	0006-8136								
 949249-1	Adinandra milletii var. dalatensis	H.H.Nguyen & Yakovlev	Bot. Zhurn. (Moscow & Leningrad)	71(8): 1119	1986	0006-8136								
@@ -3252,16 +3252,16 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 953816-1	Erysimum substrigosum subsp. meyerianum	(Rupr.) V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	72(11): 1537	1987	0006-8136								
 953817-1	Erysimum gelidum subsp. krynitzkii	(Bordz.) V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	72(11): 1541	1987	0006-8136								
 954303-1	Sedum quadrifidum subsp. coccineum	(Royle) Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	73(3): 420	1988 [Mar 1988]	0006-8136								
-954703-1	Anemone geum subsp. ovalifolia	(Br¸hl) R.P.Chaudhary	Bot. Zhurn. (Moscow & Leningrad)	73(8): 1190	1988	0006-8136								
+954703-1	Anemone geum subsp. ovalifolia	(Br√ºhl) R.P.Chaudhary	Bot. Zhurn. (Moscow & Leningrad)	73(8): 1190	1988	0006-8136								
 954704-1	Anemone obtusiloba subsp. potentilloides	(Cambess. ex Lauener) R.P.Chaudhary	Bot. Zhurn. (Moscow & Leningrad)	73(8): 1192	1988	0006-8136								
-954705-1	Anemone demissa subsp. villosissima	(Br¸hl) R.P.Chaudhary	Bot. Zhurn. (Moscow & Leningrad)	73(8): 1196	1988	0006-8136								
+954705-1	Anemone demissa subsp. villosissima	(Br√ºhl) R.P.Chaudhary	Bot. Zhurn. (Moscow & Leningrad)	73(8): 1196	1988	0006-8136								
 954880-1	Leonurus glaucescens f. latifolius	(Bunge) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	73(12): 1752	1988	0006-8136								
 955248-1	Sedum rosea subsp. arcticum	(Boriss.) Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	74(4): 537	1989	0006-8136								
 955249-1	Sedum himalense subsp. taohoense	(Fu) Kozhevn.	Bot. Zhurn. (Moscow & Leningrad)	74(4): 543	1989	0006-8136								
 956228-1	Juniperus excelsa var. pendula	(Mulk.) Imkhan.	Bot. Zhurn. (Moscow & Leningrad)	75(3): 407	1990	0006-8136								
 956229-1	Juniperus excelsa subsp. turcomanica	(B.Fedtsch.) Imkhan.	Bot. Zhurn. (Moscow & Leningrad)	75(3): 408	1990	0006-8136								
 956254-1	Hieracium bupleurifolium subsp. chaetothyrsoides	(Zahn) V.Ya.Nikolaev	Bot. Zhurn. (Moscow & Leningrad)	75(4): 557	1990	0006-8136								
-956381-1	Carex augustinowiczii subsp. soyaeensis	(K¸k.) T.V.Egorova	Bot. Zhurn. (Moscow & Leningrad)	75(6): 863	1990	0006-8136								
+956381-1	Carex augustinowiczii subsp. soyaeensis	(K√ºk.) T.V.Egorova	Bot. Zhurn. (Moscow & Leningrad)	75(6): 863	1990	0006-8136								
 956382-1	Carex subspathacea subsp. ramenskii	(Kom.) T.V.Egorova	Bot. Zhurn. (Moscow & Leningrad)	75(6): 864	1990	0006-8136								
 956678-1	subtrib. Calathiinae	Zuev	Bot. Zhurn. (Moscow & Leningrad)	75(9): 1301	1990	0006-8136								
 956679-1	subtrib. Anagallidiinae	Zuev	Bot. Zhurn. (Moscow & Leningrad)	75(9): 1304	1990	0006-8136								
@@ -3286,12 +3286,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 958213-1	Cerastium capillatum	I.V.Sokolova	Bot. Zhurn. (Moscow & Leningrad)	75(10): 1450	1990	0006-8136								
 958399-1	Oxytropis kaspensis	Krasnob. & Pshenich.	Bot. Zhurn. (Moscow & Leningrad)	75(11): 1569	1990	0006-8136								
 958400-1	Crambe grossheimii	I.I.Khalilov	Bot. Zhurn. (Moscow & Leningrad)	75(11): 1572	1990	0006-8136								
-958457-1	Elymotrigia ◊ austroaltaica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1753	1990	0006-8136								
-958458-1	Elymotrigia ◊ azutavica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1754	1990	0006-8136								
-958459-1	Elymotrigia ◊ kalbica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1754	1990	0006-8136								
-958460-1	Elymotrigia ◊ karakabinica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1755	1990	0006-8136								
-958461-1	Elymotrigia ◊ kurtczumica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1756	1990	0006-8136								
-958462-1	Elymotrigia ◊ leninogorica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1756	1990	0006-8136								
+958457-1	Elymotrigia √ó austroaltaica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1753	1990	0006-8136								
+958458-1	Elymotrigia √ó azutavica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1754	1990	0006-8136								
+958459-1	Elymotrigia √ó kalbica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1754	1990	0006-8136								
+958460-1	Elymotrigia √ó karakabinica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1755	1990	0006-8136								
+958461-1	Elymotrigia √ó kurtczumica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1756	1990	0006-8136								
+958462-1	Elymotrigia √ó leninogorica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	75(12): 1756	1990	0006-8136								
 959529-1	Rosa krynkensis	Ostapko	Bot. Zhurn. (Moscow & Leningrad)	76(1): 118	1991	0006-8136								
 960485-1	Stipa sczerbakovii	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	76(6): 872	1991	0006-8136								
 960486-1	Stipa zaissanica	Kotukhov	Bot. Zhurn. (Moscow & Leningrad)	76(6): 873	1991	0006-8136								
@@ -3313,8 +3313,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 960549-1	Teucrium reuticum	T.R.Bogoutdinova	Bot. Zhurn. (Moscow & Leningrad)	76(5): 745	1991	0006-8136								
 961219-1	Aquilegia kubanica	I.M.Vassiljeva	Bot. Zhurn. (Moscow & Leningrad)	76(12): 1765	1992 [1991 publ. 1992]	0006-8136								
 961220-1	Sphaeranthus volgensis	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	76(12): 1770	1992 [1991 publ. 1992]	0006-8136								
-961221-1	Anemonoides ◊ korzhinskyi	Saksonov & Rakov	Bot. Zhurn. (Moscow & Leningrad)	77(1): 114	1992	0006-8136								
-961260-1	Arctium ◊ leiobardanum	Juz. & C.Serg. ex Stepanov	Bot. Zhurn. (Moscow & Leningrad)	77(4): 90	1992	0006-8136								
+961221-1	Anemonoides √ó korzhinskyi	Saksonov & Rakov	Bot. Zhurn. (Moscow & Leningrad)	77(1): 114	1992	0006-8136								
+961260-1	Arctium √ó leiobardanum	Juz. & C.Serg. ex Stepanov	Bot. Zhurn. (Moscow & Leningrad)	77(4): 90	1992	0006-8136								
 961416-1	Mogoltavia narynensis	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	77(2): 92	1992	0006-8136								
 961417-1	Seseli kaschgaricum	Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	77(2): 94	1992	0006-8136								
 961418-1	Dasystephana sangilenica	Zuev	Bot. Zhurn. (Moscow & Leningrad)	77(2): 96	1992	0006-8136								
@@ -3334,7 +3334,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 962248-1	Comastoma malyschevii	(Zuev) Zuev	Bot. Zhurn. (Moscow & Leningrad)	75(9): 1304	1990	0006-8136								
 962249-1	Comastoma azureum	(Bunge) Zuev	Bot. Zhurn. (Moscow & Leningrad)	75(9): 1304	1990	0006-8136								
 962250-1	Pseudoroegneria reflexiaristata	(Nevski) A.N.Lavrenko	Bot. Zhurn. (Moscow & Leningrad)	75(9): 1321	1990	0006-8136								
-962309-1	Centaurea dominii	(Dost·l) Dubovik	Bot. Zhurn. (Moscow & Leningrad)	75(11): 1579	1990	0006-8136								
+962309-1	Centaurea dominii	(Dost√°l) Dubovik	Bot. Zhurn. (Moscow & Leningrad)	75(11): 1579	1990	0006-8136								
 962310-1	Psephellus tuapsensis	(Sosn.) Dubovik	Bot. Zhurn. (Moscow & Leningrad)	75(11): 1581, without basionym ref.	1990	0006-8136								
 963426-1	Sinobambusa solearis	(McClure) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(6): 879	1991	0006-8136								
 963427-1	Sinobambusa sat	(Balansa) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(6): 879	1991	0006-8136								
@@ -3342,7 +3342,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 963429-1	Chimonobambusa angulata	(Munro) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(6): 880	1991	0006-8136								
 963430-1	Crataegus atrofusca	(K.Koch) T.A.Kasumova	Bot. Zhurn. (Moscow & Leningrad)	76(7): 986	1991	0006-8136								
 963431-1	Pseudobambusa schizostachyoides	(Kurz) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 992	1991	0006-8136								
-963432-1	Pseudoxytenanthera nigrociliata	(B¸se) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
+963432-1	Pseudoxytenanthera nigrociliata	(B√ºse) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
 963433-1	Pseudoxytenanthera albociliata	(Munro) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
 963434-1	Pseudoxytenanthera hosseusii	(Pilg.) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
 963435-1	Pseudoxytenanthera sinuata	(Gamble) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
@@ -3353,7 +3353,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 963440-1	Pseudoxytenanthera densa	(E.G.Camus) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
 963441-1	Pseudoxytenanthera dinhensis	(A.Camus) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
 963442-1	Pseudoxytenanthera tenuispiculata	(A.Camus) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 993	1991	0006-8136								
-963443-1	Sinocalamus macroculmis	(RiviËre & C.RiviËre) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 994	1991	0006-8136								
+963443-1	Sinocalamus macroculmis	(Rivi√®re & C.Rivi√®re) T.Q.Nguyen	Bot. Zhurn. (Moscow & Leningrad)	76(7): 994	1991	0006-8136								
 963729-1	Ferulopsis hystrix	(Bunge ex Ledeb.) Pimenov	Bot. Zhurn. (Moscow & Leningrad)	76(10): 1391	1992 [1991 publ. 1992]	0006-8136								
 963917-1	Kobresia subholarctica	(Egor.) T.V.Egorova	Bot. Zhurn. (Moscow & Leningrad)	76(12): 1736	1992 [1991 publ. 1992]	0006-8136								
 963918-1	Cachrys caspica	(DC.) Menitsky	Bot. Zhurn. (Moscow & Leningrad)	76(12): 1754	1992 [1991 publ. 1992]	0006-8136								
@@ -3471,7 +3471,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 975213-1	Agropyron pectinatum var. dagnae	(Grossh.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 87	1993	0006-8136								
 975214-1	Agropyron pectinatum var. stepposum	(Dubovik) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 87	1993	0006-8136								
 975215-1	Agropyron pectinatum var. submuticum	(Grossh.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 87	1993	0006-8136								
-975216-1	Agropyron incanum	(N·b?lek) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 88	1993	0006-8136								
+975216-1	Agropyron incanum	(N√°bƒõlek) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 88	1993	0006-8136								
 975217-1	Aegilops strangulata	(Eig) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 88	1993	0006-8136								
 975218-1	Hordeum iranicum	(Bothmer) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 88	1993	0006-8136								
 975219-1	Bromopsis sect. Caucasigenae	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 88	1993	0006-8136								
@@ -3490,7 +3490,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 975232-1	Achnatherum sect. Protostipa	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 92	1993	0006-8136								
 975233-1	Achnatherum ordubadense	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 93	1993	0006-8136								
 975234-1	Stipa arabica subsp. koenigii	(Woronow) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 93	1993	0006-8136								
-975235-1	Stipa ◊ kolakovskyi	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 93	1993	0006-8136								
+975235-1	Stipa √ó kolakovskyi	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 93	1993	0006-8136								
 975236-1	Stipa sect. Subbarbatae	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 94	1993	0006-8136								
 975237-1	Stipa sect. Subsmirnovia	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 94	1993	0006-8136								
 975238-1	Stipa pulcherrima subsp. glabrinoda	(Klokov) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	78(10): 94	1993	0006-8136								
@@ -3503,7 +3503,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 975610-1	Hypericum ser. Lydia	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	78(11): 76	1993	0006-8136								
 975611-1	Hypericum ser. Elongata	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	78(11): 76	1993	0006-8136								
 975612-1	Hypericum racemosum	(Kuntze) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	78(11): 77	1993	0006-8136								
-975613-1	Potentilla ◊ arctoalaskensis	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	78(11): 79	1993	0006-8136								
+975613-1	Potentilla √ó arctoalaskensis	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	78(11): 79	1993	0006-8136								
 975614-1	Potentilla murrayi	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	78(11): 80	1993	0006-8136								
 975615-1	Potentilla brooksensis	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	78(11): 82	1993	0006-8136								
 975616-1	Potentilla subgorodkovii	Jurtzev	Bot. Zhurn. (Moscow & Leningrad)	78(11): 83	1993	0006-8136								
@@ -3528,12 +3528,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 977764-1	Panzerina lanata var. albescens	(Kuprian.) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	79(3): 115, isonym	1994	0006-8136								
 977765-1	Panzerina lanata var. argyracea	(Kuprian.) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	79(3): 115, isonym	1994	0006-8136								
 977766-1	Panzerina lanata var. parviflora	(C.Y.Wu & H.W.Li) Krestovsk.	Bot. Zhurn. (Moscow & Leningrad)	79(3): 115, isonym	1994	0006-8136								
-980823-1	Eriophorum ◊ gracilifolium	M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(5): 100	1994	0006-8136								
+980823-1	Eriophorum √ó gracilifolium	M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(5): 100	1994	0006-8136								
 980824-1	Strigosella meyeri	(Boiss.) V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	79(5): 103, without basionym ref.	1994	0006-8136								
 980825-1	Chamaeplium runcinatum	(Lag. ex DC.) V.I.Dorof.	Bot. Zhurn. (Moscow & Leningrad)	79(5): 104, isonym	1994	0006-8136								
 980826-1	Jurinea subsect. Intermediae	Tscherneva	Bot. Zhurn. (Moscow & Leningrad)	79(5): 119	1994	0006-8136								
 980827-1	Jurinea subsect. Praetermissae	(Galushko & Nemirova) Tscherneva	Bot. Zhurn. (Moscow & Leningrad)	79(5): 122	1994	0006-8136								
-980828-1	Hieracium ◊ disputabile	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	79(5): 127	1994	0006-8136								
+980828-1	Hieracium √ó disputabile	Sennikov	Bot. Zhurn. (Moscow & Leningrad)	79(5): 127	1994	0006-8136								
 980935-1	Lonicera boczkarnikovae	Pleckanova	Bot. Zhurn. (Moscow & Leningrad)	79(6): 60, nom. nov.	1994	0006-8136								
 980936-1	Valeriana subsect. Alliariifoliae	Mikheev	Bot. Zhurn. (Moscow & Leningrad)	79(6): 105	1994	0006-8136								
 980937-1	Valeriana subsect. Alpestres	Mikheev	Bot. Zhurn. (Moscow & Leningrad)	79(6): 105	1994	0006-8136								
@@ -3569,7 +3569,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 981468-1	Hieracium putoranicum	Tupitz.	Bot. Zhurn. (Moscow & Leningrad)	79(8): 98	1994	0006-8136								
 981469-1	Hieracium pseudofariniramum	Tupitz.	Bot. Zhurn. (Moscow & Leningrad)	79(8): 99	1994	0006-8136								
 981470-1	Dendranthema calciphila	Volot.	Bot. Zhurn. (Moscow & Leningrad)	79(8): 102	1994	0006-8136								
-982366-1	Campanula ◊ spryginii	Saksonov & Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	79(10): 99	1994	0006-8136								
+982366-1	Campanula √ó spryginii	Saksonov & Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	79(10): 99	1994	0006-8136								
 982367-1	Pseudosaponaria glabra	Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	79(10): 101	1994	0006-8136								
 982368-1	Minuartia kurilensis	Ikonn. & Barkalov	Bot. Zhurn. (Moscow & Leningrad)	79(10): 101	1994	0006-8136								
 982369-1	Ligusticopsis likiangensis	(H.Wolff) Lavrova & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	79(10): 104	1994	0006-8136								
@@ -3610,7 +3610,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 982822-1	Eriophorum subsect. Fernaldiana	(Raymond) M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(12): 67	1995 [1994 publ. 1995]	0006-8136								
 982823-1	Eriophorum subsect. Hultenia	(Raymond) M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(12): 68	1995 [1994 publ. 1995]	0006-8136								
 982824-1	Eriophorum subsect. Appressa	(Raymond) M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(12): 71	1995 [1994 publ. 1995]	0006-8136								
-982825-1	Eriophorum ◊ fellowsii	(Fernald) M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(12): 73	1995 [1994 publ. 1995]	0006-8136								
+982825-1	Eriophorum √ó fellowsii	(Fernald) M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(12): 73	1995 [1994 publ. 1995]	0006-8136								
 982886-1	Maximowicziella japonica	(Maxim.) M.S.Novos.	Bot. Zhurn. (Moscow & Leningrad)	79(12): 74	1995 [1994 publ. 1995]	0006-8136								
 982926-1	Grammosciadium sect. Heterocarpum	V.M.Vinogr.	Bot. Zhurn. (Moscow & Leningrad)	80(1): 94	1995	0006-8136								
 982927-1	Grammosciadium schischkinii	(V.M.Vinogr. & Tamamsch.) V.M.Vinogr.	Bot. Zhurn. (Moscow & Leningrad)	80(1): 94	1995	0006-8136								
@@ -3656,9 +3656,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 987658-1	Cicer ser. Pinnatifida	Seferova	Bot. Zhurn. (Moscow & Leningrad)	80(8): 102	1995	0006-8136								
 987659-1	Cicer macracanthum subsp. acanthophyllum	(Boriss.) Seferova	Bot. Zhurn. (Moscow & Leningrad)	80(8): 103	1995	0006-8136								
 987660-1	Erythronium dens-canis subsp. albiflorum	Kricsf.	Bot. Zhurn. (Moscow & Leningrad)	80(9): 48	1995	0006-8136								
-988575-1	Hylotelephium decumbens	(LucÈ) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	80(11): 35	1995	0006-8136								
+988575-1	Hylotelephium decumbens	(Luc√©) V.V.Byalt	Bot. Zhurn. (Moscow & Leningrad)	80(11): 35	1995	0006-8136								
 988576-1	Silene pseudoholopetala	Lazkov	Bot. Zhurn. (Moscow & Leningrad)	80(11): 105	1995	0006-8136								
-988833-1	Corrigiola perez-larae	(Chaudhri, MuÒoz Garm. & Pedrol) Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	80(12): 116	1996 [1995 publ. 1996]	0006-8136								
+988833-1	Corrigiola perez-larae	(Chaudhri, Mu√±oz Garm. & Pedrol) Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	80(12): 116	1996 [1995 publ. 1996]	0006-8136								
 988834-1	Corrigiola africana	(Turrill) Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	80(12): 116	1996 [1995 publ. 1996]	0006-8136								
 988835-1	Corrigiola poeppigii	(Chaudhri) Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	80(12): 117	1996 [1995 publ. 1996]	0006-8136								
 988836-1	Corrigiola sect. Paniculatae	Ikonn.	Bot. Zhurn. (Moscow & Leningrad)	80(12): 117	1996 [1995 publ. 1996]	0006-8136								
@@ -3703,7 +3703,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 993332-1	Centaurea kimeridzei	M.Kimer.	Bot. Zhurn. (Moscow & Leningrad)	80(2): 76	1995	0006-8136								
 996768-1	Aconitum korshinskyi	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	81(12): 113	1997 [1996 publ. 1997]	0006-8136								
 996769-1	Delphinium subcuneatum	Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	81(12): 118	1997 [1996 publ. 1997]	0006-8136								
-996847-1	Aconitum prutense	(Zapa?.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	81(12): 115	1997 [1996 publ. 1997]	0006-8136								
+996847-1	Aconitum prutense	(Zapa≈Ç.) Tzvelev	Bot. Zhurn. (Moscow & Leningrad)	81(12): 115	1997 [1996 publ. 1997]	0006-8136								
 996984-1	Rosa majalis var. petropolitana	(N.P.Smirn.) Buzunova	Bot. Zhurn. (Moscow & Leningrad)	81(11): 47	1996	0006-8136								
 996985-1	Ranunculus sect. Pedatifidi	(Tzvelev) Malacha	Bot. Zhurn. (Moscow & Leningrad)	81(11): 92	1996	0006-8136								
 996986-1	Ranunculus sect. Pygmaei	(Luferov) Malacha	Bot. Zhurn. (Moscow & Leningrad)	81(11): 92	1996	0006-8136								
@@ -3729,17 +3729,17 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 997266-1	Cheirostylis bipunctata	Aver.	Bot. Zhurn. (Moscow & Leningrad)	81(10): 78	1996	0006-8136								
 997267-1	Cheirostylis eglandulosa	Aver.	Bot. Zhurn. (Moscow & Leningrad)	81(10): 82, 80	1996	0006-8136								
 997268-1	Aphyllorchis annamensis	Aver.	Bot. Zhurn. (Moscow & Leningrad)	81(10): 82	1996	0006-8136								
-997269-1	Callerya atropurpurea var. pubescens	(Craib) P.K.LÙc	Bot. Zhurn. (Moscow & Leningrad)	81(10): 98	1996	0006-8136								
-997270-1	Callerya bonatiana	(Pamp.) P.K.LÙc	Bot. Zhurn. (Moscow & Leningrad)	81(10): 99	1996	0006-8136								
+997269-1	Callerya atropurpurea var. pubescens	(Craib) P.K.L√¥c	Bot. Zhurn. (Moscow & Leningrad)	81(10): 98	1996	0006-8136								
+997270-1	Callerya bonatiana	(Pamp.) P.K.L√¥c	Bot. Zhurn. (Moscow & Leningrad)	81(10): 99	1996	0006-8136								
 997271-1	Empetrum nigrum subsp. caucasicum	(Juz.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	81(10): 113	1996	0006-8136								
 997272-1	Empetrum nigrum subsp. androgynum	(V.N.Vassil.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	81(10): 113	1996	0006-8136								
 997273-1	Empetrum nigrum subsp. sibiricum	(V.N.Vassil.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	81(10): 113	1996	0006-8136								
 997274-1	Empetrum nigrum subsp. kardakovii	(V.N.Vassil.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	81(10): 113	1996	0006-8136								
 997275-1	Empetrum nigrum subsp. asiaticum	(Nakai) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	81(10): 113	1996	0006-8136								
 997276-1	Empetrum nigrum subsp. albidum	(V.N.Vassil.) Kuvaev	Bot. Zhurn. (Moscow & Leningrad)	81(10): 113	1996	0006-8136								
-997329-1	Callerya championii	(Benth.) P.K.LÙc	Bot. Zhurn. (Moscow & Leningrad)	81(10): 97, without basionym ref.	1996	0006-8136								
-997330-1	Callerya dielsiana	(Harms) P.K.LÙc	Bot. Zhurn. (Moscow & Leningrad)	81(10): 99, without basionym page	1996	0006-8136								
-997331-1	Millettia pachyloba var. lasiopetala	(Hayata) P.K.LÙc	Bot. Zhurn. (Moscow & Leningrad)	81(10): 99, without basionym ref.	1996	0006-8136								
+997329-1	Callerya championii	(Benth.) P.K.L√¥c	Bot. Zhurn. (Moscow & Leningrad)	81(10): 97, without basionym ref.	1996	0006-8136								
+997330-1	Callerya dielsiana	(Harms) P.K.L√¥c	Bot. Zhurn. (Moscow & Leningrad)	81(10): 99, without basionym page	1996	0006-8136								
+997331-1	Millettia pachyloba var. lasiopetala	(Hayata) P.K.L√¥c	Bot. Zhurn. (Moscow & Leningrad)	81(10): 99, without basionym ref.	1996	0006-8136								
 997361-1	Euphorbia czerepanovii	Geltman	Bot. Zhurn. (Moscow & Leningrad)	82(3): 122	1997	0006-8136								
 997362-1	Euphorbia daghestanica	Geltman	Bot. Zhurn. (Moscow & Leningrad)	82(3): 122	1997	0006-8136								
 997363-1	Galium armenum	Shantser	Bot. Zhurn. (Moscow & Leningrad)	82(3): 126	1997	0006-8136								
@@ -3791,7 +3791,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 998904-1	Crepidiastrum tenuifolium	(Willd.) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	82(5): 115	1997	0006-8136								
 998905-1	Crepidiastrum tenuicaule	(Babc. & Stebbins) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	82(5): 115	1997	0006-8136								
 998906-1	Ixeridium oldhamii	(Maxim.) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	82(5): 116	1997	0006-8136								
-998907-1	Mulgedium sect. Lagedium	(Soj·k) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	82(5): 116	1997	0006-8136								
+998907-1	Mulgedium sect. Lagedium	(Soj√°k) Sennikov	Bot. Zhurn. (Moscow & Leningrad)	82(5): 116	1997	0006-8136								
 77133055-1	Tschulaktavia	Bajtenov ex Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	97(5): 651	2012	0006-8136								
 77133058-1	Tschulaktavia saxatilis	(Bajtenov) Bajtenov ex Pimenov & Kljuykov	Bot. Zhurn. (Moscow & Leningrad)	97(5): 652	2012	0006-8136								
 77142676-1	Jurinea tschernevae	Tojibaev & Turginov	Bot. Zhurn. (Moscow & Leningrad)	98(12):	2013	0006-8136								
@@ -3860,7 +3860,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60475044-2	Ziziphora maritima	(Benth.) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
 60475045-2	Ziziphora mixta	(Ausserd. ex Heinr.Braun & Sennholz) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
 60475050-2	Ziziphora nana	(P.H.Davis & Doroszenko) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
-60475052-2	Ziziphora orontia	(K.Mal˝) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
+60475052-2	Ziziphora orontia	(K.Mal√Ω) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
 77165330-1	Ziziphora schizodonta	(Klokov) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
 77165289-1	Ziziphora suaveolens	(Sm.) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								
 60475053-2	Ziziphora subcrispa	(Klokov) Melnikov	Bot. Zhurn. (Moscow & Leningrad)	101(1): 89	2016	0006-8136								

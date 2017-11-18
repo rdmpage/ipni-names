@@ -32,7 +32,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1039450-2	Tarachia yoshinagae	(Makino) H.Ito	Bot. Mag. (Tokyo)	43: 23	1939	0006-808X	10.15281/jplantres1887.43.23							
 1041326-2	Saussurea tielesii var. imperialis		Bot. Mag. (Tokyo)	31: 253	1917	0006-808X								
 1046645-2	Crepidiastrum lanceolatum var. latifolium	Nakai	Bot. Mag. (Tokyo)	34: 151	1920 [Oct 1920]	0006-808X								
-1062901-2	Cyperus amuricus var. pterygorrachis	(C.B.Clarke ex H.Lév.) Ohwi	Bot. Mag. (Tokyo)	45: 184	1931 [20 Apr 1931]	0006-808X	10.15281/jplantres1887.45.183							
+1062901-2	Cyperus amuricus var. pterygorrachis	(C.B.Clarke ex H.LÃ©v.) Ohwi	Bot. Mag. (Tokyo)	45: 184	1931 [20 Apr 1931]	0006-808X	10.15281/jplantres1887.45.183							
 1062975-2	Crepis lanceolata var. platyphylla	(Franch. & Sav.) Makino	Bot. Mag. (Tokyo)	17: 88	1903	0006-808X								
 106374-1	Akebia longeracemosa	Matsum.	Bot. Mag. (Tokyo)	1899, 18.		0006-808X								
 1067775-2	Polystichum bissetianum	(Baker) Nakai	Bot. Mag. (Tokyo)	45: 102	1931 [20 Mar 1931]	0006-808X	10.15281/jplantres1887.45.91							
@@ -75,7 +75,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1128192-2	Paraixeris chelidoniifolia	(Makino) Nakai	Bot. Mag. (Tokyo)	34: 156	1920 [Oct 1920]	0006-808X								
 11355-2	Ammodenia oblongifolia var. maxima	Nakai	Bot. Mag. (Tokyo)	43: 458	1929	0006-808X	10.15281/jplantres1887.43.439							
 113643-1	Bothriospermum imaii	Nakai	Bot. Mag. (Tokyo)	xxiii. 189 (1909).		0006-808X								
-1137732-2	Satureja confinis f. fauriei	(H.Lév. & Vaniot) Ohwi	Bot. Mag. (Tokyo)	45: 133	1931 [20 Mar 1931]	0006-808X	10.15281/jplantres1887.45.91							
+1137732-2	Satureja confinis f. fauriei	(H.LÃ©v. & Vaniot) Ohwi	Bot. Mag. (Tokyo)	45: 133	1931 [20 Mar 1931]	0006-808X	10.15281/jplantres1887.45.91							
 1138702-2	Eleocharis kamtschatica var. reducta	Ohwi	Bot. Mag. (Tokyo)	45: 185	1931 [20 Apr 1931]	0006-808X	10.15281/jplantres1887.45.183							
 1138980-2	Trisetum flavescens var. sibiricum	(Rupr.) Ohwi	Bot. Mag. (Tokyo)	45: 192	1931 [20 Apr 1931]	0006-808X	10.15281/jplantres1887.45.183							
 1139788-2	Streptopus japonicus var. atrocarpus	(Koidz.) Ohwi	Bot. Mag. (Tokyo)	45: 189	1931 [20 Apr 1931]	0006-808X	10.15281/jplantres1887.45.183							
@@ -158,8 +158,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 148225-1	Abelia shikokiana	Makino	Bot. Mag. (Tokyo)	6(60): 55	1892	0006-808X	10.15281/jplantres1887.6.45							
 148231-1	Abelia tomentosa	Koidz.	Bot. Mag. (Tokyo)	1925, xxxix. 17.		0006-808X								
 14829-1	Oxycoccoides	Nakai	Bot. Mag. (Tokyo)	1917, xxxi. 246:		0006-808X	10.15281/jplantres1887.31.370_244							
-148444-2	Machaerina cubensis	(Kük.) T.Koyama	Bot. Mag. (Tokyo)	69: 63	1956	0006-808X	10.15281/jplantres1887.69.59							
-148445-2	Machaerina ekmanii	(Kük.) T.Koyama	Bot. Mag. (Tokyo)	69: 63	1956	0006-808X	10.15281/jplantres1887.69.59							
+148444-2	Machaerina cubensis	(KÃ¼k.) T.Koyama	Bot. Mag. (Tokyo)	69: 63	1956	0006-808X	10.15281/jplantres1887.69.59							
+148445-2	Machaerina ekmanii	(KÃ¼k.) T.Koyama	Bot. Mag. (Tokyo)	69: 63	1956	0006-808X	10.15281/jplantres1887.69.59							
 148446-2	Machaerina ficticia	(Hemsl.) T.Koyama	Bot. Mag. (Tokyo)	69: 63	1956	0006-808X	10.15281/jplantres1887.69.59							
 148447-2	Machaerina macrophylla	(Boeckeler) T.Koyama	Bot. Mag. (Tokyo)	69: 64	1956	0006-808X	10.15281/jplantres1887.69.59							
 148456-1	Diervilla brevicalycina	Nakai	Bot. Mag. (Tokyo)	1915, xxix. 5.		0006-808X								
@@ -224,7 +224,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 159501-1	Stellaria trimorpha	Nakai	Bot. Mag. (Tokyo)	1912, xxvi. 327.		0006-808X								
 159505-1	Stellaria uchiyamana	Makino	Bot. Mag. (Tokyo)	xv. 164.		0006-808X								
 159542-1	Stellaria yesoalpina	Nakai	Bot. Mag. (Tokyo)	43: 450	1929	0006-808X	10.15281/jplantres1887.43.439							
-159580-1	Tissa coreana	(H.Lév.) Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 775		0006-808X	10.15281/jplantres1887.48.773							
+159580-1	Tissa coreana	(H.LÃ©v.) Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 775		0006-808X	10.15281/jplantres1887.48.773							
 159585-1	Tissa fauriei	Nakai	Bot. Mag. (Tokyo)	1913, xxvii 129, nomen.		0006-808X								
 159586-1	Tissa flaccida	Nakai	Bot. Mag. (Tokyo)	1913, xxvii 129, nomen.		0006-808X								
 160329-1	Celastrus insularis	Koidz.	Bot. Mag. (Tokyo)	1925, xxxix. 22.		0006-808X								
@@ -677,13 +677,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 186425-2	Pedicularis japonica var. maximowiczii	Nakai	Bot. Mag. (Tokyo)	23: (99)	1909	0006-808X								
 186512-1	Cacalia adenostyloides	(Maxim.) Matsumura & Koidz.	Bot. Mag. (Tokyo)	xxiv. 152 (1910)		0006-808X								
 186535-1	Cacalia ameristophylla	Nakai	Bot. Mag. (Tokyo)	1915, xxix. 13.		0006-808X								
-186655-1	Cacalia chokaiensis	Kudô	Bot. Mag. (Tokyo)	29: 227.	1915	0006-808X								
+186655-1	Cacalia chokaiensis	KudÃ´	Bot. Mag. (Tokyo)	29: 227.	1915	0006-808X								
 186689-1	Cacalia crepidifolia	Nakai	Bot. Mag. (Tokyo)	29: 12	1915	0006-808X								
 186858-1	Cacalia iinumae	Makino	Bot. Mag. (Tokyo)	1898, 80		0006-808X								
 186882-1	Cacalia kiusiana	Makino	Bot. Mag. (Tokyo)	xxiv. 228 (1910)		0006-808X	10.15281/jplantres1887.24.285_227							
 186940-1	Cacalia lobatifolia	Makino	Bot. Mag. (Tokyo)	1898, 80		0006-808X								
 186960-1	Cacalia makineana	Makino	Bot. Mag. (Tokyo)	xxiv. 60 (1910)		0006-808X	10.15281/jplantres1887.24.278_50							
-186968-1	Cacalia matsumuraeana	Kudô	Bot. Mag. (Tokyo)	1915, xxix. 226.		0006-808X								
+186968-1	Cacalia matsumuraeana	KudÃ´	Bot. Mag. (Tokyo)	1915, xxix. 226.		0006-808X								
 187011-1	Cacalia nikomontana	Matsum.	Bot. Mag. (Tokyo)	1899, 94.		0006-808X								
 187049-1	Cacalia palmata	Makino	Bot. Mag. (Tokyo)	xviii. 16		0006-808X								
 187116-1	Cacalia pseudotaimingasa	Nakai	Bot. Mag. (Tokyo)	1915, xxix. 8.		0006-808X								
@@ -813,7 +813,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 21009-1	Matsumurella	Makino	Bot. Mag. (Tokyo)	1915, xxix. 279.		0006-808X	10.15281/jplantres1887.29.346_279							
 210180-2	Primula arctica	Koidz.	Bot. Mag. (Tokyo)	25(297): 216 (-217)	1911 [Oct 1911]	0006-808X								
 211270-1	Gynura japonica	(Thunb.) Makino	Bot. Mag. (Tokyo)	1904, 51		0006-808X								
-21154-1	Prunellopsis	Kudô	Bot. Mag. (Tokyo)	1920, xxxiv. 181.		0006-808X	10.15281/jplantres1887.34.408_181							
+21154-1	Prunellopsis	KudÃ´	Bot. Mag. (Tokyo)	1920, xxxiv. 181.		0006-808X	10.15281/jplantres1887.34.408_181							
 216436-1	Hieracium coreanum	Nakai	Bot. Mag. (Tokyo)	29: 9	1915	0006-808X								
 220268-1	Hieracium nakaii	Kitag.	Bot. Mag. (Tokyo)	1936, l. 198.		0006-808X	10.15281/jplantres1887.50.194							
 221632-1	Hieracium praelongum	Nakai	Bot. Mag. (Tokyo)	31: 112	1917	0006-808X	10.15281/jplantres1887.31.365_107							
@@ -871,7 +871,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 236463-1	Paraixeris denticulato-platyphylla	Nakai	Bot. Mag. (Tokyo)	1920, xxxiv. 157.		0006-808X								
 236470-1	Paraixeris yoshinoi	Nakai	Bot. Mag. (Tokyo)	1920, xxxiv. 158.		0006-808X								
 237235-1	Pertya hybrida	Makino	Bot. Mag. (Tokyo)	xiv. 144.		0006-808X								
-237236-1	Pertya × hybrida	Makino	Bot. Mag. (Tokyo)	xx. 28 (1906).		0006-808X	10.15281/jplantres1887.20.229_23b							
+237236-1	Pertya Ã— hybrida	Makino	Bot. Mag. (Tokyo)	xx. 28 (1906).		0006-808X	10.15281/jplantres1887.20.229_23b							
 237238-1	Pertya macroclinidium	Makino	Bot. Mag. (Tokyo)	xiv. 144		0006-808X								
 237245-1	Pertya rigidula	Makino	Bot. Mag. (Tokyo)	xiv. 144		0006-808X								
 237251-1	Pertya triloba	Makino	Bot. Mag. (Tokyo)	xiv. 144		0006-808X								
@@ -1001,7 +1001,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 262488-2	Vallisneria asiatica var. biwaensis	Miki	Bot. Mag. (Tokyo)	48: 330, fig	1934	0006-808X	10.15281/jplantres1887.48.326							
 264012-1	Tsuga japonica	Shirasawa	Bot. Mag. (Tokyo)	ix. (1895) 84; et ex Rev. Hortic. lxvii. (1895) 274.		0006-808X								
 267980-1	Evolvulus boninensis	Maekawa & Tuyama	Bot. Mag. (Tokyo)	1938, lii. 571.		0006-808X	10.15281/jplantres1887.52.567							
-26983-1	Paracyclea	Kudô & Yamam.	Bot. Mag. (Tokyo)	1932, xlvi. 157.		0006-808X	10.15281/jplantres1887.46.157							
+26983-1	Paracyclea	KudÃ´ & Yamam.	Bot. Mag. (Tokyo)	1932, xlvi. 157.		0006-808X	10.15281/jplantres1887.46.157							
 269918-1	Ipomoea tashiroi	Matsum.	Bot. Mag. (Tokyo)	1898, 75.		0006-808X								
 27045-1	Mitrastemon	Makino	Bot. Mag. (Tokyo)	23: 326	1909	0006-808X	10.15281/jplantres1887.23.270_314							
 271355-1	Coriaria intermedia	Matsum.	Bot. Mag. (Tokyo)	1898, 62.		0006-808X								
@@ -1038,7 +1038,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 274210-1	Hylotelephium ewersii	(Ledeb.) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 50 (1977)		0006-808X	10.1007/bf02489468							
 274212-1	Hylotelephium mingjinianum	(Fu) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 51 (1977)		0006-808X	10.1007/bf02489468							
 274213-1	Hylotelephium pallescens	(Freyn) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 51 (1977)		0006-808X	10.1007/bf02489468							
-274214-1	Hylotelephium pluricaule	(Kudô) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 51 (1977)		0006-808X	10.1007/bf02489468							
+274214-1	Hylotelephium pluricaule	(KudÃ´) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 51 (1977)		0006-808X	10.1007/bf02489468							
 274215-1	Hylotelephium populifolium	(Pall.) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 51 (1977)		0006-808X	10.1007/bf02489468							
 274219-1	Hylotelephium sieboldii	(Sweetex Hook.) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 52 (1977)		0006-808X	10.1007/bf02489468							
 274220-1	Hylotelephium sordidum	(Maxim.) H.Ohba	Bot. Mag. (Tokyo)	90(1017): 52 (1977)		0006-808X	10.1007/bf02489468							
@@ -1131,8 +1131,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 296263-1	Quercus hondae	Makino	Bot. Mag. (Tokyo)	16: 144	1902	0006-808X								
 296929-2	Parageum	Nakai & H.Hara ex H.Hara	Bot. Mag. (Tokyo)	49: 124	1935	0006-808X	10.15281/jplantres1887.49.115							
 297354-2	Semiaquilegia	Makino	Bot. Mag. (Tokyo)	16: 119	1902	0006-808X								
-297760-1	Cynocrambe japonica	(Ôkubo & Makino) Makino	Bot. Mag. (Tokyo)	viii. p. (348) (1894)		0006-808X								
-297762-1	Theligonum japonicum	Ôkubo & Makino	Bot. Mag. (Tokyo)	iii. 5 (1889); cf. Matsumura, Ind. Pl. Jap. ii. II. 73(1912).		0006-808X	10.15281/jplantres1887.3.1							
+297760-1	Cynocrambe japonica	(Ã”kubo & Makino) Makino	Bot. Mag. (Tokyo)	viii. p. (348) (1894)		0006-808X								
+297762-1	Theligonum japonicum	Ã”kubo & Makino	Bot. Mag. (Tokyo)	iii. 5 (1889); cf. Matsumura, Ind. Pl. Jap. ii. II. 73(1912).		0006-808X	10.15281/jplantres1887.3.1							
 298433-1	Carex adumana	Makino	Bot. Mag. (Tokyo)	1895, ix. P. (258). japonice.		0006-808X								
 298719-1	Carex augustini	Tuyama	Bot. Mag. (Tokyo)	1938, lii. 463.		0006-808X	10.15281/jplantres1887.52.463							
 298876-1	Carex boninensis	Koidz.	Bot. Mag. (Tokyo)	1918, xxxii. 55.		0006-808X								
@@ -1224,21 +1224,21 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 310344-1	Machaerina aromatica	(Merr.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310345-1	Machaerina arthrophylla	(Nees) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310346-1	Machaerina articulata	(R.Br.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
-310347-1	Machaerina aspericaulis	(Kük.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
+310347-1	Machaerina aspericaulis	(KÃ¼k.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310348-1	Machaerina australis	(A.Rich.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310349-1	Machaerina bidwellii	(Stapf) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310350-1	Machaerina boninsimae	(Nakai) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
-310351-1	Machaerina brevipaniculata	(Kük.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
+310351-1	Machaerina brevipaniculata	(KÃ¼k.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 62 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310352-1	Machaerina brevistigma	(Nakai ex Tuyama) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310353-1	Machaerina capillacea	(Hook.f.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310354-1	Machaerina complanata	(Berggr.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310355-1	Machaerina crassa	(Thwaites) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310356-1	Machaerina crinita	(Stapf) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
-310357-1	Machaerina cubensis	(Kük.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
+310357-1	Machaerina cubensis	(KÃ¼k.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310358-1	Machaerina cyperoides	(Merr.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310359-1	Machaerina deplanchei	(Boeckeler) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310360-1	Machaerina disticha	(C.B.Clarke) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
-310361-1	Machaerina ekmanii	(Kük.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
+310361-1	Machaerina ekmanii	(KÃ¼k.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310362-1	Machaerina elynanthoides	(F.Muell.) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310363-1	Machaerina ensifolia	(Boeckeler) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
 310364-1	Machaerina ensigera	(Hance) T.Koyama	Bot. Mag. (Tokyo)	lxix. 63 (1956)		0006-808X	10.15281/jplantres1887.69.59							
@@ -1301,7 +1301,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 312851-1	Schoenus fuscoguttatus	Ohwi	Bot. Mag. (Tokyo)	lvi. 206 (1942)		0006-808X	10.15281/jplantres1887.56.199							
 312870-1	Schoenus hattorianus	Nakai	Bot. Mag. (Tokyo)	1912, xxvi. 97.		0006-808X	10.15281/jplantres1887.26.304_91							
 313115-1	Scirpus abactus	Ohwi	Bot. Mag. (Tokyo)	1931, xlv. 186.		0006-808X	10.15281/jplantres1887.45.183							
-313396-1	Scirpus clemensii	(Kük.) Ohwi	Bot. Mag. (Tokyo)	56(665): 203	1942 [May 1942]	0006-808X	10.15281/jplantres1887.56.199							
+313396-1	Scirpus clemensii	(KÃ¼k.) Ohwi	Bot. Mag. (Tokyo)	56(665): 203	1942 [May 1942]	0006-808X	10.15281/jplantres1887.56.199							
 313696-1	Scirpus hondoensis	Ohwi	Bot. Mag. (Tokyo)	1931, xlv. 189.		0006-808X	10.15281/jplantres1887.45.183							
 313761-1	Scirpus karuisawensis	Makino	Bot. Mag. (Tokyo)	xviii. 119.		0006-808X								
 313935-1	Scirpus mitsukurianus	Makino	Bot. Mag. (Tokyo)	xvii. 7.		0006-808X	10.15281/jplantres1887.17.191_6							
@@ -1603,10 +1603,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 360120-1	Quercus stenophylla	Makino	Bot. Mag. (Tokyo)	1910, xxiv. 17.		0006-808X								
 360127-1	Quercus stipitata	Hayata ex Koidz.	Bot. Mag. (Tokyo)	1916, xxx. 187, in syn		0006-808X								
 360252-1	Quercus yayeyamensis	Koidz.	Bot. Mag. (Tokyo)	1918, xxxii. 251.		0006-808X								
-360261-1	Shiia brachyacantha	Kudô & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 405		0006-808X								
-360265-1	Shiia longicaudata	Kudô & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 405		0006-808X								
-360266-1	Shiia lutchuensis	Kudô & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 405		0006-808X								
-360268-1	Shiia stipitata	Kudô & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 406		0006-808X	10.15281/jplantres1887.44.405							
+360261-1	Shiia brachyacantha	KudÃ´ & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 405		0006-808X								
+360265-1	Shiia longicaudata	KudÃ´ & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 405		0006-808X								
+360266-1	Shiia lutchuensis	KudÃ´ & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 405		0006-808X								
+360268-1	Shiia stipitata	KudÃ´ & Masam.	Bot. Mag. (Tokyo)	1930, xliv. 406		0006-808X	10.15281/jplantres1887.44.405							
 360270-1	Synaedrys acuminata	Koidz.	Bot. Mag. (Tokyo)	1916, xxx. 193		0006-808X								
 360271-1	Synaedrys acuminatissima	Koidz.	Bot. Mag. (Tokyo)	1916, xxx. 190		0006-808X								
 360272-1	Synaedrys amherstiana	Koidz.	Bot. Mag. (Tokyo)	1916, xxx. 193		0006-808X								
@@ -1764,7 +1764,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 366034-1	Xylosma apactis	Koidz.	Bot. Mag. (Tokyo)	xxxix. 316 (1925)		0006-808X								
 36622-1	Tristylopsis	Kaneh. & Hatus.	Bot. Mag. (Tokyo)	57: 83, sphalm. pro.	1943	0006-808X	10.15281/jplantres1887.57.63							
 367007-1	Comastoma falcatum	(Turcz.) Toyokuni	Bot. Mag. (Tokyo)	lxxiv. 198 (1961)		0006-808X	10.15281/jplantres1887.74.198							
-367009-1	Comastoma limprichtii	(Grüning) Toyokuni	Bot. Mag. (Tokyo)	lxxiv. 198 (1961)		0006-808X	10.15281/jplantres1887.74.198							
+367009-1	Comastoma limprichtii	(GrÃ¼ning) Toyokuni	Bot. Mag. (Tokyo)	lxxiv. 198 (1961)		0006-808X	10.15281/jplantres1887.74.198							
 367011-1	Comastoma nanum	(Wulfen) Toyokuni	Bot. Mag. (Tokyo)	lxxiv. 198 (1961)		0006-808X	10.15281/jplantres1887.74.198							
 367013-1	Comastoma pulmonarium	(Turcz.) Toyokuni	Bot. Mag. (Tokyo)	lxxiv. 198 (1961)		0006-808X	10.15281/jplantres1887.74.198							
 367016-1	Comastoma tenellum	(Rottb.) Toyokuni	Bot. Mag. (Tokyo)	lxxiv. 198 (1961)		0006-808X	10.15281/jplantres1887.74.198							
@@ -1894,7 +1894,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 394263-1	Calamagrostis adpressi-ramea	Ohwi	Bot. Mag. (Tokyo)	1931, xlv. 193, 389.		0006-808X	10.15281/jplantres1887.45.183							
 394282-1	Calamagrostis alpicola	Ohwi	Bot. Mag. (Tokyo)	1930, xliv. 569.		0006-808X	10.15281/jplantres1887.44.565							
 394305-1	Calamagrostis arisanensis	Honda	Bot. Mag. (Tokyo)	1926, xl. 440.		0006-808X	10.15281/jplantres1887.40.435							
-394306-1	Calamagrostis × aristata	Ohwi	Bot. Mag. (Tokyo)	1931, xlv. 194.		0006-808X	10.15281/jplantres1887.45.183							
+394306-1	Calamagrostis Ã— aristata	Ohwi	Bot. Mag. (Tokyo)	1931, xlv. 194.		0006-808X	10.15281/jplantres1887.45.183							
 394312-1	Calamagrostis aspera	Honda	Bot. Mag. (Tokyo)	1926, xl. 324.		0006-808X	10.15281/jplantres1887.40.317							
 394318-1	Calamagrostis autumnalis	Koidz.	Bot. Mag. (Tokyo)	1925, xxxix. 18.		0006-808X								
 394442-1	Calamagrostis exaristata	Honda	Bot. Mag. (Tokyo)	1927, xli. 13.		0006-808X	10.15281/jplantres1887.41.6							
@@ -1957,7 +1957,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 401432-1	Eragrostis pilosiuscula	Ohwi	Bot. Mag. (Tokyo)	lv. 279 (1941)		0006-808X	10.15281/jplantres1887.55.274							
 401644-1	Eragrostis thunbergii	Koidz.	Bot. Mag. (Tokyo)	xxxix. 304 (1925).		0006-808X								
 401966-1	Erianthus sesquimetralis	Ohwi	Bot. Mag. (Tokyo)	56: 9	1942	0006-808X	10.15281/jplantres1887.56.1							
-401995-1	Erioblastus paramushirensis	(Kudô) Honda	Bot. Mag. (Tokyo)	1931, xlv. 215.		0006-808X	10.15281/jplantres1887.45.532_211							
+401995-1	Erioblastus paramushirensis	(KudÃ´) Honda	Bot. Mag. (Tokyo)	1931, xlv. 215.		0006-808X	10.15281/jplantres1887.45.532_211							
 402027-1	Eriochloa hackelii	Honda	Bot. Mag. (Tokyo)	1923, xxxvii. 115.		0006-808X	10.15281/jplantres1887.37.436_105							
 402199-1	Eulalia tanakae	Honda	Bot. Mag. (Tokyo)	1924, xxxviii. 57		0006-808X								
 402210-1	Eulaliopsis angustifolia	Honda	Bot. Mag. (Tokyo)	1923, xxxvii. p. (124); et in Bot. Mag., Tokyo, 1924,xxxviii. 56.		0006-808X								
@@ -2211,7 +2211,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 444642-1	Ajuga pachyrrhiza	Kitag.	Bot. Mag. (Tokyo)	1934, xlviii. 614.		0006-808X	10.15281/jplantres1887.48.610							
 444644-1	Ajuga pallescens	Makino	Bot. Mag. (Tokyo)	1911, xxv. 14, in syn.		0006-808X								
 444678-1	Ajuga spectabilis	Nakai	Bot. Mag. (Tokyo)	1916, xxx. 290.		0006-808X								
-444690-1	Ajuga typica	Matsum. & Kudô	Bot. Mag. (Tokyo)	1912, xxvi. 294, nomen.		0006-808X								
+444690-1	Ajuga typica	Matsum. & KudÃ´	Bot. Mag. (Tokyo)	1912, xxvi. 294, nomen.		0006-808X								
 444696-1	Ajugoides humilis	Makino	Bot. Mag. (Tokyo)	1915, xxix. 281.		0006-808X	10.15281/jplantres1887.29.346_279							
 444765-1	Amethystanthus effusus	(Honda) Honda	Bot. Mag. (Tokyo)	1940, liv. 2		0006-808X	10.15281/jplantres1887.54.1							
 444767-1	Amethystanthus excisus	(Maxim.) Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 787.		0006-808X	10.15281/jplantres1887.48.773							
@@ -2235,7 +2235,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 449239-1	Leonurus tuberiferus	Makino	Bot. Mag. (Tokyo)	xix. 146.		0006-808X								
 449606-1	Loxocalyx ambiguus	Makino	Bot. Mag. (Tokyo)	xix. 107		0006-808X								
 449629-1	Lycopus angustus	Makino	Bot. Mag. (Tokyo)	xi. (382).		0006-808X								
-449654-1	Lycopus japonicus	Matsum. & Kudô	Bot. Mag. (Tokyo)	1912, xxvi. 300, nomen.		0006-808X								
+449654-1	Lycopus japonicus	Matsum. & KudÃ´	Bot. Mag. (Tokyo)	1912, xxvi. 300, nomen.		0006-808X								
 449661-1	Lycopus maackianus	Makino	Bot. Mag. (Tokyo)	xi. (382).		0006-808X								
 450007-1	Matsumurella tuberifera	Makino	Bot. Mag. (Tokyo)	1915, xxix. 279.		0006-808X	10.15281/jplantres1887.29.346_279							
 450017-1	Meehania urticifolia	Makino	Bot. Mag. (Tokyo)	1899 (159), sphalm. ` urticiforia '		0006-808X								
@@ -2246,7 +2246,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 452212-1	Mosla orthodon	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 179.		0006-808X								
 452216-1	Mosla punctulata	Nakai	Bot. Mag. (Tokyo)	1928, xlii. 475		0006-808X	10.15281/jplantres1887.42.451							
 452221-1	Mosla soochouensis	Matsuda	Bot. Mag. (Tokyo)	1912, xxvi. 134.		0006-808X								
-452222-1	Mosla taquetii	H.Lév. ex Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 179, in syn.		0006-808X								
+452222-1	Mosla taquetii	H.LÃ©v. ex Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 179, in syn.		0006-808X								
 452506-1	Nepeta koreana	Nakai	Bot. Mag. (Tokyo)	1917, xxxi. 105.		0006-808X								
 453426-1	Orthodon mayebaranus	Honda	Bot. Mag. (Tokyo)	1939, liii. 50.		0006-808X	10.15281/jplantres1887.53.49							
 453723-1	Perilla acuta	Nakai	Bot. Mag. (Tokyo)	1928, xlii. 474		0006-808X	10.15281/jplantres1887.42.451							
@@ -2256,9 +2256,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 454372-1	Plectranthus effusus	(Maxim.) Honda	Bot. Mag. (Tokyo)	1932, xlvi. 419		0006-808X	10.15281/jplantres1887.46.419							
 454474-1	Plectranthus japonicus	Koidz.	Bot. Mag. (Tokyo)	1929, xliii. 386		0006-808X	10.15281/jplantres1887.43.382							
 454495-1	Plectranthus lanceus	Nakai	Bot. Mag. (Tokyo)	1923, xxxvii. 81.		0006-808X	10.15281/jplantres1887.37.435_71							
-454686-1	Plectranthus sawadae	Honda & Kudô ex Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 790, in syn.		0006-808X	10.15281/jplantres1887.48.773							
+454686-1	Plectranthus sawadae	Honda & KudÃ´ ex Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 790, in syn.		0006-808X	10.15281/jplantres1887.48.773							
 455132-1	Prunella japonica	Makino	Bot. Mag. (Tokyo)	1914, xxviii. 158.		0006-808X	10.15281/jplantres1887.28.329_153	153606	43535533					
-455178-1	Prunellopsis prunelliformis	Kudô	Bot. Mag. (Tokyo)	1920, xxxiv. 183.		0006-808X								
+455178-1	Prunellopsis prunelliformis	KudÃ´	Bot. Mag. (Tokyo)	1920, xxxiv. 183.		0006-808X								
 455923-1	Salvia chanroenica	Nakai	Bot. Mag. (Tokyo)	xxiii. 190 (1909).		0006-808X								
 456259-1	Salvia fushimiana	Koidz.	Bot. Mag. (Tokyo)	1923, xxxvii. 41.		0006-808X								
 456283-1	Salvia glabrescens	Makino	Bot. Mag. (Tokyo)	xxi. 157 (1907).		0006-808X								
@@ -2269,7 +2269,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 457086-1	Salvia ranzaniana	Makino	Bot. Mag. (Tokyo)	1912, xxvi. 184		0006-808X								
 457141-1	Salvia rosulata	Nakai	Bot. Mag. (Tokyo)	1930, xliv. 530.		0006-808X	10.15281/jplantres1887.44.507							
 457442-1	Salvia tsusimensis	Nakai	Bot. Mag. (Tokyo)	1930, xliv. 531.		0006-808X	10.15281/jplantres1887.44.507							
-457697-1	Satureja japonica	Matsum. & Kudô	Bot. Mag. (Tokyo)	1912, xxvi. 299, nomen.		0006-808X								
+457697-1	Satureja japonica	Matsum. & KudÃ´	Bot. Mag. (Tokyo)	1912, xxvi. 299, nomen.		0006-808X								
 457972-1	Satureja multicaulis	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 194.		0006-808X								
 458146-1	Scutellaria asperiflora	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 194.		0006-808X								
 458293-1	Scutellaria glecomoides	Migo	Bot. Mag. (Tokyo)	lvi. 266 (1942)		0006-808X	10.15281/jplantres1887.56.265							
@@ -2285,7 +2285,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 458719-1	Scutellaria tosaensis	Makino	Bot. Mag. (Tokyo)	6(60): 54	1892	0006-808X	10.15281/jplantres1887.6.45							
 458722-1	Scutellaria transitra	Makino	Bot. Mag. (Tokyo)	xviii. 70.		0006-808X								
 458733-1	Scutellaria tuminensis	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 198.		0006-808X	10.15281/jplantres1887.35.191							
-459621-1	Stachys humilis	Matsum. & Kudô	Bot. Mag. (Tokyo)	1912, xxvi. 298		0006-808X								
+459621-1	Stachys humilis	Matsum. & KudÃ´	Bot. Mag. (Tokyo)	1912, xxvi. 298		0006-808X								
 459631-1	Stachys imaii	Nakai	Bot. Mag. (Tokyo)	1912, xxvi. 169.		0006-808X								
 460279-1	Teucrium brevispicatum	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. 201		0006-808X								
 460280-1	Teucrium brevispicum	Nakai	Bot. Mag. (Tokyo)	1920, xxxiv. 48.		0006-808X								
@@ -2423,7 +2423,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 527682-1	Allium biflorum	Nakai	Bot. Mag. (Tokyo)	1913, xxvii. 214.		0006-808X	10.15281/jplantres1887.27.323_213							
 528203-1	Allium inutile	Makino	Bot. Mag. (Tokyo)	1898, 104.		0006-808X								
 528213-1	Allium jaluanum	Nakai	Bot. Mag. (Tokyo)	1913, xxvii. 214.		0006-808X	10.15281/jplantres1887.27.323_213							
-528534-1	Allium ophiopogon	H.Lév. ex Nakai	Bot. Mag. (Tokyo)	27(323): 215	1913 [Nov 1913]	0006-808X	10.15281/jplantres1887.27.323_213							
+528534-1	Allium ophiopogon	H.LÃ©v. ex Nakai	Bot. Mag. (Tokyo)	27(323): 215	1913 [Nov 1913]	0006-808X	10.15281/jplantres1887.27.323_213							
 528550-1	Allium ousensanense	Nakai	Bot. Mag. (Tokyo)	1913, xxvii. 215.		0006-808X	10.15281/jplantres1887.27.323_213							
 528669-1	Allium pseudojaponicum	Makino	Bot. Mag. (Tokyo)	xxiv. 30 (1910).		0006-808X								
 528797-1	Allium satoanum	Kitag.	Bot. Mag. (Tokyo)	1934, xlviii. 92.		0006-808X	10.15281/jplantres1887.48.91							
@@ -2635,8 +2635,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 580498-1	Cocculus acutus	Makino	Bot. Mag. (Tokyo)	xxii. 172 (1908).		0006-808X	10.15281/jplantres1887.22.263_165							
 580950-1	Hypserpa parvifolia	Kaneh. & Hatus.	Bot. Mag. (Tokyo)	lvi. 471 (1942)		0006-808X	10.15281/jplantres1887.56.471							
 580954-1	Hypserpa ponapensis	(Kaneh.) Kaneh.	Bot. Mag. (Tokyo)	1936, l. 604, cum descr.		0006-808X	10.15281/jplantres1887.50.599							
-581257-1	Paracyclea insularis	(Makino) Kudô & Yamam.	Bot. Mag. (Tokyo)	1932, xlvi. 157.		0006-808X	10.15281/jplantres1887.46.157							
-581258-1	Paracyclea ochiaiana	(Yamam.) Kudô & Yamam.	Bot. Mag. (Tokyo)	1932, xlvi. 158		0006-808X	10.15281/jplantres1887.46.157							
+581257-1	Paracyclea insularis	(Makino) KudÃ´ & Yamam.	Bot. Mag. (Tokyo)	1932, xlvi. 157.		0006-808X	10.15281/jplantres1887.46.157							
+581258-1	Paracyclea ochiaiana	(Yamam.) KudÃ´ & Yamam.	Bot. Mag. (Tokyo)	1932, xlvi. 158		0006-808X	10.15281/jplantres1887.46.157							
 581316-1	Pycnarrhena papuana	Kaneh. & Hatus.	Bot. Mag. (Tokyo)	lvi. 473 (1942)		0006-808X	10.15281/jplantres1887.56.471							
 581716-1	Mitrastemon kanehirai	Yamam.	Bot. Mag. (Tokyo)	1925, xxxix. 142.		0006-808X								
 581717-1	Mitrastemon kawa-sasakii	Hayata	Bot. Mag. (Tokyo)	1912, xxvi. 112.		0006-808X								
@@ -2669,7 +2669,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 584341-1	Morus boninensis	Koidz.	Bot. Mag. (Tokyo)	1917, xxxi. 38.		0006-808X								
 584354-1	Morus humilis	Koidz.	Bot. Mag. (Tokyo)	1917, xxxi. 37.		0006-808X								
 584369-1	Morus miyabeana	Hotta	Bot. Mag. (Tokyo)	lxiv. 225 (195 1)		0006-808X	10.15281/jplantres1887.64.223							
-584370-1	Morus × mizuho	Hotta	Bot. Mag. (Tokyo)	1937, li. 834.		0006-808X	10.15281/jplantres1887.51.833							
+584370-1	Morus Ã— mizuho	Hotta	Bot. Mag. (Tokyo)	1937, li. 834.		0006-808X	10.15281/jplantres1887.51.833							
 584373-1	Morus nigriformis	Koidz.	Bot. Mag. (Tokyo)	1917, xxxi. 35		0006-808X	10.15281/jplantres1887.31.27							
 584380-1	Morus rotundiloba	Koidz.	Bot. Mag. (Tokyo)	1917, xxxi. 36.		0006-808X								
 584382-1	Morus tiliifolia	Makino	Bot. Mag. (Tokyo)	xxiii. 88 (1909).		0006-808X								
@@ -2686,7 +2686,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 587297-1	Ardisia nabirensis	Kaneh. & Hatus.	Bot. Mag. (Tokyo)	lvii. 218 (1943)		0006-808X	10.15281/jplantres1887.57.215							
 587658-1	Ardisia tachibana	Makino	Bot. Mag. (Tokyo)	vi. (1892) 53.		0006-808X	10.15281/jplantres1887.6.45							
 58771-1	Achyranthes japonica	Nakai	Bot. Mag. (Tokyo)	1920, xxxiv. 39		0006-808X								
-587760-1	Athruphyllum seguinii	(H.Lév.) Nakai	Bot. Mag. (Tokyo)	lv. 526 (1941); vide Honda in Bot. Mag., Tokyo, lvi. 98(1942)		0006-808X	10.15281/jplantres1887.55.659_521							
+587760-1	Athruphyllum seguinii	(H.LÃ©v.) Nakai	Bot. Mag. (Tokyo)	lv. 526 (1941); vide Honda in Bot. Mag., Tokyo, lvi. 98(1942)		0006-808X	10.15281/jplantres1887.55.659_521							
 587761-1	Athruphyllum taiwanianum	Nakai	Bot. Mag. (Tokyo)	lv. 525 (1941), japonice; vide Honda, in Bot. Mag., Tokyo, lvi. 98 (1942)		0006-808X	10.15281/jplantres1887.55.659_521							
 587854-1	Bladhia chinensis	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. p. (98)		0006-808X								
 587855-1	Bladhia citrifolia	Nakai	Bot. Mag. (Tokyo)	1921, xxxv. p. (98)		0006-808X								
@@ -2865,7 +2865,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 611143-1	Syringa palibiniana	Nakai	Bot. Mag. (Tokyo)	1913, xxvii. 32.		0006-808X								
 611179-1	Syringa venosa	Nakai	Bot. Mag. (Tokyo)	32: 130	1918	0006-808X	10.15281/jplantres1887.32.378_113							
 611450-1	Circaea cardiophylla	Makino	Bot. Mag. (Tokyo)	xx. 42 (1906).		0006-808X								
-611458-1	Circaea × dubia	Hara	Bot. Mag. (Tokyo)	1936, l. 306.		0006-808X	10.15281/jplantres1887.50.301							
+611458-1	Circaea Ã— dubia	Hara	Bot. Mag. (Tokyo)	1936, l. 306.		0006-808X	10.15281/jplantres1887.50.301							
 611826-1	Epilobium fastigiato-ramosum	Nakai	Bot. Mag. (Tokyo)	1919, xxxiii. 9.		0006-808X								
 611969-1	Epilobium kiusianum	Nakai	Bot. Mag. (Tokyo)	xxii. 84 (1908).		0006-808X								
 611977-1	Epilobium kurilense	Nakai	Bot. Mag. (Tokyo)	xxii. 83 (1908).		0006-808X								
@@ -3256,9 +3256,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 699614-1	Diplanthera pinifolia	Miki	Bot. Mag. (Tokyo)	1932, xlvi. 787.		0006-808X	10.15281/jplantres1887.46.774							
 699624-1	Potamogeton alatus	Koidz.	Bot. Mag. (Tokyo)	1929, xliii. 397.		0006-808X	10.15281/jplantres1887.43.382							
 699628-1	Potamogeton anguillanus	Koidz.	Bot. Mag. (Tokyo)	1929, xliii. 398.		0006-808X	10.15281/jplantres1887.43.382							
-699631-1	Potamogeton × apertus	Miki	Bot. Mag. (Tokyo)	1935, xlix. 690.		0006-808X	10.15281/jplantres1887.49.687							
-699647-1	Potamogeton × biwaensis	Miki	Bot. Mag. (Tokyo)	1934, xlviii. 326.		0006-808X	10.15281/jplantres1887.48.326							
-699713-1	Potamogeton × kamogawaensis	Miki	Bot. Mag. (Tokyo)	48: 328	1934	0006-808X	10.15281/jplantres1887.48.326							
+699631-1	Potamogeton Ã— apertus	Miki	Bot. Mag. (Tokyo)	1935, xlix. 690.		0006-808X	10.15281/jplantres1887.49.687							
+699647-1	Potamogeton Ã— biwaensis	Miki	Bot. Mag. (Tokyo)	1934, xlviii. 326.		0006-808X	10.15281/jplantres1887.48.326							
+699713-1	Potamogeton Ã— kamogawaensis	Miki	Bot. Mag. (Tokyo)	48: 328	1934	0006-808X	10.15281/jplantres1887.48.326							
 699739-1	Potamogeton miyakezimensis	Honda	Bot. Mag. (Tokyo)	1936, l. 435.		0006-808X	10.15281/jplantres1887.50.435							
 699819-1	Potamogeton teganumensis	Makino	Bot. Mag. (Tokyo)	1912, xxvi. 122		0006-808X								
 699823-1	Potamogeton torquatus	Koidz.	Bot. Mag. (Tokyo)	1929, xliii. 397.		0006-808X	10.15281/jplantres1887.43.382							
@@ -3353,7 +3353,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 710316-1	Coptis japonica	Makino	Bot. Mag. (Tokyo)	1899 (198)		0006-808X								
 710329-1	Coptis trifoliolata	Makino	Bot. Mag. (Tokyo)	1914, xxviii. 178		0006-808X	10.15281/jplantres1887.28.331_174							
 711246-1	Glaucidium paradoxum	Makino	Bot. Mag. (Tokyo)	xxiv. 71 (1910).		0006-808X								
-711452-1	Isopyrum grandiflorum	H.Lév. ex Nakai	Bot. Mag. (Tokyo)	1912, xxvi. 323, in syn.		0006-808X								
+711452-1	Isopyrum grandiflorum	H.LÃ©v. ex Nakai	Bot. Mag. (Tokyo)	1912, xxvi. 323, in syn.		0006-808X								
 711455-1	Isopyrum insigne	Nakai	Bot. Mag. (Tokyo)	1919, xxxiii. 49.		0006-808X								
 711458-1	Isopyrum leveilleanum	Nakai	Bot. Mag. (Tokyo)	1912, xxvi. 323, in syn.		0006-808X								
 712023-1	Pulsatilla nivalis	Nakai	Bot. Mag. (Tokyo)	1919, xxxiii. 50.		0006-808X								
@@ -3401,7 +3401,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 718307-1	Rhamnus diamantiaca	Nakai	Bot. Mag. (Tokyo)	1917. xxxi. 98.		0006-808X	10.15281/jplantres1887.31.94							
 718337-1	Rhamnus formosana	Matsum.	Bot. Mag. (Tokyo)	xii. 22.		0006-808X								
 718345-1	Rhamnus glabra	Nakai	Bot. Mag. (Tokyo)	1917, xxxi. 99		0006-808X	10.15281/jplantres1887.31.94							
-718414-1	Rhamnus ishidae	Miyabe, Kudô & Hara	Bot. Mag. (Tokyo)	1936, 1. 249, descr. ampl.		0006-808X								
+718414-1	Rhamnus ishidae	Miyabe, KudÃ´ & Hara	Bot. Mag. (Tokyo)	1936, 1. 249, descr. ampl.		0006-808X								
 718423-1	Rhamnus kanagusukii	Makino	Bot. Mag. (Tokyo)	1912, xxvi. 221.		0006-808X								
 718515-1	Rhamnus nipponica	Makino	Bot. Mag. (Tokyo)	xviii. 98		0006-808X	10.15281/jplantres1887.18.209_97							
 718649-1	Rhamnus senamensis	Koidz.	Bot. Mag. (Tokyo)	1918, xxxii. 259.		0006-808X								
@@ -3412,7 +3412,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 719150-1	Ventilago nisidai	Kaneh.	Bot. Mag. (Tokyo)	1935, xlix. 273.		0006-808X	10.15281/jplantres1887.49.271							
 720279-1	Agrimonia japonica	Koidz.	Bot. Mag. (Tokyo)	1930, xliv. 104.		0006-808X	10.15281/jplantres1887.44.93							
 720291-1	Agrimonia nipponica	Koidz.	Bot. Mag. (Tokyo)	1930, xliv. 104.		0006-808X	10.15281/jplantres1887.44.93							
-721709-1	Aruncus aethusifolius	(H.Lév.) Nakai	Bot. Mag. (Tokyo)	26: 325	1912	0006-808X								
+721709-1	Aruncus aethusifolius	(H.LÃ©v.) Nakai	Bot. Mag. (Tokyo)	26: 325	1912	0006-808X								
 722126-1	Chaenomeles eugenioides	Koidz.	Bot. Mag. (Tokyo)	1915, xxix. 160.		0006-808X								
 722127-1	Chaenomeles lagenaria	Koidz.	Bot. Mag. (Tokyo)	xxiii. 173 (1909).		0006-808X								
 722131-1	Chaenomeles trichogyna	Nakai	Bot. Mag. (Tokyo)	1916, xxx. 23; Nakai, Fl. Sylvat. Koreana, vi. 42.		0006-808X								
@@ -3468,7 +3468,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 730220-1	Prunus rugulosa	Nakai	Bot. Mag. (Tokyo)	1933, xlvii. 264.		0006-808X	10.15281/jplantres1887.47.235							
 730225-1	Prunus sachalinensis	Koidz.	Bot. Mag. (Tokyo)	1912, xxvi. 52		0006-808X								
 730227-1	Prunus sacra	Miyoshi	Bot. Mag. (Tokyo)	1920, xxx iv. 168.		0006-808X								
-730274-1	Prunus sieboldii	(Carrière) Koidz.	Bot. Mag. (Tokyo)	25: 184	1911	0006-808X	10.15281/jplantres1887.25.295_183							
+730274-1	Prunus sieboldii	(CarriÃ¨re) Koidz.	Bot. Mag. (Tokyo)	25: 184	1911	0006-808X	10.15281/jplantres1887.25.295_183							
 730291-1	Prunus speciosa	(Koidz.) Nakai	Bot. Mag. (Tokyo)	29(344): 139, adnot.	1915 [Aug 1915]	0006-808X								
 730339-1	Prunus takesimensis	Nakai	Bot. Mag. (Tokyo)	1918, xxxii. 106.		0006-808X								
 730403-1	Prunus velutipes	Nakai	Bot. Mag. (Tokyo)	1933, xlvii. 263.		0006-808X	10.15281/jplantres1887.47.235							
@@ -3746,10 +3746,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 777139-1	Salix bakko	Kimura	Bot. Mag. (Tokyo)	1928, xlii. 568.		0006-808X	10.15281/jplantres1887.42.566							
 777162-1	Salix bicarpa	Nakai	Bot. Mag. (Tokyo)	1917, xxxi. 111.		0006-808X	10.15281/jplantres1887.31.365_107							
 777525-1	Salix eriocataphylla	Kimura	Bot. Mag. (Tokyo)	1926, xl. 7.		0006-808X	10.15281/jplantres1887.40.7							
-777543-1	Salix × euerata	Kimura	Bot. Mag. (Tokyo)	lxx. 81 (1946)		0006-808X	10.15281/jplantres1887.70.81							
+777543-1	Salix Ã— euerata	Kimura	Bot. Mag. (Tokyo)	lxx. 81 (1946)		0006-808X	10.15281/jplantres1887.70.81							
 777699-1	Salix graciliglans	Nakai	Bot. Mag. (Tokyo)	1916, xxx. 274.		0006-808X								
 777703-1	Salix gracilistyloides	Kimura	Bot. Mag. (Tokyo)	1926, xl. 8; et in Bot. Mag., Tokyo, 1928, xlii. 571,descr. ampl., hybr.		0006-808X	10.15281/jplantres1887.40.7							
-777732-1	Salix × hapala	Kimura	Bot. Mag. (Tokyo)	lix. 82 (1946)		0006-808X	10.15281/jplantres1887.59.79							
+777732-1	Salix Ã— hapala	Kimura	Bot. Mag. (Tokyo)	lix. 82 (1946)		0006-808X	10.15281/jplantres1887.59.79							
 777742-1	Salix hayatana	Kimura	Bot. Mag. (Tokyo)	1928, xlii. 572.		0006-808X	10.15281/jplantres1887.42.566							
 777773-1	Salix hidewoi	Koidz.	Bot. Mag. (Tokyo)	33: 220	1919	0006-808X								
 777782-1	Salix hiraoana	Kimura	Bot. Mag. (Tokyo)	1926, xl. 9, 633.		0006-808X	10.15281/jplantres1887.40.7							
@@ -3792,7 +3792,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 779225-1	Salix yamatensis	Koidz.	Bot. Mag. (Tokyo)	1925, xxxix. 2.		0006-808X								
 779226-1	Salix yezoalpina	Koidz.	Bot. Mag. (Tokyo)	1916, xxx. 332		0006-808X								
 779227-1	Salix yezoensis	(C.K.Schneid.) Kimura	Bot. Mag. (Tokyo)	1931, xlv. 28		0006-808X	10.15281/jplantres1887.45.529_26							
-779228-1	Salix × yoitiana	Kimura	Bot. Mag. (Tokyo)	lix. 83 (1946)		0006-808X	10.15281/jplantres1887.59.79							
+779228-1	Salix Ã— yoitiana	Kimura	Bot. Mag. (Tokyo)	lix. 83 (1946)		0006-808X	10.15281/jplantres1887.59.79							
 779229-1	Salix yoshinoi	Koidz.	Bot. Mag. (Tokyo)	1915, xxix. 314.		0006-808X								
 779243-1	Toisusu cardiophylla	Kimura	Bot. Mag. (Tokyo)	1928, xlii. 288.		0006-808X	10.15281/jplantres1887.42.278							
 780041-1	Buckleya joan	Makino	Bot. Mag. (Tokyo)	xii. (401)		0006-808X								
@@ -3971,7 +3971,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 827411-1	Bobua swinhoeana	(Hance) Migo	Bot. Mag. (Tokyo)	56: 269	1942	0006-808X	10.15281/jplantres1887.56.265							
 827417-1	Bobua uiae	Nakai	Bot. Mag. (Tokyo)	1929, xliii. 448		0006-808X	10.15281/jplantres1887.43.439							
 827443-1	Palura chinensis	Koidz.	Bot. Mag. (Tokyo)	1929, xliii. 397		0006-808X	10.15281/jplantres1887.43.382							
-827444-1	Palura coreana	(H.Lév.) Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 773		0006-808X	10.15281/jplantres1887.48.773							
+827444-1	Palura coreana	(H.LÃ©v.) Nakai	Bot. Mag. (Tokyo)	1934, xlviii. 773		0006-808X	10.15281/jplantres1887.48.773							
 827460-1	Symplocos angiensis	Kaneh. & Hatus.	Bot. Mag. (Tokyo)	56: 485	1942	0006-808X	10.15281/jplantres1887.56.471							
 827470-1	Symplocos argutidens	Nakai	Bot. Mag. (Tokyo)	1918, xxxii. 228.		0006-808X								
 827547-1	Symplocos dallmannensis	Kaneh. & Hatus.	Bot. Mag. (Tokyo)	56: 486	1942	0006-808X	10.15281/jplantres1887.56.471							
@@ -4038,8 +4038,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 836304-1	Sciaphila japonica	Makino	Bot. Mag. (Tokyo)	xvi. (1902) 211.		0006-808X	10.15281/jplantres1887.16.190_210							
 836323-1	Sciaphila okabeana	Tuyama	Bot. Mag. (Tokyo)	1936, l. 426.		0006-808X	10.15281/jplantres1887.50.425							
 836347-1	Sciaphila tosaensis	Makino	Bot. Mag. (Tokyo)	xix. 140.		0006-808X								
-836356-1	Seychellaria japonica	T.Itô	Bot. Mag. (Tokyo)	xxi. 84 (1907).		0006-808X								
-836360-1	Seychellaria tosaensis	T.Itô	Bot. Mag. (Tokyo)	xxi. 85 (1907).		0006-808X								
+836356-1	Seychellaria japonica	T.ItÃ´	Bot. Mag. (Tokyo)	xxi. 84 (1907).		0006-808X								
+836360-1	Seychellaria tosaensis	T.ItÃ´	Bot. Mag. (Tokyo)	xxi. 85 (1907).		0006-808X								
 836919-1	Abelicea serrata	Makino	Bot. Mag. (Tokyo)	1914, xxviii. 175		0006-808X	10.15281/jplantres1887.28.331_174							
 836940-1	Celtis aphanonthoides	Koidz.	Bot. Mag. (Tokyo)	1913, xxvii. (563).		0006-808X								
 836952-1	Celtis boninensis	Koidz.	Bot. Mag. (Tokyo)	1913, xxvii. 183.		0006-808X								
@@ -4167,7 +4167,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 859184-1	Vaccinium yatabei	Makino	Bot. Mag. (Tokyo)	xv. 141.		0006-808X								
 859436-1	Patrinia diandra	Kitag.	Bot. Mag. (Tokyo)	1934, xlviii. 619.		0006-808X	10.15281/jplantres1887.48.610							
 859440-1	Patrinia gibbiferum	Nakai	Bot. Mag. (Tokyo)	1919, xxxiii. 214		0006-808X								
-859446-1	Patrinia × hybrida	Makino	Bot. Mag. (Tokyo)	xxii. p. (167) (1908); et in Bot. Mag., Tokyo, xxvi. 393(1912).		0006-808X								
+859446-1	Patrinia Ã— hybrida	Makino	Bot. Mag. (Tokyo)	xxii. p. (167) (1908); et in Bot. Mag., Tokyo, xxvi. 393(1912).		0006-808X								
 859450-1	Patrinia kozushimensis	(Honda) Honda	Bot. Mag. (Tokyo)	56: 14	1942	0006-808X	10.15281/jplantres1887.56.14							
 859470-1	Patrinia sinensis	Koidz.	Bot. Mag. (Tokyo)	1929, xliii. 390		0006-808X	10.15281/jplantres1887.43.382							
 859730-1	Valeriana dageletiana	Nakai ex Maekawa	Bot. Mag. (Tokyo)	1933, xlvii. 618.		0006-808X	10.15281/jplantres1887.47.613							
@@ -4387,7 +4387,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60463414-2	Eria reptans	Makino	Bot. Mag. (Tokyo)	15(no. 76): 128	1901	0006-808X								
 77132968-1	Oxalis acetosella f. rubriflora	Makino	Bot. Mag. (Tokyo)	22: 171	1908	0006-808X								
 77133045-1	Plantago camtschatica var. glabra	Makino & Honda	Bot. Mag. (Tokyo)	49: 695	1935	0006-808X								
-77133053-1	Hierochloë alpina var. monstruosa	Koidz.	Bot. Mag. (Tokyo)	32: 63	1918	0006-808X								
+77133053-1	HierochloÃ« alpina var. monstruosa	Koidz.	Bot. Mag. (Tokyo)	32: 63	1918	0006-808X								
 60468177-2	Holcus fulvus var. nitidus	(Vahl) Honda	Bot. Mag. (Tokyo)	40(no. 471):  101	1926	0006-808X								
 60469356-2	Polygonum blumei var. contractum	Makino	Bot. Mag. (Tokyo)	28(no. 328): 117	1914	0006-808X								
 60469354-2	Polygonum minus var. trigonocarpum	Makino	Bot. Mag. (Tokyo)	28(no. 328): 111	1914	0006-808X								

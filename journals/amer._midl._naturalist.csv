@@ -223,7 +223,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 122410-2	Hieracium piloselloides var. epilosum	Farw.	Amer. Midl. Naturalist	12: 78	1930	0003-0031	10.2307/2420167							
 122499-2	Hieracium umbellatum var. canadense	(Michx.) Breitung	Amer. Midl. Naturalist	58: 67	1957	0003-0031	10.2307/2422363							
 122501-2	Hieracium umbellatum var. scabriusculum	Farw.	Amer. Midl. Naturalist	10: 219	1927	0003-0031	10.2307/2993163							
-122538-2	Hierochloë nashii	Kaczm.	Amer. Midl. Naturalist	3: 198	1914	0003-0031	10.2307/2992844							
+122538-2	HierochloÃ« nashii	Kaczm.	Amer. Midl. Naturalist	3: 198	1914	0003-0031	10.2307/2992844							
 122860-2	Hippocastanum glabrum var. buckleyi	Lunell	Amer. Midl. Naturalist	5: 97	1917	0003-0031	10.2307/2992881							
 122881-2	Hippochaete variegata var. jesupii	Farw.	Amer. Midl. Naturalist	12: 46	1930	0003-0031	10.2307/2420167							
 125036-2	Hydrangea arborescens var. australis	Harb.	Amer. Midl. Naturalist	11: 255	1928	0003-0031	10.2307/2992822							
@@ -366,7 +366,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 138991-1	Tunas polyacantha	Nieuwl. & Lunell	Amer. Midl. Naturalist	1916, iv. 479		0003-0031	10.2307/2993050							
 139101-2	Leucocoma albens	Lunell	Amer. Midl. Naturalist	4: 361	1916	0003-0031	10.2307/2992849							
 139103-2	Leucocoma canadensis	Nieuwl.	Amer. Midl. Naturalist	3: 254	1914	0003-0031	10.2307/2992983							
-139104-2	Leucocoma dasycarpa	(Fisch. & Avé-Lall.) Nieuwl.	Amer. Midl. Naturalist	3: 324	1914	0003-0031	10.2307/2993058							
+139104-2	Leucocoma dasycarpa	(Fisch. & AvÃ©-Lall.) Nieuwl.	Amer. Midl. Naturalist	3: 324	1914	0003-0031	10.2307/2993058							
 139105-2	Leucocoma dioica	Nieuwl.	Amer. Midl. Naturalist	3: 324	1914	0003-0031	10.2307/2993058							
 139106-2	Leucocoma lunellii	Lunell	Amer. Midl. Naturalist	4: 361	1916	0003-0031	10.2307/2992849							
 139107-2	Leucocoma thyrsoidea	Lunell	Amer. Midl. Naturalist	4: 361	1916	0003-0031	10.2307/2992849							
@@ -840,7 +840,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17357180-1	Pyrrosia varia	Farw.	Amer. Midl. Naturalist	12. 302. 1931	1931	0003-0031	10.2307/2420088							
 17357500-1	Sagenia martinicensis	Farw.	Amer. Midl. Naturalist	12. 259. 1931.	1931	0003-0031	10.2307/2420088							
 17357900-1	Scyphofilix speluncae	(L.) Farw.	Amer. Midl. Naturalist	12: 263.	1931	0003-0031	10.2307/2420088							
-173583-2	Oetosis lineata var. filifolia	(Fée) Farw.	Amer. Midl. Naturalist	12: 291	1931	0003-0031	10.2307/2420088							
+173583-2	Oetosis lineata var. filifolia	(FÃ©e) Farw.	Amer. Midl. Naturalist	12: 291	1931	0003-0031	10.2307/2420088							
 173584-2	Oetosis lineata var. filiformis	Farw.	Amer. Midl. Naturalist	12: 291~ 4, fig. 22-25; tab. 8, fig. 46-50; tab. 9, fig. 69-72	1931	0003-0031	10.2307/2420088							
 173585-2	Oetosis stipitata	Farw.	Amer. Midl. Naturalist	12: 291~ 4, fig. 22-25; tab. 8, fig. 46-50; tab. 9, fig. 69-72	1931	0003-0031	10.2307/2420088							
 173586-2	Oetosis stipitata var. williamsii	Farw.	Amer. Midl. Naturalist	12: 291~ 4, fig. 22-25; tab. 8, fig. 46-50; tab. 9, fig. 69-72	1931	0003-0031	10.2307/2420088							
@@ -1348,7 +1348,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 211746-2	Psidium gentlei	Lundell	Amer. Midl. Naturalist	29: 483	1943	0003-0031	10.2307/2420805							
 21196-2	Asclepias gladewitzii	Farw.	Amer. Midl. Naturalist	12: 128	1930	0003-0031	10.2307/2419908							
 212000-1	Helianthus apricus	Lunell	Amer. Midl. Naturalist	1: 237	1910	0003-0031	10.2307/2992746							
-212042-1	Helianthus × cinereus	(Torr. & A.Gray) R.C.Jacks. & Guard	Amer. Midl. Naturalist	lviii. 428 (1957)		0003-0031	10.2307/2422625							
+212042-1	Helianthus Ã— cinereus	(Torr. & A.Gray) R.C.Jacks. & Guard	Amer. Midl. Naturalist	lviii. 428 (1957)		0003-0031	10.2307/2422625							
 212138-1	Helianthus kentuckiensis	McFarland & W.A.Anderson	Amer. Midl. Naturalist	1924, ix. 139.		0003-0031	10.2307/2992802							
 212197-1	Helianthus nitidus	Lunell	Amer. Midl. Naturalist	1: 236	1910	0003-0031	10.2307/2992746							
 213688-2	Ptelea mesochora var. mucronata	Nieuwl.	Amer. Midl. Naturalist	2: 180	1912	0003-0031	10.2307/2992899							
@@ -1459,7 +1459,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 217494-2	Ranunculus occidentalis var. typicus	L.D.Benson	Amer. Midl. Naturalist	40: 44	1948	0003-0031	10.2307/2421547							
 217506-2	Ranunculus orthorhynchus var. bloomeri	(S.Watson) L.D.Benson	Amer. Midl. Naturalist	40: 101	1948	0003-0031	10.2307/2421547							
 217512-2	Ranunculus orthorhynchus var. typicus	L.D.Benson	Amer. Midl. Naturalist	40: 96	1948	0003-0031	10.2307/2421547							
-217516-2	Ranunculus pacificus	(Hultén) L.D.Benson	Amer. Midl. Naturalist	40: 79	1948	0003-0031	10.2307/2421547							
+217516-2	Ranunculus pacificus	(HultÃ©n) L.D.Benson	Amer. Midl. Naturalist	40: 79	1948	0003-0031	10.2307/2421547							
 217527-2	Ranunculus pedatifidus var. affinis	(R.Br.) L.D.Benson	Amer. Midl. Naturalist	52: 355	1954	0003-0031	10.2307/2422237							
 217544-2	Ranunculus peruvianus var. typicus	L.D.Benson	Amer. Midl. Naturalist	40: 157	1948	0003-0031	10.2307/2421547							
 217546-2	Ranunculus petiolaris var. hookeri	(Schltdl.) L.D.Benson	Amer. Midl. Naturalist	40: 90	1948	0003-0031	10.2307/2421547							
@@ -1639,12 +1639,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 230485-2	Scirpus polyphyllus f. viviparus	(Pursh) Beetle	Amer. Midl. Naturalist	41: 482	1949	0003-0031	10.2307/2421725							
 230493-2	Scirpus pumilus var. rollandii	(Fernald) Beetle	Amer. Midl. Naturalist	41: 483	1949	0003-0031	10.2307/2421725							
 230545-2	Scirpus solispicatus	Lunell	Amer. Midl. Naturalist	4: 230	1915	0003-0031	10.2307/2993105							
-230562-1	Liatris × deamii	(Lunell) Shinners	Amer. Midl. Naturalist	xxix. 31 (1943)		0003-0031	10.2307/2420976							
-230574-1	Liatris × gladewitzii	(Farw.) Farw. in Shinners	Amer. Midl. Naturalist	xxix. 37 (1943)		0003-0031	10.2307/2420976							
+230562-1	Liatris Ã— deamii	(Lunell) Shinners	Amer. Midl. Naturalist	xxix. 31 (1943)		0003-0031	10.2307/2420976							
+230574-1	Liatris Ã— gladewitzii	(Farw.) Farw. in Shinners	Amer. Midl. Naturalist	xxix. 37 (1943)		0003-0031	10.2307/2420976							
 230607-1	Liatris novae-angliae	(Lunell) Shinners	Amer. Midl. Naturalist	xxix. 29 (1943)		0003-0031	10.2307/2420976							
 230615-2	Scleria areolata	Lundell	Amer. Midl. Naturalist	29: 471	1943	0003-0031	10.2307/2420805							
 230620-1	Liatris provincialis	R.K.Godfrey	Amer. Midl. Naturalist	lxvi. 466 (1961)		0003-0031	10.2307/2423046							
-230652-1	Liatris × weaveri	Shinners	Amer. Midl. Naturalist	xxix. 38 (1943).		0003-0031	10.2307/2420976							
+230652-1	Liatris Ã— weaveri	Shinners	Amer. Midl. Naturalist	xxix. 38 (1943).		0003-0031	10.2307/2420976							
 230966-2	Scrophularia dakotana	Lunell	Amer. Midl. Naturalist	5: 240	1919	0003-0031	10.2307/2992781							
 23106-2	Aster azureus f. incarnatus	Farw.	Amer. Midl. Naturalist	9: 278	1925	0003-0031	10.2307/2993160							
 231238-2	Scyphofilix speluncae	(L.) Farw.	Amer. Midl. Naturalist	12: 263	1931	0003-0031	10.2307/2420088							
@@ -1757,7 +1757,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 243715-2	Steironema pumilum var. longipedicellatum	Lunell	Amer. Midl. Naturalist	2: 157	1912	0003-0031	10.2307/2992869							
 243721-2	Steironema verticillatum var. monstrosum	Lunell	Amer. Midl. Naturalist	4: 505	1916	0003-0031	10.2307/2993044							
 243739-2	Stelephuros pratensis	Lunell	Amer. Midl. Naturalist	4: 216	1915	0003-0031	10.2307/2992796							
-24421-2	Astragalus alpinus var. alaskanus	(Hultén) Lepage	Amer. Midl. Naturalist	46: 757	1952	0003-0031	10.2307/2421815							
+24421-2	Astragalus alpinus var. alaskanus	(HultÃ©n) Lepage	Amer. Midl. Naturalist	46: 757	1952	0003-0031	10.2307/2421815							
 24422-2	Astragalus alpinus f. albovestitus	Lepage	Amer. Midl. Naturalist	46: 758	1952	0003-0031	10.2307/2421815							
 244310-2	Stellina palustris	Lunell	Amer. Midl. Naturalist	4: 471	1916	0003-0031	10.2307/2993050							
 24434-2	Astragalus amblytropis	Barneby	Amer. Midl. Naturalist	41: 501	1949	0003-0031	10.2307/2421727							
@@ -2202,7 +2202,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 287736-2	Trichomanes polypodioides var. incisum	Farw.	Amer. Midl. Naturalist	12: 247	1931	0003-0031	10.2307/2420088							
 287794-2	Viola sagittata f. albescens	Farw.	Amer. Midl. Naturalist	12: 127	1930	0003-0031	10.2307/2419908							
 287795-2	Viola pubescens f. achlydophylla	Farw.	Amer. Midl. Naturalist	12: 127	1930	0003-0031	10.2307/2419908							
-287843-2	Tragopogon × neohybridus	Farw.	Amer. Midl. Naturalist	12: 133	1930	0003-0031	10.2307/2419908							
+287843-2	Tragopogon Ã— neohybridus	Farw.	Amer. Midl. Naturalist	12: 133	1930	0003-0031	10.2307/2419908							
 287905-2	Tilia roseana	Bush	Amer. Midl. Naturalist	11: 559	1929	0003-0031	10.2307/2420068							
 287918-2	Panicum lindheimeri subvar. pilosum	(Torr.) Farw.	Amer. Midl. Naturalist	11: 45	1928	0003-0031	10.2307/2993139							
 287919-2	Panicum lindheimeri subvar. meridionale	Farw.	Amer. Midl. Naturalist	11: 45	1928	0003-0031	10.2307/2993139							
@@ -2212,22 +2212,22 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 288057-2	Polygonum amphibium subvar. emersum	(Michx.) Farw.	Amer. Midl. Naturalist	11: 54	1928	0003-0031	10.2307/2993139							
 288058-2	Polygonum amphibium subvar. rigidulum	Farw.	Amer. Midl. Naturalist	11: 54	1928	0003-0031	10.2307/2993139							
 288072-1	Pennellia micrantha	Nieuwl.	Amer. Midl. Naturalist	1918, v. 224.		0003-0031	10.2307/2993220							
-288075-2	Lacinaria × deamii	Lunell	Amer. Midl. Naturalist	2: 169	1912	0003-0031	10.2307/2992898							
+288075-2	Lacinaria Ã— deamii	Lunell	Amer. Midl. Naturalist	2: 169	1912	0003-0031	10.2307/2992898							
 288089-2	Lactuca scariosa var. nieuwlandii	Lunell	Amer. Midl. Naturalist	2: 171, 176	1912	0003-0031	10.2307/2992898							
-288090-2	Lacinaria × gladewitzii	Farw.	Amer. Midl. Naturalist	10: 43	1926	0003-0031	10.2307/2992922							
+288090-2	Lacinaria Ã— gladewitzii	Farw.	Amer. Midl. Naturalist	10: 43	1926	0003-0031	10.2307/2992922							
 288097-2	Polygonatum pubescens subvar. australe	Farw.	Amer. Midl. Naturalist	11: 77	1928	0003-0031	10.2307/2993140							
 288098-2	Polygonatum canaliculatum subvar. ellipticum	Farw.	Amer. Midl. Naturalist	11: 78	1928	0003-0031	10.2307/2993140							
 288108-2	Polemonium foliosissimum f. alpinum	(Brand) Wherry	Amer. Midl. Naturalist	34: 378	1945	0003-0031	10.2307/2421125							
 288120-2	Lacinaria scariosa [infrasp.unranked] media	Lunell	Amer. Midl. Naturalist	2: 264	1912	0003-0031	10.2307/2992836							
-288139-2	Penstemon × bryantae	D.D.Keck	Amer. Midl. Naturalist	18: 820	1937	0003-0031	10.2307/2420419							
+288139-2	Penstemon Ã— bryantae	D.D.Keck	Amer. Midl. Naturalist	18: 820	1937	0003-0031	10.2307/2420419							
 288311-2	Zeia	Lunell	Amer. Midl. Naturalist	4: 225	1915 [20 Sep 1915]	0003-0031	10.2307/2992796							
 289018-2	Sumnera	Nieuwl.	Amer. Midl. Naturalist	3: 254	1914	0003-0031	10.2307/2992983							
 289068-2	Triteleiopsis	Hoover	Amer. Midl. Naturalist	25: 98	1941	0003-0031	10.2307/2420844							
 289357-2	Trianthella	House	Amer. Midl. Naturalist	7: 127	1921	0003-0031	10.2307/2992951							
-289861-2	Muhlenbergia × curtisetosa	(Scribn.) R.W.Pohl	Amer. Midl. Naturalist	82: 528	1969	0003-0031	10.2307/2423793							
-290200-2	Liatris × weaveri	Shinners	Amer. Midl. Naturalist	29: 38	1943	0003-0031	10.2307/2420976							
-290208-2	Liatris × gladewitzii	(Farw.) Farw. ex Shinners	Amer. Midl. Naturalist	29: 37	1943	0003-0031	10.2307/2420976							
-290211-2	Liatris × deamii	(Lunell) Shinners	Amer. Midl. Naturalist	29: 31	1943	0003-0031	10.2307/2420976							
+289861-2	Muhlenbergia Ã— curtisetosa	(Scribn.) R.W.Pohl	Amer. Midl. Naturalist	82: 528	1969	0003-0031	10.2307/2423793							
+290200-2	Liatris Ã— weaveri	Shinners	Amer. Midl. Naturalist	29: 38	1943	0003-0031	10.2307/2420976							
+290208-2	Liatris Ã— gladewitzii	(Farw.) Farw. ex Shinners	Amer. Midl. Naturalist	29: 37	1943	0003-0031	10.2307/2420976							
+290211-2	Liatris Ã— deamii	(Lunell) Shinners	Amer. Midl. Naturalist	29: 31	1943	0003-0031	10.2307/2420976							
 290314-2	Crataegus howellii	Heiser ex Lunell	Amer. Midl. Naturalist	5: 238	1919	0003-0031	10.2307/2992781							
 290319-1	Teruncius arvensis	Lunell	Amer. Midl. Naturalist	1916, iv. 364.		0003-0031	10.2307/2992849							
 290632-2	Lactuca serriola subvar. plicata	Farw.	Amer. Midl. Naturalist	10: 46	1926	0003-0031	10.2307/2992922							
@@ -2258,8 +2258,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 291918-2	Cirsium pastoris	J.T.Howell	Amer. Midl. Naturalist	30: 38	1943	0003-0031	10.2307/2421261							
 292104-2	Filix-mas thelypteris subvar. frondosa	Farw.	Amer. Midl. Naturalist	12: 258	1931	0003-0031	10.2307/2420088							
 292138-2	Dodecatheon meadia f. pallidum	Fassett	Amer. Midl. Naturalist	31: 465	1944	0003-0031	10.2307/2421078							
-292589-2	Quercus × eplingii	C.H.Mull.	Amer. Midl. Naturalist	19: 585	1938	0003-0031	10.2307/2420469							
-292710-2	Quamoclit × sloteri	Nieuwl.	Amer. Midl. Naturalist	4: 71	1915	0003-0031	10.2307/2992768							
+292589-2	Quercus Ã— eplingii	C.H.Mull.	Amer. Midl. Naturalist	19: 585	1938	0003-0031	10.2307/2420469							
+292710-2	Quamoclit Ã— sloteri	Nieuwl.	Amer. Midl. Naturalist	4: 71	1915	0003-0031	10.2307/2992768							
 292808-2	Achillea millefolium f. rubicunda	Farw.	Amer. Midl. Naturalist	11: 268	1929	0003-0031	10.2307/2420072							
 292862-2	Cyperus flavescens subvar. mohrii	Farw.	Amer. Midl. Naturalist	12: 118	1930	0003-0031	10.2307/2419908							
 292863-2	Cyperus flavescens subvar. capitatus	Farw.	Amer. Midl. Naturalist	12: 118	1930	0003-0031	10.2307/2419908							
@@ -2382,8 +2382,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 302772-2	Aster chilensis var. euadscendens	Cronquist	Amer. Midl. Naturalist	29: 460	1943	0003-0031	10.2307/2420804							
 302944-2	Pithecellobium matudae	Lundell	Amer. Midl. Naturalist	19: 429	1938	0003-0031	10.2307/2422983							
 30330-2	Beckmannia eruciformis subsp. syzigachne	(Steud.) Breitung	Amer. Midl. Naturalist	58: 10	1957	0003-0031	10.2307/2422363							
-305156-1	Cyperus × mesochorus	Geise	Amer. Midl. Naturalist	1934, xv. 249.		0003-0031	10.2307/2419842							
-305296-1	Cyperus × nieuwlandii	Geise	Amer. Midl. Naturalist	1934, xv. 245.		0003-0031	10.2307/2419842							
+305156-1	Cyperus Ã— mesochorus	Geise	Amer. Midl. Naturalist	1934, xv. 249.		0003-0031	10.2307/2419842							
+305296-1	Cyperus Ã— nieuwlandii	Geise	Amer. Midl. Naturalist	1934, xv. 245.		0003-0031	10.2307/2419842							
 305800-2	Achillea millefolium f. roseoides	Breitung	Amer. Midl. Naturalist	58: 59	1957	0003-0031	10.2307/2422363							
 306751-1	Eleocharis coloradoensis	(Britton) Gilly	Amer. Midl. Naturalist	xxvi. 66 (1941)		0003-0031	10.2307/2420753							
 30681-1	Smallia	Nieuwl.	Amer. Midl. Naturalist	1913, iii. 158, in obs.		0003-0031	10.2307/2993177							
@@ -2625,7 +2625,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 359569-1	Quercus derrumbaderoensis	C.H.Mull.	Amer. Midl. Naturalist	xxvii. 471 (1942)		0003-0031	10.2307/2421014							
 359600-1	Quercus edwardsae	C.H.Mull.	Amer. Midl. Naturalist	xxvii. 472 (1942).		0003-0031	10.2307/2421014							
 359605-1	Quercus endemica	C.H.Mull.	Amer. Midl. Naturalist	1937, xviii. 846.		0003-0031	10.2307/2420421							
-359609-1	Quercus × eplingii	C.H.Mull.	Amer. Midl. Naturalist	xix. 585 (1938).		0003-0031	10.2307/2420469							
+359609-1	Quercus Ã— eplingii	C.H.Mull.	Amer. Midl. Naturalist	xix. 585 (1938).		0003-0031	10.2307/2420469							
 359632-1	Quercus filiformis	C.H.Mull.	Amer. Midl. Naturalist	xxvii. 473 (1942).		0003-0031	10.2307/2421014							
 359659-1	Quercus gentryi	C.H.Mull.	Amer. Midl. Naturalist	xxvii. 474 (1942).		0003-0031	10.2307/2421014							
 359690-1	Quercus hemipteroides	C.H.Mull.	Amer. Midl. Naturalist	1937, xviii. 853.		0003-0031	10.2307/2420421							
@@ -2746,7 +2746,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 409150-1	Muhlenbergia setigera	Bush	Amer. Midl. Naturalist	6: 38, in adnot.	1919	0003-0031	10.2307/2992783							
 409187-1	Muhlenbergia torreyi	Hitchc. ex Bush	Amer. Midl. Naturalist	vi. 84 (1919).		0003-0031	10.2307/2992975							
 409211-1	Muhlenbergia bushii	R.W.Pohl	Amer. Midl. Naturalist	lxxxii. 534	1969	0003-0031	10.2307/2423793							
-409212-1	Muhlenbergia × curtisetosa	(Scribn.) R.W.Pohl	Amer. Midl. Naturalist	lxxxii. 528	1969	0003-0031	10.2307/2423793							
+409212-1	Muhlenbergia Ã— curtisetosa	(Scribn.) R.W.Pohl	Amer. Midl. Naturalist	lxxxii. 528	1969	0003-0031	10.2307/2423793							
 409351-1	Nastus carolinianus	Lunell	Amer. Midl. Naturalist	1915, iv. 214.		0003-0031	10.2307/2992796							
 410309-1	Paneion aridum	Lunell	Amer. Midl. Naturalist	1915, iv. 222.		0003-0031	10.2307/2992796							
 410310-1	Paneion compressum	Lunell	Amer. Midl. Naturalist	1915, iv. 222.		0003-0031	10.2307/2992796							
@@ -2845,8 +2845,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 4383-2	Adenorachis atropurpurea	Nieuwl.	Amer. Midl. Naturalist	4: 94	1915	0003-0031	10.2307/2992770							
 4384-2	Adenorachis melanocarpa	Nieuwl.	Amer. Midl. Naturalist	4: 94	1915	0003-0031	10.2307/2992770							
 4385-2	Adenorachis nigra	Nieuwl.	Amer. Midl. Naturalist	4: 277	1915	0003-0031	10.2307/2993108							
-442174-1	Carya × lecontei	Little	Amer. Midl. Naturalist	xxix. 503 (1943)		0003-0031	10.2307/2420806							
-442176-1	Carya × ludoviciana	(Ashe) Little	Amer. Midl. Naturalist	xxix. 504 (1943)		0003-0031	10.2307/2420806							
+442174-1	Carya Ã— lecontei	Little	Amer. Midl. Naturalist	xxix. 503 (1943)		0003-0031	10.2307/2420806							
+442176-1	Carya Ã— ludoviciana	(Ashe) Little	Amer. Midl. Naturalist	xxix. 504 (1943)		0003-0031	10.2307/2420806							
 44271-2	Campyloneurum angustifolium var. amphostemon	Farw.	Amer. Midl. Naturalist	12: 296	1931	0003-0031	10.2307/2420088							
 44272-2	Campyloneurum angustifolium var. ensifolium	Farw.	Amer. Midl. Naturalist	12: 296	1931	0003-0031	10.2307/2420088							
 44273-2	Campyloneurum angustifolium var. solutum	Farw.	Amer. Midl. Naturalist	12: 296	1931	0003-0031	10.2307/2420088							
@@ -2866,7 +2866,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 44608-2	Capnorchis occidentalis	House	Amer. Midl. Naturalist	8: 62	1922	0003-0031	10.2307/2993011							
 447915-1	Hypogon verticillaris	Nieuwl.	Amer. Midl. Naturalist	1914, iii. 178.		0003-0031	10.2307/2992842							
 44815-2	Capraria glaucescens	Nieuwl. & Lunell	Amer. Midl. Naturalist	5: 12	1917	0003-0031	10.2307/2993099							
-449686-1	Lycopus × sherardii	E.S.Steele, pro spec. & N.C.Hederson	Amer. Midl. Naturalist	lxviii. 112 (1962)		0003-0031	10.2307/2422639							
+449686-1	Lycopus Ã— sherardii	E.S.Steele, pro spec. & N.C.Hederson	Amer. Midl. Naturalist	lxviii. 112 (1962)		0003-0031	10.2307/2422639							
 449814-1	Mappia origanoides	House	Amer. Midl. Naturalist	1922, viii. 62, in obs.		0003-0031	10.2307/2993011							
 45095-2	Cardamine aquatica	Nieuwl.	Amer. Midl. Naturalist	4: 34	1915	0003-0031	10.2307/2992996							
 45170-2	Cardamine douglassii f. albidula	Farw.	Amer. Midl. Naturalist	9: 261	1925	0003-0031	10.2307/2993160							
@@ -3526,7 +3526,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 712912-1	Ranunculus holmii	Greene	Amer. Midl. Naturalist	1914, iii. 334.		0003-0031	10.2307/2992856							
 7130-2	Ageratum littorale f. album	Moldenke	Amer. Midl. Naturalist	32: 562	1945	0003-0031	10.2307/2421240							
 713266-1	Ranunculus montigenitus	L.D.Benson	Amer. Midl. Naturalist	xl. 156	1948	0003-0031	10.2307/2421547							
-713406-1	Ranunculus pacificus	(Hultén) L.D.Benson	Amer. Midl. Naturalist	xl. 79	1948	0003-0031	10.2307/2421547							
+713406-1	Ranunculus pacificus	(HultÃ©n) L.D.Benson	Amer. Midl. Naturalist	xl. 79	1948	0003-0031	10.2307/2421547							
 713718-1	Ranunculus ruderalis	Greene	Amer. Midl. Naturalist	3: 334	1914	0003-0031	10.2307/2992856							
 714101-1	Ranunculus waldronii	Lunell	Amer. Midl. Naturalist	1913, iii. 12.		0003-0031	10.2307/2992929							
 714164-1	Sumnera clavata	Nieuwl.	Amer. Midl. Naturalist	1914, iii. 254.		0003-0031	10.2307/2992983							
@@ -3785,7 +3785,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 807832-1	Pennellianthus frutescens	(Lambert) Crosswh.	Amer. Midl. Naturalist	lxxxiii. 362	1970	0003-0031	10.2307/2423949							
 807838-1	Penstemon amphorellae	Crosswh.	Amer. Midl. Naturalist	lxxxiv. 241 (1970)		0003-0031	10.2307/2423740							
 807843-1	Penstemon assurgens	Keck	Amer. Midl. Naturalist	xxiii. 609 (1940).		0003-0031	10.2307/2420449							
-807853-1	Penstemon × bryantae	Keck	Amer. Midl. Naturalist	1937, xviii. 820.		0003-0031	10.2307/2420419							
+807853-1	Penstemon Ã— bryantae	Keck	Amer. Midl. Naturalist	1937, xviii. 820.		0003-0031	10.2307/2420419							
 807860-1	Penstemon cinicola	Keck	Amer. Midl. Naturalist	xxii. 297 (1939), anglice; et in Publ. Carnegie Inst. Wash.No. 520 (J. Clausen, Keck & Hiesey, Exper. Stud. Nat. Spec. I.) 265, 294 (1940),latine.		0003-0031	10.2307/2420311							
 807862-1	Penstemon compactus	(Keck) Crosswh.	Amer. Midl. Naturalist	lxxvii. 6, in obs.	1967	0003-0031	10.2307/2423421							
 807863-1	Penstemon concinnus	Keck	Amer. Midl. Naturalist	xxiii. 608 (1940).		0003-0031	10.2307/2420449							

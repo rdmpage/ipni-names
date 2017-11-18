@@ -17,7 +17,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 113196-2	Grammitis randallii	(Maxon) Proctor	Brit. Fern Gaz.	9: 219	1965	0524-5826								
 113199-2	Grammitis rigens	(Maxon) Proctor	Brit. Fern Gaz.	9: 219	1965	0524-5826								
 113227-2	Grammitis suspensa	(L.) Proctor	Brit. Fern Gaz.	9: 77	1962	0524-5826								
-125782-2	Hymenophyllum hirsutum var. gratum	(Fée) Proctor	Brit. Fern Gaz.	9: 73	1962	0524-5826								
+125782-2	Hymenophyllum hirsutum var. gratum	(FÃ©e) Proctor	Brit. Fern Gaz.	9: 73	1962	0524-5826								
 125803-2	Hymenophyllum malcolm-smithii	Proctor	Brit. Fern Gaz.	9: 75	1962	0524-5826								
 160132-2	Microgramma chrysolepis	(Hook.) Crabbe	Brit. Fern Gaz.	9: 316	1967	0524-5826								
 160134-2	Microgramma cordata	(Desv.) Crabbe	Brit. Fern Gaz.	9: 316	1967	0524-5826								
@@ -26,9 +26,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17428520-1	Asplenium balearicum	Shivas	Brit. Fern Gaz.	10: 75, f. 8, t. 9 {err. 5}. 1969.	1969	0524-5826								
 17428880-1	Asplenium jenmanii	Proctor	Brit. Fern Gaz.	10: 21. 1968.	1968	0524-5826								
 17429090-1	Asplenium malcolm-smithii	Proctor	Brit. Fern Gaz.	9: 75. 1962.	1962	0524-5826								
-17429140-1	Asplenium × microdon	(T.Moore) Lovis & Vida	Brit. Fern Gaz.	10: 65, f. 14. 1969.	1969	0524-5826								
+17429140-1	Asplenium Ã— microdon	(T.Moore) Lovis & Vida	Brit. Fern Gaz.	10: 65, f. 14. 1969.	1969	0524-5826								
 17429410-1	Asplenium ruta-muraria subsp. dolomiticum	Lovis & Reichst.	Brit. Fern Gaz.	9: 143, f. 1-9, t. 2. 1964.	1964	0524-5826								
-17429430-1	Asplenium × sarniense	Sleep	Brit. Fern Gaz.	10: 210. 1971.	1971	0524-5826								
+17429430-1	Asplenium Ã— sarniense	Sleep	Brit. Fern Gaz.	10: 210. 1971.	1971	0524-5826								
 17429450-1	Asplenium sciadophilum	Proctor	Brit. Fern Gaz.	9: 213. 1965.	1965	0524-5826								
 17430680-1	Blechnum antillanum	Proctor	Brit. Fern Gaz.	9: 214. 1965.	1965	0524-5826								
 17431440-1	Cheilanthes catanensis	(Cosent.) H.P.Fuchs	Brit. Fern Gaz.	9: 45. 1961.	1961	0524-5826								
@@ -41,10 +41,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17435590-1	Diplazium fuliginosum	(Hook.) M.G.Price	Brit. Fern Gaz.	10: 260. 1972.	1972	0524-5826								
 17435770-1	Diplazium oblongifolium	(Hook.) Jermy in T.Chambers, Jermy & Crabbe	Brit. Fern Gaz.	10: 180. 1971.	1971	0524-5826								
 17436460-1	Dryopteris caucasica	(A.Braun) Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 222. 1972.	1972	0524-5826								
-17436580-1	Dryopteris × euxinensis	Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 225. 1972.	1972	0524-5826								
-17436720-1	Dryopteris × initialis	Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 230. 1972.	1972	0524-5826								
-17436810-1	Dryopteris × mantoniae	Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 230. 1972.	1972	0524-5826								
-17436930-1	Dryopteris × pseudoabbreviata	Jermy	Brit. Fern Gaz.	10: 12. 1968.	1968	0524-5826								
+17436580-1	Dryopteris Ã— euxinensis	Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 225. 1972.	1972	0524-5826								
+17436720-1	Dryopteris Ã— initialis	Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 230. 1972.	1972	0524-5826								
+17436810-1	Dryopteris Ã— mantoniae	Fraser-Jenk. & Corley	Brit. Fern Gaz.	10: 230. 1972.	1972	0524-5826								
+17436930-1	Dryopteris Ã— pseudoabbreviata	Jermy	Brit. Fern Gaz.	10: 12. 1968.	1968	0524-5826								
 17438140-1	Eriosorus cheilanthoides	(Sw.) A.F.Tryon	Brit. Fern Gaz.	9: 271. 1966.	1966	0524-5826								
 17438240-1	Eriosorus mathewsii	(Hook.) Crabbe	Brit. Fern Gaz.	9: 314. 1967.	1967	0524-5826								
 17438290-1	Eriosorus retrofractus	(Kunze ex Mett.) Crabbe	Brit. Fern Gaz.	9: 315. 1967.	1967	0524-5826								
@@ -75,8 +75,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17448230-1	Pityrogramma williamsii	Proctor	Brit. Fern Gaz.	9: 220. 1965.	1965	0524-5826								
 17448400-1	Platycerium holttumii	Joncheere & Hennipman	Brit. Fern Gaz.	10: 116, f. 1-3, t. 12. 1970.	1970	0524-5826								
 17448430-1	Platycerium superbum	Joncheere & Hennipman	Brit. Fern Gaz.	10: 114, f. 4, 5. 1970.	1970	0524-5826								
-17450490-1	Polypodium × mantoniae	(Schidlay) Shivas	Brit. Fern Gaz.	10: 152. 1970.	1970	0524-5826								
-17450570-1	Polypodium × rothmaleri	Shivas	Brit. Fern Gaz.	10: 152. 1970., nom. nov.	1970	0524-5826								
+17450490-1	Polypodium Ã— mantoniae	(Schidlay) Shivas	Brit. Fern Gaz.	10: 152. 1970.	1970	0524-5826								
+17450570-1	Polypodium Ã— rothmaleri	Shivas	Brit. Fern Gaz.	10: 152. 1970., nom. nov.	1970	0524-5826								
 17451430-1	Polystichum wilesianum	Proctor	Brit. Fern Gaz.	10: 24, t. 3. 1968.	1968	0524-5826								
 17453700-1	Salvinia molesta	D.Mitch.	Brit. Fern Gaz.	10: 251. 1972.	1972	0524-5826								
 17454010-1	Selaginella subisophylla	Jermy	Brit. Fern Gaz.	10: 30, f. 1-9. 1968.	1968	0524-5826								

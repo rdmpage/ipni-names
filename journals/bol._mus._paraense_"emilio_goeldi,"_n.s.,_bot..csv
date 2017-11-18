@@ -7,7 +7,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1014352-1	Catasetum mojuense	A.T.Oliveira & J.B.F.Silva	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	14(2): 110	1999 [1998 publ. 1999]	0077-2216								
 1014353-1	Catasetum tucuruiense	A.T.Oliveira & J.B.F.Silva	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	14(2): 112	1999 [1998 publ. 1999]	0077-2216								
 1020696-1	Licaria tenuicarpa	Kosterm. ex W.A.Rodrigues	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	16: 3	1962	0077-2216								
-1037249-2	Palicourea anisoloba	(Müll.Arg.) B.M.Boom & M.T.Campos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7: 243	1991	0077-2216								
+1037249-2	Palicourea anisoloba	(MÃ¼ll.Arg.) B.M.Boom & M.T.Campos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7: 243	1991	0077-2216								
 1072651-2	Wedelia subalpestris	(Baker) J.U.Santos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	2(1): 12	1985 [23 Dec 1985]	0077-2216								
 1084647-2	Duguetia sessilis	(Vell.) Maas	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	9: 38	1993	0077-2216								
 110691-2	Gleasonia cururuensis	W.A.Egler	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	14: 4	1961	0077-2216								
@@ -81,7 +81,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 276904-2	Eschweilera cyathiformis	S.A.Mori	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	5(1): 20, fig. 1	1989	0077-2216								
 276908-2	Eschweilera rabeliana	S.A.Mori	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	5(1): 21, figs. 1, 2	1989	0077-2216								
 278834-2	Ipomoea marabensis	D.F.Austin & Secco	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4: 188, fig	1988	0077-2216								
-282159-2	Paspalum cinerascens	(Döll) A.G.Burm. & M.Bastos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4: 241	1988	0077-2216								
+282159-2	Paspalum cinerascens	(DÃ¶ll) A.G.Burm. & M.Bastos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4: 241	1988	0077-2216								
 282231-2	Pausandra fordii	Secco	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	3: 60, fig	1987	0077-2216								
 282803-2	Picramnia elliptica	Kuhlm. ex Pirani & W.W.Thomas	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4: 273 (-274; fig.)	1988	0077-2216								
 282805-2	Picramnia ferrea	Pirani & W.W.Thomas	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4: 272	1988	0077-2216								
@@ -206,7 +206,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 936560-1	Picramnia elliptica	Kuhlmann ex Pirani & W.W.Thomas	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4(2): 273	1988	0077-2216								
 942303-1	Wedelia subalpestris	(Baker) J.U.Santos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	2(1): 12	1985	0077-2216								
 946122-1	Wedelia hispidula	(Baker) J.U.Santos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4(1): 154	1988	0077-2216								
-946123-1	Paspalum cinerascens	(Döll) A.G.Burm. & M.Bastos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4(2): 241, without exact basionym date	1988	0077-2216								
+946123-1	Paspalum cinerascens	(DÃ¶ll) A.G.Burm. & M.Bastos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	4(2): 241, without exact basionym date	1988	0077-2216								
 957964-1	Eschweilera cyathiformis	S.A.Mori	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	5(1): 20	1989	0077-2216								
 957965-1	Eschweilera rabeliana	S.A.Mori	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	5(1): 21	1989	0077-2216								
 959612-1	Hebepetalum roraimense	Secco & S.Manni B.Silva	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	6(1): 121	1991 [1990 publ. 1991]	0077-2216								
@@ -227,13 +227,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 968131-1	Siparuna solimonensis	Jangoux	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(1): 147	1991	0077-2216								
 968132-1	Siparuna tupinambarum	Jangoux	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(1): 149	1991	0077-2216								
 968133-1	Aspilia cavalcantei	J.U.Santos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(1): 154	1991	0077-2216								
-971649-1	Palicourea anisoloba	(Müll.Arg.) B.M.Boom & M.T.Campos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 243	1991	0077-2216								
+971649-1	Palicourea anisoloba	(MÃ¼ll.Arg.) B.M.Boom & M.T.Campos	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 243	1991	0077-2216								
 971650-1	Protium occultum	Daly	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 253	1991	0077-2216								
 971651-1	Protium boomii	Daly	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 255	1991	0077-2216								
 971652-1	Raveniopsis necopinata	Kallunki	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 302	1991	0077-2216								
 971653-1	Raveniopsis campinicola	Kallunki	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 305	1991	0077-2216								
 971654-1	Gaultheria serrata var. organensis	(Meisn.) Luteyn	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 324	1991	0077-2216								
-971655-1	Oenocarpus × andersonii	Balick	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 506	1991	0077-2216								
+971655-1	Oenocarpus Ã— andersonii	Balick	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 506	1991	0077-2216								
 971656-1	Solanum semotum	M.Nee	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	7(2): 515	1991	0077-2216								
 977198-1	Heliconia luciae	Barreiros	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	8(1): 157	1993 [1992 publ. 1993]	0077-2216								
 977516-1	Croton grazielae	Secco	"Bol. Mus. Paraense ""Emilio Goeldi,"" N.S., Bot."	8(2): 269	1993 [1992 publ. 1993]	0077-2216								

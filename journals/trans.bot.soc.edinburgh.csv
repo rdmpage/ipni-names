@@ -35,7 +35,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 184968-2	Passiflora gibertii	N.E.Br.	Trans. & Proc. Bot. Soc. Edinburgh	20: 58	1894	0374-6607								
 185585-2	Paullinia angusta	N.E.Br.	Trans. & Proc. Bot. Soc. Edinburgh	20: 49	1894	0374-6607								
 185845-2	Pavonia consobrina	N.E.Br.	Trans. & Proc. Bot. Soc. Edinburgh	20: 47	1894	0374-6607								
-188510-1	Carduus × carolorum	Howie & Jenner	Trans. Bot. Soc. Edinburgh	ix. (1868) 260.		0374-6607	10.1080/03746606809469032							
+188510-1	Carduus Ã— carolorum	Howie & Jenner	Trans. Bot. Soc. Edinburgh	ix. (1868) 260.		0374-6607	10.1080/03746606809469032							
 189629-1	Cavea tanguensis	(J.R.Drumm.) W.W.Sm. & J.Small	Trans. Bot. Soc. Edinburgh	27: 120	1917	0374-6607	10.1080/03746601709468472							
 191461-2	Pfaffia tenuis	N.E.Br.	Trans. & Proc. Bot. Soc. Edinburgh	20: 68	1894	0374-6607								
 199673-2	Piptadenia quadrifolia	N.E.Br.	Trans. & Proc. Bot. Soc. Edinburgh	20: 53	1894	0374-6607								
@@ -99,8 +99,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 276608-1	Sempervivum pulvinatum	Praeger	Trans. & Proc. Bot. Soc. Edin.	xxix. 214 (1925)		0374-6607								
 276702-1	Sempervivum valverdense	Praeger	Trans. & Proc. Bot. Soc. Edin.	xxix. 2 (1925)		0374-6607								
 28400-1	Parasyringa	W.W.Sm.	Trans. Bot. Soc. Edinburgh	xxvii. 95 (1916).		0374-6607	10.1080/03746601609468467							
-289142-2	Potamogeton × rhodensis	A.Benn.	Trans. & Proc. Bot. Soc. Edinburgh	29: 52	1924	0374-6607								
-289146-2	Potamogeton × perplexus	A.Benn.	Trans. & Proc. Bot. Soc. Edinburgh	29: 53	1924	0374-6607								
+289142-2	Potamogeton Ã— rhodensis	A.Benn.	Trans. & Proc. Bot. Soc. Edinburgh	29: 52	1924	0374-6607								
+289146-2	Potamogeton Ã— perplexus	A.Benn.	Trans. & Proc. Bot. Soc. Edinburgh	29: 53	1924	0374-6607								
 292828-1	Gurania pedata	Sprague	Trans. & Proc. Bot. Soc. Edinb.	xxii. 433.		0374-6607								
 294252-1	Trichosanthes olida	F.Muell.	Trans. Bot. Soc. Edinburgh	vii. (1863) 491		0374-6607	10.1080/03746606309467888							
 296443-2	Diplokeleba	N.E.Br.	Trans. & Proc. Bot. Soc. Edinburgh	20: 50	1894	0374-6607								
@@ -173,7 +173,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 509146-1	Mucuna balfouriana	A.Murr.	Trans. Bot. Soc. Edinburgh	vi. (1860) 289.		0374-6607	10.1080/03746606009467747							
 509310-1	Mucuna venenosa	A.Murr.	Trans. Bot. Soc. Edinburgh	vi. (1860) 289.		0374-6607	10.1080/03746606009467747							
 514437-1	Piptadenia quadrifolia	N.E.Br.	Trans. & Proc. Bot. Soc. Edinb.	xx. 53 (1894).		0374-6607								
-537484-1	Lilium bodinieri	H.Lév. ex W.W.Sm.	Trans. & Proc. Bot. Soc. Edin.	xxviii. 137 (1922)		0374-6607								
+537484-1	Lilium bodinieri	H.LÃ©v. ex W.W.Sm.	Trans. & Proc. Bot. Soc. Edin.	xxviii. 137 (1922)		0374-6607								
 537804-1	Lilium stewartianum	Balf.f. & W.W.Sm.	Trans. & Proc. Bot. Soc. Edin.	xxviii. 127 (1922)		0374-6607								
 538532-1	Muscari latifolium	J.Kirk.	Trans. Bot. Soc. Edinburgh	vi. (1860) 30		0374-6607								
 538766-1	Nomocharis forrestii	Balf.f.	Trans. Bot. Soc. Edinburgh	27(3): 293 (-294)	1918	0374-6607								
@@ -248,7 +248,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 710373-1	Delphinium addendum	W.R.McNab	Trans. Bot. Soc. Edinburgh	ix. (1868) 335		0374-6607	10.1080/03746606809469054							
 712739-1	Ranunculus floribundus	Bab.	Trans. Bot. Soc. Edinburgh	v. (1858) 77		0374-6607	10.1080/03746605809467624							
 71572-1	Tapirira pilosa	Sprague	Trans. & Proc. Bot. Soc. Edinb.	xxii. 430.		0374-6607								
-732921-1	Rosa × insularum	Heslop Harrison & E.Bolton	Trans. & Proc. Bot. Soc. Edinb.	xxxii. 430 (1938)		0374-6607								
+732921-1	Rosa Ã— insularum	Heslop Harrison & E.Bolton	Trans. & Proc. Bot. Soc. Edinb.	xxxii. 430 (1938)		0374-6607								
 734348-1	Rosa stricta	Macoun & J.Gibson	Trans. & Proc. Bot. Soc. Edinburgh	xii. (1876) 324		0374-6607								
 737463-1	Rubus humifusus	Bab.	Trans. Bot. Soc. Edinburgh	ii. (1846) 245		0374-6607	10.1080/03746604609467557							
 737606-1	Rubus incurvatus	Bab.	Trans. Bot. Soc. Edinburgh	iii. (1850) 54		0374-6607	10.1080/03746605009467572							

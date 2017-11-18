@@ -798,7 +798,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 248159-3	Banksia dolichostyla	(A.S.George) K.R.Thiele	Australian Systematic Botany		1996	1030-1887								
 248233-3	trib. Archerieae	Crayn & Quinn	Australian Systematic Botany		1998	1030-1887								
 29778-1	Kerigomnia	P.Royen	Contrib. Herb. Austral.	12: 1 (1976).		1030-1887	10.1071/HA76001					http://www.publish.csiro.au/nid/151/paper/HA76001.htm	http://www.publish.csiro.au/?act=view_file&file_id=HA76001.pdf	
-3000468-1	Diplaspis nivis	Van den Borre & Henwood	Austral. Syst. Bot.	11(5–6): 739	1999	1030-1887	10.1071/SB96024							
+3000468-1	Diplaspis nivis	Van den Borre & Henwood	Austral. Syst. Bot.	11(5â€“6): 739	1999	1030-1887	10.1071/SB96024							
 324937-2	trib. Archerieae	Crayn & Quinn	Austral. Syst. Bot.	11: 23	1998	1030-1887	10.1071/SB97002							
 325133-1	Epacris glacialis	(F.Muell.) M.Gray	Contrib. Herb. Austral.	26: 5 (1976)		1030-1887								
 327766-1	Dimorphanthera amplifolia	(F.Muell.) P.F.Stevens	Contrib. Herb. Austral.	8: 7 (1974)		1030-1887								
@@ -849,8 +849,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60433383-2	Cyanicula ixioides subsp. candida	Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 225	2004 [29 April 2004]	1030-1887								
 60433384-2	Cyanicula aperta	Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 229	2004 [29 April 2004]	1030-1887								
 60433385-2	Cyanicula caerulea var. heliotropica	(Rupp) Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 233	2004 [29 April 2004]	1030-1887								
-60433386-2	× Cyanthera	Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 233	2004 [29 April 2004]	1030-1887								
-60433387-2	× Cyanthera glossodioides	Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 233	2004 [29 April 2004]	1030-1887								
+60433386-2	Ã— Cyanthera	Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 233	2004 [29 April 2004]	1030-1887								
+60433387-2	Ã— Cyanthera glossodioides	Hopper & A.P.Br.	Austral. Syst. Bot.	17(2): 233	2004 [29 April 2004]	1030-1887								
 60433388-2	Billardiera rubens	L.W.Cayzer, Crisp & I.Telford	Austral. Syst. Bot.	17(1): 95 (-96; fig. 4)	2004 [9 March 2004]	1030-1887	10.1071/SB03028							
 60433389-2	Billardiera nesophila	L.W.Cayzer & D.L.Jones	Austral. Syst. Bot.	17(1): 105 (-106; fig. 16)	2004 [9 March 2004]	1030-1887	10.1071/SB03028							
 60433390-2	Billardiera viridiflora	L.W.Cayzer & D.L.Jones	Austral. Syst. Bot.	17(1): 105 (-108; fig. 18)	2004 [9 March 2004]	1030-1887	10.1071/SB03028							
@@ -1120,7 +1120,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77077548-1	Cassinia macrocephala subsp. petrapendula	Orchard	Austral. Syst. Bot.	19(2): 187 (-188; fig. 2)	2006 [28 Apr 2006]	1030-1887	10.1071/SB05018							
 77077549-1	Cassinia macrocephala subsp. storyi	Orchard	Austral. Syst. Bot.	19(2): 188 (-190; fig. 2)	2006 [28 Apr 2006]	1030-1887	10.1071/SB05018							
 77077550-1	Cassinia furtiva	Orchard	Austral. Syst. Bot.	19(2): 190 (-191; figs. 3-4)	2006 [28 Apr 2006]	1030-1887	10.1071/SB05018							
-77080488-1	Drosera × sidjamesii	Lowrie & Conran	Austral. Syst. Bot.	20(1): 50 (44-53; figs.)	2007 [Feb 2007]	1030-1887	10.1071/SB04018							
+77080488-1	Drosera Ã— sidjamesii	Lowrie & Conran	Austral. Syst. Bot.	20(1): 50 (44-53; figs.)	2007 [Feb 2007]	1030-1887	10.1071/SB04018							
 77080489-1	Banksia subgen. Spathulatae	A.R.Mast & K.R.Thiele	Austral. Syst. Bot.	20(1): 65	2007 [Feb 2007]	1030-1887	10.1071/SB06016							
 77080490-1	Banksia acuminata	A.R.Mast & K.R.Thiele	Austral. Syst. Bot.	20(1): 65	2007 [Feb 2007]	1030-1887	10.1071/SB06016							
 77080491-1	Banksia alliacea	A.R.Mast & K.R.Thiele	Austral. Syst. Bot.	20(1): 65	2007 [Feb 2007]	1030-1887	10.1071/SB06016							
@@ -1444,7 +1444,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77104057-1	Poa subsect. Brizoides	(Pilg. ex Potztal) Soreng, L.J.Gillespie & S.W.L.Jacobs	Austral. Syst. Bot.	22(6): 409	2009 [23 Dec 2009]	1030-1887	10.1071/SB09003							
 77104058-1	Poa subsect. Neuropoa	(Clayton) Soreng, L.J.Gillespie & S.W.L.Jacobs	Austral. Syst. Bot.	22(6): 409	2009 [23 Dec 2009]	1030-1887	10.1071/SB09003							
 77104092-1	Pycnandra balansae	(Baill.) Swenson & Munzinger	Austral. Syst. Bot.	22(6): 442	2009 [23 Dec 2009]	1030-1887	10.1071/SB09029							
-77104096-1	Pycnandra blanchonii	(Aubrév.) Swenson & Munzinger	Austral. Syst. Bot.	22(6): 448	2009 [23 Dec 2009]	1030-1887	10.1071/SB09029							
+77104096-1	Pycnandra blanchonii	(AubrÃ©v.) Swenson & Munzinger	Austral. Syst. Bot.	22(6): 448	2009 [23 Dec 2009]	1030-1887	10.1071/SB09029							
 77104101-1	Pycnandra cylindricarpa	Swenson & Munzinger	Austral. Syst. Bot.	22(6): 450 (fig. 7)	2009 [23 Dec 2009]	1030-1887	10.1071/SB09029							
 77104105-1	Pycnandra glaberrima	Swenson & Munzinger	Austral. Syst. Bot.	22(6): 450 (fig. 9, map)	2009 [23 Dec 2009]	1030-1887	10.1071/SB09029							
 77104106-1	Pycnandra gordoniifolia	(S.Moore) Swenson & Munzinger	Austral. Syst. Bot.	22(6): 454	2009 [23 Dec 2009]	1030-1887	10.1071/SB09029							
@@ -1494,8 +1494,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77108171-1	Pycnandra lissophylla	(Pierre ex Baill.) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 355	2010 [3 Nov 2010]	1030-1887	10.1071/SB10025							
 77108174-1	Pycnandra obscurinerva	(Vink) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 359	2010 [3 Nov 2010]	1030-1887	10.1071/SB10025							
 77108175-1	Pycnandra pubiflora	Swenson & Munzinger	Austral. Syst. Bot.	23(5): 360 (fig. 1H, G & 17, map)	2010 [3 Nov 2010]	1030-1887	10.1071/SB10025							
-77108176-1	Pycnandra sarlinii	(Aubrév.) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 360	2010 [3 Nov 2010]	1030-1887	10.1071/SB10025							
-77108177-1	Pycnandra schmidii	(Aubrév.) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 363	2010 [3 Nov 2010]	1030-1887								
+77108176-1	Pycnandra sarlinii	(AubrÃ©v.) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 360	2010 [3 Nov 2010]	1030-1887	10.1071/SB10025							
+77108177-1	Pycnandra schmidii	(AubrÃ©v.) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 363	2010 [3 Nov 2010]	1030-1887								
 77108178-1	Pycnandra sessiliflora	Swenson & Munzinger	Austral. Syst. Bot.	23(5): 364 (-367; fig. 21, map)	2010 [3 Nov 2010]	1030-1887								
 77108179-1	Pycnandra sessilifolia	(Pancher & Sebert) Swenson & Munzinger	Austral. Syst. Bot.	23(5): 367	2010 [3 Nov 2010]	1030-1887								
 77108242-1	Kunzea sect. Platyphyllae	Toelken & de Lange	Austral. Syst. Bot.	23(5): 317	2010 [3 Nov 2010]	1030-1887	10.1071/SB10019							
@@ -1622,8 +1622,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77120849-1	Sicyos undara	I.Telford & P.Sebastian	Austral. Syst. Bot.	25(3): 194	2012 [6 Jun 2012]	1030-1887	10.1071/SB11032							
 77120854-1	Sicyos mawhai	I.Telford & P.Sebastian	Austral. Syst. Bot.	25(3): 196	2012 [6 Jun 2012]	1030-1887	10.1071/SB11032							
 77120857-1	Leucopogon extremus	Hislop & Puente-Lel.	Austral. Syst. Bot.	25(3): 205	2012 [6 Jun 2012]	1030-1887	10.1071/SB11033							
-77121914-1	Lepidosperma asperatum	(Kük.) R.L.Barrett	Austral. Syst. Bot.	25(4): 234	2012 [15 Aug 2012]	1030-1887	10.1071/SB11037							
-77121925-1	Lepidosperma rigidulum	(Kük.) K.L.Wilson	Austral. Syst. Bot.	25(4): 275	2012 [15 Aug 2012]	1030-1887	10.1071/SB11037							
+77121914-1	Lepidosperma asperatum	(KÃ¼k.) R.L.Barrett	Austral. Syst. Bot.	25(4): 234	2012 [15 Aug 2012]	1030-1887	10.1071/SB11037							
+77121925-1	Lepidosperma rigidulum	(KÃ¼k.) K.L.Wilson	Austral. Syst. Bot.	25(4): 275	2012 [15 Aug 2012]	1030-1887	10.1071/SB11037							
 77121926-1	Lepidosperma sanguinolentum	K.L.Wilson	Austral. Syst. Bot.	25(4): 276	2012 [15 Aug 2012]	1030-1887	10.1071/SB11037							
 77122818-1	Geniostoma kaalae	(C.N.Forbes) K.L.Gibbons, B.J.Conn & Henwood	Austral. Syst. Bot.	25(5): 338	2012 [10 Oct 2012]	1030-1887	10.1071/SB12002							
 77124430-1	Backhousia gundarara	M.D.Barrett, Craven & R.L.Barrett	Austral. Syst. Bot.	25(6): 409	2012 [14 Dec 2012]	1030-1887	10.1071/SB12015							
@@ -1700,52 +1700,52 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 938612-1	Urena australiensis	Fryxell & Craven	Austral. Syst. Bot.	2(4): 457 (1989)	1989	1030-1887	10.1071/SB9890455							
 938613-1	Decaschistia peninsularis	Craven & Fryxell	Austral. Syst. Bot.	2(4): 461 (1989)	1989	1030-1887	10.1071/SB9890461							
 938614-1	Decaschistia occidentalis	A.S.Mitch. ex Craven & Fryxell	Austral. Syst. Bot.	2(4): 464 (1989)	1989	1030-1887	10.1071/SB9890461							
-938615-1	Beilschmiedia brunnea	B.Hyland	Austral. Syst. Bot.	2(2–3): 149 (1989)	1989	1030-1887	10.1071/SB9890135							
-938616-1	Beilschmiedia castrisinensis	B.Hyland	Austral. Syst. Bot.	2(2–3): 150 (1989)	1989	1030-1887	10.1071/SB9890135							
-938617-1	Beilschmiedia collina	B.Hyland	Austral. Syst. Bot.	2(2–3): 151 (1989)	1989	1030-1887	10.1071/SB9890135							
-938618-1	Beilschmiedia peninsularis	B.Hyland	Austral. Syst. Bot.	2(2–3): 154 (1989)	1989	1030-1887	10.1071/SB9890135							
-938619-1	Beilschmiedia recurva	B.Hyland	Austral. Syst. Bot.	2(2–3): 155 (1989)	1989	1030-1887	10.1071/SB9890135							
-938620-1	Beilschmiedia volckii	B.Hyland	Austral. Syst. Bot.	2(2–3): 156 (1989)	1989	1030-1887	10.1071/SB9890135							
-938621-1	Cryptocarya bamagana	B.Hyland	Austral. Syst. Bot.	2(2–3): 171 (1989)	1989	1030-1887	10.1071/SB9890135							
-938622-1	Cryptocarya bellendenkerana	B.Hyland	Austral. Syst. Bot.	2(2–3): 172 (1989)	1989	1030-1887	10.1071/SB9890135							
-938623-1	Cryptocarya clarksoniana	B.Hyland	Austral. Syst. Bot.	2(2–3): 175 (1989)	1989	1030-1887	10.1071/SB9890135							
-938624-1	Cryptocarya claudiana	B.Hyland	Austral. Syst. Bot.	2(2–3): 176 (1989)	1989	1030-1887	10.1071/SB9890135							
-938625-1	Cryptocarya cocosoides	B.Hyland	Austral. Syst. Bot.	2(2–3): 177 (1989)	1989	1030-1887	10.1071/SB9890135							
-938626-1	Cryptocarya dorrigoensis	Frodin ex B.Hyland & A.G.Floyd	Austral. Syst. Bot.	2(2–3): 181 (1989)	1989	1030-1887	10.1071/SB9890135							
-938627-1	Cryptocarya glaucocarpa	B.Hyland	Austral. Syst. Bot.	2(2–3): 188 (1989)	1989	1030-1887	10.1071/SB9890135							
-938628-1	Cryptocarya grandis	B.Hyland	Austral. Syst. Bot.	2(2–3): 188 (1989)	1989	1030-1887	10.1071/SB9890135							
-938629-1	Cryptocarya leucophylla	B.Hyland	Austral. Syst. Bot.	2(2–3): 192 (1989)	1989	1030-1887	10.1071/SB9890135							
-938630-1	Cryptocarya lividula	B.Hyland	Austral. Syst. Bot.	2(2–3): 193 (1989)	1989	1030-1887	10.1071/SB9890135							
-938631-1	Cryptocarya macdonaldii	B.Hyland	Austral. Syst. Bot.	2(2–3): 193 (1989)	1989	1030-1887	10.1071/SB9890135							
-938632-1	Cryptocarya melanocarpa	B.Hyland	Austral. Syst. Bot.	2(2–3): 196 (1989)	1989	1030-1887	10.1071/SB9890135							
-938633-1	Cryptocarya nova-anglica	B.Hyland & A.G.Floyd	Austral. Syst. Bot.	2(2–3): 198 (1989)	1989	1030-1887	10.1071/SB9890135							
-938634-1	Cryptocarya onoprienkoana	B.Hyland	Austral. Syst. Bot.	2(2–3): 201 (1989)	1989	1030-1887	10.1071/SB9890135							
-938635-1	Cryptocarya putida	B.Hyland	Austral. Syst. Bot.	2(2–3): 203 (1989)	1989	1030-1887	10.1071/SB9890135							
-938636-1	Cryptocarya rhodosperma	B.Hyland	Austral. Syst. Bot.	2(2–3): 204 (1989)	1989	1030-1887	10.1071/SB9890135							
-938637-1	Cryptocarya saccharata	B.Hyland	Austral. Syst. Bot.	2(2–3): 206 (1989)	1989	1030-1887	10.1071/SB9890135							
-938638-1	Cryptocarya sclerophylla	B.Hyland	Austral. Syst. Bot.	2(2–3): 207 (1989)	1989	1030-1887	10.1071/SB9890135							
-938639-1	Cryptocarya smaragdina	B.Hyland	Austral. Syst. Bot.	2(2–3): 208 (1989)	1989	1030-1887	10.1071/SB9890135							
-938640-1	Cryptocarya vulgaris	B.Hyland	Austral. Syst. Bot.	2(2–3): 212 (1989)	1989	1030-1887	10.1071/SB9890135							
-938641-1	Cryptocarya williwilliana	B.Hyland & A.G.Floyd	Austral. Syst. Bot.	2(2–3): 213 (1989)	1989	1030-1887	10.1071/SB9890135							
-938642-1	Endiandra bellendenkerana	B.Hyland	Austral. Syst. Bot.	2(2–3): 221 (1989)	1989	1030-1887	10.1071/SB9890135							
-938643-1	Endiandra bessaphila	B.Hyland	Austral. Syst. Bot.	2(2–3): 222 (1989)	1989	1030-1887	10.1071/SB9890135							
-938644-1	Endiandra collinsii	B.Hyland	Austral. Syst. Bot.	2(2–3): 223 (1989)	1989	1030-1887	10.1071/SB9890135							
-938645-1	Endiandra cooperiana	B.Hyland	Austral. Syst. Bot.	2(2–3): 224 (1989)	1989	1030-1887	10.1071/SB9890135							
-938646-1	Endiandra floydii	B.Hyland	Austral. Syst. Bot.	2(2–3): 229 (1989)	1989	1030-1887	10.1071/SB9890135							
-938647-1	Endiandra grayi	B.Hyland	Austral. Syst. Bot.	2(2–3): 231 (1989)	1989	1030-1887	10.1071/SB9890135							
-938648-1	Endiandra jonesii	B.Hyland	Austral. Syst. Bot.	2(2–3): 236 (1989)	1989	1030-1887	10.1071/SB9890135							
-938649-1	Endiandra leptodendron	B.Hyland	Austral. Syst. Bot.	2(2–3): 237 (1989)	1989	1030-1887	10.1071/SB9890135							
-938650-1	Endiandra limnophila	B.Hyland	Austral. Syst. Bot.	2(2–3): 238 (1989)	1989	1030-1887	10.1071/SB9890135							
-938651-1	Endiandra monothyra	B.Hyland	Austral. Syst. Bot.	2(2–3): 240 (1989)	1989	1030-1887	10.1071/SB9890135							
-938652-1	Endiandra phaeocarpa	B.Hyland	Austral. Syst. Bot.	2(2–3): 245 (1989)	1989	1030-1887	10.1071/SB9890135							
-938653-1	Endiandra sideroxylon	B.Hyland	Austral. Syst. Bot.	2(2–3): 248 (1989)	1989	1030-1887	10.1071/SB9890135							
-938654-1	Endiandra wolfei	B.Hyland	Austral. Syst. Bot.	2(2–3): 250 (1989)	1989	1030-1887	10.1071/SB9890135							
-938655-1	Endiandra xanthocarpa	B.Hyland	Austral. Syst. Bot.	2(2–3): 251 (1989)	1989	1030-1887	10.1071/SB9890135							
-938656-1	Lindera queenslandica	B.Hyland	Austral. Syst. Bot.	2(2–3): 252 (1989)	1989	1030-1887								
-938657-1	Litsea australis	B.Hyland	Austral. Syst. Bot.	2(2–3): 255 (1989)	1989	1030-1887								
-938658-1	Litsea bennettii	B.Hyland	Austral. Syst. Bot.	2(2–3): 256 (1989)	1989	1030-1887								
-938659-1	Litsea connorsii	B.Hyland	Austral. Syst. Bot.	2(2–3): 259 (1989)	1989	1030-1887								
-938660-1	Litsea granitica	B.Hyland	Austral. Syst. Bot.	2(2–3): 262 (1989)	1989	1030-1887								
+938615-1	Beilschmiedia brunnea	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 149 (1989)	1989	1030-1887	10.1071/SB9890135							
+938616-1	Beilschmiedia castrisinensis	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 150 (1989)	1989	1030-1887	10.1071/SB9890135							
+938617-1	Beilschmiedia collina	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 151 (1989)	1989	1030-1887	10.1071/SB9890135							
+938618-1	Beilschmiedia peninsularis	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 154 (1989)	1989	1030-1887	10.1071/SB9890135							
+938619-1	Beilschmiedia recurva	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 155 (1989)	1989	1030-1887	10.1071/SB9890135							
+938620-1	Beilschmiedia volckii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 156 (1989)	1989	1030-1887	10.1071/SB9890135							
+938621-1	Cryptocarya bamagana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 171 (1989)	1989	1030-1887	10.1071/SB9890135							
+938622-1	Cryptocarya bellendenkerana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 172 (1989)	1989	1030-1887	10.1071/SB9890135							
+938623-1	Cryptocarya clarksoniana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 175 (1989)	1989	1030-1887	10.1071/SB9890135							
+938624-1	Cryptocarya claudiana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 176 (1989)	1989	1030-1887	10.1071/SB9890135							
+938625-1	Cryptocarya cocosoides	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 177 (1989)	1989	1030-1887	10.1071/SB9890135							
+938626-1	Cryptocarya dorrigoensis	Frodin ex B.Hyland & A.G.Floyd	Austral. Syst. Bot.	2(2â€“3): 181 (1989)	1989	1030-1887	10.1071/SB9890135							
+938627-1	Cryptocarya glaucocarpa	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 188 (1989)	1989	1030-1887	10.1071/SB9890135							
+938628-1	Cryptocarya grandis	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 188 (1989)	1989	1030-1887	10.1071/SB9890135							
+938629-1	Cryptocarya leucophylla	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 192 (1989)	1989	1030-1887	10.1071/SB9890135							
+938630-1	Cryptocarya lividula	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 193 (1989)	1989	1030-1887	10.1071/SB9890135							
+938631-1	Cryptocarya macdonaldii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 193 (1989)	1989	1030-1887	10.1071/SB9890135							
+938632-1	Cryptocarya melanocarpa	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 196 (1989)	1989	1030-1887	10.1071/SB9890135							
+938633-1	Cryptocarya nova-anglica	B.Hyland & A.G.Floyd	Austral. Syst. Bot.	2(2â€“3): 198 (1989)	1989	1030-1887	10.1071/SB9890135							
+938634-1	Cryptocarya onoprienkoana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 201 (1989)	1989	1030-1887	10.1071/SB9890135							
+938635-1	Cryptocarya putida	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 203 (1989)	1989	1030-1887	10.1071/SB9890135							
+938636-1	Cryptocarya rhodosperma	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 204 (1989)	1989	1030-1887	10.1071/SB9890135							
+938637-1	Cryptocarya saccharata	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 206 (1989)	1989	1030-1887	10.1071/SB9890135							
+938638-1	Cryptocarya sclerophylla	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 207 (1989)	1989	1030-1887	10.1071/SB9890135							
+938639-1	Cryptocarya smaragdina	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 208 (1989)	1989	1030-1887	10.1071/SB9890135							
+938640-1	Cryptocarya vulgaris	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 212 (1989)	1989	1030-1887	10.1071/SB9890135							
+938641-1	Cryptocarya williwilliana	B.Hyland & A.G.Floyd	Austral. Syst. Bot.	2(2â€“3): 213 (1989)	1989	1030-1887	10.1071/SB9890135							
+938642-1	Endiandra bellendenkerana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 221 (1989)	1989	1030-1887	10.1071/SB9890135							
+938643-1	Endiandra bessaphila	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 222 (1989)	1989	1030-1887	10.1071/SB9890135							
+938644-1	Endiandra collinsii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 223 (1989)	1989	1030-1887	10.1071/SB9890135							
+938645-1	Endiandra cooperiana	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 224 (1989)	1989	1030-1887	10.1071/SB9890135							
+938646-1	Endiandra floydii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 229 (1989)	1989	1030-1887	10.1071/SB9890135							
+938647-1	Endiandra grayi	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 231 (1989)	1989	1030-1887	10.1071/SB9890135							
+938648-1	Endiandra jonesii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 236 (1989)	1989	1030-1887	10.1071/SB9890135							
+938649-1	Endiandra leptodendron	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 237 (1989)	1989	1030-1887	10.1071/SB9890135							
+938650-1	Endiandra limnophila	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 238 (1989)	1989	1030-1887	10.1071/SB9890135							
+938651-1	Endiandra monothyra	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 240 (1989)	1989	1030-1887	10.1071/SB9890135							
+938652-1	Endiandra phaeocarpa	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 245 (1989)	1989	1030-1887	10.1071/SB9890135							
+938653-1	Endiandra sideroxylon	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 248 (1989)	1989	1030-1887	10.1071/SB9890135							
+938654-1	Endiandra wolfei	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 250 (1989)	1989	1030-1887	10.1071/SB9890135							
+938655-1	Endiandra xanthocarpa	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 251 (1989)	1989	1030-1887	10.1071/SB9890135							
+938656-1	Lindera queenslandica	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 252 (1989)	1989	1030-1887								
+938657-1	Litsea australis	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 255 (1989)	1989	1030-1887								
+938658-1	Litsea bennettii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 256 (1989)	1989	1030-1887								
+938659-1	Litsea connorsii	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 259 (1989)	1989	1030-1887								
+938660-1	Litsea granitica	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 262 (1989)	1989	1030-1887								
 938909-1	Brachychiton compactus	Guymer	Austral. Syst. Bot.	1(3): 240	1989 [1988 publ. 1989]	1030-1887								
 938910-1	Brachychiton collinus	Guymer	Austral. Syst. Bot.	1(3): 249	1989 [1988 publ. 1989]	1030-1887								
 938911-1	Brachychiton acuminatus	Guymer	Austral. Syst. Bot.	1(3): 251	1989 [1988 publ. 1989]	1030-1887								
@@ -1760,14 +1760,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 938920-1	Brachychiton chillagoensis	Guymer	Austral. Syst. Bot.	1(3): 296	1989 [1988 publ. 1989]	1030-1887								
 938921-1	Brachychiton muellerianus	Guymer	Austral. Syst. Bot.	1(3): 302	1989 [1988 publ. 1989]	1030-1887								
 938922-1	Brachychiton multicaulis	Guymer	Austral. Syst. Bot.	1(3): 305	1989 [1988 publ. 1989]	1030-1887								
-938923-1	Brachychiton × roseus	Guymer	Austral. Syst. Bot.	1(3): 308	1989 [1988 publ. 1989]	1030-1887								
-938924-1	Brachychiton × turgidulus	Guymer	Austral. Syst. Bot.	1(3): 309	1989 [1988 publ. 1989]	1030-1887								
-938925-1	Brachychiton × vinicolor	Guymer	Austral. Syst. Bot.	1(3): 311	1989 [1988 publ. 1989]	1030-1887								
-938926-1	Brachychiton × incarnatus	Guymer	Austral. Syst. Bot.	1(3): 313	1989 [1988 publ. 1989]	1030-1887								
-938927-1	Brachychiton × excellens	Guymer	Austral. Syst. Bot.	1(3): 314	1989 [1988 publ. 1989]	1030-1887								
-938928-1	Brachychiton × carneus	Guymer	Austral. Syst. Bot.	1(3): 315	1989 [1988 publ. 1989]	1030-1887								
-938929-1	Brachychiton × allochrous	Guymer	Austral. Syst. Bot.	1(3): 316	1989 [1988 publ. 1989]	1030-1887								
-938930-1	Brachychiton × hirtellus	Guymer	Austral. Syst. Bot.	1(3): 317	1989 [1988 publ. 1989]	1030-1887								
+938923-1	Brachychiton Ã— roseus	Guymer	Austral. Syst. Bot.	1(3): 308	1989 [1988 publ. 1989]	1030-1887								
+938924-1	Brachychiton Ã— turgidulus	Guymer	Austral. Syst. Bot.	1(3): 309	1989 [1988 publ. 1989]	1030-1887								
+938925-1	Brachychiton Ã— vinicolor	Guymer	Austral. Syst. Bot.	1(3): 311	1989 [1988 publ. 1989]	1030-1887								
+938926-1	Brachychiton Ã— incarnatus	Guymer	Austral. Syst. Bot.	1(3): 313	1989 [1988 publ. 1989]	1030-1887								
+938927-1	Brachychiton Ã— excellens	Guymer	Austral. Syst. Bot.	1(3): 314	1989 [1988 publ. 1989]	1030-1887								
+938928-1	Brachychiton Ã— carneus	Guymer	Austral. Syst. Bot.	1(3): 315	1989 [1988 publ. 1989]	1030-1887								
+938929-1	Brachychiton Ã— allochrous	Guymer	Austral. Syst. Bot.	1(3): 316	1989 [1988 publ. 1989]	1030-1887								
+938930-1	Brachychiton Ã— hirtellus	Guymer	Austral. Syst. Bot.	1(3): 317	1989 [1988 publ. 1989]	1030-1887								
 940321-1	Melaleuca adenostyla	K.J.Cowley	Austral. Syst. Bot.	3(2): 171 (1990)	1990	1030-1887	10.1071/SB9900165							
 940322-1	Melaleuca apostiba	K.J.Cowley	Austral. Syst. Bot.	3(2): 182 (1990)	1990	1030-1887	10.1071/SB9900165							
 940323-1	Melaleuca ctenoides	F.C.Quinn	Austral. Syst. Bot.	3(2): 194 (1990)	1990	1030-1887	10.1071/SB9900165							
@@ -1784,8 +1784,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 946848-1	Asteromyrtus magnifica	(Specht) Craven	Austral. Syst. Bot.	1(4): 381	1989 [1988 publ. 1989]	1030-1887	10.1071/SB9880373							
 946849-1	Asteromyrtus symphyocarpa	(F.Muell.) Craven	Austral. Syst. Bot.	1(4): 383	1989 [1988 publ. 1989]	1030-1887	10.1071/SB9880373							
 946850-1	Ceriops australis	(C.T.White) Ballment, T.J.Sm. & J.A.Stoddart	Austral. Syst. Bot.	1(4): 395	1989 [1988 publ. 1989]	1030-1887	10.1071/SB9880391							
-947322-1	Beilschmiedia tooram	(F.M.Bailey) B.Hyland	Austral. Syst. Bot.	2(2–3): 156 (1989):	1989	1030-1887	10.1071/SB9890135							
-947323-1	Litsea fawcettiana	(F.Muell.) B.Hyland	Austral. Syst. Bot.	2(2–3): 260 (1989):	1989	1030-1887	10.1071/SB9890135							
+947322-1	Beilschmiedia tooram	(F.M.Bailey) B.Hyland	Austral. Syst. Bot.	2(2â€“3): 156 (1989):	1989	1030-1887	10.1071/SB9890135							
+947323-1	Litsea fawcettiana	(F.Muell.) B.Hyland	Austral. Syst. Bot.	2(2â€“3): 260 (1989):	1989	1030-1887	10.1071/SB9890135							
 947512-1	Apostates rapae	(F.Br.) Lander	Austral. Syst. Bot.	2(1): 130 (1989):	1989	1030-1887	10.1071/SB9890129							
 947513-1	Brachychiton vitifolius	(F.M.Bailey) Guymer	Austral. Syst. Bot.	1(3): 269	1989 [1988 publ. 1989]	1030-1887								
 947514-1	Brachychiton garrawayae	(F.M.Bailey) Guymer	Austral. Syst. Bot.	1(3): 274	1989 [1988 publ. 1989]	1030-1887								
@@ -1799,10 +1799,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 950684-1	Melaleuca lanceolata subsp. occidentalis	Barlow	Austral. Syst. Bot.	1(2): 121 (1988)	1988	1030-1887	10.1071/SB9880095							
 950685-1	Melaleuca lanceolata subsp. thaeroides	Barlow	Austral. Syst. Bot.	1(2): 121 (1988)	1988	1030-1887	10.1071/SB9880095							
 951072-1	Enneapogon caerulescens var. occidentalis	Kakudidi	Austral. Syst. Bot.	1(4): 333	1989 [1988 publ. 1989]	1030-1887	10.1071/SB9880325							
-951316-1	Cryptocarya triplinervis var. pubens	B.Hyland	Austral. Syst. Bot.	2(2–3): 210 (1989)	1989	1030-1887								
-951317-1	Cryptocarya triplinervis var. riparia	B.Hyland	Austral. Syst. Bot.	2(2–3): 211 (1989)	1989	1030-1887								
-951318-1	Endiandra monothyra subsp. trichophylla	B.Hyland	Austral. Syst. Bot.	2(2–3): 241 (1989)	1989	1030-1887								
-951319-1	Endiandra muelleri subsp. bracteata	B.Hyland	Austral. Syst. Bot.	2(2–3): 243 (1989)	1989	1030-1887	10.1071/SB9890135							
+951316-1	Cryptocarya triplinervis var. pubens	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 210 (1989)	1989	1030-1887								
+951317-1	Cryptocarya triplinervis var. riparia	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 211 (1989)	1989	1030-1887								
+951318-1	Endiandra monothyra subsp. trichophylla	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 241 (1989)	1989	1030-1887								
+951319-1	Endiandra muelleri subsp. bracteata	B.Hyland	Austral. Syst. Bot.	2(2â€“3): 243 (1989)	1989	1030-1887	10.1071/SB9890135							
 951378-1	Brachychiton diversifolius subsp. orientalis	Guymer	Austral. Syst. Bot.	1(3): 231	1989 [1988 publ. 1989]	1030-1887								
 951379-1	Brachychiton populneus subsp. trilobus	Guymer	Austral. Syst. Bot.	1(3): 235	1989 [1988 publ. 1989]	1030-1887								
 951665-1	Melaleuca coccinea subsp. penicula	K.J.Cowley	Austral. Syst. Bot.	3(2): 178 (1990)	1990	1030-1887	10.1071/SB9900165							
@@ -1946,7 +1946,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 979714-1	Tylophora bilobata	P.I.Forst.	Austral. Syst. Bot.	7(5): 492 (1994)	1994	1030-1887	10.1071/SB9940485							
 979715-1	Tylophora brassii	P.I.Forst.	Austral. Syst. Bot.	7(5): 498 (1994)	1994	1030-1887	10.1071/SB9940485							
 979716-1	Tylophora minima	P.I.Forst.	Austral. Syst. Bot.	7(5): 500 (1994)	1994	1030-1887	10.1071/SB9940485							
-979717-1	Sonneratia × urama	N.C.Duke	Austral. Syst. Bot.	7(5): 522 (1994)	1994	1030-1887	10.1071/SB9940521							
+979717-1	Sonneratia Ã— urama	N.C.Duke	Austral. Syst. Bot.	7(5): 522 (1994)	1994	1030-1887	10.1071/SB9940521							
 980282-1	Cycas ser. Armstrongianosae	K.D.Hill	Austral. Syst. Bot.	7(6): 531 (1994).	1994	1030-1887	10.1071/SB9940527							
 980283-1	Cycas campestris	K.D.Hill	Austral. Syst. Bot.	7(6): 538 (1994)	1994	1030-1887	10.1071/SB9940527							
 980284-1	Cycas subsect. Rumphiae	K.D.Hill	Austral. Syst. Bot.	7(6): 548 (1994).	1994	1030-1887	10.1071/SB9940543							
@@ -2405,7 +2405,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77152185-1	Pycnandra amplexicaulis	Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 95	2015	1030-1887	10.1071/SB15010							
 77152186-1	Pycnandra filipes	(Benth.) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 97	2015	1030-1887	10.1071/SB15010							
 77152187-1	Pycnandra filipes subsp. multiflora	(Vink) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 99	2015	1030-1887	10.1071/SB15010							
-77152189-1	Pycnandra goroensis	(Aubrév.) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 100	2015	1030-1887	10.1071/SB15010							
+77152189-1	Pycnandra goroensis	(AubrÃ©v.) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 100	2015	1030-1887	10.1071/SB15010							
 77152190-1	Pycnandra grandifolia	(Vink) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 100	2015	1030-1887	10.1071/SB15010							
 77152191-1	Pycnandra longiflora	(Benth.) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 101	2015	1030-1887	10.1071/SB15010							
 77152192-1	Pycnandra micrantha	(Beauvis.) Munzinger & Swenson	Austral. Syst. Bot.	28(2-3): 102	2015	1030-1887	10.1071/SB15010							
@@ -2417,7 +2417,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77159026-1	Synostemon hubbardii	(Airy Shaw) I.Telford & Pruesapan	Austral. Syst. Bot.	29(3): 227	2016	1030-1887	10.1071/SB16008							
 77159038-1	Synostemon judithae	I.Telford & J.J.Bruhl	Austral. Syst. Bot.	29(3): 232	2016	1030-1887	10.1071/SB16008							
 77159027-1	Synostemon lissocarpus	(S.Moore) I.Telford & Pruesapan	Austral. Syst. Bot.	29(3): 228	2016	1030-1887	10.1071/SB16008							
-77159029-1	Synostemon rhytidospermus	(Müll.Arg.) I.Telford & Pruesapan	Austral. Syst. Bot.	29(3): 229	2016	1030-1887	10.1071/SB16008							
+77159029-1	Synostemon rhytidospermus	(MÃ¼ll.Arg.) I.Telford & Pruesapan	Austral. Syst. Bot.	29(3): 229	2016	1030-1887	10.1071/SB16008							
 77159031-1	Synostemon salignus	(J.T.Hunter & J.J.Bruhl) I.Telford & Pruesapan	Austral. Syst. Bot.	29(3): 230	2016	1030-1887	10.1071/SB16008							
 77159034-1	Synostemon umbrosus	I.Telford & J.J.Bruhl	Austral. Syst. Bot.	29(3): 231	2016	1030-1887	10.1071/SB16008							
 77159023-1	Pimelea filifolia	(Rye) C.S.P.Foster & Henwood	Austral. Syst. Bot.	29(3): 194	2016	1030-1887	10.1071/SB16013							

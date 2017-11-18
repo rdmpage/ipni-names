@@ -8,11 +8,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1018394-1	Stipa monticola	Kotukhov	Turczaninowia	1(1): 11	1998	1560-7259								
 1018395-1	Agrostis buchtarmensis	Kotukhov	Turczaninowia	1(1): 12 (1998)	1998	1560-7259								
 1018396-1	Elytrigia czindogatuica	Kotukhov	Turczaninowia	1(1): 13 (1998)	1998	1560-7259								
-1018397-1	Agrotrigia × urunchaica	Kotukhov	Turczaninowia	1(1): 14 (1998)	1998	1560-7259								
-1018398-1	Agrotrigia × berelica	Kotukhov	Turczaninowia	1(1): 15 (1998)	1998	1560-7259								
-1018399-1	Elymotrigia × altaica	Kotukhov	Turczaninowia	1(1): 16 (1998)	1998	1560-7259								
-1018400-1	Elymotrigia × bobrovica	Kotukhov	Turczaninowia	1(1): 17 (1998)	1998	1560-7259								
-1018401-1	Elymotrigia × gigantea	Kotukhov	Turczaninowia	1(1): 18 (1998)	1998	1560-7259								
+1018397-1	Agrotrigia Ã— urunchaica	Kotukhov	Turczaninowia	1(1): 14 (1998)	1998	1560-7259								
+1018398-1	Agrotrigia Ã— berelica	Kotukhov	Turczaninowia	1(1): 15 (1998)	1998	1560-7259								
+1018399-1	Elymotrigia Ã— altaica	Kotukhov	Turczaninowia	1(1): 16 (1998)	1998	1560-7259								
+1018400-1	Elymotrigia Ã— bobrovica	Kotukhov	Turczaninowia	1(1): 17 (1998)	1998	1560-7259								
+1018401-1	Elymotrigia Ã— gigantea	Kotukhov	Turczaninowia	1(1): 18 (1998)	1998	1560-7259								
 1018402-1	Elymus sauricus	Kotukhov	Turczaninowia	1(1): 19 (1998)	1998	1560-7259								
 1018403-1	Elymus tarbagataicus	Kotukhov	Turczaninowia	1(1): 20 (1998)	1998	1560-7259								
 1018404-1	Aconitum kamelinii	A.A.Solovjev	Turczaninowia	1(2): 5 (1998), as 'kamelini'	1998	1560-7259								
@@ -43,7 +43,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1018430-1	Cypripedium macranthon var. atropurpureum	Aver.	Turczaninowia	2(2): 18 (1999)	1999	1560-7259								
 1018431-1	Cypripedium ventricosum f. bicolor	Aver.	Turczaninowia	2(2): 26 (1999)	1999	1560-7259								
 1018432-1	Cypripedium guttatum f. albiflorum	Aver.	Turczaninowia	2(2): 30 (1999)	1999	1560-7259								
-1018433-1	Cypripedium × catherinae	Aver.	Turczaninowia	2(2): 34 (1999)	1999	1560-7259								
+1018433-1	Cypripedium Ã— catherinae	Aver.	Turczaninowia	2(2): 34 (1999)	1999	1560-7259								
 1018434-1	Lappula saphronovae	Kamelin	Turczaninowia	2(3): 5 (1999), as 'saphronoviae'	1999	1560-7259								
 1018435-1	Campanula glomerata subsp. krylovii	Olonova	Turczaninowia	2(3): 8 (1999)	1999	1560-7259								
 1018436-1	Elymus ubinica	Kotukhov	Turczaninowia	2(4): 5 (1999)	1999	1560-7259								
@@ -183,7 +183,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 20011572-1	Anoplocaryum tenellum	A.L.Ebel & Rudaya	Turczaninowia	5(2): 7 (2002)	2002	1560-7259								
 20011573-1	Sanicula uralensis	Kleopow ex Kamelin, Czubarov & Shmakov	Turczaninowia	5(2): 18 (2002)	2002	1560-7259								
 20011577-1	Airampoa minuscula	(Backeb.) Doweld	Turczaninowia	5(2): 30 (2002)	2002	1560-7259								
-20011578-1	Airampoa orurensis	(Cárdenas) Doweld	Turczaninowia	5(2): 30 (2002)	2002	1560-7259								
+20011578-1	Airampoa orurensis	(CÃ¡rdenas) Doweld	Turczaninowia	5(2): 30 (2002)	2002	1560-7259								
 20011579-1	Airampoa panellana	(Backeb.) Doweld	Turczaninowia	5(2): 30 (2002)	2002	1560-7259								
 20011580-1	Airampoa picardoi	(Marn.-Lap.) Doweld	Turczaninowia	5(2): 30 (2002)	2002	1560-7259								
 20011581-1	Airampoa silvestris	(Backeb.) Doweld	Turczaninowia	5(2): 30 (2002)	2002	1560-7259								
@@ -215,12 +215,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60433708-2	Allium azutavicum	Kotukhov	Turczaninowia	6(1): 6 (-7)	2003 [28 March 2003]	1560-7259								
 60433709-2	Allium ivasczenkoae	Kotukhov	Turczaninowia	6(1): 7 (-9)	2003 [28 March 2003]	1560-7259								
 60433710-2	Allium zaissanicum	Kotukhov	Turczaninowia	6(1): 9 (-10)	2003 [28 March 2003]	1560-7259								
-60433711-2	Veronica × schmakovii	Kosachev	Turczaninowia	6(1): 16 (-18; fig. 1)	2003 [28 March 2003]	1560-7259								
+60433711-2	Veronica Ã— schmakovii	Kosachev	Turczaninowia	6(1): 16 (-18; fig. 1)	2003 [28 March 2003]	1560-7259								
 60433712-2	Veronica spicata subsp. kamelinii	Kosachev	Turczaninowia	6(1): 19 (-21; fig. 2)	2003 [28 March 2003]	1560-7259								
 60433713-2	Veronica spicata subsp. paczoskiana	(Klokov) Kosachev	Turczaninowia	6(1): 22	2003 [28 March 2003]	1560-7259								
-60433714-2	Veronica × sapozhnikovii	Kosachev	Turczaninowia	6(1): 24 (-26; fig. 3)	2003 [28 March 2003]	1560-7259								
-60433715-2	Veronica × altaica	Kosachev	Turczaninowia	6(1): 26 (-28; fig. 4)	2003 [28 March 2003]	1560-7259								
-60433716-2	Veronica × austrosibirica	Kosachev	Turczaninowia	6(1): 28 (-31; fig. 5)	2003 [28 March 2003]	1560-7259								
+60433714-2	Veronica Ã— sapozhnikovii	Kosachev	Turczaninowia	6(1): 24 (-26; fig. 3)	2003 [28 March 2003]	1560-7259								
+60433715-2	Veronica Ã— altaica	Kosachev	Turczaninowia	6(1): 26 (-28; fig. 4)	2003 [28 March 2003]	1560-7259								
+60433716-2	Veronica Ã— austrosibirica	Kosachev	Turczaninowia	6(1): 28 (-31; fig. 5)	2003 [28 March 2003]	1560-7259								
 60433717-2	Bromopsis ser. Sibiricae	Peschkova	Turczaninowia	6(1): 36 (-37)	2003 [28 March 2003]	1560-7259								
 60433718-2	Astragalus schmakovii	Skatschko	Turczaninowia	6(2): 5 (-7; fig.)	2003 [28 June 2003]	1560-7259								
 60433719-2	Typha laxmannii var. turczaninovii	Krasnova	Turczaninowia	6(2): 12 (-13)	2003 [28 June 2003]	1560-7259								
@@ -288,9 +288,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77077927-1	Bupleurum bicaule subsp. pusillum	(Krylov) Czubarov	Turczaninowia	7(3): 66	2004 [28 Sep 2004]	1560-7259								
 77083521-1	Paphiopedilum appletonianum f. tridentatum	(S.C.Chen & Z.J.Liu) Aver.	Turczaninowia	9(3): 76	2006 [28 Sep 2006]	1560-7259								
 77083522-1	Habenaria dentata var. parageniculata	(Tang & F.T.Wang) Aver.	Turczaninowia	9(3): 67	2006 [28 Sep 2006]	1560-7259								
-77086368-1	Polypodium × vianei	Shmakov	Turczaninowia	7(4): 5 (-7; fig.)	2004 [28 Dec 2004]	1560-7259								
+77086368-1	Polypodium Ã— vianei	Shmakov	Turczaninowia	7(4): 5 (-7; fig.)	2004 [28 Dec 2004]	1560-7259								
 77086369-1	Elymus goloskokovii	Kotukhov	Turczaninowia	7(4): 8 (-9)	2004 [28 Dec 2004]	1560-7259								
-77086370-1	× Elymotrigia nuraniae	Kotukhov	Turczaninowia	7(4): 9 (-10)	2004 [28 Dec 2004]	1560-7259								
+77086370-1	Ã— Elymotrigia nuraniae	Kotukhov	Turczaninowia	7(4): 9 (-10)	2004 [28 Dec 2004]	1560-7259								
 77086371-1	Saussurea krasnoborovii	S.V.Smirn.	Turczaninowia	7(4): 13	2004 [28 Dec 2004]	1560-7259								
 77086372-1	Saussurea orgaadayi f. racemosa	(Zhirova & Krasnikov) S.V.Smirn.	Turczaninowia	7(4): 14	2004 [28 Dec 2004]	1560-7259								
 77086373-1	Saussurea revjakinae	S.V.Smirn.	Turczaninowia	7(4): 15 (-16; fig.)	2004 [28 Dec 2004]	1560-7259								
@@ -305,9 +305,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77086382-1	Crucihimalaya bursifolia	(DC.) D.A.German & A.L.Ebel	Turczaninowia	8(4): 10	2005 [28 Dec 2005]	1560-7259								
 77086383-1	Crucihimalaya virgata	(Nutt.) D.A.German & A.L.Ebel	Turczaninowia	8(4): 11	2005 [28 Dec 2005]	1560-7259								
 77104617-1	Platanthera singgalangensis	(J.J.Sm.) Efimov	Turczaninowia	12(3-4): 17	2009 [10 Dec 2009]	1560-7259								
-77104618-1	Platanthera × inouei	Efimov	Turczaninowia	12(3-4): 18 (-19; fig. 1)	2009 [10 Dec 2009]	1560-7259								
+77104618-1	Platanthera Ã— inouei	Efimov	Turczaninowia	12(3-4): 18 (-19; fig. 1)	2009 [10 Dec 2009]	1560-7259								
 77104619-1	Leptorumohra borealis	(Seriz.) Shmakov	Turczaninowia	12(3-4): 138	2009 [10 Dec 2009]	1560-7259								
-77104620-1	Leptorumohra × takayamensis	(Seriz.) Shmakov	Turczaninowia	12(3-4): 139	2009 [10 Dec 2009]	1560-7259								
+77104620-1	Leptorumohra Ã— takayamensis	(Seriz.) Shmakov	Turczaninowia	12(3-4): 139	2009 [10 Dec 2009]	1560-7259								
 77104931-1	Larix dahurica subsp. cajanderi	(Mayr) Nikolin	Turczaninowia	12(3-4): 69	2009 ({10 Dec 2009)	1560-7259								
 77110060-1	Anopteris stricta	(Kunze) Vaganov & Shmakov	Turczaninowia	13(1): 9	2010 [30 Mar 2010]	1560-7259								
 77110061-1	Anopteris intermedia	(C.V.Morton) Vaganov & Shmakov	Turczaninowia	13(1): 10	2010 [30 Mar 2010]	1560-7259								
@@ -377,10 +377,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77143872-1	Stephanocaryum dschagastanicum	(Regel) O.D.Nikif.	Turczaninowia	17(3): 9	2014	1560-7259								
 77144613-1	trib. Shehbazieae	D.A.German	Turczaninowia	17(4): 22	2014	1560-7259								
 77144617-1	Odontarrhena americana	(Greene) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
-77144618-1	Odontarrhena borzaeana	(Nyár.) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
+77144618-1	Odontarrhena borzaeana	(NyÃ¡r.) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
 77144620-1	Odontarrhena gehamensis	(Fed.) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
 77144624-1	Odontarrhena gymnopoda	(P.A.Smirn.) D.A.German	Turczaninowia	17(4): 31	2014	1560-7259	10.14258/turczaninowia.17.4.6							
-77144625-1	Odontarrhena inflata	(Nyár.) D.A.German	Turczaninowia	17(4): 31	2014	1560-7259	10.14258/turczaninowia.17.4.6							
+77144625-1	Odontarrhena inflata	(NyÃ¡r.) D.A.German	Turczaninowia	17(4): 31	2014	1560-7259	10.14258/turczaninowia.17.4.6							
 77144621-1	Odontarrhena savranica	(Andrz. ex Besser) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
 77144622-1	Odontarrhena schirwanica	(Rupr.) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
 77144623-1	Odontarrhena subalpina	(Pall. ex M.Bieb.) D.A.German	Turczaninowia	17(4): 30	2014	1560-7259	10.14258/turczaninowia.17.4.6							
@@ -405,21 +405,21 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77142429-1	Tainia acuminata	Aver.	Turczaninowia	16(1): 42	2013	1560-7259								
 77133029-1	Tainia cornuta	Aver.	Turczaninowia	15(1): 14	2012	1560-7259								
 77144606-1	Papaver tuberculatum	V.I.Dorof. & Murtaz.	Turczaninowia	17(4): 6	2014	1560-7259								
-77147342-1	Pinus dalatensis var. anemophila	(Businský) Aver.	Turczaninowia	18(1): 13	2015	1560-7259	10.14258/turczaninowia.18.1.1							
-77147343-1	Pinus dalatensis var. procera	(Businský) Aver.	Turczaninowia	18(1): 15	2015	1560-7259	10.14258/turczaninowia.18.1.1							
-77147345-1	Pinus wangii var. eremitana	(Businský) Aver.	Turczaninowia	18(1): 15	2015	1560-7259	10.14258/turczaninowia.18.1.1							
+77147342-1	Pinus dalatensis var. anemophila	(BusinskÃ½) Aver.	Turczaninowia	18(1): 13	2015	1560-7259	10.14258/turczaninowia.18.1.1							
+77147343-1	Pinus dalatensis var. procera	(BusinskÃ½) Aver.	Turczaninowia	18(1): 15	2015	1560-7259	10.14258/turczaninowia.18.1.1							
+77147345-1	Pinus wangii var. eremitana	(BusinskÃ½) Aver.	Turczaninowia	18(1): 15	2015	1560-7259	10.14258/turczaninowia.18.1.1							
 77147344-1	Pinus wangii var. varifolia	(Nan Li & Y.C.Zhong) Aver.	Turczaninowia	18(1): 15	2015	1560-7259	10.14258/turczaninowia.18.1.1							
 77147347-1	Acantholimon zakirovii	Beshko	Turczaninowia	18(1): 19	2015	1560-7259	10.14258/turczaninowia.18.1.3							
 77143873-1	Polypodiodes sect. Hendersonia	Shalimov & Shmakov	Turczaninowia	17(3): 16	2014	1560-7259								
 77143874-1	Polypodiodes sect. Niponicae	Shalimov & Shmakov	Turczaninowia	17(3): 16	2014	1560-7259								
 77142448-1	Aquilegia kamelinii	Erst, Shaulo & Shmakov	Turczaninowia	16(3): 20	2013	1560-7259	10.14258/turczaninowia.16.3.4							
-77144615-1	Aquilegia kansuensis	(Brühl) Erst	Turczaninowia	17(4): 25	2014	1560-7259								
+77144615-1	Aquilegia kansuensis	(BrÃ¼hl) Erst	Turczaninowia	17(4): 25	2014	1560-7259								
 77142455-1	Alchemilla czaryschensis	Czkalov	Turczaninowia	17(2): 17	2014	1560-7259	10.14258/turczaninowia.17.2.2							
 77142456-1	Alchemilla krassovskiana	Czkalov	Turczaninowia	17(2): 20	2014	1560-7259	10.14258/turczaninowia.17.2.2							
 77142457-1	Alchemilla laxescens	Czkalov	Turczaninowia	17(2): 22	2014	1560-7259	10.14258/turczaninowia.17.2.2							
 77142458-1	Alchemilla oirotica	Czkalov	Turczaninowia	17(2): 23	2014	1560-7259	10.14258/turczaninowia.17.2.2							
 77142459-1	Alchemilla pseudobungeana	Czkalov	Turczaninowia	17(2): 26	2014	1560-7259	10.14258/turczaninowia.17.2.2							
-77132061-1	Potentilla nebulosa	Danihelka & Soják	Turczaninowia	15(4): 6	2012	1560-7259								
+77132061-1	Potentilla nebulosa	Danihelka & SojÃ¡k	Turczaninowia	15(4): 6	2012	1560-7259								
 77133048-1	Galium pobedimovae	Balde	Turczaninowia	15(2): 34	2012	1560-7259								
 77133031-1	Pedicularis ser. Koidzumianae	I.V.Han	Turczaninowia	15(1): 35	2012	1560-7259								
 77133030-1	Pedicularis ser. Lanatae	Vved. ex I.V.Han	Turczaninowia	15(1): 33	2012	1560-7259								
@@ -436,11 +436,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77162715-1	Guenthera cretacea	(Kotov) D.A.German	Turczaninowia	18(2): 62	2015	1560-7259	10.14258/turczaninowia.18.2.4							
 77162716-1	Guenthera persica	(Boiss. & Hohen.) D.A.German	Turczaninowia	18(2): 62	2015	1560-7259	10.14258/turczaninowia.18.2.4							
 77162717-1	Guenthera subscaposa	(Maire & Weiller) D.A.German	Turczaninowia	18(2): 62	2015	1560-7259	10.14258/turczaninowia.18.2.4							
-77162718-1	Guenthera subscaposa subsp. imdrahsiana	(Quézel) D.A.German	Turczaninowia	18(2): 62	2015	1560-7259	10.14258/turczaninowia.18.2.4							
+77162718-1	Guenthera subscaposa subsp. imdrahsiana	(QuÃ©zel) D.A.German	Turczaninowia	18(2): 62	2015	1560-7259	10.14258/turczaninowia.18.2.4							
 77162679-1	Isatis densiflora	(Bunge ex Boiss.) D.A.German	Turczaninowia	19(4): 130	2016	1560-7259	10.14258/turczaninowia.19.4.17							
 77162681-1	Mostacillastrum volckmannii	(Phil.) D.A.German	Turczaninowia	19(4): 130	2016	1560-7259	10.14258/turczaninowia.19.4.17							
 77162678-1	Noccaea boissieri	(Bornm.) D.A.German	Turczaninowia	19(4): 130	2016	1560-7259	10.14258/turczaninowia.19.4.17							
-77162680-1	Odontarrhena caliacrae	(Nyár.) D.A.German	Turczaninowia	19(4): 130	2016	1560-7259	10.14258/turczaninowia.19.4.17							
+77162680-1	Odontarrhena caliacrae	(NyÃ¡r.) D.A.German	Turczaninowia	19(4): 130	2016	1560-7259	10.14258/turczaninowia.19.4.17							
 77162682-1	Rorippa tsaratananae	(Jonsell) D.A.German	Turczaninowia	19(4): 131	2016	1560-7259	10.14258/turczaninowia.19.4.17							
 77162534-1	Sphaerotorrhiza trifida var. dissecta	(O.E.Schulz) V.I.Dorof.	Turczaninowia	20(1): 134	2017	1560-7259	10.14258/turczaninowia.20.1.12							
 77162536-1	Sphaerotorrhiza trifida f. parviflora	(Trautv.) V.I.Dorof.	Turczaninowia	20(1): 134	2017	1560-7259	10.14258/turczaninowia.20.1.12							
@@ -482,7 +482,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77162736-1	Polypodium sect. Australia	Shalimov & Shmakov	Turczaninowia	18(3): 141	2015	1560-7259	10.14258/turczaninowia.18.3.9							
 77162735-1	Polypodium sect. Japonicae	Shalimov & Shmakov	Turczaninowia	18(3): 140	2015	1560-7259	10.14258/turczaninowia.18.3.9							
 77162737-1	Polypodium sect. Montanae	Shalimov & Shmakov	Turczaninowia	18(3): 142	2015	1560-7259	10.14258/turczaninowia.18.3.9							
-77162589-1	Argentina sect. Ancistrifoliae	(Soják) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162589-1	Argentina sect. Ancistrifoliae	(SojÃ¡k) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162581-1	Argentina sect. Brassiae	Kechaykin & Shmakov	Turczaninowia	19(4): 118	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162584-1	Argentina sect. Cristatae	Kechaykin & Shmakov	Turczaninowia	19(4): 118	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162586-1	Argentina sect. Habbemanae	Kechaykin & Shmakov	Turczaninowia	19(4): 118	2016	1560-7259	10.14258/turczaninowia.19.4.1							
@@ -491,19 +491,19 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77162587-1	Argentina sect. Parvulae	Kechaykin & Shmakov	Turczaninowia	19(4): 118	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162588-1	Argentina sect. Vittatae	Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162585-1	Argentina cristata	Kechaykin & Shmakov	Turczaninowia	19(4): 118	2016	1560-7259	10.14258/turczaninowia.19.4.1							
-77162593-1	Fragariastrum sect. Bhutanicae	(Soják) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162593-1	Fragariastrum sect. Bhutanicae	(SojÃ¡k) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162594-1	Fragariastrum sect. Biflorae	(Rydb.) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162603-1	Fragariastrum sect. Camillae	(Kapeller) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162604-1	Fragariastrum sect. Curvisetae	(Th.Wolf) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162596-1	Fragariastrum sect. Elatiores	(Willd. ex Schltdl.) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162601-1	Fragariastrum sect. Eriocarpae	(Th.Wolf) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
-77162650-1	Fragariastrum sect. Laterales	(Döll) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162650-1	Fragariastrum sect. Laterales	(DÃ¶ll) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162653-1	Fragariastrum sect. Lupinoides	(Tausch) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
-77162656-1	Fragariastrum sect. Plumosistylae	(Paw?.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162656-1	Fragariastrum sect. Plumosistylae	(PawÅ‚.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162632-1	Fragariastrum alchimilloides	(Lapeyr.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162590-1	Fragariastrum ancistrifolium	(Bunge) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162660-1	Fragariastrum apenninum	(Ten.) Kechaykin & Shmakov	Turczaninowia	19(4): 122	2016	1560-7259	10.14258/turczaninowia.19.4.1							
-77162645-1	Fragariastrum arcadiensis	(Iatroú) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162645-1	Fragariastrum arcadiensis	(IatroÃº) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162605-1	Fragariastrum articulatum	(Franch.) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162598-1	Fragariastrum biflorum	(D.F.K.Schltdl.) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162633-1	Fragariastrum brachypetalum	(Fisch. & C.A.Mey. ex Lehm.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
@@ -524,7 +524,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77162620-1	Fragariastrum haynaldianum	(Janka) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162611-1	Fragariastrum imerethicum	(Gagnidze & Sokhadze) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162649-1	Fragariastrum isauricum	(P.H.Davis) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
-77162664-1	Fragariastrum kionaeum	(Halácsy) Kechaykin & Shmakov	Turczaninowia	19(4): 122	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162664-1	Fragariastrum kionaeum	(HalÃ¡csy) Kechaykin & Shmakov	Turczaninowia	19(4): 122	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162659-1	Fragariastrum libanoticum	(Boiss. & Spruner) Kechaykin & Shmakov	Turczaninowia	19(4): 122	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162637-1	Fragariastrum montanum	(Brot.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162618-1	Fragariastrum nerimaniae	(H.Duman) Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
@@ -533,7 +533,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77162665-1	Fragariastrum owerinianum	(Rupr. ex Boiss.) Kechaykin & Shmakov	Turczaninowia	19(4): 122	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162616-1	Fragariastrum pteropodum	Kechaykin & Shmakov	Turczaninowia	19(4): 120	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162592-1	Fragariastrum rugulosum	(Kitag.) Kechaykin & Shmakov	Turczaninowia	19(4): 119	2016	1560-7259	10.14258/turczaninowia.19.4.1							
-77162627-1	Fragariastrum savvalensis	(Paw?.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
+77162627-1	Fragariastrum savvalensis	(PawÅ‚.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162629-1	Fragariastrum saxifraga	(Ardoino ex De Not.) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162666-1	Fragariastrum speciosum	(Willd.) Kechaykin & Shmakov	Turczaninowia	19(4): 122	2016	1560-7259	10.14258/turczaninowia.19.4.1							
 77162624-1	Fragariastrum ulrichii	(Parolly & Nordt) Kechaykin & Shmakov	Turczaninowia	19(4): 121	2016	1560-7259	10.14258/turczaninowia.19.4.1							
@@ -572,7 +572,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77162689-1	Woodsiopsis appalachiana	(T.M.C.Taylor) Shmakov	Turczaninowia	18(2): 12	2015	1560-7259	10.14258/turczaninowia.18.2.2							
 77162690-1	Woodsiopsis cochisensis	(Windham) Shmakov	Turczaninowia	18(2): 12	2015	1560-7259	10.14258/turczaninowia.18.2.2							
 77162691-1	Woodsiopsis cystopteroides	(Windham & Mickel) Shmakov	Turczaninowia	18(2): 12	2015	1560-7259	10.14258/turczaninowia.18.2.2							
-77162692-1	Woodsiopsis mexicana	(Fée) Shmakov	Turczaninowia	18(2): 12	2015	1560-7259	10.14258/turczaninowia.18.2.2							
+77162692-1	Woodsiopsis mexicana	(FÃ©e) Shmakov	Turczaninowia	18(2): 12	2015	1560-7259	10.14258/turczaninowia.18.2.2							
 77162693-1	Woodsiopsis neomexicana	(Windham) Shmakov	Turczaninowia	18(2): 12	2015	1560-7259	10.14258/turczaninowia.18.2.2							
 77162694-1	Woodsiopsis obtusa	(Spreng.) Shmakov	Turczaninowia	18(2): 13	2015	1560-7259	10.14258/turczaninowia.18.2.2							
 77162695-1	Woodsiopsis obtusa subsp. occidentalis	(Windham) Shmakov	Turczaninowia	18(2): 13	2015	1560-7259	10.14258/turczaninowia.18.2.2							

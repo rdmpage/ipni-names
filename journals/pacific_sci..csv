@@ -117,8 +117,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 58885-1	Achyranthes reflexa	(Hillebr.) H.St.John	Pacific Sci.	33 (4): 343	1980 [dt. 1979; publ. 1980]	0030-8870								10125/1487
 58894-1	Achyranthes rotundata	(Hillebr.) H.St.John	Pacific Sci.	33 (4): 345	1980 [dt. 1979; publ. 1980]	0030-8870								10125/1487
 589140-1	Myrsine hosakae	Wilbur	Pacific Sci.	xix. 522 (1965)		0030-8870								10125/7376
-589190-1	Myrsine meziana	(H.Lév.) Wilbur	Pacific Sci.	xix. 522 (1965)		0030-8870								10125/7376
-589246-1	Myrsine punctata	(H.Lév.) Wilbur	Pacific Sci.	xix. 522 (1965)		0030-8870								10125/7376
+589190-1	Myrsine meziana	(H.LÃ©v.) Wilbur	Pacific Sci.	xix. 522 (1965)		0030-8870								10125/7376
+589246-1	Myrsine punctata	(H.LÃ©v.) Wilbur	Pacific Sci.	xix. 522 (1965)		0030-8870								10125/7376
 592323-1	Cleistocalyx decussatus	A.C.Sm.	Pacific Sci.	25(4): 495	1971	0030-8870								10125/4284
 592328-1	Cleistocalyx kasiensis	A.C.Sm.	Pacific Sci.	25(4): 494	1971	0030-8870								10125/4284
 595174-1	Eugenia molokaiana	K.A.Wilson & Rock	Pacific Sci.	xi. 175 (1957).		0030-8870								10125/8651
@@ -372,7 +372,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 703647-1	Finschia carrii	(Sleumer) C.T.White	Pacific Sci.	iii. 188 (1949)		0030-8870								10125/8929
 703650-1	Finschia ferruginiflora	C.T.White	Pacific Sci.	iii. 190 (1949).		0030-8870								10125/8929
 717444-1	Gouania cucullata	H.St.John	Pacific Sci.	xxiii. 534 (1969).		0030-8870								10125/4013
-717456-1	Gouania fauriei	(H.Lév.) H.St.John	Pacific Sci.	xxiii. 515 (1969)		0030-8870								10125/4013
+717456-1	Gouania fauriei	(H.LÃ©v.) H.St.John	Pacific Sci.	xxiii. 515 (1969)		0030-8870								10125/4013
 717459-1	Gouania gagnei	H.St.John	Pacific Sci.	27(3): 269	1973	0030-8870								10125/803
 717463-1	Gouania hawaiiensis	H.St.John	Pacific Sci.	xxiii. 534 (1969).		0030-8870								10125/4013
 717487-1	Gouania lydgatei	H.St.John	Pacific Sci.	xxiii. 524 (1969)		0030-8870								10125/4013
@@ -399,7 +399,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 763728-1	Psychotria vescula	A.C.Sm.	Pacific Sci.	25(4): 499	1971	0030-8870								10125/4284
 76513-1	Alstonia brassii	Monach.	Pacific Sci.	iii. 166 (1949).		0030-8870								10125/8927
 76538-1	Alstonia glaucescens	(K.Schum.) Monach.	Pacific Sci.	iii. 144 (1949)		0030-8870								10125/8927
-76589-1	Alstonia sebusi	(Van Heurck & Müll.Arg.) Monach.	Pacific Sci.	iii. 157 (1949)		0030-8870								10125/8927
+76589-1	Alstonia sebusi	(Van Heurck & MÃ¼ll.Arg.) Monach.	Pacific Sci.	iii. 157 (1949)		0030-8870								10125/8927
 767311-1	Sukunia longipes	A.C.Sm.	Pacific Sci.	xxiii. 392 (1969).		0030-8870								10125/3395
 77081306-1	Myoporum sandwicense var. lanaiense	G.L.Webster	Pacific Sci.	5: 69	1951	0030-8870								10125/8801
 77085606-1	Operculina polynesica	Staples	Pacific Sci.	61(4): 588 (-590; fig. 1)	"2007 [""Oct 2007""; publ. Aug 2	0030-8870								10125/22637
@@ -495,19 +495,19 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 920292-1	Santalum freycinetianum var. pyrularium	(Gray) L.Stemmermann	Pacific Sci.	34(1): 48 (1980 publ. 1981):	1981	0030-8870								10125/1541
 920293-1	Santalum paniculatum var. pilgeri	(Rock) L.Stemmermann	Pacific Sci.	34(1): 52 (1980 publ. 1981):	1981	0030-8870								10125/1541
 922969-1	Argyroxiphium sandwicense subsp. macrocephalum	(A.Gray) Meyrat	Pacific Sci.	37(3): 224	1984 [1983 publ. 1984]	0030-8870								10125/676
-933978-1	Phyllanthus smithianus	G.L.Webster	Pacific Sci.	40(1–4): 99	1987 [1986 publ. 1987]	0030-8870								10125/1008
-933979-1	Phyllanthus amicorum	G.L.Webster	Pacific Sci.	40(1–4): 100	1987 [1986 publ. 1987]	0030-8870								10125/1008
-944894-1	Cheirodendron forbesii	(Sherff) Lowry	Pacific Sci.	40(1–4): 80	1987 [1986 publ. 1987]	0030-8870								10125/1006
+933978-1	Phyllanthus smithianus	G.L.Webster	Pacific Sci.	40(1â€“4): 99	1987 [1986 publ. 1987]	0030-8870								10125/1008
+933979-1	Phyllanthus amicorum	G.L.Webster	Pacific Sci.	40(1â€“4): 100	1987 [1986 publ. 1987]	0030-8870								10125/1008
+944894-1	Cheirodendron forbesii	(Sherff) Lowry	Pacific Sci.	40(1â€“4): 80	1987 [1986 publ. 1987]	0030-8870								10125/1006
 948123-1	Cheirodendron bastardianum	(Decne.) Frodin	Pacific Sci.	44(3): 270 (1990):	1990	0030-8870								10125/1283
-954012-1	Cheirodendron platyphyllum subsp. kauaiense	(Krajina) Lowry	Pacific Sci.	40(1–4): 81	1987 [1986 publ. 1987]	0030-8870								10125/1006
-954013-1	Cheirodendron trigynum subsp. helleri	(Sherff) Lowry	Pacific Sci.	40(1–4): 81	1987 [1986 publ. 1987]	0030-8870								10125/1006
+954012-1	Cheirodendron platyphyllum subsp. kauaiense	(Krajina) Lowry	Pacific Sci.	40(1â€“4): 81	1987 [1986 publ. 1987]	0030-8870								10125/1006
+954013-1	Cheirodendron trigynum subsp. helleri	(Sherff) Lowry	Pacific Sci.	40(1â€“4): 81	1987 [1986 publ. 1987]	0030-8870								10125/1006
 957888-1	Portulaca molokiniensis	R.W.Hobdy	Pacific Sci.	41(1-4): 64	1988 [1987 publ. 1988]	0030-8870								10125/1020
-957912-1	Phyllanthus smithianus	G.L.Webster	Pacific Sci.	40(1–4): 99 (1986 publ. 1988)	1988	0030-8870								10125/1008
-957913-1	Phyllanthus amicorum	G.L.Webster	Pacific Sci.	40(1–4): 100 (1986 publ. 1988)	1988	0030-8870								10125/1008
-962047-1	Cheirodendron forbesii	(Sherff) Lowry	Pacific Sci.	40(1–4): 80 (1986 publ. 1988):	1988	0030-8870								10125/1006
+957912-1	Phyllanthus smithianus	G.L.Webster	Pacific Sci.	40(1â€“4): 99 (1986 publ. 1988)	1988	0030-8870								10125/1008
+957913-1	Phyllanthus amicorum	G.L.Webster	Pacific Sci.	40(1â€“4): 100 (1986 publ. 1988)	1988	0030-8870								10125/1008
+962047-1	Cheirodendron forbesii	(Sherff) Lowry	Pacific Sci.	40(1â€“4): 80 (1986 publ. 1988):	1988	0030-8870								10125/1006
 964912-1	Alectryon macrococcus var. auwahiensis	G.Linney	Pacific Sci.	41(1-4): 73	1988 [1987 publ. 1988]	0030-8870								10125/1021
-966186-1	Cheirodendron platyphyllum subsp. kauaiense	(Krajina) Lowry	Pacific Sci.	40(1–4): 81 (1986 publ. 1988):	1988	0030-8870								10125/1006
-966187-1	Cheirodendron trigynum subsp. helleri	(Sherff) Lowry	Pacific Sci.	40(1–4): 81 (1986 publ. 1988):	1988	0030-8870								10125/1006
+966186-1	Cheirodendron platyphyllum subsp. kauaiense	(Krajina) Lowry	Pacific Sci.	40(1â€“4): 81 (1986 publ. 1988):	1988	0030-8870								10125/1006
+966187-1	Cheirodendron trigynum subsp. helleri	(Sherff) Lowry	Pacific Sci.	40(1â€“4): 81 (1986 publ. 1988):	1988	0030-8870								10125/1006
 972321-1	Ardisia subgen. Scherantha	B.C.Stone	Pacific Sci.	47(3): 279 (1993).	1993	0030-8870								10125/1769
 972322-1	Ardisia stichantha	B.C.Stone	Pacific Sci.	47(3): 290 (1993)	1993	0030-8870								10125/1769
 996922-1	Lysimachia iniki	K.L.Marr	Pacific Sci.	51(3): 270 (1997)	1997	0030-8870								10125/3145

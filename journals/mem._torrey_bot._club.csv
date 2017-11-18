@@ -398,7 +398,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17409120-1	Ophioglossum thomasii	R.T.Clausen	Mem. Torrey Bot. Club	19(2): 152. 1938.	1938	0097-3807				43390603				
 174278-2	Oncidium rusbyi	Rolfe	Mem. Torrey Bot. Club	4: 265	1895	0097-3807				43390494				
 17434700-1	Cystopteris diaphana	(Bory) Blasdell	Mem. Torrey Bot. Club	21: 47. 1963.	1963	0097-3807				43390629				
-17434730-1	Cystopteris × laurentiana	(Weath.) Blasdell	Mem. Torrey Bot. Club	21: 51. 1963.	1963	0097-3807				43390629				
+17434730-1	Cystopteris Ã— laurentiana	(Weath.) Blasdell	Mem. Torrey Bot. Club	21: 51. 1963.	1963	0097-3807				43390629				
 17434760-1	Cystopteris protrusa	(Weath.) Blasdell	Mem. Torrey Bot. Club	21: 41. 1963.	1963	0097-3807				43390629				
 174417-1	Achyrocline venosa	Rusby	Mem. Torrey Bot. Club	iii. III. (1893) 57		0097-3807								
 174594-2	Ophioglossum lusitanicum subsp. californicum	(Prantl) R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 160	1938	0097-3807				43390603				
@@ -505,15 +505,15 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 183721-2	Parosela enneandra	Britton	Mem. Torrey Bot. Club	5: 196	1894	0097-3807								
 183780-2	Parosela lanata	Britton	Mem. Torrey Bot. Club	5: 196	1894	0097-3807								
 184009-2	Parsonsia petiolata	Rusby	Mem. Torrey Bot. Club	5: 231	1894	0097-3807								
-184133-2	Paspalum acutifolium	León	Mem. Torrey Bot. Club	16: 58	1920	0097-3807				43392170				
+184133-2	Paspalum acutifolium	LeÃ³n	Mem. Torrey Bot. Club	16: 58	1920	0097-3807				43392170				
 184254-1	Barnadesia venosa	Rusby	Mem. Torrey Bot. Club	vi. 69.		0097-3807				43390504				
-184288-2	Paspalum edmondii	León	Mem. Torrey Bot. Club	16: 58	1920	0097-3807				43392170				
+184288-2	Paspalum edmondii	LeÃ³n	Mem. Torrey Bot. Club	16: 58	1920	0097-3807				43392170				
 184537-2	Paspalum paspalodes	(Michx.) Scribn.	Mem. Torrey Bot. Club	5: 29	1894	0097-3807								
-184650-2	Paspalum rocanum	León	Mem. Torrey Bot. Club	16: 57	1920	0097-3807				43392170				
+184650-2	Paspalum rocanum	LeÃ³n	Mem. Torrey Bot. Club	16: 57	1920	0097-3807				43392170				
 185232-2	Passiflora urnifolia	Rusby	Mem. Torrey Bot. Club	6: 42	1896	0097-3807				43390504				
 185235-2	Passiflora venosa	Rusby	Mem. Torrey Bot. Club	6: 42	1896	0097-3807				43390504				
 185381-2	Patagonium grandidentatum	Rusby	Mem. Torrey Bot. Club	6: 24	1896	0097-3807				43390504				
-185431-2	Patagonium miraflorensis	(J.Rémy) Rusby	Mem. Torrey Bot. Club	3, no. 3: 21	1893	0097-3807				43390490				
+185431-2	Patagonium miraflorensis	(J.RÃ©my) Rusby	Mem. Torrey Bot. Club	3, no. 3: 21	1893	0097-3807				43390490				
 185598-2	Paullinia boliviana	Radlk.	Mem. Torrey Bot. Club	4: 206	1895	0097-3807				43390494				
 185785-2	Paurotis androsana	O.F.Cook	Mem. Torrey Bot. Club	12: 22	1902	0097-3807				43392149				
 185805-1	Borrichia cubana	Britton & S.F.Blake	Mem. Torrey Bot. Club	xvi. 116 (1920).		0097-3807				43392170				
@@ -1260,7 +1260,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 301285-1	Carex occidentalis	L.H.Bailey	Mem. Torrey Bot. Club	i. (1889) 14.		0097-3807				43392219				
 301477-1	Carex pedicellata	Britton	Mem. Torrey Bot. Club	v. (1894) 87		0097-3807								
 301528-1	Carex pertenuis	L.H.Bailey	Mem. Torrey Bot. Club	i. (1889) 9.		0097-3807				43392219				
-302063-1	Carex × saltuensis	L.H.Bailey	Mem. Torrey Bot. Club	i. (1889) 7.		0097-3807				43392219				
+302063-1	Carex Ã— saltuensis	L.H.Bailey	Mem. Torrey Bot. Club	i. (1889) 7.		0097-3807				43392219				
 302155-2	Bradburya lobata	Britton & P.Wilson	Mem. Torrey Bot. Club	16: 70	1920	0097-3807				43392170				
 302332-1	Carex specifixa	L.H.Bailey	Mem. Torrey Bot. Club	i. (1889) 21.		0097-3807				43392219				
 302366-1	Carex spreta	L.H.Bailey	Mem. Torrey Bot. Club	i. (1889) 6.		0097-3807				43392219				
@@ -1382,7 +1382,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 35346-2	Botrychium schaffneri var. pusillum	(Underw.) R.T.Clausen	Mem. Torrey Bot. Club	19(2): 42	1938	0097-3807								
 35347-2	Botrychium schaffneri var. typicum	R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 41	1938	0097-3807								
 35357-2	Botrychium simplex var. typicum	R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 70	1938	0097-3807								
-35379-2	Botrychium virginianum subsp. europaeum	(Ångstr.) R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 101	1938	0097-3807				43390603				
+35379-2	Botrychium virginianum subsp. europaeum	(Ã…ngstr.) R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 101	1938	0097-3807				43390603				
 353798-1	Phyllanthus dimorphus	Britton & P.Wilson	Mem. Torrey Bot. Club	xvi. 75 (1920).		0097-3807				43392170				
 35386-2	Botrychium virginianum subsp. meridionale	(Butters) R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 103	1938	0097-3807				43390603				
 35389-2	Botrychium virginianum subsp. typicum	R.T.Clausen	Mem. Torrey Bot. Club	19, no. 2: 98	1938	0097-3807				43390603				
@@ -1479,10 +1479,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 410326-1	Panicularia angustata	Scribn.	Mem. Torrey Bot. Club	v. (1894) 54		0097-3807								
 410354-1	Panicularia maritima	Scribn.	Mem. Torrey Bot. Club	v. (1894) 54		0097-3807								
 41100-2	Calathea pearcei	Rusby	Mem. Torrey Bot. Club	6: 123	1896	0097-3807				43390504				
-413798-1	Paspalum acutifolium	León	Mem. Torrey Bot. Club	xvi. 58 (1920).		0097-3807				43392170				
-414100-1	Paspalum edmondii	León	Mem. Torrey Bot. Club	16(2): 58	1920	0097-3807				43392170				
+413798-1	Paspalum acutifolium	LeÃ³n	Mem. Torrey Bot. Club	xvi. 58 (1920).		0097-3807				43392170				
+414100-1	Paspalum edmondii	LeÃ³n	Mem. Torrey Bot. Club	16(2): 58	1920	0097-3807				43392170				
 414523-1	Paspalum paspaloides	Scribn.	Mem. Torrey Bot. Club	v. (1894) 29		0097-3807								
-414667-1	Paspalum rocanum	León	Mem. Torrey Bot. Club	xvi. 57 (1920).		0097-3807				43392170				
+414667-1	Paspalum rocanum	LeÃ³n	Mem. Torrey Bot. Club	xvi. 57 (1920).		0097-3807				43392170				
 41757-2	Calceolaria bangii	Rusby	Mem. Torrey Bot. Club	3, no. 3: 6	1893	0097-3807				43390490				
 420732-1	Savastana alpina	Scribn.	Mem. Torrey Bot. Club	v. (1894) 34		0097-3807								
 420739-1	Savastana odorata	Scribn.	Mem. Torrey Bot. Club	v. (1894) 34		0097-3807								
@@ -1711,7 +1711,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 512384-1	Parosela lanata	Britton	Mem. Torrey Bot. Club	v. (1894) 196		0097-3807								
 512548-1	Patagonia miraflorensis	Rusby	Mem. Torrey Bot. Club	iii. 3 (1893) 21		0097-3807								
 512639-1	Patagonium grandidentatum	Rusby	Mem. Torrey Bot. Club	vi. 24.		0097-3807				43390504				
-512679-1	Patagonium miraflorense	(J.Rémy) Rusby	Mem. Torrey Bot. Club	iii. No. 3, 21 (1893)		0097-3807				43390490				
+512679-1	Patagonium miraflorense	(J.RÃ©my) Rusby	Mem. Torrey Bot. Club	iii. No. 3, 21 (1893)		0097-3807				43390490				
 513222-1	Phaca brachycarpa	Britton	Mem. Torrey Bot. Club	v. (1894) 200		0097-3807								
 513469-1	Phaca viridis	Britton	Mem. Torrey Bot. Club	v. (1894) 201		0097-3807								
 514091-1	Phaseolus savannarum	Britton & P.Wilson	Mem. Torrey Bot. Club	xvi. 70 (1920).		0097-3807				43392170				
@@ -2022,7 +2022,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 709458-1	Clematis addisonii	Britton ex Vail	Mem. Torrey Bot. Club	ii. (1890) 28.		0097-3807				43390484				
 709513-1	Clematis bangii	Rusby	Mem. Torrey Bot. Club	iii. 3. (1893) 3.		0097-3807								
 709601-1	Clematis cochabambensis	Rusby	Mem. Torrey Bot. Club	iii. 3. (1893) 3.		0097-3807								
-710186-1	Clematis × viornioides	Britton	Mem. Torrey Bot. Club	iii. (1890) 42.		0097-3807								
+710186-1	Clematis Ã— viornioides	Britton	Mem. Torrey Bot. Club	iii. (1890) 42.		0097-3807								
 71021-1	Schinus diversifolius	Rusby	Mem. Torrey Bot. Club	iv. (1890) 206.		0097-3807				43390494				
 710338-1	Cyrtorhyncha cymbalaria	Britton	Mem. Torrey Bot. Club	v. (1894) 161		0097-3807								
 714341-1	Thalictrum coriaceum	Small ex Small & Vail	Mem. Torrey Bot. Club	iv. (1893) 98		0097-3807				43390493				

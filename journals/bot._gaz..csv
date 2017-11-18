@@ -125,7 +125,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 107760-1	Betula eastwoodiae	Sarg.	Bot. Gaz.	67: 216	1919	0006-8071	10.1086/332441							
 107773-1	Betula fontinalis	Sarg.	Bot. Gaz.	31: 239, in obs.	1901	0006-8071	10.1086/328097							
 107801-2	Gaurella canescens	A.Nelson	Bot. Gaz.	47: 437	1909	0006-8071	10.1086/329904							
-107803-2	Gauropsis canescens	(Torr. & Frém.) Cockerell	Bot. Gaz.	30: 351	1900	0006-8071	10.1086/328053							
+107803-2	Gauropsis canescens	(Torr. & FrÃ©m.) Cockerell	Bot. Gaz.	30: 351	1900	0006-8071	10.1086/328053							
 107804-2	Gauropsis guttulata	(Geyer) Cockerell	Bot. Gaz.	30: 351	1900	0006-8071	10.1086/328053							
 1079241-2	Catalpa speciosa	(Warder) Engelm.	Bot. Gaz.	5: 1	1880	0006-8071	10.1086/325315							
 1079470-2	Caesalpinia viscosa	(Hook. & Arn.) Fisher	Bot. Gaz.	18(4): 123	1893 [Apr 1893]	0006-8071	10.1086/326914							
@@ -1626,8 +1626,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 201776-1	Diplostephium paniculatum	Donn.Sm.	Bot. Gaz.	23: 8	1897	0006-8071	10.1086/327456							
 20186-2	Arrabidaea chica var. viscida	Donn.Sm.	Bot. Gaz.	20: 7	1895	0006-8071	10.1086/327136							
 20208-2	Arrabidaea dichasia	Donn.Sm.	Bot. Gaz.	20: 6	1895	0006-8071	10.1086/327136							
-202183-1	Dubautia × fallax	Sherff	Bot. Gaz.	96: 150	1934	0006-8071	10.1086/334450							
-202185-1	Dubautia × fucosa	Sherff	Bot. Gaz.	96: 149	1934	0006-8071	10.1086/334450							
+202183-1	Dubautia Ã— fallax	Sherff	Bot. Gaz.	96: 150	1934	0006-8071	10.1086/334450							
+202185-1	Dubautia Ã— fucosa	Sherff	Bot. Gaz.	96: 149	1934	0006-8071	10.1086/334450							
 202191-2	Pleuropetalum tucurriquense	Donn.Sm.	Bot. Gaz.	61: 387	1916	0006-8071	10.1086/331793							
 202291-1	Dyssodia fusca	A.Nelson	Bot. Gaz.	47: 436	1909	0006-8071	10.1086/329904							
 203096-1	Encelia actoni	Elmer	Bot. Gaz.	39: 47	1905	0006-8071	10.1086/328588							
@@ -2005,7 +2005,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 231000-1	Lipochaeta intermedia	O.Deg. & Sherff	Bot. Gaz.	95: 102	1933	0006-8071	10.1086/334367							
 231001-1	Lipochaeta kahoolawensis	Sherff	Bot. Gaz.	95: 98	1933	0006-8071	10.1086/334367							
 231018-1	Lipochaeta perdita	Sherff	Bot. Gaz.	95: 99	1933	0006-8071	10.1086/334367							
-231020-1	Lipochaeta × procumbens	O.Deg. & Sherff	Bot. Gaz.	95: 94	1933	0006-8071	10.1086/334367							
+231020-1	Lipochaeta Ã— procumbens	O.Deg. & Sherff	Bot. Gaz.	95: 94	1933	0006-8071	10.1086/334367							
 231021-1	Lipochaeta profusa	Sherff	Bot. Gaz.	95: 95	1933	0006-8071	10.1086/334367							
 231023-1	Lipochaeta rockii	Sherff	Bot. Gaz.	95: 100	1933	0006-8071	10.1086/334367							
 231032-1	Lipochaeta tenuis	O.Deg. & Sherff	Bot. Gaz.	95: 102	1933	0006-8071	10.1086/334367							
@@ -2138,11 +2138,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 241068-1	Pyrrocoma kennedyi	A.Nelson	Bot. Gaz.	37: 265	1904	0006-8071	10.1086/328477							
 241135-1	Railliardia coriacea	Sherff	Bot. Gaz.	95: 80	1933	0006-8071	10.1086/334367							
 241136-1	Railliardia demissifolia	Sherff	Bot. Gaz.	95: 78	1933	0006-8071	10.1086/334367							
-241137-1	Railliardia × dolosa	O.Deg. & Sherff	Bot. Gaz.	96: 152	1934	0006-8071	10.1086/334450							
+241137-1	Railliardia Ã— dolosa	O.Deg. & Sherff	Bot. Gaz.	96: 152	1934	0006-8071	10.1086/334450							
 241139-2	Spathacanthus donnell-smithianus	Lindau	Bot. Gaz.	20: 293	1895	0006-8071	10.1086/327209							
 241147-1	Railliardia reticulata	Sherff	Bot. Gaz.	95: 78	1933	0006-8071	10.1086/334367							
 241148-1	Railliardia rockii	Sherff	Bot. Gaz.	95: 79	1933	0006-8071	10.1086/334367							
-241155-1	Railliardia × vafra	O.Deg. & Sherff	Bot. Gaz.	96: 153	1934	0006-8071	10.1086/334450							
+241155-1	Railliardia Ã— vafra	O.Deg. & Sherff	Bot. Gaz.	96: 153	1934	0006-8071	10.1086/334450							
 24119-2	Aster siskiyouensis	A.Nelson & J.F.Macbr.	Bot. Gaz.	56: 477	1913 (x)	0006-8071	10.1086/331195							
 241309-2	Spergularia bracteata	A.Nelson & J.F.Macbr.	Bot. Gaz.	61: 30	1916	0006-8071	10.1086/331713							
 241744-2	Sphaeralcea martii	Cockerell	Bot. Gaz.	32: 60	1901	0006-8071	10.1086/328135							
@@ -2631,13 +2631,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 287198-2	Zexmenia guatemalensis	Donn.Sm.	Bot. Gaz.	13: 18	1888	0006-8071	10.1086/326218							
 28754-2	Baileya pleniradiata var. perennis	A.Nelson	Bot. Gaz.	47: 431	1909	0006-8071	10.1086/329904							
 287976-1	Parrya huddelliana	A.Nelson	Bot. Gaz.	54: 139	1912	0006-8071	10.1086/330885							
-288049-2	Fraxinus × biltmoreana	Beadle	Bot. Gaz.	25: 358	1898	0006-8071	10.1086/327689							
+288049-2	Fraxinus Ã— biltmoreana	Beadle	Bot. Gaz.	25: 358	1898	0006-8071	10.1086/327689							
 288152-2	Oryzopsis caduca	Beal	Bot. Gaz.	15: 111	1890	0006-8071	10.1086/326524							
 288420-2	Thaspium aureum var. trifoliatum	(L.) J.M.Coult. & Rose	Bot. Gaz.	12(6): 136	1887 [Jun 1887]	0006-8071	10.1086/326132							
 28843-2	Balsamorhiza rosea	A.Nelson & J.F.Macbr.	Bot. Gaz.	56: 478	1913	0006-8071	10.1086/331195							
 288696-1	Rorippa terrestris	A.Nelson	Bot. Gaz.	52: 264	1911	0006-8071	10.1086/330635							
 289026-2	Ilex beadlei	Ashe	Bot. Gaz.	24: 377	1897	0006-8071	10.1086/327602							
-289160-2	Populus × parryi	Sarg.	Bot. Gaz.	67: 214	1919	0006-8071	10.1086/332441							
+289160-2	Populus Ã— parryi	Sarg.	Bot. Gaz.	67: 214	1919	0006-8071	10.1086/332441							
 289334-2	Tonestus	A.Nelson	Bot. Gaz.	37: 262	1904 [Apr 1904]	0006-8071	10.1086/328477							
 289486-1	Sisymbrium leptophyllum	A.Nelson & J.F.Macbr.	Bot. Gaz.	56: 475	1913	0006-8071	10.1086/331195							
 289534-1	Sisymbrium microtites	B.L.Rob.	Bot. Gaz.	30: 59	1900	0006-8071	10.1086/328012							
@@ -2653,7 +2653,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 289832-1	Sisymbrium umbrosum	B.L.Rob.	Bot. Gaz.	30: 60	1900	0006-8071	10.1086/328012							
 289863-1	Sisymbrium wootonii	B.L.Rob.	Bot. Gaz.	30: 59	1900	0006-8071	10.1086/328012							
 289872-2	Aster perelegans	A.Nelson & J.F.Macbr.	Bot. Gaz.	56: 477	1913	0006-8071	10.1086/331195							
-289945-2	Salix × hudsoniensis	C.K.Schneid.	Bot. Gaz.	65: 57	1919	0006-8071	10.1086/332188							
+289945-2	Salix Ã— hudsoniensis	C.K.Schneid.	Bot. Gaz.	65: 57	1919	0006-8071	10.1086/332188							
 290013-1	Stanleya rara	A.Nelson	Bot. Gaz.	52: 262	1911	0006-8071	10.1086/330635							
 290112-2	Eriogonum fasciculifolium	in A.Nelson	Bot. Gaz.	54: 407	1912	0006-8071	10.1086/330932							
 290131-2	Eriogonum crassifolium var. tectum	A.Nelson	Bot. Gaz.	34: 23	1902	0006-8071	10.1086/328257							
@@ -2665,7 +2665,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 290845-2	Mirabilis limosa	A.Nelson	Bot. Gaz.	47(6): 426	1909 [21 Jun 1909]	0006-8071	10.1086/329904							
 290905-2	Pringleochloa	Scribn.	Bot. Gaz.	21: 137	1896	0006-8071	10.1086/327314							
 290910-2	Prosthecidiscus	Donn.Sm.	Bot. Gaz.	25: 149	1898	0006-8071	10.1086/327650							
-291085-2	Verbena × wingei	Moldenke	Bot. Gaz.	106: 64	1944	0006-8071	10.1086/335269							
+291085-2	Verbena Ã— wingei	Moldenke	Bot. Gaz.	106: 64	1944	0006-8071	10.1086/335269							
 291289-2	Lilium masseyi	Hyams	Bot. Gaz.	28: 431	1899	0006-8071	10.1086/327938							
 291307-1	Anguria diversifolia	Cogn. ex Donn.Sm.	Bot. Gaz.	16: 20	1891	0006-8071	10.1086/326606							
 291341-1	Anguria oblongifolia	Cogn. ex Donn.Sm.	Bot. Gaz.	16: 9	1891	0006-8071	10.1086/326605							
@@ -2703,17 +2703,17 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 293167-2	Bidens pilosa f. dondiifolia	Sherff	Bot. Gaz.	97: 607	1936	0006-8071	10.1086/334586							
 293219-1	Melothria donnell-smithii	Cogn. ex Donn.Sm.	Bot. Gaz.	16: 9	1891	0006-8071	10.1086/326605							
 293374-1	Microsechium compositum	Donn.Sm.	Bot. Gaz.	35: 2	1903	0006-8071	10.1086/328312							
-293704-2	Quercus × andrewsii	Sarg.	Bot. Gaz.	65: 455	1918	0006-8071	10.1086/332259							
-293705-2	Quercus × beaumontiana	Sarg.	Bot. Gaz.	65: 451	1918	0006-8071	10.1086/332259							
-293706-2	Quercus × bushii	Sarg.	Bot. Gaz.	65: 453	1918	0006-8071	10.1086/332259							
-293707-2	Quercus × cocksii	Sarg.	Bot. Gaz.	65: 459	1918	0006-8071	10.1086/332259							
-293708-2	Quercus × comptonae	Sarg.	Bot. Gaz.	65: 456	1918	0006-8071	10.1086/332259							
-293709-2	Quercus × guadalupensis	Sarg.	Bot. Gaz.	65: 454	1918	0006-8071	10.1086/332259							
-293710-2	Quercus × harbisonii	Sarg.	Bot. Gaz.	65: 458	1918	0006-8071	10.1086/332259							
-293711-2	Quercus × hastingsii	Sarg.	Bot. Gaz.	65: 450	1918	0006-8071	10.1086/332259							
-293712-2	Quercus × jolonensis	Sarg.	Bot. Gaz.	65: 456	1918	0006-8071	10.1086/332259							
-293713-2	Quercus × lowellii	Sarg.	Bot. Gaz.	65: 459	1918	0006-8071	10.1086/332259							
-293714-2	Quercus × oviedoensis	Sarg.	Bot. Gaz.	65: 459	1918	0006-8071	10.1086/332259							
+293704-2	Quercus Ã— andrewsii	Sarg.	Bot. Gaz.	65: 455	1918	0006-8071	10.1086/332259							
+293705-2	Quercus Ã— beaumontiana	Sarg.	Bot. Gaz.	65: 451	1918	0006-8071	10.1086/332259							
+293706-2	Quercus Ã— bushii	Sarg.	Bot. Gaz.	65: 453	1918	0006-8071	10.1086/332259							
+293707-2	Quercus Ã— cocksii	Sarg.	Bot. Gaz.	65: 459	1918	0006-8071	10.1086/332259							
+293708-2	Quercus Ã— comptonae	Sarg.	Bot. Gaz.	65: 456	1918	0006-8071	10.1086/332259							
+293709-2	Quercus Ã— guadalupensis	Sarg.	Bot. Gaz.	65: 454	1918	0006-8071	10.1086/332259							
+293710-2	Quercus Ã— harbisonii	Sarg.	Bot. Gaz.	65: 458	1918	0006-8071	10.1086/332259							
+293711-2	Quercus Ã— hastingsii	Sarg.	Bot. Gaz.	65: 450	1918	0006-8071	10.1086/332259							
+293712-2	Quercus Ã— jolonensis	Sarg.	Bot. Gaz.	65: 456	1918	0006-8071	10.1086/332259							
+293713-2	Quercus Ã— lowellii	Sarg.	Bot. Gaz.	65: 459	1918	0006-8071	10.1086/332259							
+293714-2	Quercus Ã— oviedoensis	Sarg.	Bot. Gaz.	65: 459	1918	0006-8071	10.1086/332259							
 293715-2	Quercus subfalcata var. microcarpa	Sarg.	Bot. Gaz.	65: 454	1918	0006-8071	10.1086/332259							
 293757-1	Pittiera trilobata	Cogn. ex Donn.Sm.	Bot. Gaz.	20: 239	1895	0006-8071	10.1086/327196							
 293813-2	Carex flava var. recterostrata	L.H.Bailey	Bot. Gaz.	13: 84	1888	0006-8071	10.1086/326250							
@@ -3725,8 +3725,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 51752-2	Centropogon porphyrodontus	Donn.Sm.	Bot. Gaz.	44: 114	1907	0006-8071	10.1086/329294							
 51772-1	Justicia tuerckheimiana	Donn.Sm.	Bot. Gaz.	48: 300	1909	0006-8071	10.1086/330014							
 51914-2	Centrostegia cryptantha	(Curran) Goodd.	Bot. Gaz.	37: 53	1904	0006-8071	10.1086/328443							
-51986-2	Cephaëlis glomerulata	Donn.Sm.	Bot. Gaz.	16: 12, pl. 1	1891	0006-8071	10.1086/326605							
-52066-2	Cephaëlis tetragona	Donn.Sm.	Bot. Gaz.	61: 376	1916	0006-8071	10.1086/331793							
+51986-2	CephaÃ«lis glomerulata	Donn.Sm.	Bot. Gaz.	16: 12, pl. 1	1891	0006-8071	10.1086/326605							
+52066-2	CephaÃ«lis tetragona	Donn.Sm.	Bot. Gaz.	61: 376	1916	0006-8071	10.1086/331793							
 520881-1	Tephrosia rugelii	Shuttlew. ex B.L.Rob.	Bot. Gaz.	38: 197	1904	0006-8071	10.1086/328540							
 520918-1	Tephrosia smallii	B.L.Rob.	Bot. Gaz.	28: 198	1899	0006-8071	10.1086/327894							
 521158-1	Thermopsis arenosa	A.Nelson	Bot. Gaz.	25: 276	1898	0006-8071	10.1086/327672							
@@ -4220,7 +4220,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 66785-2	Cosmos peucedanifolius var. tiraquensis	Sherff	Bot. Gaz.	88: 307	1929	0006-8071	10.1086/333999							
 66889-2	Costus podocephalus	Donn.Sm.	Bot. Gaz.	23: 250	1897	0006-8071	10.1086/327506							
 66905-2	Costus sanguineus	Donn.Sm.	Bot. Gaz.	31: 122	1901	0006-8071	10.1086/328081							
-66916-2	Costus splendens	Donn.Sm. & Türckh.	Bot. Gaz.	33: 260	1902	0006-8071	10.1086/328223							
+66916-2	Costus splendens	Donn.Sm. & TÃ¼rckh.	Bot. Gaz.	33: 260	1902	0006-8071	10.1086/328223							
 669930-1	Serenoa arborescens	Sargent	Bot. Gaz.	27: 90	1899	0006-8071	10.1086/327795							
 670121-1	Thrinax acuminata	Griseb. & Wendl. ex Sargent	Bot. Gaz.	27: 89	1899	0006-8071	10.1086/327795							
 670138-1	Thrinax floridana	Sargent	Bot. Gaz.	27: 84	1899	0006-8071	10.1086/327795							
@@ -4687,8 +4687,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 743537-1	Appunia guatemalensis	Donn.Sm.	Bot. Gaz.	48: 294	1909	0006-8071	10.1086/330014							
 744338-1	Basanacantha grandifolia	Donn.Sm.	Bot. Gaz.	55: 436	1913	0006-8071	10.1086/331085							
 745028-1	Bouvardia deamii	Donn.Sm.	Bot. Gaz.	49: 455	1910	0006-8071	10.1086/330242							
-746019-1	Cephaëlis glomerulata	Donn.Sm.	Bot. Gaz.	16: 12, t. 1	1891	0006-8071	10.1086/326605							
-746171-1	Cephaëlis tetragona	Donn.Sm.	Bot. Gaz.	61: 376	1916	0006-8071	10.1086/331793							
+746019-1	CephaÃ«lis glomerulata	Donn.Sm.	Bot. Gaz.	16: 12, t. 1	1891	0006-8071	10.1086/326605							
+746171-1	CephaÃ«lis tetragona	Donn.Sm.	Bot. Gaz.	61: 376	1916	0006-8071	10.1086/331793							
 746546-1	Chomelia brachypoda	Donn.Sm.	Bot. Gaz.	47: 255	1909	0006-8071	10.1086/329872							
 746609-1	Chomelia microloba	Donn.Sm.	Bot. Gaz.	31: 114	1901	0006-8071	10.1086/328081							
 7468-2	Agropyron spicatum var. pubescens	Elmer	Bot. Gaz.	36: 52	1903	0006-8071	10.1086/328375							
@@ -5163,7 +5163,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 86522-2	Eatonia dudleyi	Vasey	Bot. Gaz.	11: 116	1886	0006-8071	10.1086/325946							
 86523-2	Eatonia filiformis	Vasey	Bot. Gaz.	11: 117	1886	0006-8071	10.1086/325947							
 865543-1	Verbena variabilis	Moldenke	Bot. Gaz.	106: 164	1944	0006-8071	10.1086/335282							
-865555-1	Verbena × wingei	Moldenke	Bot. Gaz.	106: 164	1944	0006-8071	10.1086/335282							
+865555-1	Verbena Ã— wingei	Moldenke	Bot. Gaz.	106: 164	1944	0006-8071	10.1086/335282							
 866911-1	Ionidium thiemei	Donn.Sm.	Bot. Gaz.	40: 1	1905	0006-8071	10.1086/328643							
 867788-1	Viola brittoniana	Pollard	Bot. Gaz.	26: 332	1898	0006-8071	10.1086/327758							
 867903-1	Viola clarkae	A.Nelson	Bot. Gaz.	54: 412	1912	0006-8071	10.1086/330932							

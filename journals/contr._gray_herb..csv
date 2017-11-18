@@ -187,7 +187,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 101655-2	Euphorbia hirta var. typica	L.C.Wheeler	Contr. Gray Herb.	127: 68	1939	0195-6094				41764101				
 101684-2	Euphorbia innocua	L.C.Wheeler	Contr. Gray Herb.	127: 62, tab. 3, D	1939	0195-6094				41764101				
 101838-2	Euphorbia peruviana	L.C.Wheeler	Contr. Gray Herb.	127: 59, tab. 3A	1939	0195-6094				41764101				
-1019345-2	Tillandsia tetrantha var. densiflora	(André) L.B.Sm.	Contr. Gray Herb.	89: 15	1930	0195-6094				41764407				
+1019345-2	Tillandsia tetrantha var. densiflora	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	89: 15	1930	0195-6094				41764407				
 102019-2	Euphorbia succedanea	L.C.Wheeler	Contr. Gray Herb.	127: 63, tab. 4, A	1939	0195-6094				41764101				
 102044-2	Euphorbia trichocardia	L.B.Sm.	Contr. Gray Herb.	114: 12	1936	0195-6094				41764234				
 102076-2	Euphorbia villifera var. crepuscula	L.C.Wheeler	Contr. Gray Herb.	127: 61, tab. 3, C	1939	0195-6094				41764101				
@@ -207,12 +207,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 102747-1	Vincetoxicum dasystephanum	S.F.Blake	Contr. Gray Herb.	52: 84	1917	0195-6094				41764424				
 103306-2	Fagonia villosa	D.M.Porter	Contr. Gray Herb.	192: 120	1963	0195-6094				41764432				
 10340-1	Oxycarpha	S.F.Blake	Contr. Gray Herb.	53: 52	1918	0195-6094				41764336				
-10374-2	Alternanthera junciflora	(J.Rémy) I.M.Johnst.	Contr. Gray Herb.	85: 32	1929	0195-6094				41764064				
+10374-2	Alternanthera junciflora	(J.RÃ©my) I.M.Johnst.	Contr. Gray Herb.	85: 32	1929	0195-6094				41764064				
 10412-2	Alternanthera nesiotes	I.M.Johnst.	Contr. Gray Herb.	68: 83	1923	0195-6094				41756109				
 104122-1	Begonia acutiloba	Liebm., L.B.Sm. & B.G.Schub.	Contr. Gray Herb.	161: 28, descr. emend.	1946	0195-6094				41764565				
 104222-1	Begonia asteroides	L.B.Sm. & B.G.Schub.	Contr. Gray Herb.	127: 30	1939	0195-6094				41764099				
 1043418-2	Muehlenbeckia hastulata	(Sm.) I.M.Johnst.	Contr. Gray Herb.	81: 88	1928	0195-6094				41764050				
-1043897-2	Tillandsia tetrantha var. miniata	(André) L.B.Sm.	Contr. Gray Herb.	89: 15	1930	0195-6094				41764407				
+1043897-2	Tillandsia tetrantha var. miniata	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	89: 15	1930	0195-6094				41764407				
 104395-1	Begonia cebadillensis	Houghton ex L.B.Sm. & B.G.Schub.	Contr. Gray Herb.	161: 26	1946	0195-6094								
 104449-1	Begonia confusa	L.B.Sm. & B.G.Schub.	Contr. Gray Herb.	161: 27	1946	0195-6094				41764565				
 104513-1	Begonia cylindrata	L.B.Sm. & B.G.Schub.	Contr. Gray Herb.	127: 25	1939	0195-6094				41764099				
@@ -548,7 +548,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 117120-2	Halliophytum hallii	I.M.Johnst.	Contr. Gray Herb.	68: 88	1923	0195-6094				41756109				
 117134-1	Heliotropium philippianum	I.M.Johnst.	Contr. Gray Herb.	81: 36	1928	0195-6094				41764048				
 117149-1	Heliotropium polyanthellum	I.M.Johnst.	Contr. Gray Herb.	81: 56	1928	0195-6094				41764048				
-117163-2	Hamatocactus bicolor	(Terán & Berland.) I.M.Johnst.	Contr. Gray Herb.	70: 88	1924	0195-6094				41764017				
+117163-2	Hamatocactus bicolor	(TerÃ¡n & Berland.) I.M.Johnst.	Contr. Gray Herb.	70: 88	1924	0195-6094				41764017				
 117166-1	Heliotropium purdiei	I.M.Johnst.	Contr. Gray Herb.	81: 60	1928	0195-6094				41764048				
 117194-1	Heliotropium rufipilum	I.M.Johnst.	Contr. Gray Herb.	81: 44	1928	0195-6094				41764048				
 117209-2	Hamelia purpurascens	S.F.Blake	Contr. Gray Herb.	52: 105	1917	0195-6094				41764424				
@@ -578,7 +578,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 117924-1	Lithodora consobrina	(Pomel) I.M.Johnst.	Contr. Gray Herb.	73: 56	1924	0195-6094				41764030				
 117925-1	Lithodora diffusa	(Lag.) I.M.Johnst.	Contr. Gray Herb.	73: 56	1924	0195-6094				41764030				
 117935-1	Lithodora rosmarinifolia	(Ten.) I.M.Johnst.	Contr. Gray Herb.	73: 56	1924	0195-6094				41764030				
-117936-1	Lithodora zahnii	(Heldr. ex Halácsy) I.M.Johnst.	Contr. Gray Herb.	73: 56	1924	0195-6094				41764030				
+117936-1	Lithodora zahnii	(Heldr. ex HalÃ¡csy) I.M.Johnst.	Contr. Gray Herb.	73: 56	1924	0195-6094				41764030				
 117948-2	Harpagonella palmeri var. arizonica	I.M.Johnst.	Contr. Gray Herb.	73: 75	1924	0195-6094				41764030				
 117979-1	Lithospermum calycosum	I.M.Johnst.	Contr. Gray Herb.	70: 30	1924	0195-6094				41764016				
 117986-1	Lithospermum chersinum	J.F.Macbr.	Contr. Gray Herb.	49: 22	1917	0195-6094				41763934				
@@ -769,7 +769,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 121842-1	Aechmea subpetiolata	L.B.Sm.	Contr. Gray Herb.	124: 8	1939	0195-6094				41764447				
 121988-1	Araeococcus pectinatus	L.B.Sm.	Contr. Gray Herb.	95: 41	1931	0195-6094				41764134				
 122002-1	Aregelia eleutheropetala	(Ule) Mez ex L.B.Sm.	Contr. Gray Herb.	98: 5	1932	0195-6094				41764195				
-122025-1	Bakerantha tillandsioides	(André) L.B.Sm.	Contr. Gray Herb.	104: 72	1934	0195-6094				41764222				
+122025-1	Bakerantha tillandsioides	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	104: 72	1934	0195-6094				41764222				
 122062-1	Billbergia chlorantha	L.B.Sm.	Contr. Gray Herb.	154: 32	1945	0195-6094				41764542				
 122121-1	Billbergia leptopoda	L.B.Sm.	Contr. Gray Herb.	154: 33	1945	0195-6094				41764542				
 122131-1	Billbergia macrolepis	L.B.Sm.	Contr. Gray Herb.	114: 3	1936	0195-6094				41764233				
@@ -798,9 +798,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 122928-1	Guzmania altsonii	L.B.Sm.	Contr. Gray Herb.	89: 7	1930	0195-6094				41764407				
 122928-2	Hippocratea subintegra	S.F.Blake	Contr. Gray Herb.	52: 73	1917	0195-6094				41764424				
 122933-1	Guzmania apiculata	L.B.Sm.	Contr. Gray Herb.	98: 25	1932	0195-6094				41764195				
-122953-1	Guzmania caricifolia	(André) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
-122981-1	Guzmania dissitiflora	(André) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
-123005-1	Guzmania graminifolia	(André) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
+122953-1	Guzmania caricifolia	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
+122981-1	Guzmania dissitiflora	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
+123005-1	Guzmania graminifolia	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
 123007-1	Guzmania guatemalensis	L.B.Sm.	Contr. Gray Herb.	117: 8	1937	0195-6094				41764168				
 123015-1	Guzmania kalbreyeri	(Baker) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
 123017-1	Guzmania killipiana	L.B.Sm.	Contr. Gray Herb.	98: 29	1932	0195-6094				41764195				
@@ -810,7 +810,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 123055-1	Guzmania pearcei	(Baker) L.B.Sm.	Contr. Gray Herb.	104: 74	1934	0195-6094				41764222				
 123056-1	Guzmania pennellii	L.B.Sm.	Contr. Gray Herb.	98: 30	1932	0195-6094				41764195				
 123081-1	Guzmania sneidernii	L.B.Sm.	Contr. Gray Herb.	117: 9	1937	0195-6094				41764168				
-123087-1	Guzmania sprucei	(André) L.B.Sm.	Contr. Gray Herb.	104: 75	1934	0195-6094				41764222				
+123087-1	Guzmania sprucei	(AndrÃ©) L.B.Sm.	Contr. Gray Herb.	104: 75	1934	0195-6094				41764222				
 123089-1	Guzmania stenostachya	L.B.Sm.	Contr. Gray Herb.	117: 9	1937	0195-6094				41764168				
 123096-1	Guzmania subcorymbosa	L.B.Sm.	Contr. Gray Herb.	117: 10	1937	0195-6094				41764168				
 123115-1	Guzmania wrightii	L.B.Sm.	Contr. Gray Herb.	117: 11	1937	0195-6094				41764168				
@@ -1132,11 +1132,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 157300-2	Menonvillea frigida	(Phil.) Rollins	Contr. Gray Herb.	177: 23	1955	0195-6094				41764626				
 157301-2	Menonvillea hirsuta	Rollins	Contr. Gray Herb.	177: 28	1955	0195-6094				41764626				
 157302-2	Menonvillea linearis var. filifolia	(Fisch. & C.A.Mey.) Rollins	Contr. Gray Herb.	177: 43	1955	0195-6094				41764626				
-157305-2	Menonvillea litoralis	(Barnéoud) Rollins	Contr. Gray Herb.	177: 55	1955	0195-6094				41764626				
+157305-2	Menonvillea litoralis	(BarnÃ©oud) Rollins	Contr. Gray Herb.	177: 55	1955	0195-6094				41764626				
 157306-2	Menonvillea longipes	Rollins	Contr. Gray Herb.	177: 29 (-30)	1955 [23 Dec 1955]	0195-6094				41764626				
 157307-2	Menonvillea macrocarpa	(I.M.Johnst.) Rollins	Contr. Gray Herb.	177: 12	1955	0195-6094				41764626				
 157308-2	Menonvillea minima	Rollins	Contr. Gray Herb.	177: 52	1955	0195-6094				41764626				
-157309-2	Menonvillea nordenskjoeldii	(Dusén) Rollins	Contr. Gray Herb.	177: 21	1955	0195-6094				41764626				
+157309-2	Menonvillea nordenskjoeldii	(DusÃ©n) Rollins	Contr. Gray Herb.	177: 21	1955	0195-6094				41764626				
 157311-2	Menonvillea orbiculata var. perplexa	Rollins	Contr. Gray Herb.	177: 47	1955	0195-6094				41764626				
 157313-2	Menonvillea parviflora var. aptera	I.M.Johnst.	Contr. Gray Herb.	85: 44	1929	0195-6094				41764064				
 157316-2	Menonvillea perstylosa	Rollins	Contr. Gray Herb.	177: 34	1955	0195-6094				41764626				
@@ -1456,7 +1456,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 169212-2	Nephelea purpurascens	(Sodiro) R.M.Tryon	Contr. Gray Herb.	200: 40	1970	0195-6094				41764693				
 169213-2	Nephelea setosa	(Kaulf.) R.M.Tryon	Contr. Gray Herb.	200: 40	1970	0195-6094				41764693				
 169214-2	Nephelea sternbergii	(Sternb.) R.M.Tryon	Contr. Gray Herb.	200: 40	1970	0195-6094				41764693				
-169215-2	Nephelea sternbergii var. acanthomelas	(Fée) Gastony	Contr. Gray Herb.	203: 135	1973	0195-6094				41764708				
+169215-2	Nephelea sternbergii var. acanthomelas	(FÃ©e) Gastony	Contr. Gray Herb.	203: 135	1973	0195-6094				41764708				
 169218-2	Nephelea tenerifrons	(Christ) R.M.Tryon	Contr. Gray Herb.	200: 40	1970	0195-6094				41764693				
 169219-2	Nephelea tryoniana	Gastony	Contr. Gray Herb.	203: 118, figs	1973	0195-6094				41764708				
 169220-2	Nephelea tussacii	(Desv.) R.M.Tryon	Contr. Gray Herb.	200: 40	1970	0195-6094				41764693				
@@ -1541,7 +1541,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17408510-1	Notholaena weatherbiana	Tryon	Contr. Gray Herb.	179: 60	1956	0195-6094				41764632				
 17409780-1	Pellaea crenata	Tryon	Contr. Gray Herb.	143: 68, t. 3 (E: 1-7)	1942	0195-6094				41764757				
 17409810-1	Pellaea ovata	(Desv.) Weath.	Contr. Gray Herb.	114: 34	1936	0195-6094				41764236				
-17410750-1	Pityrogramma schaffneri	(Fée) Weath.	Contr. Gray Herb.	114: 25	1936	0195-6094				41764236				
+17410750-1	Pityrogramma schaffneri	(FÃ©e) Weath.	Contr. Gray Herb.	114: 25	1936	0195-6094				41764236				
 17411880-1	Polypodium assurgens	Maxon	Contr. Gray Herb.	165: 73	1947	0195-6094				41764778				
 17411990-1	Polypodium buesii	Maxon	Contr. Gray Herb.	165: 72	1947	0195-6094				41764778				
 17412520-1	Polypodium militare	Maxon	Contr. Gray Herb.	165: 71, t. 6	1947	0195-6094				41764778				
@@ -1592,7 +1592,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17432510-1	Cnemidaria uleana	(A.Samp.) R.M.Tryon	Contr. Gray Herb.	200: 52	1970	0195-6094				41764693				
 17433340-1	Cyathea decorata	(Maxon) R.M.Tryon	Contr. Gray Herb.	200: 50	1970	0195-6094				41764693				
 17436050-1	Doryopteris alleniae	R.M.Tryon	Contr. Gray Herb.	191: 91, f. 1-4	1962	0195-6094				41764432				
-17438120-1	Eriosorus biardii	(Fée) A.F.Tryon	Contr. Gray Herb.	200: 166, f. 36	1970	0195-6094				41764694				
+17438120-1	Eriosorus biardii	(FÃ©e) A.F.Tryon	Contr. Gray Herb.	200: 166, f. 36	1970	0195-6094				41764694				
 17438150-1	Eriosorus ewanii	A.F.Tryon	Contr. Gray Herb.	200: 165, f. 35	1970	0195-6094				41764694				
 17438160-1	Eriosorus glaberrimus	(Maxon) Scamman	Contr. Gray Herb.	191: 85	1962	0195-6094				41764432				
 17438170-1	Eriosorus hirsutulus	(Mett.) A.F.Tryon	Contr. Gray Herb.	200: 137, f. 25	1970	0195-6094				41764694				
@@ -1679,13 +1679,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17462930-1	Trichipteris crassa	(H.Karst.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17462950-1	Trichipteris decomposita	(H.Karst.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17462960-1	Trichipteris demissa	(C.V.Morton) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
-17462970-1	Trichipteris dicromatolepis	(Fée) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
+17462970-1	Trichipteris dicromatolepis	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17462980-1	Trichipteris eatonii	(Jenman) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 17462990-1	Trichipteris estelae	(Riba) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 17463000-1	Trichipteris floribunda	(Baker) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17463010-1	Trichipteris frigida	(H.Karst.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17463020-1	Trichipteris gardneri	(Hook.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
-17463030-1	Trichipteris glaziovii	(Fée) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
+17463030-1	Trichipteris glaziovii	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17463040-1	Trichipteris gleasonii	(Maxon) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17463050-1	Trichipteris hirsuta	(C.Presl) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 17463060-1	Trichipteris hodgeana	(Proctor) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
@@ -1716,7 +1716,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17463320-1	Trichipteris procera	(Willd.) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
 17463330-1	Trichipteris pubescens	(Baker) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
 17463340-1	Trichipteris pungens	(Willd.) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
-17463350-1	Trichipteris rufa	(Fée) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
+17463350-1	Trichipteris rufa	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
 17463360-1	Trichipteris sagittifolia	(Hook.) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 17463370-1	Trichipteris scabriuscula	(Maxon) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 17463380-1	Trichipteris schiedeana	(C.Presl) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
@@ -2031,7 +2031,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 178720-2	Oxycarpha suaedifolia	S.F.Blake	Contr. Gray Herb.	53: 52, pl. 1	1918	0195-6094				41764336				
 179216-2	Oxylobus glanduliferus f. coloratus	B.L.Rob.	Contr. Gray Herb.	80: 7 (-8)	1928 [26 Jun 1928]	0195-6094				41764046				
 179217-2	Oxylobus glanduliferus f. typicus	B.L.Rob.	Contr. Gray Herb.	80: 7	1928 [26 Jun 1928]	0195-6094				41764046				
-179759-2	Pachecoa prismatica	(Sessé & Moc.) Standl. & B.G.Schub.	Contr. Gray Herb.	161: 24	1946	0195-6094				41764564				
+179759-2	Pachecoa prismatica	(SessÃ© & Moc.) Standl. & B.G.Schub.	Contr. Gray Herb.	161: 24	1946	0195-6094				41764564				
 179843-2	Pachylaena rosea	I.M.Johnst.	Contr. Gray Herb.	85: 171	1929	0195-6094				41764064				
 179873-2	Pachyphyllum cardenasii	L.B.Sm. & S.K.Harris	Contr. Gray Herb.	114: 12, pl. 2, figs. 3, 5	1936	0195-6094				41764234				
 179963-2	Pachystroma longifolium	I.M.Johnst.	Contr. Gray Herb.	68: 90	1923	0195-6094				41756109				
@@ -2223,7 +2223,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 192233-2	Phaiophleps alba	(Kraenzl.) R.C.Foster	Contr. Gray Herb.	127: 43	1939	0195-6094				41764100				
 192234-2	Phaiophleps biflora	(Thunb.) R.C.Foster	Contr. Gray Herb.	127: 43	1939	0195-6094				41764100				
 192236-2	Phaiophleps lainezii	(Hicken) R.C.Foster	Contr. Gray Herb.	127: 43	1939	0195-6094				41764100				
-192237-2	Phaiophleps lyckholmii	(Dusén) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
+192237-2	Phaiophleps lyckholmii	(DusÃ©n) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
 192238-2	Phaiophleps nigricans	(Phil.) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
 192239-2	Phaiophleps patagonica	(Speg.) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
 193732-2	Phoebe angustata	S.F.Blake	Contr. Gray Herb.	52: 63	1917	0195-6094				41764424				
@@ -2664,7 +2664,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 207437-2	Polypodium polypodioides var. aciculare	Weath.	Contr. Gray Herb.	124: 33	1939	0195-6094				41764450				
 207438-2	Polypodium polypodioides var. burchellii	(Baker) Weath.	Contr. Gray Herb.	124: 29	1939	0195-6094				41764450				
 207439-2	Polypodium polypodioides var. michauxianum	Weath.	Contr. Gray Herb.	124: 31	1939	0195-6094				41764450				
-207442-2	Polypodium polypodioides var. minus	(Fée) Weath.	Contr. Gray Herb.	124: 31	1939	0195-6094				41764450				
+207442-2	Polypodium polypodioides var. minus	(FÃ©e) Weath.	Contr. Gray Herb.	124: 31	1939	0195-6094				41764450				
 208183-1	Flourensia heterolepis	S.F.Blake	Contr. Gray Herb.	54: 186	1918 [18 Jun 1918]	0195-6094				41763960				
 208443-2	Porophyllum punctatum	S.F.Blake	Contr. Gray Herb.	52: 58	1917	0195-6094				41764423				
 208660-2	Portulaca peruviana	I.M.Johnst.	Contr. Gray Herb.	81: 88	1928	0195-6094				41764050				
@@ -2747,7 +2747,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 225674-2	Salix brachycarpa subsp. niphoclada	(Rydb.) Argus	Contr. Gray Herb.	196: 119	1965	0195-6094				41764432				
 225675-2	Salix brachycarpa var. fullertonensis	(C.K.Schneid.) Argus	Contr. Gray Herb.	196: 125	1965	0195-6094				41764432				
 226034-2	Salix niphoclada var. fullertonensis	(C.K.Schneid.) Raup	Contr. Gray Herb.	185: 60	1959	0195-6094				41764807				
-226036-2	Salix niphoclada var. muriei	(Hultén) Raup	Contr. Gray Herb.	185: 60	1959	0195-6094				41764807				
+226036-2	Salix niphoclada var. muriei	(HultÃ©n) Raup	Contr. Gray Herb.	185: 60	1959	0195-6094				41764807				
 226276-2	Salmea umbratilis	B.L.Rob.	Contr. Gray Herb.	77: 61	1926	0195-6094				41764042				
 226314-2	Salpiglossis albiflora	I.M.Johnst.	Contr. Gray Herb.	85: 178	1929	0195-6094				41764065				
 226317-2	Salpiglossis brachysiphon	I.M.Johnst.	Contr. Gray Herb.	85: 161	1929	0195-6094				41764064				
@@ -3331,13 +3331,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 256965-2	Trichipteris crassa	(H.Karst.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256967-2	Trichipteris decomposita	(H.Karst.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256968-2	Trichipteris demissa	(C.V.Morton) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
-256969-2	Trichipteris dicromatolepis	(Fée) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
+256969-2	Trichipteris dicromatolepis	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256970-2	Trichipteris eatonii	(Jenman) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 256971-2	Trichipteris estelae	(Riba) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 256972-2	Trichipteris floribunda	(Baker) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256973-2	Trichipteris frigida	(H.Karst.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256974-2	Trichipteris gardneri	(Hook.) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
-256975-2	Trichipteris glaziovii	(Fée) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
+256975-2	Trichipteris glaziovii	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256976-2	Trichipteris gleasonii	(Maxon) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256977-2	Trichipteris hirsuta	(C.Presl) R.M.Tryon	Contr. Gray Herb.	200: 45	1970	0195-6094				41764693				
 256978-2	Trichipteris hodgeana	(Proctor) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
@@ -3368,7 +3368,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 257004-2	Trichipteris procera	(Willd.) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
 257006-2	Trichipteris pubescens	(Baker) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
 257007-2	Trichipteris pungens	(Willd.) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
-257008-2	Trichipteris rufa	(Fée) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
+257008-2	Trichipteris rufa	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	200: 46	1970	0195-6094				41764693				
 257009-2	Trichipteris sagittifolia	(Hook.) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 257010-2	Trichipteris scabriuscula	(Maxon) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
 257012-2	Trichipteris schiedeana	(C.Presl) R.M.Tryon	Contr. Gray Herb.	200: 44	1970	0195-6094				41764693				
@@ -3730,7 +3730,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 285982-1	Leavenworthia crassa	Rollins	Contr. Gray Herb.	192: 62	1963	0195-6094				41764432				
 286150-2	Tillandsia fasciculata var. rotundata	L.B.Sm.	Contr. Gray Herb.	154: 36, fig	1945	0195-6094				41764542				
 286506-1	Lesquerella carinata	Rollins	Contr. Gray Herb.	171: 42	1950	0195-6094				41764612				
-286551-1	Lesquerella × maxima	(Rollins) Rollins	Contr. Gray Herb.	181: 23, in obs.	1957	0195-6094				41764636				
+286551-1	Lesquerella Ã— maxima	(Rollins) Rollins	Contr. Gray Herb.	181: 23, in obs.	1957	0195-6094				41764636				
 286552-1	Lesquerella mcvaughiana	Rollins	Contr. Gray Herb.	171: 44	1950	0195-6094				41764612				
 286568-1	Lesquerella paysonii	Rollins	Contr. Gray Herb.	171: 44	1950	0195-6094				41764612				
 286805-1	Mancoa henricksonii	Rollins	Contr. Gray Herb.	206: 7	1976	0195-6094				41764718				
@@ -3748,11 +3748,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 287054-1	Menonvillea frigida	(Phil.) Rollins	Contr. Gray Herb.	177: 23	1955	0195-6094				41764626				
 287056-1	Menonvillea hirsuta	Rollins	Contr. Gray Herb.	177: 28	1955	0195-6094				41764626				
 287057-1	Menonvillea hookeri	Rollins	Contr. Gray Herb.	177: 30	1955	0195-6094				41764626				
-287060-1	Menonvillea litoralis	(Barnéoud) Rollins	Contr. Gray Herb.	177: 55	1955	0195-6094				41764626				
+287060-1	Menonvillea litoralis	(BarnÃ©oud) Rollins	Contr. Gray Herb.	177: 55	1955	0195-6094				41764626				
 287061-1	Menonvillea longipes	Rollins	Contr. Gray Herb.	177: 29	1955	0195-6094				41764626				
 287062-1	Menonvillea macrocarpa	(I.M.Johnst.) Rollins	Contr. Gray Herb.	177: 12	1955	0195-6094				41764626				
 287063-1	Menonvillea minima	Rollins	Contr. Gray Herb.	177: 52	1955	0195-6094				41764626				
-287064-1	Menonvillea nordenskjoeldii	(Dusén) Rollins	Contr. Gray Herb.	177: 21	1955	0195-6094				41764626				
+287064-1	Menonvillea nordenskjoeldii	(DusÃ©n) Rollins	Contr. Gray Herb.	177: 21	1955	0195-6094				41764626				
 287069-1	Menonvillea perstylosa	Rollins	Contr. Gray Herb.	177: 34	1955	0195-6094				41764626				
 287071-1	Menonvillea purpurea	(Hast.) Rollins	Contr. Gray Herb.	177: 37	1955	0195-6094				41764626				
 287072-1	Menonvillea rigida	Rollins	Contr. Gray Herb.	177: 14	1955	0195-6094				41764626				
@@ -3800,7 +3800,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 290034-2	Phyllanthus pudens	L.C.Wheeler	Contr. Gray Herb.	127: 50	1939	0195-6094				41764101				
 290037-2	Phyllanthus imbricatus	G.L.Webster	Contr. Gray Herb.	176: 56	1955	0195-6094				41764624				
 290188-1	Streptanthus sparsiflorus	Rollins	Contr. Gray Herb.	200: 190	1970	0195-6094				41764696				
-290193-2	Lesquerella × maxima	Rollins	Contr. Gray Herb.	181: 23	1957 (pro var.)	0195-6094				41764636				
+290193-2	Lesquerella Ã— maxima	Rollins	Contr. Gray Herb.	181: 23	1957 (pro var.)	0195-6094				41764636				
 290344-2	Aspiliopsis	Greenm.	Contr. Gray Herb.	25: suppl. leaflet	1903	0195-6094								
 290353-1	Thelypodiopsis alpina	(Standl. & Steyerm.) Rollins	Contr. Gray Herb.	206: 12	1976	0195-6094				41764718				
 290354-1	Thelypodiopsis ambigua	(S.Watson) Al-Shehbaz	Contr. Gray Herb.	204: 138	1973	0195-6094				41764710				
@@ -4316,7 +4316,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 440585-1	Phaiophleps alba	(Kraenzl.) R.C.Foster	Contr. Gray Herb.	127: 43	1939	0195-6094				41764100				
 440586-1	Phaiophleps biflora	(Thunb.) R.C.Foster	Contr. Gray Herb.	127: 43	1939	0195-6094				41764100				
 440588-1	Phaiophleps lainezi	(Hicken) R.C.Foster	Contr. Gray Herb.	127: 43	1939	0195-6094				41764100				
-440589-1	Phaiophleps lyckholmi	(Dusén) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
+440589-1	Phaiophleps lyckholmi	(DusÃ©n) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
 440590-1	Phaiophleps nigricans	(Phil.) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
 440592-1	Phaiophleps patagonica	(Speg.) R.C.Foster	Contr. Gray Herb.	127: 44	1939	0195-6094				41764100				
 440616-1	Pseudotrimezia barretoi	R.C.Foster	Contr. Gray Herb.	155: 8	1945	0195-6094				41764546				
@@ -4502,7 +4502,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 508725-1	Mimosa standleyi	J.F.Macbr.	Contr. Gray Herb.	59: 12	1919	0195-6094				41763984				
 50926384-1	Viguiera ser. Maculatae	S.F.Blake	Contr. Gray Herb.	54: 62	1918	0195-6094				41763960				
 51130-2	Celmisia hieracioides	(Wedd.) Solbrig	Contr. Gray Herb.	188: 85	1960	0195-6094				41764658				
-512006-1	Pachecoa prismatica	(Sessé & Moc.) Standl. & B.G.Schub.	Contr. Gray Herb.	161: 24	1946	0195-6094				41764564				
+512006-1	Pachecoa prismatica	(SessÃ© & Moc.) Standl. & B.G.Schub.	Contr. Gray Herb.	161: 24	1946	0195-6094				41764564				
 512181-1	Parkia arborea	J.F.Macbr.	Contr. Gray Herb.	59: 19	1919	0195-6094				41763984				
 512216-1	Parkia oliveri	J.F.Macbr.	Contr. Gray Herb.	59: 19	1919	0195-6094				41763984				
 512224-1	Parkia pedunculata	J.F.Macbr.	Contr. Gray Herb.	59: 19	1919	0195-6094				41763984				
@@ -5315,7 +5315,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 830777-1	Jacquinia mucronulata	S.F.Blake	Contr. Gray Herb.	53: 45	1918	0195-6094				41764336				
 83124-2	Domeykoa perennis	I.M.Johnst.	Contr. Gray Herb.	85: 88	1929	0195-6094				41764064				
 83258-2	Doryopteris concolor var. typica	R.M.Tryon	Contr. Gray Herb.	143: 54	1942	0195-6094				41764757				
-83288-2	Doryopteris pedata var. multipartita	(Fée) R.M.Tryon	Contr. Gray Herb.	143: 38	1942	0195-6094				41764757				
+83288-2	Doryopteris pedata var. multipartita	(FÃ©e) R.M.Tryon	Contr. Gray Herb.	143: 38	1942	0195-6094				41764757				
 83291-2	Doryopteris pedata var. typica	R.M.Tryon	Contr. Gray Herb.	143: 37	1942	0195-6094				41764757				
 83453-2	Draba beamanii	Rollins	Contr. Gray Herb.	213: 7	1984	0195-6094				41764736				
 83535-2	Draba daviesiae	(C.L.Hitchc.) Rollins	Contr. Gray Herb.	214: 5	1984	0195-6094				41764746				
@@ -5498,7 +5498,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 9486-2	Alomia chiriquensis	B.L.Rob.	Contr. Gray Herb.	61: 4	1920	0195-6094				41763992				
 9488-2	Alomia coelestina	B.L.Rob.	Contr. Gray Herb.	90: 4	1930	0195-6094				41764083				
 95849-2	Eriophyllum staechadifolium var. artemisiifolium	J.F.Macbr.	Contr. Gray Herb.	59: 39	1919	0195-6094				41763985				
-95912-2	Eriosorus biardii	(Fée) A.F.Tryon	Contr. Gray Herb.	200: 166	1970	0195-6094				41764694				
+95912-2	Eriosorus biardii	(FÃ©e) A.F.Tryon	Contr. Gray Herb.	200: 166	1970	0195-6094				41764694				
 95918-2	Eriosorus ewanii	A.F.Tryon	Contr. Gray Herb.	200: 165, fig. 35	1970	0195-6094				41764694				
 95921-2	Eriosorus flexuosus var. galaenus	A.F.Tryon	Contr. Gray Herb.	200: 164, fig. 33B, 34B	1970	0195-6094				41764694				
 95922-2	Eriosorus glaberrimus	(Maxon) Scamman	Contr. Gray Herb.	191: 85	1962	0195-6094				41764432				

@@ -249,7 +249,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 143750-1	Lobelia radicans	Thunb.	Trans. Linn. Soc. London	2: 330	1794 [1 May 1794]	1945-9432	10.1111/j.1096-3642.1794.tb00268.x							
 14384-1	Pachynocarpus	Hook.f.	Trans. Linn. Soc. London	23(1): 159, t. 22	1860 [after 1 Nov 1860]	1945-9432	10.1111/j.1096-3642.1860.tb00128.x							
 143849-1	Lobelia sessilifolia	Lamb.	Trans. Linn. Soc. London	10(2): 260	1811	1945-9432	10.1111/j.1096-3642.1810.tb00016.x							
-1443-1	Doryanthes	Corrêa	Trans. Linn. Soc. London	6: 211, t. 23, 24	1802	1945-9432	10.1111/j.1096-3642.1802.tb00483.x							
+1443-1	Doryanthes	CorrÃªa	Trans. Linn. Soc. London	6: 211, t. 23, 24	1802	1945-9432	10.1111/j.1096-3642.1802.tb00483.x							
 14440-1	Brachynema	Benth.	Trans. Linn. Soc. London	22(2): 125, t. 22	1857 [21 Nov 1857]	1945-9432	10.1111/j.1096-3642.1856.tb00085.x							
 146346-2	Lychnis apetala var. glanduloso-pubescens	Hook.	Trans. Linn. Soc. London	14: 365	1825	1945-9432	10.1111/j.1095-8339.1823.tb00097.x							
 146365-2	Lychnis dioica var. nana	Hook.	Trans. Linn. Soc. London	14: 366	1825	1945-9432	10.1111/j.1095-8339.1823.tb00097.x							
@@ -534,7 +534,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 185405-1	Blainvillea alba	Edgew.	Trans. Linn. Soc. London	20(1): 70	1846 [1851 publ. 29 Aug 1846]	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
 185415-1	Blainvillea hispida	Edgew.	Trans. Linn. Soc. London	20(1): 70	1846 [1851 publ. 29 Aug 1846]	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
 18652-1	Oxytenanthera	Munro	Trans. Linn. Soc. London	26(1): 126	1868 [5 Mar-11 Apr 1868]	1945-9432	10.1111/j.1096-3642.1968.tb00502.x							
-187261-1	Cacalia spathulata	Moc. & Sessé ex D.Don	Trans. Linn. Soc. London	16(2): 250	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
+187261-1	Cacalia spathulata	Moc. & SessÃ© ex D.Don	Trans. Linn. Soc. London	16(2): 250	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 18743-1	Planotia	Munro	Trans. Linn. Soc. London	26(1): 70	1868 [5 Mar-11 Apr 1868]	1945-9432	10.1111/j.1096-3642.1968.tb00502.x							
 1875-1	Parishia	Hook.f.	Trans. Linn. Soc. London	23(1): 169, t. 26	1860 [after 1 Nov 1860]	1945-9432	10.1111/j.1096-3642.1860.tb00128.x							
 1876-1	Pegia	Coleb.	Trans. Linn. Soc. London	15(2): 364	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00119.x							
@@ -646,7 +646,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 214161-2	Pterolepis oerstedii	Triana	Trans. Linn. Soc. London	28: 40	1871	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
 214318-2	Ptilurus daucifolius	D.Don	Trans. Linn. Soc. London	16: 219	1830 (1833)	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 21595-1	Afzelia	Sm.	Trans. Linn. Soc. London	4: 221	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
-218374-1	Hieracium hirsutum	Sessé & Moc. ex D.Don	Trans. Linn. Soc. London	16(2): 175	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
+218374-1	Hieracium hirsutum	SessÃ© & Moc. ex D.Don	Trans. Linn. Soc. London	16(2): 175	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 219064-1	Hieracium lagopus	D.Don	Trans. Linn. Soc. London	16(2): 176	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 219090-2	Rhaphithamnus cyanocarpus var. pallidus	Miers	Trans. Linn. Soc. London	27: 97	1870	1945-9432	10.1111/j.1096-3642.1870.tb00204.x							
 22006-1	Chorozema	Sm.	Trans. Linn. Soc. London	9: 251, sphalm.	1808	1945-9432	10.1111/j.1096-3642.1818.tb00343.x							
@@ -711,12 +711,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 236798-1	Pentaphorus foliolosus	D.Don	Trans. Linn. Soc. London	16(2): 297	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00137.x							
 236876-1	Perdicium brasiliense	Mart. ex D.Don	Trans. Linn. Soc. London	16(2): 189	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 236878-1	Perdicium calycinum	Mart. ex D.Don	Trans. Linn. Soc. London	16(2): 188	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
-236883-1	Perdicium corymbosum	Sessé & Moc. ex D.Don	Trans. Linn. Soc. London	16(2): 188	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
-236897-1	Perdicium longifolium	Sessé & Moc. ex D.Don	Trans. Linn. Soc. London	16(2): 192	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
-236900-1	Perdicium mexicanum	Moc. & Sessé ex D.Don	Trans. Linn. Soc. London	16(2): 201	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
+236883-1	Perdicium corymbosum	SessÃ© & Moc. ex D.Don	Trans. Linn. Soc. London	16(2): 188	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
+236897-1	Perdicium longifolium	SessÃ© & Moc. ex D.Don	Trans. Linn. Soc. London	16(2): 192	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
+236900-1	Perdicium mexicanum	Moc. & SessÃ© ex D.Don	Trans. Linn. Soc. London	16(2): 201	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 236907-1	Perdicium oblongum	Ruiz & Pav. ex D.Don	Trans. Linn. Soc. London	16(2): 240	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 236908-1	Perdicium ovale	Ruiz & Pav. ex D.Don	Trans. Linn. Soc. London	16(2): 240	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
-236929-1	Perdicium serrulatum	Moc. & Sessé ex D.Don	Trans. Linn. Soc. London	16(2): 200	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
+236929-1	Perdicium serrulatum	Moc. & SessÃ© ex D.Don	Trans. Linn. Soc. London	16(2): 200	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 237054-1	Perezia pinnatifida	Lag. ex D.Don	Trans. Linn. Soc. London	16(2): 210, in syn.	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 237070-1	Perezia runcinata	Lag. ex D.Don	Trans. Linn. Soc. London	16(2): 207, in syn.	1830 [27 May 1830]	1945-9432	10.1111/j.1095-8339.1829.tb00136.x							
 237582-1	Phagnalon niveum	Edgew.	Trans. Linn. Soc. London	20(1): 68	1846 [1851 publ. 29 Aug 1846]	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
@@ -752,7 +752,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 246818-1	Senecio pedunculatus	Edgew.	Trans. Linn. Soc. London	20(1): 74	1846 [1851 publ. 29 Aug 1846]	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
 24735-1	Saussurea	Salisb.	Trans. Linn. Soc. London	8: 11	1807	1945-9432	10.1111/j.1096-3642.1807.tb00303.x							
 24779-1	Sowerbaea	Sm.	Trans. Linn. Soc. London	4: 218	1798	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
-248040-2	Symplocos tinctoria	(L.) L'Hér.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
+248040-2	Symplocos tinctoria	(L.) L'HÃ©r.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
 248665-1	Serratula elegans	Steven	Trans. Linn. Soc. London	11(2): 414, t. 37	1816	1945-9432	10.1111/j.1096-3642.1813.tb00067.x							
 248996-2	Tacsonia glaberrima var. cumbalensis	(H.Karst.) Mast.	Trans. Linn. Soc. London	27: 628	1871	1945-9432	10.1111/j.1096-3642.1871.tb00221.x							
 249007-2	Tacsonia mixta subsp. quitensis	(Benth.) Mast.	Trans. Linn. Soc. London	27: 629	1871	1945-9432	10.1111/j.1096-3642.1871.tb00221.x							
@@ -1388,7 +1388,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 33007-1	Telopea	R.Br.	Trans. Linn. Soc. London	10(1): 197	1810	1945-9432	10.1111/j.1096-3642.1810.tb00013.x							
 33015-1	Xylomelum	Sm.	Trans. Linn. Soc. London	4: 214	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
 330252-2	Sieversia paradoxa	D.Don	Trans. Linn. Soc. London	14(3): 576 (-577; t. 22; figs. 7-10)	1825 [31 May 1825]	1945-9432	10.1111/j.1095-8339.1823.tb00104.x							
-330253-2	Geum plumosum	Sessé & Moc. ex D.Don	Trans. Linn. Soc. London	14(3): 576	1825	1945-9432	10.1111/j.1095-8339.1823.tb00104.x							
+330253-2	Geum plumosum	SessÃ© & Moc. ex D.Don	Trans. Linn. Soc. London	14(3): 576	1825	1945-9432	10.1111/j.1095-8339.1823.tb00104.x							
 330786-2	Rudgea	Salisb.	Trans. Linn. Soc. London	8: 327	1807	1945-9432	10.1111/j.1096-3642.1807.tb00320.x							
 33110-1	Coptis	Salisb.	Trans. Linn. Soc. London	8: 305	1807	1945-9432	10.1111/j.1096-3642.1807.tb00315.x							
 331119-2	Agathis	Salisb.	Trans. Linn. Soc. London	8: 311	1807 [9 Mar 1807]	1945-9432	10.1111/j.1096-3642.1807.tb00316.x							
@@ -1397,7 +1397,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 331269-1	Menziesia bryantha	Sw.	Trans. Linn. Soc. London	10(2): 377, t. 30, f. B	1811	1945-9432	10.1111/j.1096-3642.1810.tb00028.x							
 331270-1	Menziesia caerulea	Sw.	Trans. Linn. Soc. London	10(2): 377, t. 30, f. A	1811	1945-9432	10.1111/j.1096-3642.1810.tb00028.x							
 331275-1	Menziesia empetriformis	Sm.	Trans. Linn. Soc. London	10: 380 (379-380)	1811	1945-9432	10.1111/j.1096-3642.1810.tb00028.x							
-331323-2	Aegle	Corrêa	Trans. Linn. Soc. London	5: 222	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
+331323-2	Aegle	CorrÃªa	Trans. Linn. Soc. London	5: 222	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
 331325-2	Aeschynanthus	Jack	Trans. Linn. Soc. London	14: 42	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00078.x							
 331326-2	Afzelia	Sm.	Trans. Linn. Soc. London	4: 221	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
 331386-2	Barclaya	Wall.	Trans. Linn. Soc. London	15: 442	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00125.x							
@@ -1467,12 +1467,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 35279-1	Rudgea	Salisb.	Trans. Linn. Soc. London	8: 327, tt. 18, 19	1807	1945-9432	10.1111/j.1096-3642.1807.tb00320.x							
 354898-1	Pierardia dulcis	Jack	Trans. Linn. Soc. London	14(1): 120	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00083.x							
 355038-1	Poranthera ericifolia	Rudge	Trans. Linn. Soc. London	10(2): 302, t. 22	1811	1945-9432	10.1111/j.1096-3642.1810.tb00019.x							
-35560-1	Aegle	Corrêa	Trans. Linn. Soc. London	5: 222	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
+35560-1	Aegle	CorrÃªa	Trans. Linn. Soc. London	5: 222	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
 355830-1	Sapium hurmais	Buch.-Ham.	Trans. Linn. Soc. London	17(2): 229	1835 [1837 publ. 25 May 1835]	1945-9432	10.1111/j.1095-8339.1834.tb00022.x							
 35659-1	Corraea	Sm.	Trans. Linn. Soc. London	4: 219	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
 35664-1	Crowea	Sm.	Trans. Linn. Soc. London	4: 222	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
 35711-1	Eriostemon	Sm.	Trans. Linn. Soc. London	4: 221	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
-35733-1	Feronia	Corrêa	Trans. Linn. Soc. London	5: 224	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
+35733-1	Feronia	CorrÃªa	Trans. Linn. Soc. London	5: 224	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
 35890-1	Philotheca	Rudge	Trans. Linn. Soc. London	11(2): 298, t. 21	1816	1945-9432	10.1111/j.1096-3642.1813.tb00064.x							
 36003-1	Zieria	Sm.	Trans. Linn. Soc. London	4: 216	1798 [24 May 1798]	1945-9432	10.1111/j.1096-3642.1798.tb00530.x							
 36017-1	Phoxanthus	Benth.	Trans. Linn. Soc. London	22(2): 127, tt. 23, 24	1857 [21 Nov 1857]	1945-9432	10.1111/j.1096-3642.1856.tb00085.x							
@@ -1532,7 +1532,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 377844-1	Aeschynanthus radicans	Jack	Trans. Linn. Soc. London	14(1): 43	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00078.x							
 37786-1	Lophospermum	D.Don	Trans. Linn. Soc. London	15(2): 351	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00118.x							
 377883-1	Aeschynanthus volubilis	Jack	Trans. Linn. Soc. London	14(1): 42, t. 3, f. 3	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00078.x							
-378273-1	Besleria scandens	Moc. & Sessé ex D.Don	Trans. Linn. Soc. London	15(2): 349	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00118.x							
+378273-1	Besleria scandens	Moc. & SessÃ© ex D.Don	Trans. Linn. Soc. London	15(2): 349	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00118.x							
 379311-1	Cyrtandra aurea	Jack	Trans. Linn. Soc. London	14(1): 29	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00078.x							
 379333-1	Cyrtandra bicolor	Jack	Trans. Linn. Soc. London	14(1): 27	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00078.x							
 379371-1	Cyrtandra carnosa	Jack	Trans. Linn. Soc. London	14(1): 50	1823 [28 May-12 Jun 1823]	1945-9432	10.1111/j.1095-8339.1823.tb00079.x							
@@ -2831,7 +2831,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 571451-1	Memecylon capitellatum	B.Heyne ex Triana	Trans. Linn. Soc. London	28(1): 158	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
 571483-1	Memecylon cordatum	Gardner ex Triana	Trans. Linn. Soc. London	28(1): 158	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
 571650-1	Memecylon loureiroi	Triana	Trans. Linn. Soc. London	28(1): 156	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
-571720-1	Memecylon obovatum	Néraud ex Triana	Trans. Linn. Soc. London	28(1): 156	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
+571720-1	Memecylon obovatum	NÃ©raud ex Triana	Trans. Linn. Soc. London	28(1): 156	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
 571758-1	Memecylon phyllanthifolium	Thwaites ex Triana	Trans. Linn. Soc. London	28(1): 159, nomen	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
 571767-1	Memecylon preslianum	Triana	Trans. Linn. Soc. London	28(1): 157	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
 571905-1	Memecylon wightianum	Triana	Trans. Linn. Soc. London	28(1): 158	8 Dec 1871-13 Jan 1872	1945-9432	10.1111/j.1096-3642.1871.tb00222.x							
@@ -3448,7 +3448,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 586749-1	Ardisia bahamensis	A.DC.	Trans. Linn. Soc. London	17(1): 128	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
 586778-1	Ardisia blumei	A.DC.	Trans. Linn. Soc. London	17(1): 117	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
 586788-1	Ardisia bracteosa	A.DC.	Trans. Linn. Soc. London	17(1): 127	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
-586823-1	Ardisia capollina	Moc. & Sessé ex A.DC.	Trans. Linn. Soc. London	17(1): 116	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
+586823-1	Ardisia capollina	Moc. & SessÃ© ex A.DC.	Trans. Linn. Soc. London	17(1): 116	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
 586896-1	Ardisia crispa	(Thunb.) A.DC.	Trans. Linn. Soc. London	17(1): 124	1834 [26 Apr-8 May 1834]	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
 586899-1	Ardisia cubana	A.DC.	Trans. Linn. Soc. London	17(1): 124	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
 586956-1	Ardisia doma	Wall. ex A.DC.	Trans. Linn. Soc. London	17(1): 118	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
@@ -3821,8 +3821,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 620503-1	Bulbophyllum xylophyllum	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 151	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 622742-1	Cheirostylis malleifera	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 141	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 622756-1	Cheirostylis pubescens	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 141	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
-623239-1	Cirrhopetalum lasiochilum	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 153 (Bulbophylli §)	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
-623300-1	Cirrhopetalum pumilio	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 153 (Bulbophylli §)	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
+623239-1	Cirrhopetalum lasiochilum	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 153 (Bulbophylli Â§)	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
+623300-1	Cirrhopetalum pumilio	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 153 (Bulbophylli Â§)	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 623834-1	Coelogyne cycnoches	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 147	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 623879-1	Coelogyne graminifolia	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 146	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 624031-1	Coelogyne rigida	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 146	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
@@ -3870,7 +3870,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 641434-1	Lissochilus oliverianus	Rchb.f.	Trans. Linn. Soc. London	29(3): 154	1875 [11 Sep 1875]	1945-9432	10.1111/j.1096-3642.1875.tb00234.x							
 641829-1	Luisia primulina	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 144	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 642369-1	Malaxis myosurus	C.S.P.Parish & Rchb.f.	Trans. Linn. Soc. London	30(1): 154	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
-64287-1	Doryanthes excelsa	Corrêa	Trans. Linn. Soc. London	6: 213	1802	1945-9432	10.1111/j.1096-3642.1802.tb00483.x							
+64287-1	Doryanthes excelsa	CorrÃªa	Trans. Linn. Soc. London	6: 213	1802	1945-9432	10.1111/j.1096-3642.1802.tb00483.x							
 64300-2	Conomorpha oblongifolia	A.DC.	Trans. Linn. Soc. London	17: 103	1834	1945-9432	10.1111/j.1095-8339.1834.tb00019.x							
 644542-1	Microstylis rheedei	Rchb.f.	Trans. Linn. Soc. London	30(1): 138 (non alior.)	1874 [4 Jul 1874]	1945-9432	10.1111/j.1096-3642.1874.tb00004.x							
 644829-1	Monachanthus viridis	Schomb.	Trans. Linn. Soc. London	17(4): 551, partim	1837 [18 Jul-8 Aug 1837]	1945-9432	10.1111/j.1095-8339.1834.tb00045.x							
@@ -3998,8 +3998,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 691950-1	Polygala obovata	Hook.f.	Trans. Linn. Soc. London	20(2): 233	1847 [1851 publ. 11 Dec 1847]	1945-9432	10.1111/j.1096-3642.1846.tb00416.x							
 692277-1	Polygala scabra	Edgew.	Trans. Linn. Soc. London	20(1): 33	1846 [1851 publ. 29 Aug 1846]	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
 693250-1	Brunnichia africana	Welw.	Trans. Linn. Soc. London	27(1): 61	1869 [24 Dec 1869]	1945-9432	10.1111/j.1096-3642.1869.tb00202.x							
-693307-1	Calligonum comosum	L'Hér.	Trans. Linn. Soc. London	1: 180	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00398.x							
-693372-1	Calligonum pallasia	L'Hér.	Trans. Linn. Soc. London	1: 180	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00398.x							
+693307-1	Calligonum comosum	L'HÃ©r.	Trans. Linn. Soc. London	1: 180	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00398.x							
+693372-1	Calligonum pallasia	L'HÃ©r.	Trans. Linn. Soc. London	1: 180	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00398.x							
 693472-1	Chorizanthe douglasii	Benth.	Trans. Linn. Soc. London	17(3): 418	1836 [1837 publ. 21 Jun-9 Jul 18	1945-9432	10.1111/j.1095-8339.1834.tb00032.x							
 693482-1	Chorizanthe glabrescens	Benth.	Trans. Linn. Soc. London	17(3): 418	1836 [1837 publ. 21 Jun-9 Jul 18	1945-9432	10.1111/j.1095-8339.1834.tb00032.x							
 693498-1	Chorizanthe macraei	Benth.	Trans. Linn. Soc. London	17(3): 417	1836 [1837 publ. 21 Jun-9 Jul 18	1945-9432	10.1111/j.1095-8339.1834.tb00032.x							
@@ -4475,7 +4475,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 724782-1	Eriobotrya elliptica	Lindl.	Trans. Linn. Soc. London	13(1): 102	1821 [23 May-21 Jun 1821]	1945-9432	10.1111/j.1095-8339.1821.tb00058.x							
 724790-1	Eriobotrya heterophylla	Lindl.	Trans. Linn. Soc. London	13(1): 102	1821 [23 May-21 Jun 1821]	1945-9432	10.1111/j.1095-8339.1821.tb00058.x							
 724793-1	Eriobotrya japonica	(Thunb.) Lindl.	Trans. Linn. Soc. London	13: 102	1821 [23 May-21 Jun 1821]	1945-9432	10.1111/j.1095-8339.1821.tb00058.x							
-725326-1	Geum plumosum	Moc. & Sessé ex D.Don	Trans. Linn. Soc. London	14(3): 576	1825 [31 May 1825]	1945-9432	10.1111/j.1095-8339.1823.tb00104.x							
+725326-1	Geum plumosum	Moc. & SessÃ© ex D.Don	Trans. Linn. Soc. London	14(3): 576	1825 [31 May 1825]	1945-9432	10.1111/j.1095-8339.1823.tb00104.x							
 725814-1	Kerria japonica	(L.) DC.	Trans. Linn. Soc. London	12(1): 157	1818 [25 Feb 1818]	1945-9432	10.1111/j.1095-8339.1817.tb00225.x							
 72603-1	Clathrospermum vogelii	Planch. ex Benth.	Trans. Linn. Soc. London	23(3): 479	1862 [13 Nov 1862]	1945-9432	10.1111/j.1096-3642.1860.tb00144.x							
 726893-1	Osteomeles anthyllidifolia	Lindl.	Trans. Linn. Soc. London	13(1): 99, t. 1	1821 [23 May-21 Jun 1821]	1945-9432	10.1111/j.1095-8339.1821.tb00058.x							
@@ -4591,7 +4591,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 766785-1	Spermacoce kotschyana	Oliv.	Trans. Linn. Soc. London	29(2): 88	1873 [23 Aug 1873]	1945-9432	10.1111/j.1096-3642.1873.tb00233.x							
 766965-1	Spermacoce sphaerostigma	Oliv.	Trans. Linn. Soc. London	29(2): 88, in nota	1873 [23 Aug 1873]	1945-9432	10.1111/j.1096-3642.1873.tb00233.x							
 77073023-1	Calamus subgen. Ancistrophyllum	G.Mann & H.Wendl.	Trans. Linn. Soc. London	24:432	1864	1945-9432								
-770819-1	Aegle marmelos	(L.) Corrêa	Trans. Linn. Soc. London	5: 223	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
+770819-1	Aegle marmelos	(L.) CorrÃªa	Trans. Linn. Soc. London	5: 223	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
 77088577-1	Solanum membranaceum	Wall. ex Nees	Trans. Linn. Soc. London	17(1): 41	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00017.x							
 77088578-1	Solanum decemfidum	Nees	Trans. Linn. Soc. London	17(1): 43	1834 [1837 publ. 26 Apr-8 May 18	1945-9432	10.1111/j.1095-8339.1834.tb00017.x							
 77108406-1	Vernonia montana	Edgew.	Trans. Linn. Soc. London	20: 62	1846	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
@@ -4603,7 +4603,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 771597-1	Boronia denticulata	Sm.	Trans. Linn. Soc. London	8: 284	1807	1945-9432	10.1111/j.1096-3642.1807.tb00312.x							
 772907-1	Euodia alba	Hook.f.	Trans. Linn. Soc. London	23(1): 166	1860 [after 1 Nov 1860]	1945-9432	10.1111/j.1096-3642.1860.tb00128.x							
 773354-1	Fagara horrida	Thunb.	Trans. Linn. Soc. London	2: 329	1794 [1 May 1794]	1945-9432	10.1111/j.1096-3642.1794.tb00268.x							
-773611-1	Feronia elephantum	Corrêa	Trans. Linn. Soc. London	5: 225	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
+773611-1	Feronia elephantum	CorrÃªa	Trans. Linn. Soc. London	5: 225	1800	1945-9432	10.1111/j.1096-3642.1800.tb00592.x							
 774794-1	Philotheca australis	Rudge	Trans. Linn. Soc. London	11(2): 298	1816	1945-9432	10.1111/j.1096-3642.1813.tb00064.x							
 775920-1	Zanthoxylum oxyphyllum	Edgew.	Trans. Linn. Soc. London	20(1): 42	1846 [1851 publ. 29 Aug 1846]	1945-9432	10.1111/j.1096-3642.1846.tb00410.x							
 776141-1	Zieria pilosa	Rudge	Trans. Linn. Soc. London	10(2): 293, t. 17, f. 2	1811	1945-9432	10.1111/j.1096-3642.1810.tb00019.x							
@@ -4710,7 +4710,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 80709-1	Pachypodium namaquanum	Welw.	Trans. Linn. Soc. London	27(1): 45	1869 [24 Dec 1869]	1945-9432	10.1111/j.1096-3642.1869.tb00202.x							
 808101-1	Penstemon frutescens	Lamb.	Trans. Linn. Soc. London	10(2): 259, t. 6	1811	1945-9432	10.1111/j.1096-3642.1810.tb00016.x							
 808697-1	Rhamphicarpa recurva	Oliv.	Trans. Linn. Soc. London	29(3): 122	1875 [11 Sep 1875]	1945-9432	10.1111/j.1096-3642.1875.tb00234.x							
-809435-1	Scrophularia physalodes	Moc. & Sessé ex D.Don	Trans. Linn. Soc. London	15(2): 353	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00118.x							
+809435-1	Scrophularia physalodes	Moc. & SessÃ© ex D.Don	Trans. Linn. Soc. London	15(2): 353	1827 [11-20 Dec 1827]	1945-9432	10.1111/j.1095-8339.1826.tb00118.x							
 809757-1	Sopubia karaguensis	Oliv.	Trans. Linn. Soc. London	29(3): 123	1875 [11 Sep 1875]	1945-9432	10.1111/j.1096-3642.1875.tb00234.x							
 810603-1	Vandellia lobelioides	Oliv.	Trans. Linn. Soc. London	29(3): 120	1875 [11 Sep 1875]	1945-9432	10.1111/j.1096-3642.1875.tb00234.x							
 811713-1	Veronica borealis	Laest. ex Hook.f.	Trans. Linn. Soc. London	23(2): 336	1861 [14 Dec 1861]	1945-9432	10.1111/j.1096-3642.1860.tb00131.x							
@@ -4751,15 +4751,15 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 824117-1	Lasiopetalum parviflorum	Rudge	Trans. Linn. Soc. London	10(2): 297, t. 12, f. 2	1811	1945-9432	10.1111/j.1096-3642.1810.tb00019.x							
 824629-1	Octolobus spectabilis	Welw.	Trans. Linn. Soc. London	27(1): 18, t. 6	1869 [24 Dec 1869]	1945-9432	10.1111/j.1096-3642.1869.tb00202.x							
 825835-1	Waltheria reticulata	Hook.f.	Trans. Linn. Soc. London	20(2): 231	1847 [1851 publ. 11 Dec 1847]	1945-9432	10.1111/j.1096-3642.1846.tb00416.x							
-826989-1	Symplocos alstonia	L'Hér.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
-827005-1	Symplocos arechea	L'Hér.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
-827046-1	Symplocos ciponima	L'Hér.	Trans. Linn. Soc. London	1: 175	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
+826989-1	Symplocos alstonia	L'HÃ©r.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
+827005-1	Symplocos arechea	L'HÃ©r.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
+827046-1	Symplocos ciponima	L'HÃ©r.	Trans. Linn. Soc. London	1: 175	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
 827157-1	Symplocos laxiflora	Benth.	Trans. Linn. Soc. London	18(2): 232, t. 18	1839 [1841 publ. 7-30 May 1839]	1945-9432	10.1111/j.1095-8339.1838.tb00175.x							
 827210-1	Symplocos nitens	Benth.	Trans. Linn. Soc. London	18(2): 232	1839 [1841 publ. 7-30 May 1839]	1945-9432	10.1111/j.1095-8339.1838.tb00175.x							
 827236-1	Symplocos parviflora	Benth.	Trans. Linn. Soc. London	18(2): 232	1839 [1841 publ. 7-30 May 1839]	1945-9432	10.1111/j.1095-8339.1838.tb00175.x							
 827249-1	Symplocos platyphylla	Benth.	Trans. Linn. Soc. London	18(2): 233	1839 [1841 publ. 7-30 May 1839]	1945-9432	10.1111/j.1095-8339.1838.tb00175.x							
 827259-1	Symplocos pubescens	Klotzsch ex Benth.	Trans. Linn. Soc. London	18(2): 233	1839 [1841 publ. 7-30 May 1839]	1945-9432	10.1111/j.1095-8339.1838.tb00175.x							
-827336-1	Symplocos tinctoria	L'Hér.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
+827336-1	Symplocos tinctoria	L'HÃ©r.	Trans. Linn. Soc. London	1: 176	1791 [13 Aug 1791]	1945-9432	10.1111/j.1096-3642.1791.tb00397.x							
 827345-1	Symplocos uniflora	Benth.	Trans. Linn. Soc. London	18(2): 233	1839 [1841 publ. 7-30 May 1839]	1945-9432	10.1111/j.1095-8339.1838.tb00175.x							
 828520-1	Camellia hongkongensis	Seem.	Trans. Linn. Soc. London	22(4): 342, t. 60	1859 [12 Nov 1859]	1945-9432	10.1111/j.1096-3642.1856.tb00103.x							
 828528-1	Camellia lanceolata	Seem.	Trans. Linn. Soc. London	22(4): 345	1859 [12 Nov 1859]	1945-9432	10.1111/j.1096-3642.1856.tb00103.x							

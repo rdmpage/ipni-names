@@ -65,7 +65,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 10404-1	Parthenopsis	Kellogg	Proc. Calif. Acad. Sci.	5: 100	1873 [Apr 1873]	0068-547X								
 1041919-2	Streblacanthus cordifolius	T.F.Daniel	Proc. Calif. Acad. Sci.	48: 124	1993	0068-547X								
 104355-1	Begonia californica	Brandegee	Proc. Calif. Acad. Sci.	ser. 2, 3: 140	1891	0068-547X								
-1044142-2	Stenostephanus tacanensis	(Acosta & R.Fernández) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
+1044142-2	Stenostephanus tacanensis	(Acosta & R.FernÃ¡ndez) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
 10469-2	Alternanthera rugulosa	J.T.Howell	Proc. Calif. Acad. Sci.	21: 111	1933	0068-547X								
 10473-2	Alternanthera snodgrassii	J.T.Howell	Proc. Calif. Acad. Sci.	21: 109	1933	0068-547X								
 10490-2	Alternanthera vestita	J.T.Howell	Proc. Calif. Acad. Sci.	21: 108	1933	0068-547X								
@@ -1014,9 +1014,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 286402-1	Lepidium scopulorum	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 625	1895	0068-547X								
 286692-1	Lyrocarpa xanti	Brandegee	Proc. Calif. Acad. Sci.	ser. 2, 2: 127, t. 2	1889	0068-547X								
 28708-2	Bahia cuneata	Kellogg	Proc. Calif. Acad. Sci.	5: 49	1873	0068-547X								
-288196-2	Escallonia × rubricalyx	Eastw.	Proc. Calif. Acad. Sci.	ser. 4, 18: 389	1929	0068-547X								
-288197-2	Escallonia × rockii	Eastw.	Proc. Calif. Acad. Sci.	ser. 4, 18: 386	1929	0068-547X								
-288198-2	Escallonia × franciscana	Eastw.	Proc. Calif. Acad. Sci.	ser. 4, 18: 386	1929	0068-547X								
+288196-2	Escallonia Ã— rubricalyx	Eastw.	Proc. Calif. Acad. Sci.	ser. 4, 18: 389	1929	0068-547X								
+288197-2	Escallonia Ã— rockii	Eastw.	Proc. Calif. Acad. Sci.	ser. 4, 18: 386	1929	0068-547X								
+288198-2	Escallonia Ã— franciscana	Eastw.	Proc. Calif. Acad. Sci.	ser. 4, 18: 386	1929	0068-547X								
 289284-1	Sisymbrium crenatum	Brandegee	Proc. Calif. Acad. Sci.	ser. 2, 3: 111	1891	0068-547X								
 289683-1	Sisymbrium reflexum	Kellogg	Proc. Calif. Acad. Sci.	2: 101, t. 29	1863	0068-547X								
 289724-2	Antirrhinum vexillocalyculatum var. breweri	Munz	Proc. Calif. Acad. Sci.	ser. 4, 15: 364	1926	0068-547X								
@@ -1043,10 +1043,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 292506-1	Cyclanthera monosperma	Brandegee	Proc. Calif. Acad. Sci.	ser. 2, 2: 159	1889	0068-547X								
 292527-1	Cyclanthera testudinea	Brandegee	Proc. Calif. Acad. Sci.	ser. 2, 3: 138	1891	0068-547X								
 292581-1	Echinocystis brandegeei	Cogn.	Proc. Calif. Acad. Sci.	ser. 2, 2: 215	1889	0068-547X								
-292588-2	Quercus × morehus	Kellogg	Proc. Calif. Acad. Sci.	2: 36	1863	0068-547X								
+292588-2	Quercus Ã— morehus	Kellogg	Proc. Calif. Acad. Sci.	2: 36	1863	0068-547X								
 292604-1	Echinocystis minima	Brandegee	Proc. Calif. Acad. Sci.	ser. 2, 2: 159 et 216	1889	0068-547X								
 292606-1	Echinocystis muricata	Kellogg	Proc. Calif. Acad. Sci.	1: 57	1855	0068-547X								
-292733-2	Quercus × ganderi	C.B.Wolf	Proc. Calif. Acad. Sci.	ser. 4, 25: 178	1944	0068-547X								
+292733-2	Quercus Ã— ganderi	C.B.Wolf	Proc. Calif. Acad. Sci.	ser. 4, 25: 178	1944	0068-547X								
 293133-1	Marah minima	Kellogg	Proc. Calif. Acad. Sci.	2: 18	1863	0068-547X								
 293134-1	Marah muricata	Kellogg	Proc. Calif. Acad. Sci.	1(ed. 2): 37	1873 [1854-57 publ. 1873]	0068-547X								
 295248-2	Amaranthus anderssonii	J.T.Howell	Proc. Calif. Acad. Sci.	21: 95	1933	0068-547X								
@@ -1203,7 +1203,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 353698-1	Phyllanthus ciliatoglandulosus	Millsp.	Proc. Calif. Acad. Sci.	ser. 2, 2: 219	1889	0068-547X								
 356400-1	Simmondsia pabulosa	Kellogg	Proc. Calif. Acad. Sci.	2: 21	1859	0068-547X								
 35873-2	Brachistus pubescens	A.Stewart	Proc. Calif. Acad. Sci.	(ser. 4) 1: 137	1911	0068-547X								
-359654-1	Quercus × ganderi	C.B.Wolf	Proc. Calif. Acad. Sci.	ser. 4, 25: 178	1944	0068-547X								
+359654-1	Quercus Ã— ganderi	C.B.Wolf	Proc. Calif. Acad. Sci.	ser. 4, 25: 178	1944	0068-547X								
 36082-2	Brandegea bigelovii	(S.Watson) Cogn.	Proc. Calif. Acad. Sci.	ser. 2, 3: 58	1890	0068-547X								
 36084-2	Brandegea monosperma	Cogn.	Proc. Calif. Acad. Sci.	ser. 2, 3: 59	1890	0068-547X								
 363685-1	Mollugo crockeri	J.T.Howell	Proc. Calif. Acad. Sci.	ser. 4, 21: 20	1933	0068-547X								
@@ -1363,7 +1363,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 479808-1	Astragalus shockleyi	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 659	1895	0068-547X								
 479986-1	Astragalus striatiflorus	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 643	1895	0068-547X								
 479987-1	Astragalus striatiflorus	M.E.Jones & Barneby	Proc. Calif. Acad. Sci.	ser. 4, 25: 163, descr. emend.	1944	0068-547X								
-480150-1	Astragalus × tejonensis	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 644	1895	0068-547X								
+480150-1	Astragalus Ã— tejonensis	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 644	1895	0068-547X								
 480260-1	Astragalus traskiae	Eastw.	Proc. Calif. Acad. Sci.	ser. 3, 1: 102	1898 [24 Sep 1898]	0068-547X								
 480351-1	Astragalus uintensis	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 670	1895	0068-547X								
 480618-1	Astragalus zionis	M.E.Jones	Proc. Calif. Acad. Sci.	ser. 2, 5: 652	1895	0068-547X								
@@ -1786,7 +1786,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77099000-1	Dicliptera novogaliciana	T.F.Daniel	Proc. Calif. Acad. Sci.	60(1): 10 (-13; fig. 6, map)	2009 [7 May 2009]	0068-547X								
 77099002-1	Justicia cuixmalensis	T.F.Daniel & E.J.Lott	Proc. Calif. Acad. Sci.	60(2): 19 (-22; figs. 1-2, map)	2009 [7 May 2009]	0068-547X								
 77099003-1	Blakea attenboroughii	Penneys	Proc. Calif. Acad. Sci.	60(6): 69 (-72; fig. 1)	2009 [7 May 2009]	0068-547X								
-77102245-1	Justicia sangilensis	T.F.Daniel & Véliz	Proc. Calif. Acad. Sci.	60(14): 455 (-459; figs.)	2009 [25 Sep 2009]	0068-547X								
+77102245-1	Justicia sangilensis	T.F.Daniel & VÃ©liz	Proc. Calif. Acad. Sci.	60(14): 455 (-459; figs.)	2009 [25 Sep 2009]	0068-547X								
 77104981-1	Justicia velizii	T.F.Daniel	Proc. Calif. Acad. Sci.	61(4): 339 (-342; fig. 10)	2010 [31 Mar 2010]	0068-547X								
 77104982-1	Justicia williamsii	T.F.Daniel	Proc. Calif. Acad. Sci.	61(4): 343	2010 [31 Mar 2010]	0068-547X								
 77104991-1	Stenostephanus azureus	(D.N.Gibson) T.F.Daniel	Proc. Calif. Acad. Sci.	61(4): 368	2010 [31 Mar 2010]	0068-547X								
@@ -2050,7 +2050,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 981979-1	Stenostephanus monolophus	(Donn.Sm.) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
 981980-1	Stenostephanus purpusii	(Brandegee) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
 981981-1	Stenostephanus silvaticus	(Nees) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
-981982-1	Stenostephanus tacanensis	(Acosta & R.Fernández) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
+981982-1	Stenostephanus tacanensis	(Acosta & R.FernÃ¡ndez) T.F.Daniel	Proc. Calif. Acad. Sci.	48(13): 281	1995	0068-547X								
 983825-1	Calyptrogyne costatifrons	(L.H.Bailey) de Nevers	Proc. Calif. Acad. Sci.	48(16): 336	1995	0068-547X								
 983826-1	Calyptrogyne pubescens	de Nevers	Proc. Calif. Acad. Sci.	48(16): 336	1995	0068-547X								
 983827-1	Calyptrogyne allenii	(L.H.Bailey) de Nevers	Proc. Calif. Acad. Sci.	48(16): 336	1995	0068-547X								
@@ -2065,6 +2065,6 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 994829-1	Justicia insolita subsp. tastensis	(Brandegee) T.F.Daniel	Proc. Calif. Acad. Sci.	49(10): 369	1997	0068-547X								
 994830-1	Ruellia californica subsp. peninsularis	(Rose) T.F.Daniel	Proc. Calif. Acad. Sci.	49(10): 384	1997	0068-547X								
 9998-1	Melarhiza	Kellogg	Proc. Calif. Acad. Sci.	1(ed. 2): 37	1873 [1854-57 publ. 1873]	0068-547X								
-77157477-1	Tetramerium vargasiae	T.F.Daniel & Cruz Durán	Proc. Calif. Acad. Sci.	63(4): 159	2016	0068-547X								
+77157477-1	Tetramerium vargasiae	T.F.Daniel & Cruz DurÃ¡n	Proc. Calif. Acad. Sci.	63(4): 159	2016	0068-547X								
 77161037-1	Tetramerium pauciflorum	T.F.Daniel & V.W.Steinm.	Proc. Calif. Acad. Sci.	63(14): 568	2106	0068-547X								
 60475035-2	Argemone mexicana var. alba	DC. ex Brandegee	Proc. Calif. Acad. Sci.	2: 126	1889	0068-547X								

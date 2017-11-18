@@ -150,7 +150,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 117286-2	Hampea bracteolata	Lundell	Wrightia	5: 357 (-358)	1977	0084-2648			767223					
 117294-1	Heliotropium torreyi	I.M.Johnst.	Wrightia	ii. 13 (1959)		0084-2648			765968					
 117299-2	Hampea ovatifolia	Lundell	Wrightia	4: 140	1970	0084-2648			765890					
-117382-2	Haploësthes fruticosa	B.L.Turner	Wrightia	5(5): 114	1975	0084-2648			766972					
+117382-2	HaploÃ«sthes fruticosa	B.L.Turner	Wrightia	5(5): 114	1975	0084-2648			766972					
 117655-1	Lasiarrhenum lundellii	I.M.Johnst.	Wrightia	ii. 15 (1959).		0084-2648			765970					
 119744-2	Heliotropium curassavicum var. fruticulosum	I.M.Johnst.	Wrightia	2: 15	1959	0084-2648			765970					
 119879-2	Heliotropium ruiz-lealii	I.M.Johnst.	Wrightia	2: 13	1959	0084-2648			765968					
@@ -433,7 +433,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 162745-2	Misanteca vernicosa	(Mez) Lundell	Wrightia	4(3): 102	1969	0084-2648			765850					
 162746-2	Misanteca wilhelminensis	(C.K.Allen) Lundell	Wrightia	4(3): 102	1969	0084-2648			765850					
 162894-1	Tricerma obovatum	(Hook.f.) Lundell	Wrightia	4(5): 158	1971	0084-2648			765910					
-162895-1	Tricerma octogonum	(L'Hér.) Lundell	Wrightia	4(5): 158	1971	0084-2648			765910					
+162895-1	Tricerma octogonum	(L'HÃ©r.) Lundell	Wrightia	4(5): 158	1971	0084-2648			765910					
 162896-1	Tricerma orbiculare	(Willd. ex Roem. & Schult.) Lundell	Wrightia	4(5): 158	1971	0084-2648			765910					
 162897-1	Tricerma phyllanthoides	(Benth.) Lundell	Wrightia	4(5): 158	1971	0084-2648			765910					
 162898-1	Tricerma texanum	(Lundell) Lundell	Wrightia	4(5): 159	1971	0084-2648			765911					
@@ -832,7 +832,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 210918-2	Prunus tartarea	Lundell	Wrightia	4: 87	1968	0084-2648			765833					
 210922-2	Prunus tikalana	Lundell	Wrightia	4: 88	1968	0084-2648			765834					
 211159-2	Pseuderanthemum leptostachys	Leonard	Wrightia	2: 153, fig. 33	1961	0084-2648			766111					
-211453-1	Haploësthes fruticosa	B.L.Turner	Wrightia	5(5): 114	1975	0084-2648			766972					
+211453-1	HaploÃ«sthes fruticosa	B.L.Turner	Wrightia	5(5): 114	1975	0084-2648			766972					
 211687-2	Psidium chiapasense	Lundell	Wrightia	2: 204	1961	0084-2648			766163					
 211700-2	Psidium contrerasii	Lundell	Wrightia	5(4): 84	1975	0084-2648			766940					
 211839-2	Psidium protractum	(Griseb.) Lundell	Wrightia	5: 70	1974	0084-2648			766926					
@@ -929,13 +929,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 238224-2	Solanum acaule var. aemulans	(Bitter) Correll	Wrightia	2: 169	1961	0084-2648			766128					
 238265-2	Solanum albornozii	Correll	Wrightia	2: 178	1961	0084-2648			766137					
 238408-2	Solanum basendopogon f. obtusum	Correll	Wrightia	2: 170	1961	0084-2648			766129					
-238417-2	Solanum berthaultii f. zudanense	(Cárdenas) Correll	Wrightia	2: 184	1961	0084-2648			766143					
+238417-2	Solanum berthaultii f. zudanense	(CÃ¡rdenas) Correll	Wrightia	2: 184	1961	0084-2648			766143					
 238457-2	Solanum brucheri	Correll	Wrightia	2: 176	1961	0084-2648			766135					
 238496-2	Solanum canasense var. neohawkesii	(Ochoa) Correll	Wrightia	2: 184	1961	0084-2648			766143					
 238497-2	Solanum canasense var. xerophyllum	(Vargas) Correll	Wrightia	2: 185	1961	0084-2648			766144					
 238509-2	Solanum carchiense	Correll	Wrightia	2: 133, fig. 24	1961	0084-2648			766091					
 238520-2	Solanum caripense f. stellatum	Correll	Wrightia	2: 170	1961	0084-2648			766129					
-238541-2	Solanum chacoense f. caipipendense	(Cárdenas) Correll	Wrightia	2: 172	1961	0084-2648			766131					
+238541-2	Solanum chacoense f. caipipendense	(CÃ¡rdenas) Correll	Wrightia	2: 172	1961	0084-2648			766131					
 238542-2	Solanum chacoense f. gibberulosum	(Juz. & Bukasov) Correll	Wrightia	2: 172	1961	0084-2648			766131					
 238553-2	Solanum chavinense	Correll	Wrightia	2: 185	1961	0084-2648			766144					
 238569-2	Solanum chomatophilum f. angustifoliolum	Correll	Wrightia	2(4): 180	1961 [Sep 1961]	0084-2648			766139					
@@ -986,7 +986,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 239822-2	Solanum tabanoense	Correll	Wrightia	2: 170	1961	0084-2648			766129					
 239826-2	Solanum tacnaense f. decurrentialatum	(Ochoa) Correll	Wrightia	2: 197	1961	0084-2648			766156					
 239827-2	Solanum tacnaense var. sandemanii	(Hawkes) Correll	Wrightia	2: 196	1961	0084-2648			766155					
-239834-2	Solanum tarijense var. pojoense	(Cárdenas) Correll	Wrightia	2: 173	1961	0084-2648			766132					
+239834-2	Solanum tarijense var. pojoense	(CÃ¡rdenas) Correll	Wrightia	2: 173	1961	0084-2648			766132					
 239845-2	Solanum tenuipes var. latisectum	Whalen	Wrightia	5: 238 (-239)	1976	0084-2648			767100					
 240024-2	Solanum woodsonii	Correll	Wrightia	2: 137 (fig. 26)	1961	0084-2648			766095					
 2417-2	Achras coriacea	Lundell	Wrightia	6: 12 (-13), pl. 25	1978	0084-2648								
@@ -1030,7 +1030,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 253409-2	Tikalia prisca	(Standl.) Lundell	Wrightia	2: 119	1961	0084-2648			766077					
 256539-2	Trema laxiflora	Lundell	Wrightia	2: 50	1960	0084-2648			766006					
 256688-2	Tricerma obovatum	(Hook.f.) Lundell	Wrightia	4: 158	1971	0084-2648			765910					
-256689-2	Tricerma octogonum	(L'Hér.) Lundell	Wrightia	4: 158	1971	0084-2648			765910					
+256689-2	Tricerma octogonum	(L'HÃ©r.) Lundell	Wrightia	4: 158	1971	0084-2648			765910					
 256690-2	Tricerma orbiculare	(Willd.) Lundell	Wrightia	4: 158	1971	0084-2648			765910					
 256691-2	Tricerma phyllanthoides	(Benth.) Lundell	Wrightia	4: 158	1971	0084-2648			765910					
 256695-2	Tricerma texana	(Lundell) Lundell	Wrightia	4: 159	1971	0084-2648			765911					
@@ -1297,7 +1297,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 434482-1	Ottoschulzia pallida	Lundell	Wrightia	5(5): 105	1975	0084-2648			766963					
 43452-2	Calyptranthes venulosa	Lundell	Wrightia	4: 40	1968	0084-2648			765785					
 445189-1	Brazoria arenaria	Lundell	Wrightia	i. 59 (1945).		0084-2648			764034					
-445190-1	Brazoria × pulcherrima	Lundell	Wrightia	iv. 29 (1968).		0084-2648			765774					
+445190-1	Brazoria Ã— pulcherrima	Lundell	Wrightia	iv. 29 (1968).		0084-2648			765774					
 44622-1	Solanum sect. Androceras	Whalen	Wrightia	5(7): 228	1976	0084-2648			767090					
 44633-1	Solanum ser. Pacificum	Whalen	Wrightia	5(7): 231	1976	0084-2648			767093					
 44637-1	Solanum ser. Violaceiflorum	Whalen	Wrightia	5(7): 234	1976	0084-2648			767096					
@@ -1991,7 +1991,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 73945-2	Cymbopetalum hintonii	Lundell	Wrightia	5: 53	1974	0084-2648			766909					
 73949-2	Cymbopetalum longissimum	Lundell	Wrightia	5(2): 24	1974	0084-2648			766880					
 73952-2	Cymbopetalum mayanum	Lundell	Wrightia	5(2): 25	1974	0084-2648		160085	766881					
-73965-2	Cymodocea filiformis	(Kütz.) Correll	Wrightia	4: 74	1968	0084-2648			765820					
+73965-2	Cymodocea filiformis	(KÃ¼tz.) Correll	Wrightia	4: 74	1968	0084-2648			765820					
 74109-2	Cynanchum eulaxiflorum	Lundell	Wrightia	5: 351	1977	0084-2648			767217					
 74288-1	Oxandra belizensis	(Lundell) Lundell	Wrightia	5(2): 28	1974	0084-2648			766884					
 74290-1	Oxandra guatemalensis	Lundell	Wrightia	5(2): 29	1974	0084-2648			766885					
@@ -2174,7 +2174,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 869956-1	Cissus matudae	Lundell	Wrightia	iv. 113 (1969).		0084-2648			765861					
 869988-1	Cissus oaxacanus	Lundell	Wrightia	iv. 112 (1969).		0084-2648			765860					
 870008-1	Cissus pallidiflorus	Lundell	Wrightia	iv. 112 (1969).		0084-2648			765860					
-871794-1	Cymodocea filiformis	(Kütz.) Correll	Wrightia	iv. 74 (1968)		0084-2648			765820					
+871794-1	Cymodocea filiformis	(KÃ¼tz.) Correll	Wrightia	iv. 74 (1968)		0084-2648			765820					
 876043-1	Hippocratea volubilis var. circumalata	Lundell	Wrightia	5(3): 56	1974	0084-2648			766912					
 876056-1	Schaefferia cuneifolia var. pedicellata	Lundell	Wrightia	5(3): 55	1974	0084-2648			766911					
 877297-1	Gaillardia pulchella var. australis	B.L.Turner & Whalen	Wrightia	5(6): 192	1975	0084-2648			767052					
@@ -2233,7 +2233,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 896142-1	Stigmaphyllon chiapense	Lundell	Wrightia	6(2): 32 (1978)	1978	0084-2648								
 896157-1	Ardisia acutata	Lundell	Wrightia	6(4): 60 (1979)	1979	0084-2648								
 896158-1	Ardisia atrata	Lundell	Wrightia	6(4): 60 (1979)	1979	0084-2648								
-896159-1	Ardisia avendanoi	Lundell	Wrightia	6(4): 61 (1979), as 'Avendañoi'	1979	0084-2648								
+896159-1	Ardisia avendanoi	Lundell	Wrightia	6(4): 61 (1979), as 'AvendaÃ±oi'	1979	0084-2648								
 896160-1	Ardisia baruana	Lundell	Wrightia	6(4): 61 (1979)	1979	0084-2648								
 896161-1	Ardisia bawae	Lundell	Wrightia	6(4): 62 (1979)	1979	0084-2648								
 896162-1	Ardisia boltenii	Lundell	Wrightia	6(4): 63 (1979)	1979	0084-2648								
