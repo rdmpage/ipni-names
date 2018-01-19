@@ -12,6 +12,10 @@ This repository stores the current mapping for a subset of the  journals in IPNI
 Hughes, M., Coyle, C., & Rubite, R. R. (2010, March). A REVISION OF BEGONIA SECTION DIPLOCLINIUM (BEGONIACEAE) ON THE PHILIPPINE ISLAND OF PALAWAN, INCLUDING FIVE NEW SPECIES. Edinburgh Journal of Botany. Cambridge University Press (CUP). doi:10.1017/s0960428609990266
 ```
 
+## Note on beta IPNI
+
+On 2018-01-19 I became aware of the [beta version of IPNI](http://beta.ipni.org) which looks nice and has a lot more DOI and BHL links.
+
 ## Progress
 
 Progress to date (numbers of IPNI Ids mapped to a bibliographic identifier). There are 1,625,067 names in the working copy of IPNI.
