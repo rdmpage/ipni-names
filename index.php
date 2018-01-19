@@ -188,6 +188,8 @@ function display_query($sql)
 		$record->id = $result->fields['Id'];
 		$record->cluster_id = $result->fields['cluster_id'];
 		
+		$record->basionym_id = $result->fields['Basionym_Id'];
+		
 		$record->name = $result->fields['Genus'];
 		
 		
@@ -444,6 +446,7 @@ function display_query($sql)
 	echo '<th>Id</th>';
 	echo '<th>ClusterId</th>';
 	echo '<th>Types</th>';
+	echo '<th>Basionym</th>';
 	echo '<th>Species</th>';
 	echo '<th>Publication</th>';
 	echo '<th>ISSN</th>';
@@ -532,6 +535,11 @@ function display_query($sql)
 		echo '</span>';
 				
 		echo '</td>';
+		
+		echo '<td>';
+		echo $sp->basionym_id;
+		echo '</td>';
+		
 		
 		
 		echo '<td>' . $sp->html . '</td>';

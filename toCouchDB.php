@@ -43,10 +43,10 @@ while (!$done)
 	$name = 'Schismatoglottis%';
 	//$name = 'Tremulina%';
 	//$name = 'Myoxanthus%';
-	//$name = 'Lecanorchis%';
-	$name = 'Bucephalandra%';
-	$name = 'Jaltomata%';
-	$name = 'Aphananthe%';
+	$name = 'Lecanorchis%';
+	//$name = 'Bucephalandra%';
+	//$name = 'Jaltomata%';
+	//$name = 'Aphananthe%';
 	$sql = 'SELECT * FROM `names` WHERE Full_name_without_family_and_authors LIKE "' . $name . '"';
 
 	// journal
