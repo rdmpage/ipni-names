@@ -4421,7 +4421,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77158951-1	Pseudalcantarea grandis	(Schltdl.) Pinzón & Barfuss	Phytotaxa	279(1): 42	2016	1179-3155	10.11646/phytotaxa.279.1.1							
 77158952-1	Pseudalcantarea macropetala	(Wawra) Pinzón & Barfuss	Phytotaxa	279(1): 43	2016	1179-3155	10.11646/phytotaxa.279.1.1							
 77158953-1	Pseudalcantarea viridiflora	(Beer) Pinzón & Barfuss	Phytotaxa	279(1): 43	2016	1179-3155	10.11646/phytotaxa.279.1.1							
-77159302-1	Puya cahuachensis	A.Galán, J.Montoya, Vicente Orell. & E.Linares	Phytotaxa	283(2): 286	2016	1179-3155	10.11646/phytotaxa.283.3.4[english]							
+77159302-1	Puya cahuachensis	A.Galán, J.Montoya, Vicente Orell. & E.Linares	Phytotaxa	283(2): 286	2016	1179-3155	10.11646/phytotaxa.283.3.4							
 77158954-1	Racinaea dyeriana	(André) Barfuss & W.Till	Phytotaxa	279(1): 43	2016	1179-3155	10.11646/phytotaxa.279.1.1							
 77158955-1	Racinaea hamaleana	(É.Morren) Barfuss & W.Till	Phytotaxa	279(1): 44	2016	1179-3155	10.11646/phytotaxa.279.1.1							
 77158956-1	Racinaea venusta	(Mez & Wercklé) Barfuss & W.Till	Phytotaxa	279(1): 44	2016	1179-3155	10.11646/phytotaxa.279.1.1							
@@ -4992,3 +4992,503 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77148253-1	Billolivia tichii	Luu, Q.D.Nguyen & N.L.Vu	Phytotaxa	219(2): 190	2015	1179-3155	10.11646/phytotaxa.219.2.9							
 77138451-1	Billolivia vietnamensis	D.J.Middleton & Luu	Phytotaxa	161(4): 261	2014	1179-3155	10.11646/phytotaxa.161.4.1							
 77138452-1	Billolivia violacea	D.J.Middleton & H.J.Atkins	Phytotaxa	161(4): 262	2014	1179-3155	10.11646/phytotaxa.161.4.1							
+77174370-1	Caroxylon kleinfonteini	(Botsch.) Mucina	Phytotaxa	312(2): 164	2017	1179-3155								
+77173895-1	Tetraphylloides bengalensis	(C.B.Clarke) Doweld	Phytotaxa	329(3): 294	2017	1179-3155	10.11646/phytotaxa.329.3.13							
+77173896-1	Tetraphylloides confertiflora	(Drake) Doweld	Phytotaxa	329(3): 294	2017	1179-3155	10.11646/phytotaxa.329.3.13							
+77173897-1	Tetraphylloides roseus	(Stapf) Doweld	Phytotaxa	329(3): 294	2017	1179-3155	10.11646/phytotaxa.329.3.13							
+77174043-1	Vellozia filifolia	(L.B.Sm.) Mello-Silva	Phytotaxa	309(1): 42	2017	1179-3155	10.11646/phytotaxa.309.1.3							
+77174048-1	Pyrrosia annamensis	(Christ) Li Bing Zhang, X.M.Zhou & C.W.Chen	Phytotaxa	309(1): 90	2017	1179-3155	10.11646/phytotaxa.309.1.10							
+77174083-1	Meiogyne microflora	(H.Okada) B.Xue, M.F.Liu & R.M.K.Saunders	Phytotaxa	309(3): 298	2017	1179-3155	10.11646/phytotaxa.309.3.15							
+77174283-1	Goeppertia violacea	(Lindl.) J.M.A.Braga & F.Silva	Phytotaxa	312(1): 144	2017	1179-3155	10.11646/phytotaxa.312.1.15							
+77174284-1	Goeppertia koernickeana	(Regel) J.M.A.Braga	Phytotaxa	312(1): 145	2017	1179-3155	10.11646/phytotaxa.312.1.15							
+77174285-1	Goeppertia insignis	(W.Bull ex W.E.Marshall) J.M.A.Braga, L.J.T.Cardoso & R.Couto	Phytotaxa	312(1): 144	2017	1179-3155	10.11646/phytotaxa.312.1.15							
+77174297-1	Caroxylon acocksii	(Botsch.) Mucina	Phytotaxa	312(2): 155	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174298-1	Caroxylon adiscum	(Botsch.) Mucina	Phytotaxa	312(2): 155	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174299-1	Caroxylon adversariifolium	(Botsch.) Mucina	Phytotaxa	312(2): 155	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174301-1	Caroxylon aellenii	(Botsch.) Mucina	Phytotaxa	312(2): 155	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174303-1	Caroxylon albisepalum	(Aellen) Mucina	Phytotaxa	312(2): 156	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174305-1	Caroxylon angolense	(Botsch.) Mucina	Phytotaxa	312(2): 156	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174306-1	Caroxylon apiciflorum	(Botsch.) Mucina	Phytotaxa	312(2): 156	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174307-1	Caroxylon apterygeum	(Botsch.) Mucina	Phytotaxa	312(2): 157	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174309-1	Caroxylon arboreum	(C.A.Sm. ex Aellen) Mucina	Phytotaxa	312(2): 157	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174310-1	Caroxylon armatum	(C.A.Sm. ex Aellen) Mucina	Phytotaxa	312(2): 157	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174311-1	Caroxylon aroabicum	(Botsch.) Mucina	Phytotaxa	312(2): 158	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174312-1	Caroxylon atratum	(Botsch.) Mucina	Phytotaxa	312(2): 158	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174313-1	Caroxylon barbatum	(Aellen) Mucina	Phytotaxa	312(2): 158	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174314-1	Caroxylon caffrum	(Sparrm.) Mucina	Phytotaxa	312(2): 158	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174320-1	Caroxylon calluna	(Drège ex C.H.Wright) Theodorova ex Mucina	Phytotaxa	312(2): 158	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174322-1	Caroxylon campylopterum	(Botsch.) Mucina	Phytotaxa	312(2): 159	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174323-1	Caroxylon cauliflorum	(Botsch.) Mucina	Phytotaxa	312(2): 159	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174324-1	Caroxylon ceresicum	(Botsch.) Mucina	Phytotaxa	312(2): 159	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174326-1	Caroxylon contrariifolium	(Botsch.) Mucina	Phytotaxa	312(2): 159	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174327-1	Caroxylon cryptopterum	(Aellen) Mucina	Phytotaxa	312(2): 159	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174336-1	Caroxylon dealatum	(Botsch.) Mucina	Phytotaxa	312(2): 159	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174337-1	Caroxylon decussatum	(C.A.Sm. ex Botsch.) Mucina	Phytotaxa	312(2): 160	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174339-1	Caroxylon denudatum	(Botsch.) Mucina	Phytotaxa	312(2): 160	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174341-1	Caroxylon dinteri	(Botsch.) Mucina	Phytotaxa	312(2): 160	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174343-1	Caroxylon dolichostigmum	(Botsch.) Mucina	Phytotaxa	312(2): 160	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174344-1	Caroxylon esterhuyseniae	(Botsch.) Mucina	Phytotaxa	312(2): 161	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174345-1	Caroxylon etoshense	(Botsch.) Mucina	Phytotaxa	312(2): 161	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174346-1	Caroxylon exalatum	(Botsch.) Mucina	Phytotaxa	312(2): 162	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174347-1	Caroxylon garubicum	(Botsch.) Mucina	Phytotaxa	312(2): 162	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174349-1	Caroxylon geminiflorum	(Fenzl ex C.H.Wright) Mucina	Phytotaxa	312(2): 162	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174351-1	Caroxylon gemmatum	(Botsch.) Mucina	Phytotaxa	312(2): 162	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174352-1	Caroxylon gemmiferum	(Botsch.) Mucina	Phytotaxa	312(2): 162	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174354-1	Caroxylon gemmiparum	(Botsch.) Mucina	Phytotaxa	312(2): 163	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174357-1	Caroxylon glabrescens var. apiculatum	(Botsch.) Mucina	Phytotaxa	312(2): 163	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174358-1	Caroxylon glabrum	(Botsch.) Mucina	Phytotaxa	312(2): 163	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174360-1	Caroxylon hoanibicum	(Botsch.) Mucina	Phytotaxa	312(2): 163	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174362-1	Caroxylon hottentotticum	(Botsch.) Mucina	Phytotaxa	312(2): 164	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174364-1	Caroxylon huabicum	(Botsch.) Mucina	Phytotaxa	312(2): 164	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174365-1	Caroxylon inapertum	(Botsch.) Mucina	Phytotaxa	312(2): 164	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174367-1	Caroxylon kalaharicum	(Botsch.) Mucina	Phytotaxa	312(2): 164	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174373-1	Caroxylon koichabicum	(Botsch.) Mucina	Phytotaxa	312(2): 165	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174394-1	Caroxylon luederitzense	(Botsch.) Mucina	Phytotaxa	312(2): 165	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174395-1	Caroxylon marginatum	(Botsch.) Mucina	Phytotaxa	312(2): 165	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174396-1	Caroxylon melananthum	(Botsch.) Mucina	Phytotaxa	312(2): 165	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174397-1	Caroxylon merxmuelleri	(Aellen) Mucina	Phytotaxa	312(2): 165	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174398-1	Caroxylon microtrichum	(Botsch.) Mucina	Phytotaxa	312(2): 166	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174399-1	Caroxylon minutifolium	(Botsch.) Mucina	Phytotaxa	312(2): 166	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174400-1	Caroxylon mirabile	(Botsch.) Mucina	Phytotaxa	312(2): 166	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174401-1	Caroxylon namaqualandicum	(Botsch.) Mucina	Phytotaxa	312(2): 166	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174402-1	Caroxylon nigrescens	(C.A.Sm. ex I.Verd.) Mucina	Phytotaxa	312(2): 166	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174403-1	Caroxylon nollothense	(Aellen) Mucina	Phytotaxa	312(2): 167	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174404-1	Caroxylon okaukuejense	(Botsch.) Mucina	Phytotaxa	312(2): 167	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174405-1	Caroxylon omaruruense	(Botsch.) Mucina	Phytotaxa	312(2): 167	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174406-1	Caroxylon parviflorum	(Botsch.) Mucina	Phytotaxa	312(2): 167	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174407-1	Caroxylon patentipilosum	(Botsch.) Mucina	Phytotaxa	312(2): 167	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174408-1	Caroxylon pearsonii	(Botsch.) Mucina	Phytotaxa	312(2): 167	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174409-1	Caroxylon phillipsii	(Botsch.) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174410-1	Caroxylon pillansii	(Botsch.) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174411-1	Caroxylon procerum	(Botsch.) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174412-1	Caroxylon ptilopterum	(Botsch.) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174413-1	Caroxylon rabieanum	(C.A.Sm. ex I.Verd.) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174414-1	Caroxylon robinsonii	(Botsch.) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174415-1	Caroxylon ruschii	(Aellen) Mucina	Phytotaxa	312(2): 168	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174416-1	Caroxylon schreiberae	(Botsch.) Mucina	Phytotaxa	312(2): 169	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174417-1	Caroxylon scopiforme	(Botsch.) Mucina	Phytotaxa	312(2): 169	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174418-1	Caroxylon seminudum	(Botsch.) Mucina	Phytotaxa	312(2): 169	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174419-1	Caroxylon sericatum	(Botsch.) Mucina	Phytotaxa	312(2): 169	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174420-1	Caroxylon seydelii	(Botsch.) Mucina	Phytotaxa	312(2): 169	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174421-1	Caroxylon smithii	(Botsch.) Mucina	Phytotaxa	312(2): 169	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174422-1	Caroxylon spenceri	(Botsch.) Mucina	Phytotaxa	312(2): 170	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174423-1	Caroxylon squarrosulum	(Botsch.) Mucina	Phytotaxa	312(2): 170	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174424-1	Caroxylon swakopmundi	(Botsch.) Mucina	Phytotaxa	312(2): 170	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174425-1	Caroxylon tetramerum	(Botsch.) Mucina	Phytotaxa	312(2): 170	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174433-1	Caroxylon tuberculatiforme	(Botsch.) Mucina	Phytotaxa	312(2): 170	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174434-1	Caroxylon ugabicum	(Botsch.) Mucina	Phytotaxa	312(2): 171	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174435-1	Caroxylon unjabicum	(Botsch.) Mucina	Phytotaxa	312(2): 171	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174436-1	Caroxylon verdoorniae	(Toelken) Mucina	Phytotaxa	312(2): 171	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174438-1	Caroxylon warmbadicum	(Botsch.) Mucina	Phytotaxa	312(2): 171	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77174876-1	Argyrochosma flava	(Hook.) M.Kessler & A.R.Sm.	Phytotaxa	332(3): 206	2017	1179-3155	10.11646/phytotaxa.332.3.1							
+77174877-1	Argyrochosma tenera	(Gillies ex Hook.) M.Kessler & A.R.Sm.	Phytotaxa	332(3): 206	2017	1179-3155	10.11646/phytotaxa.332.3.1							
+77174879-1	Hypolepis rigescens var. buchtienii	(Rosenst.) Schwartsb.	Phytotaxa	332(3): 259	2017	1179-3155	10.11646/phytotaxa.332.3.2							
+77174915-1	Silene marschallii subsp. guicciardii	(Boiss. & Heldr.) Trigas, Kokkoris & Kougioum.	Phytotaxa	331(2): 282	2017	1179-3155	10.11646/phytotaxa.331.2.12							
+77174920-1	Christella clivalis	(A.R.Sm.) A.R.Sm.	Phytotaxa	331(1): 20	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174921-1	Christella grandis	(A.R.Sm.) A.R.Sm.	Phytotaxa	331(1): 20	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174922-1	Christella grandis var. kunzeana	(C.Chr.) A.R.Sm.	Phytotaxa	331(1): 20	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174923-1	Christella schizotis	(Hook.) A.R.Sm.	Phytotaxa	331(1): 21	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174927-1	Caroxylon imbricatum var. hirtitepalum	(Freitag) Falat., Freitag & Iamonico	Phytotaxa	331(1): 107	2017	1179-3155	10.11646/phytotaxa.331.1.8							
+77174941-1	Cardamine depressa subsp. stellata	(Hook.f.) Heenan	Phytotaxa	330(1): 65	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174968-1	Goeppertia lietzei	(É.Morren) Saka	Phytotaxa	329(3): 245	2017	1179-3155	10.11646/phytotaxa.329.3.5							
+77174970-1	Goeppertia wiotiana	(É.Morren) Saka	Phytotaxa	329(3): 247	2017	1179-3155	10.11646/phytotaxa.329.3.5							
+77174971-1	Goeppertia kegeljanii	(É.Morren) Saka	Phytotaxa	329(3): 249	2017	1179-3155	10.11646/phytotaxa.329.3.5							
+77175044-1	Caroxylon henriciae	(I.Verd.) Mucina	Phytotaxa	312(2): 163	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77175048-1	Caroxylon namibicum	(Botsch.) Mucina	Phytotaxa	312(2): 166	2017	1179-3155	10.11646/phytotaxa.312.2.1							
+77176061-1	Viola evae var. flossdorfii	(Hicken) Nicola	Phytotaxa	338(2): 235	2018	1179-3155	10.11646/phytotaxa.338.2.1							
+77176271-1	Callitriche brutia var. naftolskyi	(Warb. & Eig) Lansdown	Phytotaxa	313(1): 92	2017	1179-3155	10.11646/phytotaxa.313.1.6							
+77176274-1	Graellsia longistyla	(Poulter) Esmailbegi & Al-Shehbaz	Phytotaxa	313(1): 112	2017	1179-3155	10.11646/phytotaxa.313.1.7							
+77176296-1	Pteris terminalis var. fauriei	(Christ) Ebihara & Nakato	Phytotaxa	314(1): 76	2017	1179-3155	10.11646/phytotaxa.314.1.5							
+77176307-1	Persepolium salicornioides	(Jaub. & Spach) Yurtseva & Mavrodiev	Phytotaxa	314(2): 186	2017	1179-3155	10.11646/phytotaxa.314.2.1							
+77176308-1	Persepolium aridum	(Boiss. & Hausskn. ex Boiss.) Yurtseva & Mavrodiev	Phytotaxa	314(2): 186	2017	1179-3155	10.11646/phytotaxa.314.2.1							
+77176309-1	Persepolium dumosum	(Boiss.) Yurtseva & Mavrodiev	Phytotaxa	314(2): 186	2017	1179-3155	10.11646/phytotaxa.314.2.1							
+77176310-1	Persepolium spinosum	(H.Gross) Yurtseva & Mavrodiev	Phytotaxa	314(2): 187	2017	1179-3155	10.11646/phytotaxa.314.2.1							
+77176311-1	Persepolium khajeh-jamali	(Khosravi & Poormahdi) Yurtseva & Mavrodiev	Phytotaxa	314(2): 187	2017	1179-3155	10.11646/phytotaxa.314.2.1							
+77176431-1	Lomatium tenuissimum	(Geyer ex Hook.) Feist & G.M.Plunkett	Phytotaxa	316(1): 96	2017	1179-3155	10.11646/phytotaxa.316.1.11							
+77176432-1	Lomatium fusiformis	(S.Watson) J.F.Sm. & Mansfield	Phytotaxa	316(1): 96	2017	1179-3155	10.11646/phytotaxa.316.1.11							
+77176433-1	Lomatium linearifolium	(S.Watson) J.F.Sm. & Mansfield	Phytotaxa	316(1): 96	2017	1179-3155	10.11646/phytotaxa.316.1.11							
+77176434-1	Lomatium multifidum	(Nutt.) R.P.McNeill & Darrach	Phytotaxa	316(1): 97	2017	1179-3155	10.11646/phytotaxa.316.1.11							
+77176435-1	Lomatium planosum	(Osterh.) Mansfield & S.R.Downie	Phytotaxa	316(1): 97	2017	1179-3155	10.11646/phytotaxa.316.1.11							
+77176465-1	Althenia patentifolia	(E.L.Robertson) T.D.Macfarl. & D.D.Sokoloff	Phytotaxa	317(1): 58	2017	1179-3155	10.11646/phytotaxa.317.1.5							
+77176493-1	Pteridium esculentum subsp. campestre	(Schrad.) Schwartsb. & J.Prado	Phytotaxa	333(1): 32	2018	1179-3155	10.11646/phytotaxa.333.1.2							
+77176504-1	Roldana candicans	(Née) Villaseñor, S.Valencia & Coombes	Phytotaxa	333(2): 256	2018	1179-3155	10.11646/phytotaxa.333.2.9							
+77176544-1	Hesperis isatidea	(Boiss.) D.A.German & Al-Shehbaz	Phytotaxa	334(1): 97	2018	1179-3155	10.11646/phytotaxa.334.1.17							
+77176576-1	Ranunculus algidus	(Kapit.) A.A.Bobrov	Phytotaxa	319(1): 23	2017	1179-3155	10.11646/phytotaxa.319.1.1							
+77176581-1	Orobanche subsect. Curvatae	(Beck) Piwow., Ó.Sánchez & Moreno Mor.	Phytotaxa	319(2): 133	2017	1179-3155	10.11646/phytotaxa.319.2.1							
+77176599-1	Ctenitis distans var. isabellina	(Fée) R.S.Viveros & Salino	Phytotaxa	335(1): 41	2018	1179-3155	10.11646/phytotaxa.385.1.1							
+77176600-1	Ctenitis refulgens var. peruviana	(C.Chr.) R.S.Viveros & Salino	Phytotaxa	335(1): 68	2018	1179-3155	10.11646/phytotaxa.385.1.1							
+77176601-1	Ctenitis submarginalis var. tenuifolia	(C.Presl) R.S.Viveros & Salino	Phytotaxa	335(1): 73	2018	1179-3155	10.11646/phytotaxa.385.1.1							
+77176602-1	Thismia sect. Geomitra	(Becc.) Kumar & S.W.Gale	Phytotaxa	319(3): 233	2017	1179-3155	10.11646/phytotaxa.319.3.2							
+77176603-1	Thismia sect. Scaphiophora	(Schltr.) Kumar & S.W.Gale	Phytotaxa	319(3): 234	2017	1179-3155	10.11646/phytotaxa.319.3.2							
+77176606-1	Pyankovia sect. Brachyphylla	(Iljin ex U.P.Pratov) Mosyakin & Roalson	Phytotaxa	319(3): 267	2017	1179-3155	10.11646/phytotaxa.319.3.5							
+77176607-1	Pyankovia affinis	(C.A.Mey. ex Schrenk) Mosyakin & Roalson	Phytotaxa	319(3): 267	2017	1179-3155	10.11646/phytotaxa.319.3.5							
+77176608-1	Pyankovia roborowskii	(Iljin) Mosyakin & Roalson	Phytotaxa	319(3): 267	2017	1179-3155	10.11646/phytotaxa.319.3.5							
+77176629-1	Cheiridopsis angustifolia subsp. protoparcoides	(S.A.Hammer) R.F.Powell	Phytotaxa	336(3): 299	2018	1179-3155	10.11646/phytotaxa.336.3.9							
+77176897-1	Alatavia pskemensis	(Rukšāns) M.B.Crespo, Mart.-Azorín & Mavrodiev	Phytotaxa	321(3): 294	2017	1179-3155	10.11646/phytotaxa.321.3.7							
+77177438-1	Eutrema minutissimum	(O.E.Schulz) D.A.German & Al-Shehbaz	Phytotaxa	338(2): 217	2018	1179-3155	10.11646/phytotaxa.338.2.7							
+77177441-1	Senecio hyoseridis	(Benth.) L.Salomón & S.E.Freire	Phytotaxa	340(1): 17	2018	1179-3155	10.11646/phytotaxa.340.1.1							
+77177444-1	Senecio ser. Repentes	(Cabrera) L.Salomón & S.E.Freire	Phytotaxa	340(1): 31	2018	1179-3155	10.11646/phytotaxa.340.1.1							
+77177447-1	Urtica thunbergiana subsp. dentata	(Hand.-Mazz.) K.Becker & Weigend	Phytotaxa	323(3): 209	2017	1179-3155	10.11646/phytotaxa.323.3.1							
+77177456-1	Anathallis convallium	(Kraenzl.) Karremans & Mel.Fernández	Phytotaxa	340(2): 130	2018	1179-3155	10.11646/phytotaxa.340.2.2							
+77177482-1	Amauropelta amambayensis	(Christ) Salino & A.R.Sm.	Phytotaxa	340(2): 176	2018	1179-3155	10.11646/phytotaxa.340.2.6							
+77177483-1	Christella berroi	(C.Chr.) Salino & A.R.Sm.	Phytotaxa	340(2): 178	2018	1179-3155	10.11646/phytotaxa.340.2.6							
+77177484-1	Goniopteris fraseri	(Mett. ex Kuhn) Salino & A.R.Sm.	Phytotaxa	340(2): 178	2018	1179-3155	10.11646/phytotaxa.340.2.6							
+77177492-1	Amaranthus aellenii nothosubsp. monteluccii	(Cacciato) Iamonico & Galasso	Phytotaxa	340(2): 195	2018	1179-3155	10.11646/phytotaxa.340.2.11							
+77177493-1	Amaranthus ozanonii nothosubsp. romanus	(Iamonico) Iamonico & Galasso	Phytotaxa	340(2): 195	2018	1179-3155	10.11646/phytotaxa.340.2.11							
+77177528-1	Viola cassinensis subsp. pseudogracilis	(A.Terracc.) Bartolucci, Galasso & Wagens.	Phytotaxa	340(3): 287	2018	1179-3155	10.11646/phytotaxa.340.3.9							
+77177568-1	Acanthopsis glabra	(Nees) H.M.Steyn	Phytotaxa	324(2): 104	2017	1179-3155	10.11646/phytotaxa.324.2.1							
+77177617-1	Oedera garnotii	(Less.) N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177619-1	Oedera acerosa	(DC.) N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177621-1	Oedera dieterlenii	(E.Phillips) N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177623-1	Oedera montana	(Bolus) N.G.Bergh	Phytotaxa	344(2): 119	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177624-1	Oedera longipes	(K.Bremer) N.G.Bergh	Phytotaxa	344(2): 119	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177625-1	Oedera virgata	(N.E.Br.) N.G.Bergh	Phytotaxa	344(2): 119	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177627-1	Oedera pungens	(L'Hér.) N.G.Bergh	Phytotaxa	344(2): 120	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177628-1	Oedera calycina	(L.f.) N.G.Bergh	Phytotaxa	344(2): 120	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177629-1	Oedera speciosa	(DC.) N.G.Bergh	Phytotaxa	344(2): 120	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177630-1	Oedera sect. Rosenia	(Thunb.) N.G.Bergh	Phytotaxa	344(2): 120	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177631-1	Oedera flavicoma	(DC.) N.G.Bergh	Phytotaxa	344(2): 121	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177632-1	Oedera glandulosa	(Thunb.) N.G.Bergh	Phytotaxa	344(2): 121	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177633-1	Oedera spinescens	(DC.) N.G.Bergh	Phytotaxa	344(2): 121	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177634-1	Oedera oppositifolia	(DC.) N.G.Bergh	Phytotaxa	344(2): 121	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177635-1	Oedera humilis	(Less.) N.G.Bergh	Phytotaxa	344(2): 121	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177636-1	Oedera sect. Relhania	(L'Hér.) N.G.Bergh	Phytotaxa	344(2): 122	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177637-1	Oedera corymbosa	(Bolus) N.G.Bergh	Phytotaxa	344(2): 122	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177638-1	Oedera tricephala	(DC.) N.G.Bergh	Phytotaxa	344(2): 123	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177639-1	Oedera spathulifolia	(K.Bremer) N.G.Bergh	Phytotaxa	344(2): 123	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177640-1	Oedera rotundifolia	(Less.) N.G.Bergh	Phytotaxa	344(2): 123	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177641-1	Oedera fruticosa	(L.) N.G.Bergh	Phytotaxa	344(2): 123	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177642-1	Oedera relhanioides	(Schltr.) N.G.Bergh	Phytotaxa	344(2): 123	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177653-1	Pourthiaea sorbifolia	(W.B.Liao & W.Guo) B.B.Liu & D.Y.Hong	Phytotaxa	325(1): 18	2017	1179-3155	10.11646/phytotaxa.325.1.1							
+77177655-1	Pourthiaea arguta subsp. pustulata	(Lindl.) B.B.Liu & D.Y.Hong	Phytotaxa	325(1): 21	2017	1179-3155	10.11646/phytotaxa.325.1.1							
+77177661-1	Impatiens agastyamalayensis	(Bhaskar) A.Joe, Bhaskar & M.Sabu	Phytotaxa	326(2): 145	2017	1179-3155	10.11646/phytotaxa.326.2.6							
+77177669-1	Xenophyllum juniperinum	(Hieron.) J.Calvo	Phytotaxa	326(3): 228	2017	1179-3155	10.11646/phytotaxa.326.3.7							
+77177681-1	Acanthocereus canoensis	(P.R.House, Gómez-Hin. & H.M.Hern.) S.Arias & N.Korotkova	Phytotaxa	327(1): 18	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177682-1	Selenicereus alliodorus	(Gómez-Hin. & H.M.Hern.) S.Arias & N.Korotkova	Phytotaxa	327(1): 24	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177683-1	Selenicereus costaricensis	(F.A.C.Weber) S.Arias & N.Korotkova	Phytotaxa	327(1): 25	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177684-1	Selenicereus glaber	(Eichlam) S.Arias & N.Korotkova	Phytotaxa	327(1): 25	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177685-1	Selenicereus glaber subsp. mirandae	(Bravo) S.Arias & N.Korotkova	Phytotaxa	327(1): 25	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177686-1	Selenicereus purpusii	(Weing.) S.Arias & N.Korotkova	Phytotaxa	327(1): 28	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177687-1	Selenicereus tonduzii	(F.A.C.Weber) S.Arias & N.Korotkova	Phytotaxa	327(1): 29	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177688-1	Selenicereus trigonus	(Haw.) S.Arias & N.Korotkova	Phytotaxa	327(1): 29	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177690-1	Kimnachia ramulosa	(Salm-Dyck) S.Arias & N.Korotkova	Phytotaxa	327(1): 30	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177691-1	Kimnachia ramulosa f. angustissima	(F.A.C.Weber) S.Arias & N.Korotkova	Phytotaxa	327(1): 31	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177692-1	Strophocactus brasiliensis	(Britton & Rose) S.Arias & N.Korotkova	Phytotaxa	327(1): 33	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177693-1	Strophocactus sicariguensis	(Croizat & Tamayo) S.Arias & N.Korotkova	Phytotaxa	327(1): 33	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177698-1	Abrodictyum parviflorum	(Poir.) Bauret & Dubuisson	Phytotaxa	327(3): 211	2017	1179-3155	10.11646/phytotaxa.327.3.1							
+77177704-1	Augustea moreirana	(Muñoz-Schick) Iamonico & Montesinos	Phytotaxa	327(3): 299	2017	1179-3155	10.11646/phytotaxa.327.3.11							
+77177707-1	Parkinsonia andicola	(Griseb.) Varjão & Mansano	Phytotaxa	344(3): 295	2018	1179-3155	10.11646/phytotaxa.344.3.11							
+77177724-1	Didymoglossum punctatum subsp. sphenoides	(Kunze) A.R.Sm. & M.Kessler	Phytotaxa	328(3): 206	2017	1179-3155	10.11646/phytotaxa.328.3.1							
+77177726-1	Polyphlebium herzogii	(Rosenst.) A.R.Sm. & M.Kessler	Phytotaxa	328(3): 219	2017	1179-3155	10.11646/phytotaxa.328.3.1							
+77177733-1	Garcinia albuquerquei	(M.E.Berg) Bittrich	Phytotaxa	329(1): 15	2017	1179-3155	10.11646/phytotaxa.329.1.1							
+77177769-1	Lophophytum pyramidale	(Leandro) L.J.T.Cardoso & J.M.A.Braga	Phytotaxa	345(3): 281	2018	1179-3155	10.11646/phytotaxa.345.3.4							
+77177772-1	Oedera decussata	(L'Hér.) N.G.Bergh	Phytotaxa	344(2): 119	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177773-1	Kimnachia ramulosa subsp. jamaicensis	(Britton & Harris) S.Arias & N.Korotkova	Phytotaxa	327(1): 31	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+60476063-2	Asarum rosei	Sinn	Phytotaxa	319(3): 298	2017	1179-3155	10.11646/phytotaxa.319.3.10							
+77173649-1	Cinnamomum baitelloanum	van der Werff & P.L.R.Moraes	Phytotaxa	316(2): 150	2017	1179-3155	10.11646/phytotaxa.316.2.4							
+77173651-1	Mezilaurus sessiliflora	P.L.R.Moraes & M.C.Vergne	Phytotaxa	316(2): 153	2017	1179-3155	10.11646/phytotaxa.316.2.4							
+77173652-1	Williamodendron itamarajuense	P.L.R.Moraes	Phytotaxa	316(2): 157	2017	1179-3155	10.11646/phytotaxa.316.2.4							
+77173885-1	Tetraphylloides	Doweld	Phytotaxa	329(3): 293	2017	1179-3155	10.11646/phytotaxa.329.3.13							
+77173886-1	subtrib. Tetraphylloidinae	Doweld	Phytotaxa	329(3): 293	2017	1179-3155	10.11646/phytotaxa.329.3.13							
+77174036-1	Sedum danjoense	Takuro Ito, H.Nakan. & Kokub.	Phytotaxa	309(1): 31	2017	1179-3155	10.11646/phytotaxa.309.1.2							
+77174041-1	Vellozia ornithophila	Mello-Silva	Phytotaxa	309(1): 37	2017	1179-3155	10.11646/phytotaxa.309.1.3							
+77174042-1	Vellozia linearis	Mello-Silva	Phytotaxa	309(1): 39	2017	1179-3155	10.11646/phytotaxa.309.1.3							
+77174044-1	Polystichum hastipinnum	G.D.Tang & Li Bing Zhang	Phytotaxa	309(1): 66	2017	1179-3155	10.11646/phytotaxa.309.1.6							
+77174046-1	Clusia goscinnyi	J.E.Nascim. & Bittrich	Phytotaxa	309(1): 86	2017	1179-3155	10.11646/phytotaxa.309.1.9							
+77174071-1	Barringtonia laxiflora	Thammar., Pornp. & Chantar.	Phytotaxa	309(2): 151	2017	1179-3155	10.11646/phytotaxa.309.2.6							
+77174072-1	Barringtonia parkinsonii	Thammar., Pornp. & Chantar.	Phytotaxa	309(2): 153	2017	1179-3155	10.11646/phytotaxa.309.2.6							
+77174073-1	Barringtonia tomentosa	Thammar., Pornp. & Chantar.	Phytotaxa	309(2): 154	2017	1179-3155	10.11646/phytotaxa.309.2.6							
+77174074-1	Saxifraga kegangii	D.G.Zhang, Ying Meng & M.H.Zhang	Phytotaxa	309(2): 161	2017	1179-3155	10.11646/phytotaxa.309.2.7							
+77174075-1	Hieracium joannis	Szeląg	Phytotaxa	309(2): 173	2017	1179-3155	10.11646/phytotaxa.309.2.9							
+77174077-1	Trigynaea flagelliflora	Lobão	Phytotaxa	309(2): 193	2017	1179-3155	10.11646/phytotaxa.309.2.13							
+77174078-1	Sageretia liuzhouensis	Yi Yang & H.Sun	Phytotaxa	309(3): 232	2017	1179-3155	10.11646/phytotaxa.309.3.3							
+77174079-1	Magnolia alejandrae	García-Mor. & Iamonico	Phytotaxa	309(3): 239	2017	1179-3155	10.11646/phytotaxa.309.3.4							
+77174080-1	Senecio ticsanicus	Montesinos & Trinidad	Phytotaxa	309(3): 272	2017	1179-3155	10.11646/phytotaxa.309.3.9							
+77174081-1	Rohdea extrorsandra	Odyuo, D.K.Roy & Aver.	Phytotaxa	309(3): 283	2017	1179-3155	10.11646/phytotaxa.309.3.11							
+77174085-1	Taraxacum sect. Squamulosa	Kirschner & Štěpánek	Phytotaxa	312(1): 7	2017	1179-3155	10.11646/phytotaxa.312.1.1							
+77174086-1	Taraxacum stenotegulatum	Kirschner & Štěpánek	Phytotaxa	312(1): 10	2017	1179-3155	10.11646/phytotaxa.312.1.1							
+77174087-1	Taraxacum persquamulosum	Kirschner & Štěpánek	Phytotaxa	312(1): 13	2017	1179-3155	10.11646/phytotaxa.312.1.1							
+77174088-1	Taraxacum tenuiculum	Kirschner & Štěpánek	Phytotaxa	312(1): 16	2017	1179-3155	10.11646/phytotaxa.312.1.1							
+77174280-1	Aspidistra quangngaiensis	N.S.Lý, Haev. & Tillich	Phytotaxa	312(1): 123	2017	1179-3155	10.11646/phytotaxa.312.1.11							
+77174282-1	Thismia bryndonei	Tsukaya, Suetsugu & Suleiman	Phytotaxa	312(1): 135	2017	1179-3155	10.11646/phytotaxa.312.1.13							
+77174286-1	Aspidistra maguanensis	S.Z.He & D.H.Lv	Phytotaxa	312(1): 147	2017	1179-3155	10.11646/phytotaxa.312.1.16							
+77174439-1	Peliosanthes hirsuta	Aver. & N.Tanaka	Phytotaxa	312(2): 200	2017	1179-3155	10.11646/phytotaxa.312.2.3							
+77174440-1	Peliosanthes griffithii var. breviracemosa	Aver. & N.Tanaka	Phytotaxa	312(2): 203	2017	1179-3155	10.11646/phytotaxa.312.2.3							
+77174441-1	Tupistra gracilis	Aver. & N.Tanaka	Phytotaxa	312(2): 207	2017	1179-3155	10.11646/phytotaxa.312.2.3							
+77174640-1	Salix alexeii	Kottaim.	Phytotaxa	332(3): 299	2017	1179-3155	10.11646/phytotaxa.332.3.9							
+77174878-1	Hypolepis periculosa	Schwartsb.	Phytotaxa	332(3): 257	2017	1179-3155	10.11646/phytotaxa.332.3.2							
+77174880-1	Hypolepis woodii	Schwartsb.	Phytotaxa	332(3): 260	2017	1179-3155	10.11646/phytotaxa.332.3.2							
+77174881-1	Pteridium esculentum subsp. gryphus	Schwartsb.	Phytotaxa	332(3): 264	2017	1179-3155	10.11646/phytotaxa.332.3.2							
+77174882-1	Aristolochia involuta	X.X.Zhu, Z.X.Ma & J.S.Ma	Phytotaxa	332(3): 269	2017	1179-3155	10.11646/phytotaxa.332.3.3							
+77174883-1	Aristolochia hainanensis subsp. yingjiangensis	X.X.Zhu & J.S.Ma	Phytotaxa	332(3): 273	2017	1179-3155	10.11646/phytotaxa.332.3.3							
+77174884-1	Lippia ganevii	Salimena & Múlgura	Phytotaxa	332(3): 297	2017	1179-3155	10.11646/phytotaxa.332.3.8							
+77174885-1	Besleria physaloides	O.L.Cortés	Phytotaxa	332(2): 182	2017	1179-3155	10.11646/phytotaxa.332.2.5							
+77174886-1	Besleria silverstoneana	O.L.Cortés	Phytotaxa	332(2): 185	2017	1179-3155	10.11646/phytotaxa.332.2.5							
+77174899-1	Strobilanthes jomyi	P.Biju, Josekutty, Rekha & J.R.I.Wood	Phytotaxa	332(1): 75	2017	1179-3155	10.11646/phytotaxa.332.1.8							
+77174903-1	Justicia barapaniensis	P.Soumya & Sunojk.	Phytotaxa	332(1): 98	2017	1179-3155	10.11646/phytotaxa.332.1.12							
+77174905-1	Memecylon incisilobum	R.D.Stone & I.G.Mona	Phytotaxa	331(2): 152	2017	1179-3155	10.11646/phytotaxa.331.2.1							
+77174906-1	Memecylon nubigenum	R.D.Stone & I.G.Mona	Phytotaxa	331(2): 158	2017	1179-3155	10.11646/phytotaxa.331.2.1							
+77174907-1	Memecylon rovumense	R.D.Stone & I.G.Mona	Phytotaxa	331(2): 160	2017	1179-3155	10.11646/phytotaxa.331.2.1							
+77174908-1	Memecylon aenigmaticum	R.D.Stone	Phytotaxa	331(2): 163	2017	1179-3155	10.11646/phytotaxa.331.2.1							
+77174909-1	Limonium ilergabonum	López-Alvarado, Cobacho, Arán & L.Sáez	Phytotaxa	331(2): 201	2017	1179-3155	10.11646/phytotaxa.331.2.4							
+77174910-1	Phytolacca exiensis	D.G.Zhang, L.Q.Huang & D.Xie	Phytotaxa	331(2): 227	2017	1179-3155	10.11646/phytotaxa.331.2.6							
+77174911-1	Pinus vallartensis	Pérez de la Rosa & Gernandt	Phytotaxa	331(2): 234	2017	1179-3155	10.11646/phytotaxa.331.2.7							
+77174912-1	Spigelia ayotzinapensis	L.O.Alvarado, Islas-Hern. & Bustam.	Phytotaxa	331(2): 244	2017	1179-3155	10.11646/phytotaxa.331.2.8							
+77174913-1	Spigelia mocinoi	Islas-Hern. & L.O.Alvarado	Phytotaxa	331(2): 247	2017	1179-3155	10.11646/phytotaxa.331.2.8							
+77174914-1	Rhabdosciadium anatolyi	Lyskov & Kljuykov	Phytotaxa	331(2): 258	2017	1179-3155	10.11646/phytotaxa.331.2.9							
+77174916-1	Amauropelta boliviana	A.R.Sm.	Phytotaxa	331(1): 7	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174917-1	Amauropelta glabrescens	A.R.Sm.	Phytotaxa	331(1): 11	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174918-1	Amauropelta lanceolata	A.R.Sm.	Phytotaxa	331(1): 12	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174919-1	Amauropelta subacrostichoides	A.R.Sm.	Phytotaxa	331(1): 17	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174925-1	Steiropteris glabra	A.R.Sm. & M.Kessler	Phytotaxa	331(1): 30	2017	1179-3155	10.11646/phytotaxa.331.1.1							
+77174926-1	Alchemilla mazandarana	Naqinezhad & S.E.Fröhner	Phytotaxa	331(1): 94	2017	1179-3155	10.11646/phytotaxa.331.1.7							
+77174928-1	Piper jianfenglingense	C.Y.Hao & Y.H.Tan	Phytotaxa	331(1): 111	2017	1179-3155	10.11646/phytotaxa.331.1.9							
+77174929-1	Agapetes brevipedicellata	Y.H.Tan & S.S.Zhou	Phytotaxa	331(1): 118	2017	1179-3155	10.11646/phytotaxa.331.1.10							
+77174931-1	Polystichum zhijinense	Li Bing Zhang, Yi F.Duan & Kropf	Phytotaxa	331(1): 124	2017	1179-3155	10.11646/phytotaxa.331.1.11							
+77174933-1	Cardamine alalata	Heenan	Phytotaxa	330(1): 33	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174934-1	Cardamine alticola	Heenan	Phytotaxa	330(1): 36	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174935-1	Cardamine basicola	Heenan	Phytotaxa	330(1): 38	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174936-1	Cardamine bisetosa	Heenan	Phytotaxa	330(1): 42	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174937-1	Cardamine caesiella	Heenan	Phytotaxa	330(1): 44	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174938-1	Cardamine chlorina	Heenan	Phytotaxa	330(1): 46	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174939-1	Cardamine coronata	Heenan	Phytotaxa	330(1): 49	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174940-1	Cardamine dactyloides	Heenan	Phytotaxa	330(1): 58	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174942-1	Cardamine dilatata	Heenan	Phytotaxa	330(1): 67	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174943-1	Cardamine dimidia	Heenan	Phytotaxa	330(1): 69	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174944-1	Cardamine dolichostyla	Heenan	Phytotaxa	330(1): 73	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174945-1	Cardamine eminentia	Heenan	Phytotaxa	330(1): 77	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174946-1	Cardamine exigua	Heenan	Phytotaxa	330(1): 79	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174947-1	Cardamine glara	Heenan	Phytotaxa	330(1): 90	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174948-1	Cardamine grandiscapa	Heenan	Phytotaxa	330(1): 94	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174949-1	Cardamine heleniae	Heenan	Phytotaxa	330(1): 97	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174950-1	Cardamine integra	Heenan	Phytotaxa	330(1): 104	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174951-1	Cardamine intonsa	Heenan	Phytotaxa	330(1): 106	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174952-1	Cardamine megalantha	Heenan	Phytotaxa	330(1): 112	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174953-1	Cardamine mutabilis	Heenan	Phytotaxa	330(1): 114	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174954-1	Cardamine pachyphylla	Heenan	Phytotaxa	330(1): 118	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174955-1	Cardamine parvula	Heenan	Phytotaxa	330(1): 120	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174956-1	Cardamine polyodontes	Heenan	Phytotaxa	330(1): 122	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174957-1	Cardamine porphyroneura	Heenan	Phytotaxa	330(1): 125	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174958-1	Cardamine reptans	Heenan	Phytotaxa	330(1): 129	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174959-1	Cardamine sciaphila	Heenan	Phytotaxa	330(1): 131	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174960-1	Cardamine serpentina	Heenan	Phytotaxa	330(1): 134	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174961-1	Cardamine sinuatifolia	Heenan	Phytotaxa	330(1): 136	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174962-1	Cardamine thalassica	Heenan	Phytotaxa	330(1): 139	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174963-1	Cardamine unguiculus	Heenan	Phytotaxa	330(1): 142	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174965-1	Cardamine unicaulis	Heenan	Phytotaxa	330(1): 144	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174966-1	Cardamine verna	Heenan	Phytotaxa	330(1): 146	2017	1179-3155	10.11646/phytotaxa.330.1.1							
+77174967-1	Pleroma carajasense	K.Rocha, R.Goldenb. & F.S.Mey.	Phytotaxa	329(3): 234	2017	1179-3155	10.11646/phytotaxa.329.3.4							
+77174969-1	Goeppertia pusilla	Saka	Phytotaxa	329(3): 247	2017	1179-3155	10.11646/phytotaxa.329.3.5							
+77174972-1	Vellozia pyrantha	A.A.Conc.	Phytotaxa	329(3): 253	2017	1179-3155	10.11646/phytotaxa.329.3.6							
+77176063-1	Camellia psilocarpa	X.G.Shi & C.X.Ye	Phytotaxa	338(2): 211	2018	1179-3155	10.11646/phytotaxa.338.2.6							
+77176263-1	Mimosa osmarii	Jordão, M.P.Morim, Baumgratz & Marc.F.Simon	Phytotaxa	312(2): 239	2017	1179-3155	10.11646/phytotaxa.312.2.6							
+77176266-1	Cerastium cylindricum	Poursakhi & Assadi	Phytotaxa	312(2): 288	2017	1179-3155	10.11646/phytotaxa.312.2.12							
+77176267-1	Serjania perulacea var. krapovickasii	Coulleri & Ferrucci	Phytotaxa	313(1): 38	2017	1179-3155	10.11646/phytotaxa.313.1.2							
+77176268-1	Serjania perulacea var. chacoensis	Coulleri & Ferrucci	Phytotaxa	313(1): 38	2017	1179-3155	10.11646/phytotaxa.313.1.2							
+77176269-1	Aristolochia hyperxantha	X.X.Zhu & J.S.Ma	Phytotaxa	313(1): 69	2017	1179-3155	10.11646/phytotaxa.313.1.4							
+77176272-1	Graellsia isfahan	Esmailbegi & Al-Shehbaz	Phytotaxa	313(1): 110	2017	1179-3155	10.11646/phytotaxa.313.1.7							
+77176278-1	Pilea nonggangensis	Y.G.Wei, L.F.Fu & A.K.Monro	Phytotaxa	313(1): 133	2017	1179-3155	10.11646/phytotaxa.313.1.9							
+77176279-1	Adenia angulosa	G.W.Hu & Q.F.Wang	Phytotaxa	313(1): 138	2017	1179-3155	10.11646/phytotaxa.313.1.10							
+77176282-1	Aspidistra viridiflora	Vislobokov & Nuraliev	Phytotaxa	313(2): 203	2017	1179-3155	10.11646/phytotaxa.313.2.6							
+77176283-1	Dendrophorbium chopinii	Montesinos	Phytotaxa	313(2): 211	2017	1179-3155	10.11646/phytotaxa.313.2.7							
+77176284-1	subfam. Callicarpoideae	Bo Li & Olmstead	Phytotaxa	313(2): 222	2017	1179-3155	10.11646/phytotaxa.313.2.9							
+77176285-1	subfam. Tectonoideae	Bo Li & Olmstead	Phytotaxa	313(2): 223	2017	1179-3155	10.11646/phytotaxa.313.2.9							
+77176286-1	Impatiens pseudolaevigata	Gogoi, B.B.T.Tham & Lidén	Phytotaxa	313(2): 227	2017	1179-3155	10.11646/phytotaxa.313.2.10							
+77176287-1	Phaseolus debouckii	A.Delgado	Phytotaxa	313(3): 260	2017	1179-3155	10.11646/phytotaxa.313.3.3							
+77176288-1	Amorimia subgen. Uncinae	R.F.Almeida	Phytotaxa	313(3): 244	2017	1179-3155	10.11646/phytotaxa.313.3.1							
+77176289-1	Impatiens wolfgangii	J.Lali & Bhaskar	Phytotaxa	313(3): 281	2017	1179-3155	10.11646/phytotaxa.313.3.6							
+77176292-1	Peperomia tubericordata	G.Mathieu	Phytotaxa	313(3): 293	2017	1179-3155	10.11646/phytotaxa.313.3.9							
+77176293-1	Polystichum luteoviride	Li Bing Zhang, Yi F.Duan, N.T.Lu & Liang Zhang	Phytotaxa	313(3): 296	2017	1179-3155	10.11646/phytotaxa.313.3.10							
+77176294-1	Acrocomia corumbaensi	S.A.Vianna	Phytotaxa	314(1): 46	2017	1179-3155	10.11646/phytotaxa.314.1.2							
+77176297-1	Geranium rubricum	Heenan & Courtney	Phytotaxa	314(1): 90	2017	1179-3155	10.11646/phytotaxa.314.1.7							
+77176298-1	Thismia brunneomitroides	Suetsugu & Tsukaya	Phytotaxa	314(1): 104	2017	1179-3155	10.11646/phytotaxa.314.1.9							
+77176300-1	Aspilia pseudocalea	G.H.L. da Silva & A.M.Teles	Phytotaxa	314(1): 117	2017	1179-3155	10.11646/phytotaxa.314.1.11							
+77176303-1	Phyllagathis phamhoangii	V.T.Pham, V.T.Chinh & Ranil	Phytotaxa	314(1): 141	2017	1179-3155	10.11646/phytotaxa.314.1.15							
+77176304-1	Paris nitida	G.W.Hu, Zhi Wang & Q.F.Wang	Phytotaxa	314(1): 145	2017	1179-3155	10.11646/phytotaxa.314.1.16							
+77176306-1	Persepolium	Yurtseva & Mavrodiev	Phytotaxa	314(2): 185	2017	1179-3155	10.11646/phytotaxa.314.2.1							
+77176316-1	Oxalis canaliculata	Dreyer, Roets & Oberl.	Phytotaxa	314(2): 235	2017	1179-3155	10.11646/phytotaxa.314.2.4							
+77176317-1	Oxalis canaliculata var. trifoliolata	Dreyer, Roets & Oberl.	Phytotaxa	314(2): 236	2017	1179-3155	10.11646/phytotaxa.314.2.4							
+77176318-1	Oxalis canaliculata var. graniticola	Dreyer, Roets & Oberl.	Phytotaxa	314(2): 236	2017	1179-3155	10.11646/phytotaxa.314.2.4							
+77176319-1	Oxalis magnifolia	Dreyer, Roets & Oberl.	Phytotaxa	314(2): 237	2017	1179-3155	10.11646/phytotaxa.314.2.4							
+77176320-1	Oxalis magnifolia var. reduplicata	Dreyer, Roets & Oberl.	Phytotaxa	314(2): 239	2017	1179-3155	10.11646/phytotaxa.314.2.4							
+77176321-1	Calochortus ownbeyi	M.A.García-Mart., Aarón Rodr. & H.P.McDonald	Phytotaxa	314(2): 242	2017	1179-3155	10.11646/phytotaxa.314.2.5							
+77176322-1	Zanthoxylum unifoliolatum	Groppo & Pirani	Phytotaxa	314(2): 260	2017	1179-3155	10.11646/phytotaxa.314.2.7							
+77176323-1	Duguetia sulcosa	M.L.Bazante & M.Alves	Phytotaxa	314(2): 266	2017	1179-3155	10.11646/phytotaxa.314.2.8							
+77176350-1	Sciaphila sugimotoi	Suetsugu & T.Nishioka	Phytotaxa	314(2): 280	2017	1179-3155	10.11646/phytotaxa.314.2.10							
+77176355-1	Lavoisiera arachnoidea	Almeda & A.B.Martins	Phytotaxa	315(1): 51	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176356-1	Lavoisiera belinelloi	A.B.Martins & Almeda	Phytotaxa	315(1): 54	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176357-1	Lavoisiera canastrensis	Almeda & A.B.Martins	Phytotaxa	315(1): 60	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176358-1	Lavoisiera daviesiana	Almeda & A.B.Martins	Phytotaxa	315(1): 87	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176359-1	Lavoisiera minima	A.B.Martins & Almeda	Phytotaxa	315(1): 128	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176360-1	Lavoisiera rundeliana	Almeda & A.B.Martins	Phytotaxa	315(1): 154	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176361-1	Lavoisiera setosa	A.B.Martins & Almeda	Phytotaxa	315(1): 164	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176362-1	Lavoisiera vestita	Almeda & A.B.Martins	Phytotaxa	315(1): 171	2017	1179-3155	10.11646/phytotaxa.315.1.1							
+77176421-1	Microlicia nortecipoana	R.B.Pacifico, Fidanza & Almeda	Phytotaxa	316(1): 40	2017	1179-3155	10.11646/phytotaxa.316.1.3							
+77176422-1	Microlicia obovatifolia	R.B.Pacifico, Fidanza & Almeda	Phytotaxa	316(1): 45	2017	1179-3155	10.11646/phytotaxa.316.1.3							
+77176430-1	Lomatium lithosolamans	J.F.Sm. & Feist	Phytotaxa	316(1): 96	2017	1179-3155	10.11646/phytotaxa.316.1.11							
+77176451-1	Aquilegia xinjiangensis	Erst	Phytotaxa	316(2): 122	2017	1179-3155	10.11646/phytotaxa.316.2.2							
+77176452-1	Aquilegia hebeica	Erst	Phytotaxa	316(2): 127	2017	1179-3155	10.11646/phytotaxa.316.2.2							
+77176453-1	Piper magen	B.Q.Cheng ex C.L.Long & Jun Yang	Phytotaxa	316(2): 189	2017	1179-3155	10.11646/phytotaxa.316.2.8							
+77176460-1	Reinwardtia glandulifera	Y.H.Tan, S.S.Zhou & B.Yang	Phytotaxa	316(3): 297	2017	1179-3155	10.11646/phytotaxa.316.3.10							
+77176461-1	Ceratozamia chamberlainii	Mart.-Domínguez, Nic.-Mor. & D.W.Stev.	Phytotaxa	317(1): 22	2017	1179-3155	10.11646/phytotaxa.317.1.2							
+77176464-1	Althenia hearnii	T.D.Macfarl. & D.D.Sokoloff	Phytotaxa	317(1): 54	2017	1179-3155	10.11646/phytotaxa.317.1.5							
+77176469-1	Xylopia annoniflora	Pombo & Zartman	Phytotaxa	317(2): 131	2017	1179-3155	10.11646/phytotaxa.317.2.5							
+77176470-1	Leptochilus mengsongensis	M.X.Zhao	Phytotaxa	317(2): 144	2017	1179-3155	10.11646/phytotaxa.317.2.7							
+77176473-1	Impatiens walongensis	Hareesh, M.Sabu & Borah	Phytotaxa	317(3): 226	2017	1179-3155	10.11646/phytotaxa.317.3.7							
+77176492-1	Pteridium esculentum var. paedomorficum	Schwartsb. & J.Prado	Phytotaxa	333(1): 30	2018	1179-3155	10.11646/phytotaxa.333.1.2							
+77176494-1	Pteridium esculentum var. harpianum	Schwartsb. & A.Yañez	Phytotaxa	333(1): 36	2018	1179-3155	10.11646/phytotaxa.333.1.2							
+77176495-1	Limonium admirabile	Terrones, J.Moreno, M.Á.Alonso, Juan & M.B.Crespo	Phytotaxa	333(1): 45	2018	1179-3155	10.11646/phytotaxa.333.1.3							
+77176496-1	Impatiens wuerstenii	S.B.Janssens & Dessein	Phytotaxa	333(1): 75	2018	1179-3155	10.11646/phytotaxa.333.1.5							
+77176499-1	Pedicularis munzurdaghensis	Armağan	Phytotaxa	333(1): 125	2018	1179-3155	10.11646/phytotaxa.333.1.10							
+77176502-1	Saxifraga viridipetala	Z.X.Zhang & Gornall	Phytotaxa	333(2): 230	2018	1179-3155	10.11646/phytotaxa.333.2.6							
+77176503-1	Sonerila lateritica	Resmi, Manudev & Nampy	Phytotaxa	333(2): 236	2018	1179-3155	10.11646/phytotaxa.333.2.7							
+77176507-1	Hymenasplenium hastifolium	K.W.Xu, Li Bing Zhang & W.B.Liao	Phytotaxa	333(2): 281	2018	1179-3155	10.11646/phytotaxa.333.2.13							
+77176509-1	Primulina hengshanensis	L.H.Liu & K.M.Liu	Phytotaxa	333(2): 293	2018	1179-3155	10.11646/phytotaxa.333.2.15							
+77176515-1	Paronychia sanchez-vegae	Montesinos & Kool	Phytotaxa	334(1): 44	2018	1179-3155	10.11646/phytotaxa.334.1.6							
+77176516-1	Euscaphis japonica var. wupingensis	B.P.Cai & Z.R.Chen	Phytotaxa	334(1): 56	2018	1179-3155	10.11646/phytotaxa.334.1.8							
+77176517-1	Tupistra cardinalis	Aver., N.Tanaka & Son	Phytotaxa	334(1): 60	2018	1179-3155	10.11646/phytotaxa.334.1.9							
+77176518-1	Thismia bokorensis	Suetsugu & Tsukaya	Phytotaxa	334(1): 65	2018	1179-3155	10.11646/phytotaxa.334.1.10							
+77176519-1	Wikstroemia bokorensis	E.Oguri & Tagane	Phytotaxa	317(4): 281	2017	1179-3155	10.11646/phytotaxa.317.4.2							
+77176520-1	Melastoma kemamanense	L.Neo & K.M.Wong	Phytotaxa	317(4): 287	2017	1179-3155	10.11646/phytotaxa.317.4.3							
+77176521-1	Salacia fugax	Lombardi & M.Serna	Phytotaxa	317(4): 292	2017	1179-3155	10.11646/phytotaxa.317.4.4							
+77176527-1	Acantholimon davisii	Akaydın & M.B.Crespo	Phytotaxa	334(1): 80	2018	1179-3155	10.11646/phytotaxa.334.1..13							
+77176549-1	Blechnum tomentosum	M.Kessler & A.R.Sm.	Phytotaxa	334(2): 105	2018	1179-3155	10.11646/phytotaxa.334.2.1							
+77176553-1	Parablechnum wohlgemuthii	M.Kessler & A.R.Sm.	Phytotaxa	334(2): 113	2018	1179-3155	10.11646/phytotaxa.334.2.1							
+77176561-1	Diplazium exindusiatum	M.Kessler & A.R.Sm.	Phytotaxa	334(2): 146	2018	1179-3155	10.11646/phytotaxa.334.2.4							
+77176578-1	Mucuna laticifera	Ingalh., N.V.Page & S.S.Gaikwad	Phytotaxa	319(1): 118	2017	1179-3155	10.11646/phytotaxa.319.1.8							
+77176579-1	Orobanche mlokosiewiczii	Piwow., Ó.Sánchez & Moreno Mor.	Phytotaxa	319(2): 125	2017	1179-3155	10.11646/phytotaxa.319.2.1							
+77176582-1	Orobanche ser. Krylowianae	Piwow., Ó.Sánchez & Moreno Mor.	Phytotaxa	319(2): 134	2017	1179-3155	10.11646/phytotaxa.319.2.1							
+77176589-1	Impatiens saulierea	B.Mani, S.Thomas & Britto	Phytotaxa	334(3): 234	2018	1179-3155	10.11646/phytotaxa.334.3.4							
+77176590-1	Impatiens josephia	S.Thomas, B.Mani & Britto	Phytotaxa	334(3): 236	2018	1179-3155	10.11646/phytotaxa.334.3.4							
+77176592-1	Phlegmariurus stephani	B.Øllg.	Phytotaxa	334(3): 283	2018	1179-3155	10.11646/phytotaxa.334.3.7							
+77176593-1	Senecio espiritosantensis	A.M.Teles	Phytotaxa	334(3): 297	2018	1179-3155	10.11646/phytotaxa.334.3.9							
+77176605-1	Salicornia cuscoensis	Gutte & G.K.Müll. ex Freitag, M.Á.Alonso & M.B.Crespo	Phytotaxa	319(3): 255	2017	1179-3155	10.11646/phytotaxa.319.3.4							
+77176610-1	Epimedium muhuangense	S.Z.He & Y.Y.Wang	Phytotaxa	319(3): 277	2017	1179-3155	10.11646/phytotaxa.319.3.7							
+77176611-1	Petrocosmea magnifica	M.Q.Han & Yan Liu	Phytotaxa	319(3): 283	2017	1179-3155	10.11646/phytotaxa.319.3.8							
+77176612-1	Genlisea multiflora	A.Fleischm. & S.M.Costa	Phytotaxa	319(3): 290	2017	1179-3155	10.11646/phytotaxa.319.3.9							
+77176616-1	Oxytropis ocrensis	F.Conti & Bartolucci	Phytotaxa	336(1): 77	2018	1179-3155	10.11646/phytotaxa.336.1.5							
+77176617-1	Monoon namkadingense	Soulad. & Tagane	Phytotaxa	336(1): 83	2018	1179-3155	10.11646/phytotaxa.336.1.6							
+77176618-1	Neo-uvaria laosensis	Tagane & Soulad.	Phytotaxa	336(1): 85	2018	1179-3155	10.11646/phytotaxa.336.1.6							
+77176620-1	Hemiboea crystallina	Y.M.Shui & W.H.Chen	Phytotaxa	336(1): 95	2018	1179-3155	10.11646/phytotaxa.336.1.8							
+77176623-1	Ozothamnus filifolius	Puttock	Phytotaxa	336(2): 191	2018	1179-3155	10.11646/phytotaxa.336.2.6							
+77176624-1	Ozothamnus vespertinus	R.W.Davis, Wege & Schmidt-Leb.	Phytotaxa	336(2): 193	2018	1179-3155	10.11646/phytotaxa.336.2.6							
+77176625-1	Erysimum nemrutdaghense	Mutlu	Phytotaxa	336(3): 243	2018	1179-3155	10.11646/phytotaxa.336.3.2							
+77176626-1	Homalolepis planaltina	Devecchi & Pirani	Phytotaxa	336(3): 253	2018	1179-3155	10.11646/phytotaxa.336.3.3							
+77176627-1	Homalolepis pumila	Devecchi & Pirani	Phytotaxa	336(3): 257	2018	1179-3155	10.11646/phytotaxa.336.3.3							
+77176628-1	Cyathea ruttenbergae	A.Tejedor & F.Areces	Phytotaxa	336(3): 280	2018	1179-3155	10.11646/phytotaxa.336.3.6							
+77176630-1	Cheiridopsis spiculata	R.F.Powell	Phytotaxa	336(3): 299	2018	1179-3155	10.11646/phytotaxa.336.3.9							
+77176633-1	Manfreda occidentalis	Art.Castro & Aarón Rodr.	Phytotaxa	321(1): 64	2017	1179-3155	10.11646/phytotaxa.321.1.2							
+77176634-1	Impatiens casseabriae	Y.H.Tan, S.S.Zhou & B.Yang	Phytotaxa	321(1): 104	2017	1179-3155	10.11646/phytotaxa.321.1.4							
+77176635-1	Impatiens putaoensis	Y.H.Tan, S.S.Zhou & B.Yang	Phytotaxa	321(1): 107	2017	1179-3155	10.11646/phytotaxa.321.1.4							
+77177405-1	Impatiens decurva	Ruchis. & S.B.Janssens	Phytotaxa	338(1): 64	2018	1179-3155	10.11646/phytotaxa.338.1.5							
+77177406-1	Impatiens hartnolliae	Hook.f. ex Ruchis. & Suksathan	Phytotaxa	338(1): 67	2018	1179-3155	10.11646/phytotaxa.338.1.5							
+77177407-1	Impatiens oblongata	Ruchis. & Niet	Phytotaxa	338(1): 70	2018	1179-3155	10.11646/phytotaxa.338.1.5							
+77177408-1	Hydnora arabica	Bolin & Musselman	Phytotaxa	338(1): 100	2018	1179-3155	10.11646/phytotaxa.338.1.8							
+77177409-1	Peperomia asarifolioides	R.García Mart. & Beutelsp.	Phytotaxa	338(1): 110	2018	1179-3155	10.11646/phytotaxa.338.1.9							
+77177410-1	Peperomia pseudoasarifolia	Callejas & G.Mathieu	Phytotaxa	338(1): 112	2018	1179-3155	10.11646/phytotaxa.338.1.9							
+77177412-1	Vantanea maculicarpa	Sabatier & Engel	Phytotaxa	338(1): 131	2018	1179-3155	10.11646/phytotaxa.338.1.12							
+77177414-1	Linaria yusufeliensis	A.Galán, Makbul & Hamzaoğlu	Phytotaxa	338(1): 149	2018	1179-3155	10.11646/phytotaxa.338.1.16							
+77177419-1	Polystichum alluvium	Li Bing Zhang, N.T.Lu & Yi F.Duan	Phytotaxa	323(1): 88	2017	1179-3155	10.11646/phytotaxa.323.1.8							
+77177422-1	Angraecum gereauanum	Stévart & Ječmenica	Phytotaxa	323(2): 147	2017	1179-3155	10.11646/phytotaxa.323.2.3							
+77177423-1	Angraecum geerinckianum	Stévart & Ječmenica	Phytotaxa	323(2): 151	2017	1179-3155	10.11646/phytotaxa.323.2.3							
+77177424-1	Angraecum oliveirae	Stévart & Ječmenica	Phytotaxa	323(2): 153	2017	1179-3155	10.11646/phytotaxa.323.2.3							
+77177437-1	Barleria lebomboensis	I.Darbysh., McCleland & Froneman	Phytotaxa	323(2): 174	2017	1179-3155	10.11646/phytotaxa.323.2.5							
+77177440-1	Justicia segoviaensis	P.Soumya & Sunojk.	Phytotaxa	338(2): 222	2018	1179-3155	10.11646/phytotaxa.338.2.9							
+77177442-1	Impatiens nilalohitae	Hareesh & M.Sabu	Phytotaxa	323(2): 192	2017	1179-3155	10.11646/phytotaxa.323.2.7							
+77177445-1	Acantholimon ibrahimii	Akaydın	Phytotaxa	340(1): 49	2018	1179-3155	10.11646/phytotaxa.340.1.2							
+77177448-1	Urtica thunbergiana subsp. silvatica	K.Becker & Weigend	Phytotaxa	323(3): 211	2017	1179-3155	10.11646/phytotaxa.323.3.1							
+77177449-1	Vochysia condorensis	Huamantupa & D.A.Neill	Phytotaxa	340(1): 80	2018	1179-3155	10.11646/phytotaxa.340.1.6							
+77177450-1	Urtica thunbergiana subsp. perserrata	K.Becker & Weigend	Phytotaxa	323(3): 213	2017	1179-3155	10.11646/phytotaxa.323.3.1							
+77177451-1	Hyobanche hanekomii	A.Wolfe	Phytotaxa	340(1): 93	2018	1179-3155	10.11646/phytotaxa.340.1.8							
+77177452-1	Urtica grandidentata subsp. lombok	K.Becker & Weigend	Phytotaxa	323(3): 227	2017	1179-3155	10.11646/phytotaxa.323.3.2							
+77177454-1	Cremospermopsis galaxias	J.L.Clark & Clavijo	Phytotaxa	323(3): 283	2017	1179-3155	10.11646/phytotaxa.323.3.7							
+77177455-1	Impatiens trigonopteris	Hook.f. ex Arisdason & Gogoi	Phytotaxa	323(3): 295	2017	1179-3155	10.11646/phytotaxa.323.3.9							
+77177478-1	Plantago zoellneriana	Hassemer	Phytotaxa	340(2): 141	2018	1179-3155	10.11646/phytotaxa.340.2.3							
+77177479-1	Plantago nebularis	Hassemer	Phytotaxa	340(2): 141	2018	1179-3155	10.11646/phytotaxa.340.2.3							
+77177481-1	Steiropteris alstonii	Salino & A.R.Sm.	Phytotaxa	340(2): 176	2018	1179-3155	10.11646/phytotaxa.340.2.6							
+77177487-1	Sticherus holttumii	L.V.Lima & Salino	Phytotaxa	340(2): 182	2018	1179-3155	10.11646/phytotaxa.340.2.7							
+77177488-1	Hieracium jurassicum subsp. serrapretense	Di Grist., Gottschl. & Scafidi	Phytotaxa	340(2): 186	2018	1179-3155	10.11646/phytotaxa.340.2.8							
+77177523-1	Polygala azizsancarii	Dönmez	Phytotaxa	340(3): 256	2018	1179-3155	10.11646/phytotaxa.340.3.5							
+77177524-1	Saussurea ramchaudharyi	Ghimire & H.K.Rana	Phytotaxa	340(3): 272	2018	1179-3155	10.11646/phytotaxa.340.3.7							
+77177553-1	Aconitum wumengense	J.He & E.D.Liu	Phytotaxa	343(1): 60	2018	1179-3155	10.11646/phytotaxa.343.1.5							
+77177557-1	Linaria argillicola	Juan, Blanca, Cueto, J.Fuentes & L.Sáez	Phytotaxa	343(2): 130	2018	1179-3155	10.11646/phytotaxa.343.2.3							
+77177559-1	Zehneria longiflora	G.W.Hu & Q.F.Wang	Phytotaxa	324(1): 89	2017	1179-3155	10.11646/phytotaxa.324.1.7							
+77177560-1	Diplazium yinchanianum	Zi Y.Liu, H.J.Wei & Y.H.Yan	Phytotaxa	343(2): 143	2018	1179-3155	10.11646/phytotaxa.343.2.4							
+77177562-1	Turnera spicata	L.Rocha & Arbo	Phytotaxa	343(2): 168	2018	1179-3155	10.11646/phytotaxa.343.2.7							
+77177569-1	Acanthopsis nitida	H.M.Steyn	Phytotaxa	324(2): 111	2017	1179-3155	10.11646/phytotaxa.324.2.1							
+77177570-1	Acanthopsis glandulopalmata	H.M.Steyn	Phytotaxa	324(2): 113	2017	1179-3155	10.11646/phytotaxa.324.2.1							
+77177572-1	Acanthopsis insueta	H.M.Steyn	Phytotaxa	324(2): 115	2017	1179-3155	10.11646/phytotaxa.324.2.1							
+77177577-1	Sonerila victoriae	Soumya & Maya	Phytotaxa	324(2): 188	2017	1179-3155	10.11646/phytotaxa.324.2.7							
+77177579-1	Microlepia kerrii	S.J.Moore	Phytotaxa	324(2): 193	2017	1179-3155	10.11646/phytotaxa.324.2.8							
+77177580-1	Microlepia thailandensis	S.J.Moore	Phytotaxa	324(2): 195	2017	1179-3155	10.11646/phytotaxa.324.2.8							
+77177584-1	Pteridrys costularis	Li Bing Zhang, Liang Zhang, N.T.Lu & X.M.Zhou	Phytotaxa	324(3): 279	2017	1179-3155	10.11646/phytotaxa.324.3.4							
+77177585-1	Pteridrys hanoiensis	Li Bing Zhang, Liang Zhang, N.T.Lu & X.M.Zhou	Phytotaxa	324(3): 282	2017	1179-3155	10.11646/phytotaxa.324.3.4							
+77177587-1	Pteridrys vietnamensis	Li Bing Zhang, Liang Zhang, N.T.Lu & X.M.Zhou	Phytotaxa	324(3): 285	2017	1179-3155	10.11646/phytotaxa.324.3.4							
+77177588-1	Eriocaulon idukkianum	Manudev, Robi & Nampy	Phytotaxa	324(3): 289	2017	1179-3155	10.11646/phytotaxa.324.3.5							
+77177594-1	Cousinia boyerahmadica	Rastegar, Attar & Mirtadz.	Phytotaxa	343(3): 228	2018	1179-3155	10.11646/phytotaxa.343.3.3							
+77177595-1	Cousinia deluensis	Attar, Mozaff. & Mirtadz.	Phytotaxa	343(3): 231	2018	1179-3155	10.11646/phytotaxa.343.3.3							
+77177596-1	Cousinia masulehensis	Attar & Rastegar	Phytotaxa	343(3): 231	2018	1179-3155	10.11646/phytotaxa.343.3.3							
+77177598-1	Microlicia caatingae	J.Coelho & R.Romero	Phytotaxa	343(3): 241	2018	1179-3155	10.11646/phytotaxa.343.3.4							
+77177599-1	Microlicia urceolata	J.Coelho & R.Romero	Phytotaxa	343(3): 244	2018	1179-3155	10.11646/phytotaxa.343.3.4							
+77177603-1	Petrocodon asterocalyx	F.Wen, Y.G.Wei & R.L.Zhang	Phytotaxa	343(3): 262	2018	1179-3155	10.11646/phytotaxa.343.3.6							
+77177604-1	Begonia adamsensis	Magtoto & Rubite	Phytotaxa	343(3): 290	2018	1179-3155	10.11646/phytotaxa.343.3.10							
+77177607-1	Oenothera issleri	Renner ex Rostański	Phytotaxa	343(3): 293	2018	1179-3155	10.11646/phytotaxa.343.3.11							
+77177608-1	Oenothera issleri var. silesiacoides	Rostański & V.Jehlík	Phytotaxa	343(3): 296	2018	1179-3155	10.11646/phytotaxa.343.3.11							
+77177611-1	Passiflora sect. Apodae	A.Hern. ex M.A.Buitr.A. & Coca	Phytotaxa	344(1): 17	2018	1179-3155	10.11646/phytotaxa.344.1.2							
+77177612-1	Passiflora kumandayi	M.A.Buitr.A. & Coca	Phytotaxa	344(1): 17	2018	1179-3155	10.11646/phytotaxa.344.1.2							
+77177614-1	Dendrophorbium capixabense	J.Calvo & Roque	Phytotaxa	344(1): 48	2018	1179-3155	10.11646/phytotaxa.344.1.6							
+77177615-1	Centaurea francoi	Figueiredo & Gideon F.Sm.	Phytotaxa	344(1): 99	2018	1179-3155	10.11646/phytotaxa.344.1.18							
+77177616-1	Oedera sect. Tetraquetrae	N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177618-1	Oedera sect. Acerosae	N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177620-1	Oedera sect. Lesothoa	N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177622-1	Oedera sect. Stipitatae	N.G.Bergh	Phytotaxa	344(2): 118	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177626-1	Oedera sect. Calycinae	N.G.Bergh	Phytotaxa	344(2): 119	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177643-1	Oedera sect. Glabratae	N.G.Bergh	Phytotaxa	344(2): 123	2018	1179-3155	10.11646/phytotaxa.344.2.1							
+77177656-1	Harpalyce torresii	São-Mateus & M.Sousa	Phytotaxa	344(2): 161	2018	1179-3155	10.11646/phytotaxa.344.2.4							
+77177657-1	Harpalyce yucatanense	Miranda ex São-Mateus & M.Sousa	Phytotaxa	344(2): 163	2018	1179-3155	10.11646/phytotaxa.344.2.4							
+77177658-1	Aster oliganthus	W.P.Li & Zhi Li	Phytotaxa	326(1): 57	2017	1179-3155	10.11646/phytotaxa.326.1.4							
+77177659-1	Osbeckia saddlepeakensis	Prashob, Manudev, Sibichen & Nampy	Phytotaxa	344(2): 186	2018	1179-3155	10.11646/phytotaxa.344.2.7							
+77177660-1	Cyathea leoniae	M.E.Acuña & Huamán	Phytotaxa	344(2): 192	2018	1179-3155	10.11646/phytotaxa.344.2.8							
+77177665-1	Pterospermum wilkieanum	Doweld	Phytotaxa	326(3): 191	2017	1179-3155	10.11646/phytotaxa.326.3.3							
+77177666-1	Cinnamomum kalbaricum	Doweld	Phytotaxa	326(3): 192	2017	1179-3155	10.11646/phytotaxa.326.3.3							
+77177667-1	Cinnamomum weddellii	Doweld	Phytotaxa	326(3): 193	2017	1179-3155	10.11646/phytotaxa.326.3.3							
+77177668-1	Rafflesia kemumu	Susatya, Hidayati & Riki	Phytotaxa	326(3): 212	2017	1179-3155	10.11646/phytotaxa.326.3.5							
+77177671-1	Ilex calcicola	W.B.Liao & K.W.Xu	Phytotaxa	326(4): 246	2017	1179-3155	10.11646/phytotaxa.326.4.2							
+77177672-1	Cinnamomum gamblei	Geethakum., Deepu & Pandur.	Phytotaxa	326(4): 252	2017	1179-3155	10.11646/phytotaxa.326.4.3							
+77177673-1	Primula centellifolia	G.Hao, C.M.Hu & Y.Xu	Phytotaxa	326(4): 259	2017	1179-3155	10.11646/phytotaxa.326.4.4							
+77177674-1	Impatiens haridasanii	Hareesh & M.Sabu	Phytotaxa	326(4): 264	2017	1179-3155	10.11646/phytotaxa.326.4.5							
+77177676-1	Gleadovia konyakianorum	Odyuo, D.K.Roy & Aver.	Phytotaxa	326(4): 274	2017	1179-3155	10.11646/phytotaxa.326.4.7							
+77177677-1	Saxofridericia brasiliensis	P.E.Berry & Krahl	Phytotaxa	326(4): 285	2017	1179-3155	10.11646/phytotaxa.326.4.9							
+77177678-1	Clematis pettimudiensis	K.M.P.Kumar, R.Jagad. & G.Prasad	Phytotaxa	326(4): 289	2017	1179-3155	10.11646/phytotaxa.326.4.10							
+77177679-1	Paris caojianensis	B.Z.Duan & Yu Yu Liu	Phytotaxa	326(4): 297	2017	1179-3155	10.11646/phytotaxa.326.4.12							
+77177689-1	Kimnachia	S.Arias & N.Korotkova	Phytotaxa	327(1): 30	2017	1179-3155	10.11646/phytotaxa.327.1.1							
+77177696-1	Ficus diamantina	A.F.P.Machado & L.P.Queiroz	Phytotaxa	327(2): 196	2017	1179-3155	10.11646/phytotaxa.327.2.9							
+77177697-1	Abrodictyum cylindratum	Dubuisson	Phytotaxa	327(3): 209	2017	1179-3155	10.11646/phytotaxa.327.3.1							
+77177701-1	Ruellia anamariae	A.S.Reis, A.Gil & Kameyama	Phytotaxa	327(3): 277	2017	1179-3155	10.11646/phytotaxa.327.3.7							
+77177706-1	Rubus prissanicus	Kosiński, Maliński & Ziel.	Phytotaxa	344(3): 240	2018	1179-3155	10.11646/phytotaxa.344.3.4							
+77177708-1	Aster lingii	G.J.Zhang & T.G.Gao	Phytotaxa	344(3): 298	2018	1179-3155	10.11646/phytotaxa.344.3.12							
+77177711-1	Noccaea birolmutlui	Özgişi & Özüdoğru	Phytotaxa	345(1): 60	2018	1179-3155	10.11646/phytotaxa.345.1.7							
+77177713-1	Psacalium villosum	Villaseñor, Hinojosa & Redonda-Mart.	Phytotaxa	345(1): 74	2018	1179-3155	10.11646/phytotaxa.345.1.9							
+77177714-1	Sticherus salinoi	L.V.Lima	Phytotaxa	345(1): 80	2018	1179-3155	10.11646/phytotaxa.345.1.10							
+77177716-1	Aponogeton wolfgangianus	S.R.Yadav	Phytotaxa	328(1): 84	2017	1179-3155	10.11646/phytotaxa.328.1.5							
+77177717-1	Magnolia montebelloensis	A.Vázquez & Pérez-Farr.	Phytotaxa	328(2): 104	2017	1179-3155	10.11646/phytotaxa.328.2.1							
+77177718-1	Vellozia fontellana	R.J.V.Alves & N.G.Silva	Phytotaxa	328(2): 142	2017	1179-3155	10.11646/phytotaxa.328.2.4							
+77177720-1	Oreocharis purpurata	B.Pan, M.Q.Han & Yan Liu	Phytotaxa	328(2): 183	2017	1179-3155	10.11646/phytotaxa.328.2.9							
+77177721-1	Heteropolygonatum wugongshanensis	G.X.Chen, Ying Meng & J.W.Xiao	Phytotaxa	328(2): 194	2017	1179-3155	10.11646/phytotaxa.328.2.10							
+77177725-1	Hymenophyllum jimenezii	A.R.Sm. & M.Kessler	Phytotaxa	328(3): 214	2017	1179-3155	10.11646/phytotaxa.328.3.1							
+77177728-1	Fritillaria phitosii	Kamari, Zahos & Siagou	Phytotaxa	328(3): 231	2017	1179-3155	10.11646/phytotaxa.328.3.2							
+77177729-1	Populus luzae	A.Vázquez, Muñiz-Castro & Padilla-Lepe	Phytotaxa	328(3): 245	2017	1179-3155	10.11646/phytotaxa.328.3.3							
+77177730-1	Aloe belitsakensis	Rakotoaris.	Phytotaxa	328(3): 277	2017	1179-3155	10.11646/phytotaxa.328.3.6							
+77177738-1	Brunellia lobinii	Böhnert & Weigend	Phytotaxa	329(2): 108	2017	1179-3155	10.11646/phytotaxa.329.2.1							
+77177740-1	subtrib. Pachitinae	G.Z.Chen, Z.J.Liu & S.P.Chen	Phytotaxa	329(2): 125	2017	1179-3155	10.11646/phytotaxa.329.2.2							
+77177742-1	Cyathea alsophiloides	S.Maciel & Lehnert	Phytotaxa	329(2): 160	2017	1179-3155	10.11646/phytotaxa.329.2.6							
+77177743-1	Cyathea cylindrica	S.Maciel & Lehnert	Phytotaxa	329(2): 162	2017	1179-3155	10.11646/phytotaxa.329.2.6							
+77177744-1	Cyathea lellingeriana	S.Maciel & J.Prado	Phytotaxa	329(2): 163	2017	1179-3155	10.11646/phytotaxa.329.2.6							
+77177745-1	Oreocharis parviflora	Lei Cai & Z.K.Wu	Phytotaxa	329(2): 167	2017	1179-3155	10.11646/phytotaxa.329.2.7							
+77177747-1	Berberis yingii	Doweld	Phytotaxa	329(2): 181	2017	1179-3155	10.11646/phytotaxa.329.2.9							
+77177748-1	Actinodaphne notabilis	Doweld	Phytotaxa	329(2): 180	2017	1179-3155	10.11646/phytotaxa.329.2.9							
+77177749-1	Symplocos ecuadorica	Doweld	Phytotaxa	329(2): 181	2017	1179-3155	10.11646/phytotaxa.329.2.9							
+77177750-1	Paris qiliangiana	H.Li, Jun Yang & Y.H.Wang	Phytotaxa	329(2): 193	2017	1179-3155	10.11646/phytotaxa.329.2.13							
+77177752-1	Strychnos nana	E.S.Brandão	Phytotaxa	329(3): 263	2017	1179-3155	10.11646/phytotaxa.329.3.7							
+77177766-1	Crotalaria nallamalayana	Rasingam & J.Swamy	Phytotaxa	345(2): 159	2018	1179-3155	10.11646/phytotaxa.345.2.7							
+77177768-1	Silene goksuensis	Budak, Hamzaoğlu & Koç	Phytotaxa	345(2): 171	2018	1179-3155	10.11646/phytotaxa.345.2.9							

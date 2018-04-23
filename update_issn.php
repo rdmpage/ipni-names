@@ -11,6 +11,9 @@ $db->Connect("localhost",
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
+$db->EXECUTE("set names 'utf8'"); 
+
+
 //----------------------------------------------------------------------------------------
 function get_issn($journal)
 {
@@ -39,6 +42,7 @@ $sql = 'select distinct `Publication` from `names` where updated > "2015-12-06"'
 $sql = 'select distinct `Publication` from `names` where updated > "2017-04-16"';
 
 $sql = 'select distinct `Publication` from `names` where updated > "2017-08-28"';
+$sql = 'select distinct `Publication` from `names` where updated > "2018-04-08"';
 
 $result = $db->Execute('SET max_heap_table_size = 1024 * 1024 * 1024');
 $result = $db->Execute('SET tmp_table_size = 1024 * 1024 * 1024');

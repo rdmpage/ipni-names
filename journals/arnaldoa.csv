@@ -167,8 +167,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 320105-2	Verbesina crassicephala	Sagást. & Quipuscoa	Arnaldoa	6(1): 44 (-46; fig. 2)	2000 (1999; 1999 publ. Apr 2000)	1815-8242								
 320106-2	Nasa umbraculifera	E.Rodr. & Weigend	Arnaldoa	6(1): 51 (49-56; figs. 1-2)	2000 (1999; 1999 publ. Apr 2000)	1815-8242								
 320107-2	Telipogon sayakoae	D.E.Benn. & Christenson	Arnaldoa	6(1): 61 (-64; fig. 1; photogrs. 1-2)	2000 (1999; 1999 publ. Apr 2000)	1815-8242								
-320108-2	Jaltomata lezamae	S.Leiva & Mione	Arnaldoa	6(1): 66 (-69; fig. 1; photogr. 1)	2000 (1999; 1999 publ. Apr 2000)	1815-8242								
-320109-2	Jaltomata salpoensis	S.Leiva & Mione	Arnaldoa	6(1): 69 (-72; fig. 2; photogr. 2)	2000 (1999; 1999 publ. Apr 2000)	1815-8242								
+320108-2	Jaltomata lezamae	S.Leiva & Mione	Arnaldoa	6(1): 66 (-69; fig. 1; photogr. 1)	2000 (1999; 1999 publ. Apr 2000)	1815-8242		139984						
+320109-2	Jaltomata salpoensis	S.Leiva & Mione	Arnaldoa	6(1): 69 (-72; fig. 2; photogr. 2)	2000 (1999; 1999 publ. Apr 2000)	1815-8242		139984						
 321604-2	Mikania hensoldiana	Sánchez Vega & M.O.Dillon	Arnaldoa	7(1-2): 7 (-12; fig. 1)	2001 (2000; 2000 publ. Apr 2001)	1815-8242			40624177					
 321605-2	Nasa picta subsp. pamparomasii	Weigend & E.Rodr.	Arnaldoa	7(1-2): 22 (-23)	2001 (2000; 2000 publ. Apr 2001)	1815-8242			40624162					
 322507-2	Critoniopsis ayabacensis	Sagást. & M.O.Dillon	Arnaldoa	8(1): 26 (25-28; fig. 1)	2001 [30 Oct 2001]	1815-8242		139968						
@@ -340,3 +340,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77158309-1	Corryocactus dillonii	A.Pauca & Quip.	Arnaldoa	22(2): 315	2015	1815-8242								
 77158304-1	Lomanthus cuatrecasasii	(Cabrera) P.Gonzáles	Arnaldoa	23(1): 114	2016	1815-8242								
 77158303-1	Lomanthus cantensis	(Cabrera) P.Gonzáles	Arnaldoa	23(1): 114	2016	1815-8242								
+77177567-1	Browallia termophylla	S.Leiva, Tantalean & Peláez	Arnaldoa	23(2): 418	2016	1815-8242	10.22497/arnaldoa.232.23201							
+77177571-1	Deprea sawyeriana subsp. valladolidana	Deanna, Barboza & S.Leiva	Arnaldoa	23(2): 428	2016	1815-8242	10.22497/arnaldoa.232.23202							
+77177573-1	Salpichroa salpoensis	S.Leiva	Arnaldoa	23(2): 435	2016	1815-8242	10.22497/arnaldoa.232.23203							
+77177578-1	Gentianella quipuscoana	J.S.Pringle	Arnaldoa	24(1): 10	2017	1815-8242	10.22497/arnaldoa.241.24101							
+77177581-1	Salpichroa weigendii	S.Leiva, Jara & Barboza	Arnaldoa	24(1): 38	2017	1815-8242	10.22497/arnaldoa.241.24103							
+77177586-1	Iochroma viridescens	S.Leiva	Arnaldoa	24(1): 73	2017	1815-8242	10.22497/arnaldoa.241.24105							
+77177590-1	Jaltomata aricapampae	S.Leiva & Mione	Arnaldoa	24(1): 200	2017	1815-8242	10.22497/arnaldoa.241.24106							

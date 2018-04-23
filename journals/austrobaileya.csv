@@ -3319,12 +3319,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 999034-1	Leptochloa southwoodii	N.Snow & B.K.Simon	Austrobaileya	5(1): 138 (1997)	1997	0155-4131				41729929				
 999035-1	Lilaeopsis brisbanica	A.R.Bean	Austrobaileya	5(1): 145 (1997)	1997	0155-4131				41729930				
 999036-1	Microcarpaea agonis	A.R.Bean	Austrobaileya	5(1): 149 (1997)	1997	0155-4131				41729931				
-77144248-1	Ptilotus senarius	A.R.Bean	Austrobaileya	9(2): 203	2014	0155-4131								
-77151458-1	Olearia cuneifolia	A.R.Bean & M.T.Mathieson	Austrobaileya	9(3): 404	2015	0155-4131								
+77144248-1	Ptilotus senarius	A.R.Bean	Austrobaileya	9(2): 203	2014	0155-4131				43869002				
+77151458-1	Olearia cuneifolia	A.R.Bean & M.T.Mathieson	Austrobaileya	9(3): 404	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-matheison-olearia-austrobaileya-v9s3.pdf	
 77135355-1	Pluchea alata	A.R.Bean	Austrobaileya	9(1): 66	2013	0155-4131								
 77135356-1	Pluchea longiseta	A.R.Bean	Austrobaileya	9(1): 68	2013	0155-4131								
 77135357-1	Pluchea mesotes	A.R.Bean	Austrobaileya	9(1): 71	2013	0155-4131								
-77144266-1	Pluchea tenuis	A.R.Bean	Austrobaileya	9(2): 311	2014	0155-4131								
+77144266-1	Pluchea tenuis	A.R.Bean	Austrobaileya	9(2): 311	2014	0155-4131				43869010				
 77135351-1	Sphaeromorphaea ephemera	A.R.Bean	Austrobaileya	9(1): 44	2013	0155-4131								
 77135350-1	Sphaeromorphaea harrisii	(F.Muell.) A.R.Bean	Austrobaileya	9(1): 41	2013	0155-4131								
 77135352-1	Sphaeromorphaea littoralis	(Retz.) A.R.Bean	Austrobaileya	9(1): 45	2013	0155-4131								
@@ -3334,61 +3334,80 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77135345-1	Garcinia leggeae	W.E.Cooper	Austrobaileya	9(1): 14	2013	0155-4131								
 77135346-1	Garcinia russellii	W.E.Cooper	Austrobaileya	9(1): 22	2013	0155-4131								
 77135344-1	Garcinia zichii	W.E.Cooper	Austrobaileya	9(1): 12	2013	0155-4131								
-77144260-1	Bonamia fruticosa	R.W.Johnson	Austrobaileya	9(2): 293	2014	0155-4131								
-77144261-1	Bonamia longipilosa	R.W.Johnson	Austrobaileya	9(2): 295	2014	0155-4131								
-77144262-1	Bonamia multiflora	R.W.Johnson	Austrobaileya	9(2): 300	2014	0155-4131								
-77144263-1	Bonamia pilbarensis	R.W.Johnson	Austrobaileya	9(2): 302	2014	0155-4131								
-77144264-1	Bonamia toniae	R.W.Johnson	Austrobaileya	9(2): 304	2014	0155-4131								
-77144265-1	Bonamia wilsoniae	R.W.Johnson	Austrobaileya	9(2): 306	2014	0155-4131								
-77151460-1	Rhynchospora croydonensis	R.Booth	Austrobaileya	9(3): 417	2015	0155-4131								
-77144246-1	Diospyros granitica	Jessup	Austrobaileya	9(2): 184	2014	0155-4131								
-77144240-1	Diospyros hemicycloides	(F.Muell. ex Benth.) Jessup	Austrobaileya	9(2): 178	2014	0155-4131								
-77144239-1	Diospyros laurina	(R.Br.) Jessup	Austrobaileya	9(2): 175	2014	0155-4131								
-77144243-1	Diospyros peninsularis	Jessup	Austrobaileya	9(2): 181	2014	0155-4131								
-77144244-1	Diospyros pluviatilis	Jessup	Austrobaileya	9(2): 182	2014	0155-4131								
-77144245-1	Diospyros rheophila	Jessup	Austrobaileya	9(2): 183	2014	0155-4131								
-77144238-1	Diospyros uvida	Jessup	Austrobaileya	9(2): 163	2014	0155-4131								
-77144242-1	Diospyros yandina	Jessup	Austrobaileya	9(2): 179	2014	0155-4131								
+77144260-1	Bonamia fruticosa	R.W.Johnson	Austrobaileya	9(2): 293	2014	0155-4131				43869009				
+77144261-1	Bonamia longipilosa	R.W.Johnson	Austrobaileya	9(2): 295	2014	0155-4131				43869009				
+77144262-1	Bonamia multiflora	R.W.Johnson	Austrobaileya	9(2): 300	2014	0155-4131				43869009				
+77144263-1	Bonamia pilbarensis	R.W.Johnson	Austrobaileya	9(2): 302	2014	0155-4131				43869009				
+77144264-1	Bonamia toniae	R.W.Johnson	Austrobaileya	9(2): 304	2014	0155-4131				43869009				
+77144265-1	Bonamia wilsoniae	R.W.Johnson	Austrobaileya	9(2): 306	2014	0155-4131				43869009				
+77151460-1	Rhynchospora croydonensis	R.Booth	Austrobaileya	9(3): 417	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/booth-rhynchospora-austrobaileya-v9s3.pdf	
+77144246-1	Diospyros granitica	Jessup	Austrobaileya	9(2): 184	2014	0155-4131				43869000				
+77144240-1	Diospyros hemicycloides	(F.Muell. ex Benth.) Jessup	Austrobaileya	9(2): 178	2014	0155-4131				43869000				
+77144239-1	Diospyros laurina	(R.Br.) Jessup	Austrobaileya	9(2): 175	2014	0155-4131				43869000				
+77144243-1	Diospyros peninsularis	Jessup	Austrobaileya	9(2): 181	2014	0155-4131				43869000				
+77144244-1	Diospyros pluviatilis	Jessup	Austrobaileya	9(2): 182	2014	0155-4131				43869000				
+77144245-1	Diospyros rheophila	Jessup	Austrobaileya	9(2): 183	2014	0155-4131				43869000				
+77144238-1	Diospyros uvida	Jessup	Austrobaileya	9(2): 163	2014	0155-4131				43869000				
+77144242-1	Diospyros yandina	Jessup	Austrobaileya	9(2): 179	2014	0155-4131				43869000				
 77135369-1	Euphorbia operta	Halford & W.K.Harris	Austrobaileya	9(1): 153	2013	0155-4131								
 77135367-1	Cullen spicigerum	(Domin) A.E.Holland	Austrobaileya	9(1): 140	2013	0155-4131								
-77151457-1	Cynometra roseiflora	W.E.Cooper	Austrobaileya	9(3): 400	2015	0155-4131								
-77144267-1	Senegalia insuavis	(Lace) Pedley	Austrobaileya	9(2): 314	2014	0155-4131								
-77144257-1	Tephrosia delicatula	Pedley	Austrobaileya	9(2): 239	2014	0155-4131								
-77144256-1	Tephrosia turpinii	Pedley	Austrobaileya	9(2): 237	2014	0155-4131								
-77144268-1	Vachellia turbata	(Pedley) Pedley	Austrobaileya	9(2): 314	2014	0155-4131								
-77151459-1	Eremophila woodiae	Edginton	Austrobaileya	9(3): 408	2015	0155-4131								
+77151457-1	Cynometra roseiflora	W.E.Cooper	Austrobaileya	9(3): 400	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/cooper-cynometra-austrobaileya-v9s3.pdf	
+77144267-1	Senegalia insuavis	(Lace) Pedley	Austrobaileya	9(2): 314	2014	0155-4131				43869011				
+77144257-1	Tephrosia delicatula	Pedley	Austrobaileya	9(2): 239	2014	0155-4131				43869005				
+77144256-1	Tephrosia turpinii	Pedley	Austrobaileya	9(2): 237	2014	0155-4131				43869005				
+77144268-1	Vachellia turbata	(Pedley) Pedley	Austrobaileya	9(2): 314	2014	0155-4131				43869011				
+77151459-1	Eremophila woodiae	Edginton	Austrobaileya	9(3): 408	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/edginton-eremophila-austrobaileya-v9s3.pdf	
 77135368-1	Myrsine leucobrachya	(P.Royen) P.I.Forst.	Austrobaileya	9(1): 148	2013	0155-4131								
 77135363-1	Eucalyptus tereticornis subsp. basaltica	A.R.Bean	Austrobaileya	9(1): 109	2013	0155-4131								
 77135365-1	Eucalyptus tereticornis subsp. rotunda	A.R.Bean	Austrobaileya	9(1): 111	2013	0155-4131								
-77151463-1	Habenaria vatia	D.L.Jones	Austrobaileya	9(3): 461	2015	0155-4131								
+77151463-1	Habenaria vatia	D.L.Jones	Austrobaileya	9(3): 461	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/mathieson-habenaria-austrobaileya-v9s3.pdf	
 77135361-1	Pterostylis caligna	M.T.Mathieson	Austrobaileya	9(1): 102	2013	0155-4131								
-77151454-1	Taeniophyllum epacridicola	B.Gray	Austrobaileya	9(3): 385	2015	0155-4131								
-77151455-1	Taeniophyllum explanatum	B.Gray	Austrobaileya	9(3): 385	2015	0155-4131								
-77151456-1	Taeniophyllum triquetroradix	B.Gray	Austrobaileya	9(3): 389	2015	0155-4131								
+77151454-1	Taeniophyllum epacridicola	B.Gray	Austrobaileya	9(3): 385	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/gray-taeniophyllum-austrobaileya-v9s3.pdf	
+77151455-1	Taeniophyllum explanatum	B.Gray	Austrobaileya	9(3): 385	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/gray-taeniophyllum-austrobaileya-v9s3.pdf	
+77151456-1	Taeniophyllum triquetroradix	B.Gray	Austrobaileya	9(3): 389	2015	0155-4131							http://www.qld.gov.au/dsiti/assets/documents/austrobaileya/gray-taeniophyllum-austrobaileya-v9s3.pdf	
 77135354-1	Bosistoa pentacocca subsp. connaricarpa	(Domin) P.I.Forst.	Austrobaileya	9(1): 62	2013	0155-4131								
-77144247-1	Diploglottis alaticarpa	W.E.Cooper	Austrobaileya	9(2): 199	2014	0155-4131								
-77144252-1	Solanum adoxum	A.R.Bean	Austrobaileya	9(2): 219	2014	0155-4131								
-77144253-1	Solanum capitaneum	A.R.Bean	Austrobaileya	9(2): 220	2014	0155-4131								
-77144254-1	Solanum chillagoense	(Domin) A.R.Bean	Austrobaileya	9(2): 223	2014	0155-4131								
-77144255-1	Solanum prolatum	A.R.Bean	Austrobaileya	9(2): 225	2014	0155-4131								
+77144247-1	Diploglottis alaticarpa	W.E.Cooper	Austrobaileya	9(2): 199	2014	0155-4131				43869001				
+77144252-1	Solanum adoxum	A.R.Bean	Austrobaileya	9(2): 219	2014	0155-4131				43869004				
+77144253-1	Solanum capitaneum	A.R.Bean	Austrobaileya	9(2): 220	2014	0155-4131				43869004				
+77144254-1	Solanum chillagoense	(Domin) A.R.Bean	Austrobaileya	9(2): 223	2014	0155-4131				43869004				
+77144255-1	Solanum prolatum	A.R.Bean	Austrobaileya	9(2): 225	2014	0155-4131				43869004				
 77135359-1	Viola perreniformis	(L.G.Adams) R.J.Little & Leiper	Austrobaileya	9(1): 82	2013	0155-4131								
-77159744-1	Lagenophora brachyglossa	Jian Wang ter & A.R.Bean	Austrobaileya	9(4): 475	2016	0155-4131								
-77159743-1	Lagenophora fimbriata	Jian Wang ter & A.R.Bean	Austrobaileya	9(4): 472	2016	0155-4131								
-77159742-1	Lagenophora queenslandica	Jian Wang ter & A.R.Bean	Austrobaileya	9(4): 469	2016	0155-4131								
-77159747-1	Lindernia barkeri	Wannan	Austrobaileya	9(4): 516	2016	0155-4131								
-77159746-1	Lindernia beasleyi	Wannan	Austrobaileya	9(4): 514	2016	0155-4131								
-77159745-1	Lindernia stantonii	Wannan	Austrobaileya	9(4): 509	2016	0155-4131								
-77159748-1	Solanum apodophyllum	A.R.Bean	Austrobaileya	9(4): 525	2016	0155-4131								
-77159750-1	Solanum arachnoides	A.R.Bean	Austrobaileya	9(4): 565	2016	0155-4131								
-77159751-1	Solanum banzicum	A.R.Bean	Austrobaileya	9(4): 566	2016	0155-4131								
-77159752-1	Solanum exemptum	A.R.Bean	Austrobaileya	9(4): 571	2016	0155-4131								
-77159753-1	Solanum galactites	A.R.Bean	Austrobaileya	9(4): 574	2016	0155-4131								
-77159754-1	Solanum invictum	A.R.Bean	Austrobaileya	9(4): 575	2016	0155-4131								
-77159755-1	Solanum malignum	A.R.Bean	Austrobaileya	9(4): 577	2016	0155-4131								
-77159756-1	Solanum oomsis	A.R.Bean	Austrobaileya	9(4): 578	2016	0155-4131								
-77159757-1	Solanum ortivum	A.R.Bean	Austrobaileya	9(4): 580	2016	0155-4131								
-77159758-1	Solanum petilum	A.R.Bean	Austrobaileya	9(4): 585	2016	0155-4131								
-77159759-1	Solanum phoberum	A.R.Bean	Austrobaileya	9(4): 587	2016	0155-4131								
-77159760-1	Solanum pluriflorum	A.R.Bean	Austrobaileya	9(4): 588	2016	0155-4131								
-77159761-1	Solanum scolophyllum	A.R.Bean	Austrobaileya	9(4): 593	2016	0155-4131								
-77159749-1	Solanum ultraspinosum	A.R.Bean	Austrobaileya	9(4): 526	2016	0155-4131								
+77159744-1	Lagenophora brachyglossa	Jian Wang ter & A.R.Bean	Austrobaileya	9(4): 475	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/wang-bean-lagenophora-austrobaileya-v9s4-p463-480.pdf	
+77159743-1	Lagenophora fimbriata	Jian Wang ter & A.R.Bean	Austrobaileya	9(4): 472	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/wang-bean-lagenophora-austrobaileya-v9s4-p463-480.pdf	
+77159742-1	Lagenophora queenslandica	Jian Wang ter & A.R.Bean	Austrobaileya	9(4): 469	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/wang-bean-lagenophora-austrobaileya-v9s4-p463-480.pdf	
+77159747-1	Lindernia barkeri	Wannan	Austrobaileya	9(4): 516	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/wannan-lindernia-austrobaileya-v9s4-p508-523.pdf	
+77159746-1	Lindernia beasleyi	Wannan	Austrobaileya	9(4): 514	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/wannan-lindernia-austrobaileya-v9s4-p508-523.pdf	
+77159745-1	Lindernia stantonii	Wannan	Austrobaileya	9(4): 509	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/wannan-lindernia-austrobaileya-v9s4-p508-523.pdf	
+77159748-1	Solanum apodophyllum	A.R.Bean	Austrobaileya	9(4): 525	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-nt-austrobaileya-v9s4-p524-533.pdf	
+77159750-1	Solanum arachnoides	A.R.Bean	Austrobaileya	9(4): 565	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159751-1	Solanum banzicum	A.R.Bean	Austrobaileya	9(4): 566	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159752-1	Solanum exemptum	A.R.Bean	Austrobaileya	9(4): 571	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159753-1	Solanum galactites	A.R.Bean	Austrobaileya	9(4): 574	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159754-1	Solanum invictum	A.R.Bean	Austrobaileya	9(4): 575	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159755-1	Solanum malignum	A.R.Bean	Austrobaileya	9(4): 577	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159756-1	Solanum oomsis	A.R.Bean	Austrobaileya	9(4): 578	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159757-1	Solanum ortivum	A.R.Bean	Austrobaileya	9(4): 580	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159758-1	Solanum petilum	A.R.Bean	Austrobaileya	9(4): 585	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159759-1	Solanum phoberum	A.R.Bean	Austrobaileya	9(4): 587	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159760-1	Solanum pluriflorum	A.R.Bean	Austrobaileya	9(4): 588	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159761-1	Solanum scolophyllum	A.R.Bean	Austrobaileya	9(4): 593	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-png-austrobaileya-v9s4-p560-599.pdf	
+77159749-1	Solanum ultraspinosum	A.R.Bean	Austrobaileya	9(4): 526	2016	0155-4131							https://www.qld.gov.au/dsiti/assets/documents/austrobaileya/bean-new-solanum-species-nt-austrobaileya-v9s4-p524-533.pdf	
+77175722-1	Pimelea amabilis	(Domin) A.R.Bean	Austrobaileya	10(1): 7	2017	0155-4131								
+77175728-1	Pimelea leptospermoides subsp. bowmanni	(F.Muell. ex Benth.) A.R.Bean	Austrobaileya	10(1): 23	2017	0155-4131								
+77175732-1	Pimelea hirsuta subsp. elliptifolia	(Threlfall) A.R.Bean	Austrobaileya	10(1): 41	2017	0155-4131								
+77175735-1	Lomandra decomposita	(R.Br.) Jian Wang ter & A.R.Bean	Austrobaileya	10(1): 59	2017	0155-4131								
+77175736-1	Polyalthia submontana subsp. sessiliflorus	(Jessup) Jessup	Austrobaileya	10(1): 64	2017	0155-4131								
+77175845-1	Rhaphidospora platyphylla	(S.Moore) Bremek. ex A.R.Bean	Austrobaileya	10(1): 85	2017	0155-4131								
+77175723-1	Pimelea approximans	A.R.Bean	Austrobaileya	10(1): 8	2017	0155-4131								
+77175724-1	Pimelea chlorina	A.R.Bean	Austrobaileya	10(1): 10	2017	0155-4131								
+77175725-1	Pimelea confertiflora	A.R.Bean	Austrobaileya	10(1): 11	2017	0155-4131								
+77175726-1	Pimelea fugiens	A.R.Bean	Austrobaileya	10(1): 17	2017	0155-4131								
+77175727-1	Pimelea gigandra	A.R.Bean	Austrobaileya	10(1): 19	2017	0155-4131								
+77175729-1	Pimelea mollis	A.R.Bean	Austrobaileya	10(1): 26	2017	0155-4131								
+77175730-1	Pimelea plurinervia	A.R.Bean	Austrobaileya	10(1): 28	2017	0155-4131								
+77175731-1	Pimelea rupestris	A.R.Bean	Austrobaileya	10(1): 30	2017	0155-4131								
+77175844-1	Cycas distans	P.I.Forst. & B.Gray	Austrobaileya	10(1): 75	2017	0155-4131								
+77175847-1	Olearia bella	A.R.Bean & Jobson	Austrobaileya	10(1): 102	2017	0155-4131								
+77175848-1	Olearia orientalis	A.R.Bean & Jobson	Austrobaileya	10(1): 106	2017	0155-4131								
+77175853-1	Atriplex alces	Edginton & E.J.Thomps.	Austrobaileya	10(1): 185	2017	0155-4131								
+77175854-1	Labichea mulliganensis	A.R.Bean	Austrobaileya	10(1): 196	2017	0155-4131								

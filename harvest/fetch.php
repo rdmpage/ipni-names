@@ -837,7 +837,9 @@ foreach ($families as $family)
 //	 . '2016-04-05'	 
 //	 . '2016-08-08'	
 //	 . '2016-12-01'		 	 
-     . '2017-04-16'
+//     . '2017-04-16'
+     . '2017-08-29' // run 2018-04-08
+
 	 . '&find_modifiedSince=&find_isAPNIRecord=on&find_isAPNIRecord=false&find_isGCIRecord=on&find_isGCIRecord=false&find_isIKRecord=on&find_isIKRecord=false&find_rankToReturn=all&output_format=delimited&find_sortByFamily=on&find_sortByFamily=off&query_type=by_query&back_page=plantsearch';
 
 	/*
@@ -885,8 +887,8 @@ foreach ($families as $family)
 	{
 		$parts = explode ("%", $lines[$i]);
 			
-		print_r($parts);
-		echo "\n";
+		//print_r($parts);
+		//echo "\n";
 		
 		
 		$obj = new stdclass;
@@ -898,6 +900,15 @@ foreach ($families as $family)
 		$obj->Authors = $parts[$heading["Authors"]];
 
 		$obj->Publication = $parts[$heading["Publication"]];
+		
+		if (preg_match('/^(?<publication>.*)\s+(?<collation>\d.*)/Uu', $obj->Publication, $m))
+		{
+			print_r($m);
+			$obj->Publication = $m['publication'];
+		}
+		
+		
+		
 		$obj->Collation = $parts[$heading["Collation"]];
 		
 		$obj->Genus = $parts[$heading["Genus"]];
@@ -1043,7 +1054,7 @@ foreach ($families as $family)
 			{
 				$publishedIn = $node->firstChild->nodeValue;
 			
-				$obj->Publication = $publishedIn;
+				//$obj->Publication = $publishedIn;
 			
 				// debug
 				$obj->publishedIn = $publishedIn;
