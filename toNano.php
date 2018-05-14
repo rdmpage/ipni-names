@@ -64,7 +64,11 @@ while (!$done)
 		
 		$doi = $result->fields['doi'];
 		
-		echo "<$id> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <https://doi.org/" . htmlspecialchars($doi) . "> <$assertion_uri> . \n";
+		// encode any characters that will cause problems for triples		
+		$doi = str_replace('<', '%3C', $doi);
+		$doi = str_replace('>', '%3E', $doi);
+		
+		echo "<$id> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <https://doi.org/" . $doi . "> <$assertion_uri> . \n";
 		$result->MoveNext();
 	}
 	
