@@ -49,6 +49,10 @@ $offset = 0;
 
 $done = false;
 
+// DOIs
+// to do: BHL pageIDs (as annotations, see Annotation.md)
+
+
 while (!$done)
 {
 	$sql = 'SELECT * FROM `names`';	
