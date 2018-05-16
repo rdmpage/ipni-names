@@ -390,14 +390,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 12965-2	Andropogon niveus	Swallen	J. Wash. Acad. Sci.	31: 354	1941	0043-0439		134230						
 129943-2	Iresine palmeri	(S.Watson) Standl.	J. Wash. Acad. Sci.	5: 395	1915	0043-0439								
 13011-2	Andropogon rhizomatus	Swallen	J. Wash. Acad. Sci.	31: 352	1941	0043-0439		134230						
-130201-2	Iryanthera coriacea	Ducke	J. Wash. Acad. Sci.	26: 218	1936	0043-0439								
-130204-2	Iryanthera dialyandra	Ducke	J. Wash. Acad. Sci.	26: 215	1936	0043-0439								
-130205-2	Iryanthera elliptica	Ducke	J. Wash. Acad. Sci.	26: 219	1936	0043-0439								
-130208-2	Iryanthera grandis	Ducke	J. Wash. Acad. Sci.	26: 220	1936	0043-0439								
-130213-2	Iryanthera lancifolia	Ducke	J. Wash. Acad. Sci.	26: 217	1936	0043-0439								
-130215-2	Iryanthera longiflora	Ducke	J. Wash. Acad. Sci.	26: 217	1936	0043-0439								
-130219-2	Iryanthera obovata	Ducke	J. Wash. Acad. Sci.	26: 221	1936	0043-0439								
-130223-2	Iryanthera polyneura	Ducke	J. Wash. Acad. Sci.	26: 216	1936	0043-0439								
+130201-2	Iryanthera coriacea	Ducke	J. Wash. Acad. Sci.	26: 218	1936	0043-0439		243339						
+130204-2	Iryanthera dialyandra	Ducke	J. Wash. Acad. Sci.	26: 215	1936	0043-0439		243339						
+130205-2	Iryanthera elliptica	Ducke	J. Wash. Acad. Sci.	26: 219	1936	0043-0439		243339						
+130208-2	Iryanthera grandis	Ducke	J. Wash. Acad. Sci.	26: 220	1936	0043-0439		243339						
+130213-2	Iryanthera lancifolia	Ducke	J. Wash. Acad. Sci.	26: 217	1936	0043-0439		243339						
+130215-2	Iryanthera longiflora	Ducke	J. Wash. Acad. Sci.	26: 217	1936	0043-0439		243339						
+130219-2	Iryanthera obovata	Ducke	J. Wash. Acad. Sci.	26: 221	1936	0043-0439		243339						
+130223-2	Iryanthera polyneura	Ducke	J. Wash. Acad. Sci.	26: 216	1936	0043-0439		243339						
 130267-2	Ischnosiphon elegans	Standl.	J. Wash. Acad. Sci.	17: 162	1927	0043-0439								
 13069-2	Andropogon sericatus	Swallen	J. Wash. Acad. Sci.	31: 355	1941	0043-0439		134230						
 1308-1	Tidestromia	Standl.	J. Wash. Acad. Sci.	1916, vi. 70.		0043-0439								
@@ -3215,14 +3215,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 584893-1	Heliconia straminea	Standl.	J. Wash. Acad. Sci.	1927, xvii. 162		0043-0439								
 584898-1	Heliconia tortuosa	Standl.	J. Wash. Acad. Sci.	1927, xvii. 162		0043-0439								
 585583-1	Myrica phanerodonta	Standl.	J. Wash. Acad. Sci.	1927, xvii. 164.		0043-0439								
-585802-1	Iryanthera coriacea	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 218.		0043-0439								
-585805-1	Iryanthera dialyandra	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 215.		0043-0439								
-585806-1	Iryanthera elliptica	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 219.		0043-0439								
-585809-1	Iryanthera grandis	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 220.		0043-0439								
-585815-1	Iryanthera lanceifolia	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 217.		0043-0439								
-585817-1	Iryanthera longiflora	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 217.		0043-0439								
-585823-1	Iryanthera obovata	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 221.		0043-0439								
-585827-1	Iryanthera polyneura	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 216.		0043-0439								
+585802-1	Iryanthera coriacea	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 218.		0043-0439		243339						
+585805-1	Iryanthera dialyandra	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 215.		0043-0439		243339						
+585806-1	Iryanthera elliptica	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 219.		0043-0439		243339						
+585809-1	Iryanthera grandis	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 220.		0043-0439		243339						
+585815-1	Iryanthera lanceifolia	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 217.		0043-0439		243339						
+585817-1	Iryanthera longiflora	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 217.		0043-0439		243339						
+585823-1	Iryanthera obovata	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 221.		0043-0439		243339						
+585827-1	Iryanthera polyneura	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 216.		0043-0439		243339						
 58640-1	Achyranpthes strictiuscula	Standl.	J. Wash. Acad. Sci.	1915, v. 75, in obs.		0043-0439								
 58644-1	Achyranthes albida	Standl.	J. Wash. Acad. Sci.	1915, v. 74, in obs.		0043-0439								
 586545-1	Virola albidiflora	Ducke	J. Wash. Acad. Sci.	1936, xxvi. 259.		0043-0439								
