@@ -5,3 +5,4 @@ harvest/*.sql
 junk
 
 rdf
+.DS_Store
