@@ -116,7 +116,7 @@ if (isset($_GET['jstor']))
 {
 	$jstor = $_GET['jstor'];
 	
-	$url = 'http://localhost/~rpage/microcitation/www/darwincore.php?guid=http://www.jstor.org/stable/' . $jstor;
+	$url = 'http://localhost/~rpage/microcitation/www/pub.php?guid=' . urlencode('http://www.jstor.org/stable/' . $jstor);
 
 	$json = get($url);
 	
