@@ -12,6 +12,52 @@ This repository stores the current mapping for a subset of the  journals in IPNI
 Hughes, M., Coyle, C., & Rubite, R. R. (2010, March). A REVISION OF BEGONIA SECTION DIPLOCLINIUM (BEGONIACEAE) ON THE PHILIPPINE ISLAND OF PALAWAN, INCLUDING FIVE NEW SPECIES. Edinburgh Journal of Botany. Cambridge University Press (CUP). doi:10.1017/s0960428609990266
 ```
 
+## Possible interface idea
+
+Use [DataTables](https://datatables.net) to display the table of data.
+
+## Possible data publishing idea using Datasette
+
+[datasette](https://github.com/simonw/datasette) provides an easy way to serve a SQLite database over the web. Can use [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) to convert CSV file to SQLite database:
+
+```
+csvs-to-sqlite dump.csv dump.db
+```
+
+Can then serve SQLite database from local machine:
+
+```
+datasette serve dump.db
+```
+
+This then runs in local web browser. Can host remotely using now or Heroku, but that requires lots of hosts space for big datasets.
+
+Can also make a Docker container:
+
+```
+datasette package dump.db
+```
+
+This can take a little while as Docker assembles all the pieces,  but if successful you should see something like this:
+
+```
+Successfully built b7f94292889c
+```
+
+In this case “b7f94292889c” is the container id, so it can be run, e.g.:
+
+```
+docker run -p 8081:8001 b7f94292889c
+```
+
+Could use the -t option to tag the container, e.g. (haven’t tried this yet)
+
+```
+datasette package -t rdmpage/dump dump.db
+``
+
+So, looks like a nice way to publish data that isn’t yet ready for a nice web app to go with it.
+
 ## Note on beta IPNI
 
 On 2018-01-19 I became aware of the [beta version of IPNI](http://beta.ipni.org) which looks nice and has a lot more DOI and BHL links.
