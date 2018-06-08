@@ -8,3 +8,6 @@ rdf
 .DS_Store
 dump.csv
 dump.db
+ipni.csv
+ipni.db
+

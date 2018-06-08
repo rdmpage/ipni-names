@@ -18,16 +18,22 @@ Use [DataTables](https://datatables.net) to display the table of data.
 
 ## Possible data publishing idea using Datasette
 
-[datasette](https://github.com/simonw/datasette) provides an easy way to serve a SQLite database over the web. Can use [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) to convert CSV file to SQLite database:
+[datasette](https://github.com/simonw/datasette) provides an easy way to serve a SQLite database over the web. First generate the IPNI dump:
 
 ```
-csvs-to-sqlite dump.csv dump.db
+php dump-csv.php
+```
+
+Can use [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) to convert CSV file to SQLite database:
+
+```
+csvs-to-sqlite ipni.csv ipni.db
 ```
 
 Can then serve SQLite database from local machine:
 
 ```
-datasette serve dump.db
+datasette serve ipni.db
 ```
 
 This then runs in local web browser. Can host remotely using now or Heroku, but that requires lots of hosts space for big datasets.
@@ -35,7 +41,7 @@ This then runs in local web browser. Can host remotely using now or Heroku, but 
 Can also make a Docker container:
 
 ```
-datasette package dump.db
+datasette package ipni.db
 ```
 
 This can take a little while as Docker assembles all the pieces,  but if successful you should see something like this:
@@ -53,10 +59,22 @@ docker run -p 8081:8001 b7f94292889c
 Could use the -t option to tag the container, e.g. (haven’t tried this yet)
 
 ```
-datasette package -t rdmpage/dump dump.db
+datasette package -t rdmpage/ipni ipni.db
 ``
 
 So, looks like a nice way to publish data that isn’t yet ready for a nice web app to go with it.
+
+To push to docker first log in:
+
+```
+docker login -u <username> -p <password>
+```
+
+Then 
+
+```
+docker push rdmpage/ipni
+```
 
 ## Note on beta IPNI
 

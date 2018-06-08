@@ -47,7 +47,7 @@ $keys = array(
 );
 
 
-$file = fopen('dump.csv', 'w');
+$file = fopen('ipni.csv', 'w');
 
 // save the column headers
 fputcsv($file, $keys);
