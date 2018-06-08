@@ -14,8 +14,6 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
 $db->EXECUTE("set names 'utf8'"); 
 
-
-
 $page = 1000;
 $offset = 0;
 
@@ -38,6 +36,7 @@ $keys = array(
 	'Publication_year_full',
 	'issn',
 	'doi',
+	'doi_agency',
 	'jstor',
 	'biostor',
 	'bhl',
@@ -75,6 +74,34 @@ while (!$done)
 				    if ($value != '')
 				    {
 				    	$value = 'https://doi.org/' . $value;
+				    }
+					break;
+
+				case 'jstor':
+				    if ($value != '')
+				    {
+				    	$value = 'https://www.jstor.org/stable/' . $value;
+				    }
+					break;
+
+				case 'handle':
+				    if ($value != '')
+				    {
+				    	$value = 'https://hdl.handle.net/' . $value;
+				    }
+					break;
+
+				case 'biostor':
+				    if ($value != '')
+				    {
+				    	$value = 'https://biostor.org/reference/' . $value;
+				    }
+					break;
+
+				case 'bhl':
+				    if ($value != '')
+				    {
+				    	$value = 'https://biodiversitylibrary.org/page/' . $value;
 				    }
 					break;
 					
