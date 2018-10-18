@@ -10,9 +10,26 @@ $term = $_GET['term'];
 //$imageUrl = 'http://direct.biostor.org/bhl_image.php?PageID=' . $PageID;
 $imageUrl = 'http://www.biodiversitylibrary.org/pagethumb/' . $PageID . ',500,500';
 
-$xml = get('http://direct.biostor.org/bhl_page_xml.php?PageID=' . $PageID);
+//$xml = get('http://direct.biostor.org/bhl_page_xml.php?PageID=' . $PageID);
 
-if ($xml != '<?xml version="1.0" ?>')
+$json = get('http://biostor.org/api.php?id=page/' . $PageID);
+
+$xml = '';
+
+if ($json != '')
+{
+	$page = json_decode($json);
+	
+	
+	if (isset($page->xml))
+	{
+		$xml = $page->xml;
+	}
+}
+
+
+/* if ($xml != '<?xml version="1.0" ?>') */
+if ($xml != '')
 {
 	
 	$xp = new XsltProcessor();

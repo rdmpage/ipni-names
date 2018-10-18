@@ -6,7 +6,7 @@ require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
 
 
-$names = array('Adelonema');
+$names = array('Seringia');
 
 $count = 0;
 
