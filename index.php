@@ -7,12 +7,14 @@ require_once(dirname(__FILE__) . '/adodb5/adodb.inc.php');
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+$db->EXECUTE("set names 'utf8'"); 
 
 
 //--------------------------------------------------------------------------------------------------
@@ -86,7 +88,8 @@ function display_search($query, $type = 'genus')
 	
 	$found = false;
 	
-	$query = trim(mysql_escape_string($query));
+	// $query = trim(mysql_escape_string($query));
+	$query = trim($query);
 	
 	if (preg_match('/^\w+/', $query))
 	{
@@ -108,9 +111,13 @@ function display_search($query, $type = 'genus')
 
 			case 'publication':
 				$sql = 'SELECT * FROM names WHERE Publication = ' . $db->qstr($query) . ' LIMIT 1';
+				
+				//echo $sql;
 			
 				$result = $db->Execute($sql);
 				if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
+				
+				//print_r($result);
 				
 				if ($result->NumRows() == 1)
 				{
@@ -219,9 +226,9 @@ function display_query($sql)
 			default:
 				break;
 		}
-		$record->html .= ' ' . utf8_encode($result->fields['Authors']);
+		$record->html .= ' ' . $result->fields['Authors'];
 		
-		$record->publication = '<a href="?p=' . trim(utf8_encode($result->fields['Publication'])) . '">' . str_replace(' ', '&nbsp;', trim(utf8_encode($result->fields['Publication']))) . '</a> ' . trim(utf8_encode($result->fields['Collation']));
+		$record->publication = '<a href="?p=' . trim($result->fields['Publication']) . '">' . str_replace(' ', '&nbsp;', trim($result->fields['Publication'])) . '</a> ' . trim($result->fields['Collation']);
 		if ($result->fields['Page'] != '')
 		{
 			$record->publication .= ' '  . $result->fields['Page'];
@@ -230,7 +237,7 @@ function display_query($sql)
 		
 		// identifiers
 		
-		$identifiers = array('issn', 'doi', 'jstor', 'biostor', 'bhl', 'cinii', 'url', 'pdf', 'handle', 'isbn');
+		$identifiers = array('issn', 'wikidata', 'doi', 'jstor', 'biostor', 'bhl', 'cinii', 'url', 'pdf', 'handle', 'isbn');
 		foreach ($identifiers as $i)
 		{
 			if ($result->fields[$i] != '')
@@ -257,6 +264,10 @@ function display_query($sql)
 		<script type="text/javascript" src="' . $config['web_root'] . 'js/jquery-1.4.4.min.js"></script>
 		<script type="text/javascript" src="' . $config['web_root'] . 'js/jquery.tablesorter.js"></script>
 
+		<script src="' . $config['web_root'] . 'js/citation-0.4.0-9.js" type="text/javascript"></script>
+		<script>
+		  const Cite = require(\'citation-js\')
+		</script>
 		
 		<title>' . $title . ': ' . $config['site_name'] . '</title>
 		
@@ -304,6 +315,21 @@ function display_query($sql)
 					}					
 				);
 			}	
+			
+			function show_wikidata(wikidata)
+			{
+				var example =  new Cite(wikidata);
+				
+				var output = example.format("bibliography", {
+  format: "html",
+  template: "apa",
+  lang: "en-US"
+});
+			
+				$("#details").html(output);
+		
+			}			
+			
 			
 		
 			function show_altmetric(doi)
@@ -450,6 +476,7 @@ function display_query($sql)
 	echo '<th>Species</th>';
 	echo '<th>Publication</th>';
 	echo '<th>ISSN</th>';
+	echo '<th>Wikidata</th>';
 	echo '<th>DOI</th>';
 	echo '<th>Handle</th>';
 	echo '<th>BioStor</th>';
@@ -473,6 +500,7 @@ function display_query($sql)
 		echo '<tr';
 		
 		$haslink = false;
+		if (isset($sp->wikidata)) $haslink = true;
 		if (isset($sp->doi)) $haslink = true;
 		if (isset($sp->biostor)) $haslink = true;
 		if (isset($sp->bhl)) $haslink = true;
@@ -552,6 +580,16 @@ function display_query($sql)
 			echo str_replace('-', '', $sp->issn);
 		}		
 		echo '</td>';
+		
+		echo '<td>';
+		if (isset($sp->wikidata))
+		{
+			echo '<span onclick="show_wikidata(\'' . $sp->wikidata . '\');">';
+			echo $sp->wikidata;
+			echo '</span>';
+		}		
+		echo '</td>';
+		
 		
 		
 		echo '<td>';
