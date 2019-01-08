@@ -61,6 +61,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 161102-1	Euonymus rufulus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 19	1917 [Apr 1917]	2304-7534				41561243				
 161741-1	Lophopetalum intermedium	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 85	1911 [Jul 1911]	2304-7534				41561661				
 161757-1	Lophopetalum pedunculatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 85	1911 [Jul 1911]	2304-7534				41561661				
+162195-1	Microtropis ophirensis	Ridl.	J. As. Soc. Straits	xxxv. 10.		2304-7534				41560954				
 162231-1	Microtropis valida	Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 19	1917 [Apr 1917]	2304-7534				41561243				
 17139-1	Orchadocarpa	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 78	1905 [Jul 1905]	2304-7534				41561022				
 17152-1	Paraboea	(C.B.Clarke) Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 63	1905 [Jul 1905]	2304-7534				41561022				
@@ -93,12 +94,15 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 264117-1	Agelaea sarawakensis	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 199	1922 [Apr 1922]	2304-7534				41561404				
 264137-1	Agelaea woodii	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 199	1922 [Apr 1922]	2304-7534				41561404				
 264264-1	Cnestis palala	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 201	1922 [Apr 1922]	2304-7534				41561404				
+264343-1	Connarus euphlebius	Merr.	J. As. Soc. Straits	xxxv. 200 (1922).		2304-7534				41561404				
 26522-1	Perilimnastes	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 70	1918 [Sep 1918]	2304-7534				41561302				
 26529-1	Phaulanthus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 41	1911 [Jan 1911]	2304-7534				41561118				
 26530-1	Phaulanthus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 41	1911 [Jan 1911]	2304-7534				41561118				
+26958-1	Juppia	Merr.	J. As. Soc. Straits	lxxxv. 170 (1922).		2304-7534				41561404				
 271388-1	Alangium borneense	Merr.	J. Straits Branch Roy. Asiat. Soc.	86: 342	1922 [Nov 1922]	2304-7534				41561714				
 271436-1	Alangium tutela	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 10	1912 [Jun 1912]	2304-7534				41561666				
 27774-1	Tetraeugenia	Merr.	J. Straits Branch Roy. Asiat. Soc.	77: 230	1917 [Dec 1917]	2304-7534				41561268				
+28184-1	Fissipetalum	Merr.	J. As. Soc. Straits	lxxxv. 168 (1922).		2304-7534				41561404				
 294225-1	Trichosanthes laciniata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 107	1911 [Jul 1911]	2304-7534				41561661				
 294418-1	Zehneria alba	Ridl.	J. Straits Branch Roy. Asiat. Soc.	45: 195	1906 [Jun 1906]	2304-7534				41561626				
 298931-1	Carex breviglumis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 202	1920 [Sep 1920]	2304-7534				41561351				
@@ -220,6 +224,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 365881-1	Ryparosa wallichii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	73: 139	1916 [Jul 1916]	2304-7534		143464	41809615	41561230				
 365991-1	Taraktogenos grandiflorum	Merr.	J. Straits Branch Roy. Asiat. Soc.	86: 332	1922 [Nov 1922]	2304-7534				41561714				
 366180-1	Joinvillea malayana	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 199	1905 [Jul 1905]	2304-7534				41561025				
+37221-1	Camptandra	Ridl.	J. As. Soc. Straits	xxxii. (1899) 103.		2304-7534				41560919				
+37235-1	Conamomum	Ridl.	J. As. Soc. Straits	xxxii. (1899) 121.		2304-7534				41560919				
+37269-1	Geostachys	Ridl.	J. As. Soc. Straits	xxxii. (1898) 157.		2304-7534				41560919				
+37342-1	Plagiostachys	Ridl.	J. As. Soc. Straits	xxxii. (1899) 151.		2304-7534				41560919				
 377778-1	Aeschynanthus longicalyx	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 16	1905 [Jul 1905]	2304-7534				41561022				
 377864-1	Aeschynanthus stenophyllus	Ridl. & Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 33, descr. ampl.	1912 [Jun 1912]	2304-7534				41561666				
 378329-1	Boea caerulescens	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 73	1905 [Jul 1905]	2304-7534				41561022				
@@ -309,6 +317,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 383558-1	Gnetum penangense	Ridl.	J. Straits Branch Roy. Asiat. Soc.	60: 62	1911 [Dec 1911]	2304-7534				41561144				
 383572-1	Gnetum tenuifolium	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 188	1911 [Jul 1911]	2304-7534				41561661				
 38751-1	Leptonychiopsis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 173	1920 [Sep 1920]	2304-7534				41561351				
+38790-1	Peniculifera	Ridl.	J. As. Soc. Straits	lxxxii. 173 (1920).		2304-7534				41561351				
 390996-1	Arundo trivalvis	Hunter in Ridl.	J. Straits Branch Roy. Asiat. Soc.	53: 69	1909 [Sep 1909]	2304-7534				41561092				
 392313-1	Bambusa elegans	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 209	1905 [Jul 1905]	2304-7534				41561025				
 392409-1	Bambusa magica	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 208	1905 [Jul 1905]	2304-7534				41561025				
@@ -326,6 +335,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 408790-1	Mnesithea rupincola	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 116	1911 [Jan 1911]	2304-7534				41561118				
 408791-1	Mnesithea rupincola	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 116	1911 [Jan 1911]	2304-7534				41561118				
 410971-1	Panicum clivale	Ridl.	J. Straits Branch Roy. Asiat. Soc.	45: 242	1906 [Jun 1906]	2304-7534				41561626				
+41299-1	Hosea	Ridl.	J. As. Soc. Straits	50: 124 (1908).		2304-7534				41561701				
+41300-1	Hoseanthus	Merr.	J. As. Soc. Straits	76: 114	1817	2304-7534				41561256				
 41673-1	Geocharis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 143	1908 [Sep 1908]	2304-7534				41561701				
 418614-1	Pollinia rupestris	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 208	1905 [Jul 1905]	2304-7534				41561025				
 419622-1	Rottboellia cancellata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 228	1911 [Jul 1911]	2304-7534				41561661				
@@ -343,6 +354,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 427887-1	Garcinia clusiifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	73: 140	1916 [Jul 1916]	2304-7534		143464	41809616	41561230				
 427970-1	Garcinia globulosa	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 20	1910 [Jan 1910]	2304-7534				41561101				
 428095-1	Garcinia minutiflora	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 169	1920 [Sep 1920]	2304-7534				41561351				
+428100-1	Garcinia montana	Ridl.	J. As. Soc. Straits	xxxv. 8.		2304-7534				41560954				
 428111-1	Garcinia murdochii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 169	1920 [Sep 1920]	2304-7534				41561351				
 428195-1	Garcinia pyrifera	Ridl.	J. Straits Branch Roy. Asiat. Soc.	73: 140	1916 [Jul 1916]	2304-7534		143464	41809616	41561230				
 428442-1	Hypericum excelsum	Hunter ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	53: 109	1909 [Sep 1909]	2304-7534				41561092				
@@ -350,6 +362,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 428713-1	Kayea rivulorum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 22	1910 [Jan 1910]	2304-7534				41561101				
 428714-1	Kayea rosea	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 22	1910 [Jan 1910]	2304-7534				41561101				
 429784-1	Ophiopogon malayanus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 34	1904 [Jan 1904]	2304-7534				41561567				
+429804-1	Peliosanthes grandifolia	Ridl.	J. As. Soc. Straits	xxxi. 97.		2304-7534				41561677				
+429811-1	Peliosanthes lurida	Ridl.	J. As. Soc. Straits	xxxi. 96.		2304-7534				41561677				
+429816-1	Peliosanthes stellaris	Ridl.	J. As. Soc. Straits	xxxi. 97.		2304-7534				41561677				
 430750-1	Rhodoleia ovalifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 33	1917 [Apr 1917]	2304-7534				41561243				
 431050-1	Hippocratea nigricaulis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 20 :	1917 [Apr 1917]	2304-7534				41561243				
 431286-1	Salacia nitidissima	Merr.	J. Straits Branch Roy. Asiat. Soc.	86: 325	1922 [Nov 1922]	2304-7534				41561714				
@@ -397,6 +412,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 49238-1	Gymnostachyum keithii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 150	1911 [Jul 1911]	2304-7534				41561661				
 49261-1	Gymnostachyum robinsonii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	86: 305	1922 [Nov 1922]	2304-7534				41561713				
 49344-1	Hallieracantha maxima	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 542	1921 [Sep 1921]	2304-7534								
+49396-1	Hemigraphis affinis	Nees ex Ridl.	J. As. Soc. Straits	xxx. 155 (1897), nomen.		2304-7534				41561585				
 494353-1	Erythrina atrosanguinea	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 93	1911 [Jul 1911]	2304-7534				41561661				
 495255-1	Flemingia fragrans	Hunter ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	53: 83	1909 [Sep 1909]	2304-7534				41561092				
 50404-1	Justicia breviflos	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 187, in obs.	1920 [Sep 1920]	2304-7534				41561351				
@@ -519,6 +535,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 571669-1	Memecylon malaccense	C.B.Clarke ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 73	1918 [Sep 1918]	2304-7534				41561302				
 571775-1	Memecylon pterocaule	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 454	1921 [Sep 1921]	2304-7534								
 571779-1	Memecylon pulchellum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 52	1912 [Jun 1912]	2304-7534				41561667				
+571801-1	Memecylon ridleyi	Cogn. ex Ridl.	J. As. Soc. Straits	xxx. 85 (1897), nomen.		2304-7534				41561585				
 573938-1	Ochthocharis ovalifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 41	1910 [Jan 1910]	2304-7534				41561101				
 573942-1	Ochthocharis sylvestris	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 4	1912 [Jun 1912]	2304-7534				41561666				
 574140-1	Osbeckia perakensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 67	1918 [Sep 1918]	2304-7534				41561302				
@@ -593,6 +610,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 587649-1	Ardisia suffruticosa	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 116	1908 [Sep 1908]	2304-7534				41561701				
 587702-1	Ardisia umbellata	Hunter ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	53: 77	1909 [Sep 1909]	2304-7534				41561092				
 588476-1	Embelia subcordata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	86: 299 (Nov 1922); Ridley, Fl. Mal. Penins. 2: 236(1923)		2304-7534				41561713				
+588700-1	Labisia acuta	Ridl.	J. As. Soc. Straits	I. 116 (1908).		2304-7534				41561701				
 592519-1	Decaspermum montanum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 6	1912 [Jun 1912]	2304-7534				41561666				
 593539-1	Eugenia alata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	86: 293 (Nov 1922); Ridley, Fl. Mal. Penins. i. 743(1922)		2304-7534				41561713				
 593682-1	Eugenia auriculata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 7	1912 [Jun 1912]	2304-7534				41561666				
@@ -665,13 +683,20 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 614943-1	Adenostylis purpurascens	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 141	1921 [Sep 1921]	2304-7534								
 614949-1	Adenostylis violascens	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 141	1921 [Sep 1921]	2304-7534								
 614950-1	Adenostylis viridiflora	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 141	1921 [Sep 1921]	2304-7534								
+617266-1	Ascochilus minutiflora	Ridl.	J. As. Soc. Straits	xxxix. 85.		2304-7534				41560531				
+617271-1	Ascochilus teres	Ridl.	J. As. Soc. Straits	xxxix. 85.		2304-7534				41560531				
 618323-1	Bulbophyllum annandalei	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 197	1920 [Sep 1920]	2304-7534				41561351				
+618479-1	Bulbophyllum brevipes	Ridl.	J. As. Soc. Straits	xxxix. 75.		2304-7534				41560531				
 618485-1	Bulbophyllum brienianum	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 184	1921 [Sep 1921]	2304-7534								
 618489-1	Bulbophyllum brookesii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 131	1908 [Sep 1908]	2304-7534				41561701				
+618590-1	Bulbophyllum cincinnatum	Ridl.	J. As. Soc. Straits	xxxix. 75.		2304-7534				41560531				
+618715-1	Bulbophyllum curtisii	Ridl.	J. As. Soc. Straits	xxxix. 76.		2304-7534				41560531				
 619101-1	Bulbophyllum hewittii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 49	1910 [Jan 1910]	2304-7534				41561101				
 619357-1	Bulbophyllum longerepens	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 28	1907 [Dec 1907]	2304-7534				41561168				
 619624-1	Bulbophyllum nematocaulon	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 197	1920 [Sep 1920]	2304-7534				41561351				
+619684-1	Bulbophyllum ochranthum	Ridl.	J. As. Soc. Straits	xxxix. 76.		2304-7534				41560531				
 619793-1	Bulbophyllum paullum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 38	1912 [Jun 1912]	2304-7534				41561666				
+619815-1	Bulbophyllum perakense	Ridl.	J. As. Soc. Straits	xxxix. 76.		2304-7534				41560531				
 619827-1	Bulbophyllum perpusillum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 130	1908 [Sep 1908]	2304-7534				41561701				
 619933-1	Bulbophyllum pumilio	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 130	1908 [Sep 1908]	2304-7534				41561701				
 619940-1	Bulbophyllum punctatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 129	1908 [Sep 1908]	2304-7534				41561701				
@@ -679,19 +704,32 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 620060-1	Bulbophyllum ruficaudatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 50	1910 [Jan 1910]	2304-7534				41561101				
 620071-1	Bulbophyllum rupicola	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 194, sphalm. rapicolum	1911 [Jul 1911]	2304-7534				41561661				
 620094-1	Bulbophyllum sarcanthoides	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 131	1908 [Sep 1908]	2304-7534				41561701				
+620287-1	Bulbophyllum tenerum	Ridl.	J. As. Soc. Straits	xxxix. 75.		2304-7534				41560531				
+620424-1	Bulbophyllum variabile	Ridl.	J. As. Soc. Straits	xxxix. 74.		2304-7534				41560531				
 620500-1	Bulbophyllum xanthum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 197	1920 [Sep 1920]	2304-7534				41561351				
+620753-1	Calanthe albolutea	Ridl.	J. As. Soc. Straits	xxxix. 80.		2304-7534				41560531				
+620775-1	Calanthe aurantiaca	Ridl.	J. As. Soc. Straits	xxxix. 80.		2304-7534				41560531				
+620955-1	Calanthe microglossa	Ridl.	J. As. Soc. Straits	xxxix. 81.		2304-7534				41560531				
+620961-1	Calanthe mutabilis	Ridl.	J. As. Soc. Straits	xxxix. 79.		2304-7534				41560531				
+621041-1	Calanthe shelfordi	Ridl.	J. As. Soc. Straits	xxxiii. 23.		2304-7534				41560931				
 622523-1	Ceratostylis linearis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 40	1912 [Jun 1912]	2304-7534				41561666				
 622557-1	Ceratostylis puncticulata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	39: 79	1903 [Jun 1903]	2304-7534				41560531				
 623816-1	Coelogyne concinna	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 40	1912 [Jun 1912]	2304-7534				41561666				
+623842-1	Coelogyne densiflora	Ridl.	J. As. Soc. Straits	xxxix. 81.		2304-7534				41560531				
 623856-1	Coelogyne exalata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 29	1907 [Dec 1907]	2304-7534				41561168				
+623979-1	Coelogyne pallens	Ridl.	J. As. Soc. Straits	xxxix. 81.		2304-7534				41560531				
 623989-1	Coelogyne phaiostele	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 51	1910 [Jan 1910]	2304-7534				41561101				
 624236-1	Cordula amabilis	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 135	1921 [Sep 1921]	2304-7534								
 624420-1	Corymbis angusta	Ridl.	J. Straits Branch Roy. Asiat. Soc.	45: 234	1906 [Jun 1906]	2304-7534				41561626				
 625142-1	Cymbidium rectum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 198	1920 [Sep 1920]	2304-7534				41561351				
 626838-1	Dendrobium ardeni	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 132	1908 [Sep 1908]	2304-7534				41561701				
+626924-1	Dendrobium bifidum	Ridl.	J. As. Soc. Straits	xxxix. 73.		2304-7534				41560531				
+627009-1	Dendrobium calicopis	Ridl.	J. As. Soc. Straits	xxxix. 72.		2304-7534				41560531				
 627077-1	Dendrobium chloroleucum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 38	1912 [Jun 1912]	2304-7534				41561666				
+627173-1	Dendrobium crabro	Ridl.	J. As. Soc. Straits	I. 133 (1908).		2304-7534				41561701				
 627184-1	Dendrobium crenicristatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 48	1910 [Jan 1910]	2304-7534				41561101				
 627548-1	Dendrobium gracilipes	Burkill	J. Straits Branch Roy. Asiat. Soc.	79: 45	1918 [Sep 1918]	2304-7534				41561298				
+627551-1	Dendrobium gramineum	Ridl.	J. As. Soc. Straits	I. 132 (1908).		2304-7534				41561701				
 627811-1	Dendrobium lankaviense	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 49	1910 [Jan 1910]	2304-7534				41561101				
 627974-1	Dendrobium mellitum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 32	1904 [Jan 1904]	2304-7534				41561567				
 628057-1	Dendrobium multiflorum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 134	1908 [Sep 1908]	2304-7534				41561701				
@@ -701,7 +739,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 628471-1	Dendrobium ridleyi	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 164	1921 [Sep 1921]	2304-7534								
 628541-1	Dendrobium sarawakense	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 164	1921 [Sep 1921]	2304-7534								
 628715-1	Dendrobium sulphuratum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 28	1907 [Dec 1907]	2304-7534				41561168				
+628744-1	Dendrobium tenuicaule	Ridl.	J. As. Soc. Straits	xxxix. 73.		2304-7534				41560531				
+628928-1	Dendrobium viridicatum	Ridl.	J. As. Soc. Straits	xxxix. 72.		2304-7534				41560531				
+629001-1	Dendrochilum angustifolium	Ridl.	J. As. Soc. Straits	xxxix. 77.		2304-7534				41560531				
 629054-1	Dendrochilum dolichobrachium	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 147	1921 [Sep 1921]	2304-7534								
+629061-1	Dendrochilum ellipticum	Ridl.	J. As. Soc. Straits	xxxix. 77.		2304-7534				41560531				
 629105-1	Dendrochilum intermedium	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 135	1908 [Sep 1908]	2304-7534				41561701				
 629161-1	Dendrochilum minimum	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 148	1921 [Sep 1921]	2304-7534								
 629162-1	Dendrochilum minus	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 148	1921 [Sep 1921]	2304-7534								
@@ -716,17 +758,22 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 633506-1	Eria aurantiaca	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 50	1910 [Jan 1910]	2304-7534				41561101				
 633507-1	Eria aurea	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 31	1907 [Dec 1907]	2304-7534				41561168				
 633550-1	Eria brookesii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 136	1908 [Sep 1908]	2304-7534				41561701				
+633616-1	Eria cristata	Ridl.	J. As. Soc. Straits	39: 78.	1903	2304-7534				41560531				
 633630-1	Eria dajakorum	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 169	1921 [Sep 1921]	2304-7534								
 633676-1	Eria eurostachys	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 136	1908 [Sep 1908]	2304-7534				41561701				
 633802-1	Eria larutensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	82: 198	1920 [Sep 1920]	2304-7534				41561351				
 633830-1	Eria linearifolia	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 172	1921 [Sep 1921]	2304-7534								
+633872-1	Eria megalopha	Ridl.	J. As. Soc. Straits	xxxiii. 23.		2304-7534				41560931				
 633925-1	Eria odoardoi	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 172	1921 [Sep 1921]	2304-7534								
+633962-1	Eria pendula	Ridl.	J. As. Soc. Straits	xxxix. 78.		2304-7534				41560531				
 634024-1	Eria ramulosa	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 39	1912 [Jun 1912]	2304-7534				41561666				
+634055-1	Eria rotundifolia	Ridl.	J. As. Soc. Straits	xxxix. 78.		2304-7534				41560531				
 634062-1	Eria saccata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 39	1912 [Jun 1912]	2304-7534				41561666				
 634090-1	Eria smithii	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 174	1921 [Sep 1921]	2304-7534								
 634150-1	Eria triloba	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 31	1907 [Dec 1907]	2304-7534				41561168				
 634278-1	Erythrodes glandulosa	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 140	1921 [Sep 1921]	2304-7534								
 635625-1	Geodorum pulchellum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 138	1908 [Sep 1908]	2304-7534				41561701				
+636140-1	Goodyera lanceolata	Ridl.	J. As. Soc. Straits	xxxix. 86.		2304-7534				41560531				
 636198-1	Goodyera rostrata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 40	1907 [Dec 1907]	2304-7534				41561168				
 636935-1	Habenaria borneensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 41	1907 [Dec 1907]	2304-7534				41561168				
 637307-1	Habenaria gibbsiae	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 138	1921 [Sep 1921]	2304-7534								
@@ -735,8 +782,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 638146-1	Habenaria spathulata	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 138	1921 [Sep 1921]	2304-7534								
 638170-1	Habenaria stapfii	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 139	1921 [Sep 1921]	2304-7534								
 638320-1	Habenaria unguiculata	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 139	1921 [Sep 1921]	2304-7534								
+638744-1	Hetaeria parvifolia	Ridl.	J. As. Soc. Straits	xxxix. 87.		2304-7534				41560531				
+640727-1	Liparis atrosanguinea	Ridl.	J. As. Soc. Straits	xxxix. 71.		2304-7534				41560531				
 640768-1	Liparis brookesii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 47	1910 [Jan 1910]	2304-7534				41561101				
 640846-1	Liparis downii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 27	1907 [Dec 1907]	2304-7534				41561168				
+641275-1	Liparis vittata	Ridl.	J. As. Soc. Straits	xxxix. 71.		2304-7534				41560531				
 64138-1	Curculigo borneensis	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 162	1922 [Apr 1922]	2304-7534				41561404				
 64153-1	Curculigo glabrescens	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 163	1922 [Apr 1922]	2304-7534				41561404				
 64161-1	Curculigo megacarpa	Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 33	1904 [Jan 1904]	2304-7534				41561567				
@@ -761,16 +811,21 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 645837-1	Oberonia gracillima	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 189	1905 [Jul 1905]	2304-7534				41561025				
 645901-1	Oberonia longifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 127	1908 [Sep 1908]	2304-7534				41561701				
 645970-1	Oberonia pendula	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 38	1912 [Jun 1912]	2304-7534				41561666				
+646011-1	Oberonia rubra	Ridl.	J. As. Soc. Straits	I. 127 (1908).		2304-7534				41561701				
 646018-1	Oberonia saururus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 190	1911 [Jul 1911]	2304-7534				41561661				
+646045-1	Oberonia stenophylla	Ridl.	J. As. Soc. Straits	xxx. 193 (1897), nomen.		2304-7534				41561585				
 650653-1	Pholidota grandis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 32	1907 [Dec 1907]	2304-7534				41561168				
 651953-1	Platyclinis bartonii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 128	1908 [Sep 1908]	2304-7534				41561701				
 651978-1	Platyclinis minima	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 30	1907 [Dec 1907]	2304-7534				41561168				
 651979-1	Platyclinis minor	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 30	1907 [Dec 1907]	2304-7534				41561168				
+651980-1	Platyclinis odorata	Ridl.	J. As. Soc. Straits	xxxix. 72.		2304-7534				41560531				
 653834-1	Plocoglottis borneensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 33	1907 [Dec 1907]	2304-7534				41561168				
 653842-1	Plocoglottis hirta	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 137	1908 [Sep 1908]	2304-7534				41561701				
+653928-1	Podochilus densifolius	Ridl.	J. As. Soc. Straits	xxxix. 86.		2304-7534				41560531				
 654002-1	Podochilus rupicola	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 142	1908 [Sep 1908]	2304-7534				41561701				
 654014-1	Podochilus sumatrensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 41	1912 [Jun 1912]	2304-7534				41561666				
 655910-1	Saccolabium adenoncoides	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 53	1910 [Jan 1910]	2304-7534				41561101				
+655919-1	Saccolabium arachnanthe	Ridl.	J. As. Soc. Straits	xxxix. 83.		2304-7534				41560531				
 655924-1	Saccolabium aureum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 35	1907 [Dec 1907]	2304-7534				41561168				
 655932-1	Saccolabium bicrure	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 190	1905 [Jul 1905]	2304-7534				41561025				
 655941-1	Saccolabium brachystachys	Ridl.	J. Straits Branch Roy. Asiat. Soc.	49: 36	1907 [Dec 1907]	2304-7534				41561168				
@@ -778,11 +833,15 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 655999-1	Saccolabium fimbriatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 52	1910 [Jan 1910]	2304-7534				41561101				
 656038-1	Saccolabium hobsonii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 97	1911 [Jan 1911]	2304-7534				41561118				
 656039-1	Saccolabium hobsonii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 97	1911 [Jan 1911]	2304-7534				41561118				
+656040-1	Saccolabium hortense	Ridl.	J. As. Soc. Straits	xxxix. 83.		2304-7534				41560531				
 656043-1	Saccolabium humile	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 198	1911 [Jul 1911]	2304-7534				41561661				
 656066-1	Saccolabium laxum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 140	1908 [Sep 1908]	2304-7534				41561701				
 656080-1	Saccolabium machadonis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	39: 82	1903 [Jun 1903]	2304-7534				41560531				
+656103-1	Saccolabium myosurus	Ridl.	J. As. Soc. Straits	xxxix. 84.		2304-7534				41560531				
+656135-1	Saccolabium patinatum	Ridl.	J. As. Soc. Straits	xxxix. 84.		2304-7534				41560531				
 656143-1	Saccolabium pinifolium	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 141	1908 [Sep 1908]	2304-7534				41561701				
 656170-1	Saccolabium ramosum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 190	1905 [Jul 1905]	2304-7534				41561025				
+656189-1	Saccolabium rugosulum	Ridl.	J. As. Soc. Straits	xxxix. 82.		2304-7534				41560531				
 656206-1	Saccolabium setulense	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 198	1911 [Jul 1911]	2304-7534				41561661				
 656223-1	Saccolabium strongyloides	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 141	1908 [Sep 1908]	2304-7534				41561701				
 656226-1	Saccolabium suffusum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 189	1905 [Jul 1905]	2304-7534				41561025				
@@ -840,8 +899,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 671251-1	Pandanus nativitatis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	45: 238	1906 [Jun 1906]	2304-7534				41561626				
 671271-1	Pandanus obovoideus	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 154	1922 [Apr 1922]	2304-7534				41561404				
 671302-1	Pandanus pachyphyllus	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 154	1922 [Apr 1922]	2304-7534				41561404				
+671324-1	Pandanus parvus	Ridl.	J. As. Soc. Straits	xxxiii. 171.		2304-7534				41560932				
 671331-1	Pandanus penangensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 50	1904 [Jan 1904]	2304-7534				41561567				
 671350-1	Pandanus pilaris	Ridl.	J. Straits Branch Roy. Asiat. Soc.	86: 311	1922 [Nov 1922]	2304-7534				41561713				
+671447-1	Pandanus russow	Miq. ex Ridl.	J. As. Soc. Straits	xxx. 218 (1897), nomen.		2304-7534				41561585				
 671456-1	Pandanus sandakanensis	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 152	1922 [Apr 1922]	2304-7534				41561404				
 671517-1	Pandanus stelliger	Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 49	1904 [Jan 1904]	2304-7534				41561567				
 671558-1	Pandanus tetrodon	Ridl.	J. Straits Branch Roy. Asiat. Soc.	68: 13	1915 [Jun 1915]	2304-7534				41561017				
@@ -897,12 +958,14 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 742816-1	Stichoneuron caudatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 107	1911 [Jan 1911]	2304-7534				41561118				
 74319-1	Oxymitra acuminata	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 180	1922 [Apr 1922]	2304-7534				41561404				
 74350-1	Oxymitra grandifolia	Merr.	J. Straits Branch Roy. Asiat. Soc.	85: 179	1922 [Apr 1922]	2304-7534				41561404				
+743634-1	Argostemma aequifolium	Ridl.	J. As. Soc. Straits	xxxv. 15.		2304-7534				41560954				
 743670-1	Argostemma denticulatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 12	1912 [Jun 1912]	2304-7534				41561666				
 743674-1	Argostemma diversifolium	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 52	1911 [Jan 1911]	2304-7534				41561118				
 743675-1	Argostemma diversifolium	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 52	1911 [Jan 1911]	2304-7534				41561118				
 743680-1	Argostemma enerve	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 13	1912 [Jun 1912]	2304-7534				41561666				
 743691-1	Argostemma grandiflorum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 77	1918 [Sep 1918]	2304-7534				41561302				
 743695-1	Argostemma havilandii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 13	1912 [Jun 1912]	2304-7534				41561666				
+743698-1	Argostemma hirtum	Ridl.	J. As. Soc. Straits	xxxv. 14.		2304-7534				41560954				
 743711-1	Argostemma johorense	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 11	1912 [Jun 1912]	2304-7534				41561666				
 743715-1	Argostemma klossii	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 13	1912 [Jun 1912]	2304-7534				41561666				
 743749-1	Argostemma nervosum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 77	1918 [Sep 1918]	2304-7534				41561302				
@@ -960,6 +1023,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 75153-1	Sphaerocoryne aberrans	Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 8	1917 [Apr 1917]	2304-7534				41561243				
 75154-1	Sphaerocoryne affinis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 8	1917 [Apr 1917]	2304-7534				41561243				
 75158-1	Sphaerocoryne siamensis	Scheff. ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	75: 8	1917 [Apr 1917]	2304-7534				41561243				
+752476-1	Hedyotis flexuosa	Ridl.	J. As. Soc. Straits	xxxv. 15.		2304-7534				41560954				
 752901-1	Hedyotis stelligera	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 109	1911 [Jul 1911]	2304-7534				41561661				
 753764-1	Ixora boerlagei	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 571	1921 [Sep 1921]	2304-7534								
 753876-1	Ixora crassifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 83	1918 [Sep 1918]	2304-7534				41561302				
@@ -989,11 +1053,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 756371-1	Morinda elliptica	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 86	1918 [Sep 1918]	2304-7534				41561302				
 756786-1	Mussaenda purpurascens	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 18	1912 [Jun 1912]	2304-7534				41561666				
 756822-1	Mussaenda spectabilis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 78	1918 [Sep 1918]	2304-7534				41561302				
+756856-1	Mussaenda variabilis	Hemsl. ex Ridl.	J. As. Soc. Straits	xxx. 59 (1897), nomen.		2304-7534				41561585				
 757108-1	Nauclea gambeer	Hunter ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	53: 71	1909 [Sep 1909]	2304-7534				41561092				
 757392-1	Neonauclea cyrtopodioides	Merr.	J. Straits Branch Roy. Asiat. Soc.	Spec. No. 554	1921 [Sep 1921]	2304-7534								
 758137-1	Oldenlandia rosea	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 110	1911 [Jul 1911]	2304-7534				41561661				
 758401-1	Ophiorrhiza communis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 16	1912 [Jun 1912]	2304-7534				41561666				
 758405-1	Ophiorrhiza costata	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 15	1912 [Jun 1912]	2304-7534				41561666				
+758437-1	Ophiorrhiza fibrillosa	Ridl.	J. As. Soc. Straits	xxxiii. 22.		2304-7534				41560931				
 758440-1	Ophiorrhiza fontinalis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 55	1912 [Jun 1912]	2304-7534				41561667				
 758443-1	Ophiorrhiza fruticulosa	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 15	1912 [Jun 1912]	2304-7534				41561666				
 758481-1	Ophiorrhiza kingiana	Ridl.	J. Straits Branch Roy. Asiat. Soc.	61: 17	1912 [Jun 1912]	2304-7534				41561666				
@@ -1105,12 +1171,90 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 79306-1	Holarrhena latifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 131	1911 [Jul 1911]	2304-7534				41561661				
 79313-1	Holarrhena pauciflora	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 132	1911 [Jul 1911]	2304-7534				41561661				
 79319-1	Holarrhena pulcherrima	Ridl.	J. Straits Branch Roy. Asiat. Soc.	59: 130	1911 [Jul 1911]	2304-7534				41561661				
+795207-1	Alpinia assimilis	Ridl.	J. As. Soc. Straits	xxxii. 166.		2304-7534				41560919				
+795227-1	Alpinia cannifolium	Ridl.	J. As. Soc. Straits	xxxii. 174.		2304-7534				41560919				
+795244-1	Alpinia comosa	Ridl.	J. As. Soc. Straits	xxxii. 170 (non Jacq.).		2304-7534				41560919				
+795282-1	Alpinia glabra	Ridl.	J. As. Soc. Straits	xxxii. 168.		2304-7534				41560919				
+795310-1	Alpinia latilabris	Ridl.	J. As. Soc. Straits	xxxii. 168.		2304-7534				41560919				
+795320-1	Alpinia macrostephanus	Ridl.	J. As. Soc. Straits	xxxii. 175		2304-7534				41560919				
+795328-1	Alpinia melanocarpa	Ridl.	J. As. Soc. Straits	xxxii. 163		2304-7534				41560919				
+795345-1	Alpinia nobilis	Ridl.	J. As. Soc. Straits	xxxii. 169.		2304-7534				41560919				
+795394-1	Alpinia rosella	Ridl.	J. As. Soc. Straits	xxxii. 164.		2304-7534				41560919				
+795408-1	Alpinia secundiflora	Ridl.	J. As. Soc. Straits	xxxii. 165.		2304-7534				41560919				
+795440-1	Alpinia vitellina	Ridl.	J. As. Soc. Straits	xxxii. 173		2304-7534				41560919				
+795495-1	Amomum cylindraceum	Ridl.	J. As. Soc. Straits	xxxii. 136.		2304-7534				41560919				
+795517-1	Amomum flavum	Ridl.	J. As. Soc. Straits	xxxii. 133.		2304-7534				41560919				
+795536-1	Amomum hastilabium	Ridl.	J. As. Soc. Straits	xxxii. 137.		2304-7534				41560919				
+795554-1	Amomum lappaceum	Ridl.	J. As. Soc. Straits	xxxii. 134.		2304-7534				41560919				
+795594-1	Amomum micranthum	Ridl.	J. As. Soc. Straits	xxxii. 138.		2304-7534				41560919				
+795605-1	Amomum ochreum	Ridl.	J. As. Soc. Straits	xxxii. 135.		2304-7534				41560919				
+795615-1	Amomum perakense	Ridl.	J. As. Soc. Straits	xxxii. 135.		2304-7534				41560919				
+795673-1	Amomum testaceum	Ridl.	J. As. Soc. Straits	xxxii. 135.		2304-7534				41560919				
+795961-1	Camptandra latifolia	Ridl.	J. As. Soc. Straits	xxxii. (1899) 104.		2304-7534				41560919				
+795962-1	Camptandra parvula	Ridl.	J. As. Soc. Straits	xxxii. (1899) 104		2304-7534				41560919				
+796256-1	Conamomum citrinum	Ridl.	J. As. Soc. Straits	xxxii. (1899) 121		2304-7534				41560919				
+796257-1	Conamomum utriculosum	Ridl.	J. As. Soc. Straits	xxxii. (1899) 122.		2304-7534				41560919				
 796589-1	Elettariopsis cyanescens	Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 31	1904 [Jan 1904]	2304-7534				41561567				
+796591-1	Elettariopsis latifolia	Ridl.	J. As. Soc. Straits	xxxii. 154.		2304-7534				41560919				
+796593-1	Elettariopsis multiflora	Ridl.	J. As. Soc. Straits	xxxii. 157.		2304-7534				41560919				
+796594-1	Elettariopsis pubescens	Ridl.	J. As. Soc. Straits	xxxii. 155		2304-7534				41560919				
+796647-1	Gastrochilus albosanguinea	Ridl.	J. As. Soc. Straits	xxxii. 111.		2304-7534				41560919				
+796651-1	Gastrochilus calophylla	Ridl.	J. As. Soc. Straits	xxxii. 115.		2304-7534				41560919				
+796652-1	Gastrochilus clivalis	Ridl.	J. As. Soc. Straits	xxxii. 114.		2304-7534				41560919				
+796653-1	Gastrochilus concinna	Ridl.	J. As. Soc. Straits	xxxii. 116		2304-7534				41560919				
+796657-1	Gastrochilus lancifolius	Ridl.	J. As. Soc. Straits	xxxii. 112.		2304-7534				41560919				
+796659-1	Gastrochilus longipes	King & Prain ex Ridl.	J. As. Soc. Straits	xxxii. 113.		2304-7534				41560919				
+796661-1	Gastrochilus ochroleuca	Ridl.	J. As. Soc. Straits	xxxii. 110.		2304-7534				41560919				
+796662-1	Gastrochilus oculata	Ridl.	J. As. Soc. Straits	xxxii. 117.		2304-7534				41560919				
+796663-1	Gastrochilus pandurata	Ridl.	J. As. Soc. Straits	xxxii. 114.		2304-7534				41560919				
+796665-1	Gastrochilus prainiana	Ridl.	J. As. Soc. Straits	xxxii. 115		2304-7534				41560919				
+796668-1	Gastrochilus scaphochlamys	Ridl.	J. As. Soc. Straits	xxxii. 112		2304-7534				41560919				
 796676-1	Geostachys decurvata	(Baker) Ridl.	J. Straits Branch Roy. Asiat. Soc.	32: 158	1899 [Jun 1899]	2304-7534				41560919				
 796677-1	Geostachys elegans	Ridl.	J. Straits Branch Roy. Asiat. Soc.	32: 160	1899 [Jun 1899]	2304-7534				41560919				
 796678-1	Geostachys penangensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	32: 159 (-160)	1899 [Jun 1899]	2304-7534				41560919				
 796679-1	Geostachys rupestris	Ridl.	J. Straits Branch Roy. Asiat. Soc.	32: 159	1899 [Jun 1899]	2304-7534				41560919				
 796680-1	Geostachys secunda	(Baker) Ridl.	J. Straits Branch Roy. Asiat. Soc.	32: 158	1899 [Jun 1899]	2304-7534				41560919				
+796691-1	Globba albiflora	Ridl.	J. As. Soc. Straits	xxxii. 96.		2304-7534				41560919				
+796710-1	Globba calophylla	Ridl.	J. As. Soc. Straits	xxxii. 93.		2304-7534				41560919				
+796725-1	Globba elegans	Ridl.	J. As. Soc. Straits	xxxii. 96.		2304-7534				41560919				
+796738-1	Globba integra	Ridl.	J. As. Soc. Straits	xxxii. 94.		2304-7534				41560919				
+796740-1	Globba keithii	Ridl.	J. As. Soc. Straits	xxxii. 94		2304-7534				41560919				
+796748-1	Globba malaccensis	Ridl.	J. As. Soc. Straits	xxxii. 93.		2304-7534				41560919				
+796754-1	Globba montana	Ridl.	J. As. Soc. Straits	xxxii. 92.		2304-7534				41560919				
+796770-1	Globba perakensis	Ridl.	J. As. Soc. Straits	xxxii. 98.		2304-7534				41560919				
+796803-1	Globba violacea	Ridl.	J. As. Soc. Straits	xxxii. 97.		2304-7534				41560919				
+796835-1	Hedychium collinum	Ridl.	J. As. Soc. Straits	xxxii. 103.		2304-7534				41560919				
+796839-1	Hedychium denticulatum	Ridl.	J. As. Soc. Straits	xxxii. 102.		2304-7534				41560919				
+796875-1	Hedychium macrorrhizum	Ridl.	J. As. Soc. Straits	xxxii. 102.		2304-7534				41560919				
+796878-1	Hedychium microchilum	Ridl.	J. As. Soc. Straits	xxxii. 101.		2304-7534				41560919				
+797032-1	Hornstedtia affinis	Ridl.	J. As. Soc. Straits	xxxii. 143.		2304-7534				41560919				
+797033-1	Hornstedtia albomarginata	Ridl.	J. As. Soc. Straits	xxxii. 145.		2304-7534				41560919				
+797035-1	Hornstedtia conica	Ridl.	J. As. Soc. Straits	xxxii. 142.		2304-7534				41560919				
+797040-1	Hornstedtia fulgens	Ridl.	J. As. Soc. Straits	xxxii. 149.		2304-7534				41560919				
+797041-1	Hornstedtia grandis	Ridl.	J. As. Soc. Straits	xxxii. 141.		2304-7534				41560919				
+797043-1	Hornstedtia imperialis	Ridl.	J. As. Soc. Straits	xxxii. 148		2304-7534				41560919				
+797049-1	Hornstedtia macrochilus	Ridl.	J. As. Soc. Straits	xxxii. 147		2304-7534				41560919				
+797051-1	Hornstedtia maingayi	Ridl.	J. As. Soc. Straits	xxxii. 150		2304-7534				41560919				
+797052-1	Hornstedtia megalochilus	Ridl.	J. As. Soc. Straits	xxxii. 146		2304-7534				41560919				
+797053-1	Hornstedtia metriochilus	Ridl.	J. As. Soc. Straits	xxxii. 147		2304-7534				41560919				
+797057-1	Hornstedtia ophiuchus	Ridl.	J. As. Soc. Straits	xxxii. 141		2304-7534				41560919				
+797060-1	Hornstedtia pauciflora	Ridl.	J. As. Soc. Straits	xxxii. 144.		2304-7534				41560919				
+797066-1	Hornstedtia pusilla	Ridl.	J. As. Soc. Straits	xxxii. 143.		2304-7534				41560919				
+797073-1	Hornstedtia triorgyale	Ridl.	J. As. Soc. Straits	xxxii. 144.		2304-7534				41560919				
+797074-1	Hornstedtia velutina	Ridl.	J. As. Soc. Straits	xxxii. 146.		2304-7534				41560919				
+797075-1	Hornstedtia venusta	Ridl.	J. As. Soc. Straits	xxxii. 149.		2304-7534				41560919				
+797162-1	Kaempferia glauca	Ridl.	J. As. Soc. Straits	xxxii. 107.		2304-7534				41560919				
+797196-1	Kaempferia pulchra	Ridl.	J. As. Soc. Straits	xxxii. 107.		2304-7534				41560919				
+797685-1	Phrynium basiflorum	Ridl.	J. As. Soc. Straits	xxxii. 182.		2304-7534				41560919				
+797705-1	Phrynium cylindricum	Ridl.	J. As. Soc. Straits	xxxii. 178 (non Rosc.).		2304-7534				41560919				
+797733-1	Phrynium hirtum	Ridl.	J. As. Soc. Straits	xxxii. 181.		2304-7534				41560919				
+797754-1	Phrynium malaccense	Ridl.	J. As. Soc. Straits	xxxii. 180.		2304-7534				41560919				
+798000-1	Plagiostachys lateralis	Ridl.	J. As. Soc. Straits	xxxii. (1899) 152		2304-7534				41560919				
+798001-1	Plagiostachys strobilifera	Ridl.	J. As. Soc. Straits	xxxii. (1899) 151		2304-7534				41560919				
+798327-1	Zingiber chrysostachys	Ridl.	J. As. Soc. Straits	xxxii. 129.		2304-7534				41560919				
+798328-1	Zingiber citrinum	Ridl.	J. As. Soc. Straits	xxxii. 129.		2304-7534				41560919				
+798351-1	Zingiber kunstleri	King ex Ridl.	J. As. Soc. Straits	xxxii. 127.		2304-7534				41560919				
+798380-1	Zingiber puberulum	Ridl.	J. As. Soc. Straits	xxxii. 130.		2304-7534				41560919				
 798399-1	Zingiber wrayi	Prain ex Ridl.	J. Straits Branch Roy. Asiat. Soc.	41: 31	1904 [Jan 1904]	2304-7534				41561567				
 80320-1	Micrechites brachypetalus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 96	1918 [Sep 1918]	2304-7534				41561302				
 80324-1	Micrechites furcatus	Ridl.	J. Straits Branch Roy. Asiat. Soc.	79: 95	1918 [Sep 1918]	2304-7534				41561302				
@@ -1288,6 +1432,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 872858-1	Plagiostachys albiflora	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 150	1908 [Sep 1908]	2304-7534				41561701				
 872860-1	Plagiostachys borneensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	46: 242	1906 [Dec 1906]	2304-7534				41561650				
 87298-1	Homalomena sarawakensis	Ridl.	J. Straits Branch Roy. Asiat. Soc.	44: 172	1905 [Jul 1905]	2304-7534				41561024				
+873038-1	Zingiber chryseum	Ridl.	J. As. Soc. Straits	I. 149 (1908).		2304-7534				41561701				
 873045-1	Zingiber flavidum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	54: 58	1910 [Jan 1910]	2304-7534				41561101				
 873058-1	Zingiber longipedunculatum	Ridl.	J. Straits Branch Roy. Asiat. Soc.	50: 149	1908 [Sep 1908]	2304-7534				41561701				
 87321-1	Homalomena undulatifolia	Ridl.	J. Straits Branch Roy. Asiat. Soc.	57: 111	1911 [Jan 1911]	2304-7534				41561118				

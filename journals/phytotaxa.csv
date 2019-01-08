@@ -1586,7 +1586,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77147942-1	Allium kyrenium	Giusso, C.Brullo, Brullo & Salmeri	Phytotaxa	213(3): 283	2015	1179-3155	10.11646/phytotaxa.213.3.8							
 77146875-1	Allium marmoratum	Seregin	Phytotaxa	205(3): 211	2015	1179-3155	10.11646/phytotaxa.205.3.9							
 77144517-1	Allium moly subsp. glaucescens	P.P.Ferrer, R.Ferrer, E.Laguna & Guara	Phytotaxa	192(1): 37	2015	1179-3155	10.11646/phytotaxa.192.1.4							
-77145933-1	Allium occultum	Tzanoud. & Trigas	Phytotaxa	202(2): 136	2015	1179-3155	10.11646/8972							
+77145933-1	Allium occultum	Tzanoud. & Trigas	Phytotaxa	202(2): 136	2015	1179-3155	10.11646/phytotaxa.202.2.5							
 77140309-1	Allium therinanthum	C.Brullo, Brullo, Fragman, Giusso & Salmeri	Phytotaxa	164(1): 30	2014	1179-3155	10.11646/phytotaxa.164.1.3							
 77147584-1	Allium undulatipetalum	İ.Genç & Özhatay	Phytotaxa	212(4): 284	2015	1179-3155	10.11646/phytotaxa.212.4.4							
 77143488-1	Amaranthus bengalensis	Saubhik Das & Iamonico	Phytotaxa	181(5): 297	2014	1179-3155	10.11646/phytotaxa.181.5.4							
@@ -1676,7 +1676,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77149292-1	Anthurium yanacochense	Croat, C.Ulloa & E.Freire	Phytotaxa	222(2): 138	2015	1179-3155	10.11646/phytotaxa.222.2.6							
 77142383-1	Philodendron meridionale	Buturi & Sakur.	Phytotaxa	174(3): 145	2014	1179-3155	10.11646/phytotaxa.174.3.2							
 77145954-1	Philodendron rheophyticum	Buturi & Temponi	Phytotaxa	202(4): 285	2015	1179-3155	10.11646/phytotaxa.202.4.7							
-77133084-1	Pinellia hunanensis	C.L.Long & X.J.Wu	Phytotaxa	130(1): 9	2013	1179-3155								
+77133084-1	Pinellia hunanensis	C.L.Long & X.J.Wu	Phytotaxa	130(1): 9	2013	1179-3155	10.11646/phytotaxa.130.1.1							
 77138125-1	Dendropanax pruinosus	(Taub.) Fiaschi & Frodin	Phytotaxa	159(3): 237	2014	1179-3155	10.11646/phytotaxa.159.3.6							
 77138126-1	Dendropanax simplicifolius	(Hoehne) Fiaschi & Frodin	Phytotaxa	159(3): 237	2014	1179-3155	10.11646/phytotaxa.159.3.6							
 77145169-1	Allagoptera robusta	R.C.Martins & Filg.	Phytotaxa	197(2): 116	2015	1179-3155	10.11646/phytotaxa.197.2.4							
@@ -1795,7 +1795,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77143931-1	Syagrus graminifolia subsp. cabraliensis	Noblick & Lorenzi	Phytotaxa	188(1): 1	2014	1179-3155	10.11646/phytotaxa.188.1.1							
 77143934-1	Syagrus guimaraesensis	Noblick & Lorenzi	Phytotaxa	188(1): 10	2014	1179-3155	10.11646/phytotaxa.188.1.1							
 77143933-1	Syagrus menzeliana	Noblick & Lorenzi	Phytotaxa	188(1): 7	2014	1179-3155	10.11646/phytotaxa.188.1.1							
-77133453-1	Trithrinax schizophylla var. biflabellata	(Barb.Rodr.) An.Cano & F.W.Stauffer	Phytotaxa	136(1): 42	2013	1179-3155	10.11646/3306							
+77133453-1	Trithrinax schizophylla var. biflabellata	(Barb.Rodr.) An.Cano & F.W.Stauffer	Phytotaxa	136(1): 42	2013	1179-3155								
 77148276-1	Aristolochia annamensis	T.V.Do, Wanke & Neinhuis	Phytotaxa	220(1): 70	2015	1179-3155	10.11646/phytotaxa.220.1.6							
 77140305-1	Aristolochia assisii	J.Freitas, Lírio & F.González	Phytotaxa	163(5): 263	2014	1179-3155	10.11646/phytotaxa.163.5.2							
 60469243-2	Aristolochia compressicaulis	Z.L.Yang	Phytotaxa	221(2): 198	2015	1179-3155	10.11646/phytotaxa.221.2.11							
@@ -2110,7 +2110,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77141434-1	Pitcairnia albifolia	Cáceres Gonz. & A.Ibáñez	Phytotaxa	172(1): 46	2014	1179-3155	10.11646/phytotaxa.172.1.6							
 77150551-1	Pitcairnia queroana	Espejo & López-Ferr.	Phytotaxa	230(3): 288	2015	1179-3155	10.11646/phytotaxa.230.3.8							
 77150195-1	Tillandsia chalcatzingensis	Gonz.-Rocha, Cerros, López-Ferr. & Espejo	Phytotaxa	227(2): 183	2015	1179-3155	10.11646/phytotaxa.227.2.8							
-77145934-1	Tillandsia leucopetala	Büneker, R.Pontes & Witeck	Phytotaxa	202(2): 144	2015	1179-3155	10.11646/5430							
+77145934-1	Tillandsia leucopetala	Büneker, R.Pontes & Witeck	Phytotaxa	202(2): 144	2015	1179-3155	NULLNULL							
 77143635-1	Tillandsia religiosa	Hern.-Cárdenas, Gonz.-Rocha, Espejo, López-Ferr., Cerros & Ehlers	Phytotaxa	184(1): 53	2014	1179-3155	10.11646/phytotaxa.184.1.7							
 77142997-1	Vriesea bifida	Leme & L.Kollmann	Phytotaxa	177(2): 89	2014	1179-3155	10.11646/phytotaxa.177.2.1							
 77142998-1	Vriesea lilliputiana	Leme	Phytotaxa	177(2): 93	2014	1179-3155	10.11646/phytotaxa.177.2.1							
@@ -2181,7 +2181,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77151628-1	Augustea anomala	(Hassl.) Iamonico	Phytotaxa	236(1): 76	2015	1179-3155	10.11646/phytotaxa.236.1.6							
 77151627-1	Augustea coquimbensis	(Gereau & Martic.) Iamonico	Phytotaxa	236(1): 75	2015	1179-3155	10.11646/phytotaxa.236.1.6							
 77151626-1	Augustea suffruticosa	(Griseb.) Iamonico	Phytotaxa	236(1): 72	2015	1179-3155	10.11646/phytotaxa.236.1.6							
-77134373-1	Cerastium azerbaijanicum	Poursakhi, Assadi & F.Ghahrem.	Phytotaxa	144(1): 23	2013	1179-3155	10.11646/3639							
+77134373-1	Cerastium azerbaijanicum	Poursakhi, Assadi & F.Ghahrem.	Phytotaxa	144(1): 23	2013	1179-3155								
 77150841-1	Dianthus borbonicus	Brullo, C.Brullo, Colombo, Giusso, Ilardi & R.Perrone	Phytotaxa	233(1): 50	2015	1179-3155								
 77150799-1	Dianthus burdurensis	Hamzaoğlu & Koç	Phytotaxa	233(1): 197	2015	1179-3155	10.11646/phytotaxa.233.2.8							
 77136292-1	Dianthus pseudocrinitus	Behrooz. & Joharchi	Phytotaxa	156(2): 69	2014	1179-3155	10.11646/phytotaxa.156.2.1							
@@ -2220,8 +2220,8 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77145914-1	Kali pellucidum	(Litv.) Brullo, Giusso & Hrusa	Phytotaxa	201(4): 271	2015	1179-3155	10.11646/phytotaxa.201.4.2							
 77145915-1	Kali ryanii	(Hrusa & Gaskin) Brullo & Hrusa	Phytotaxa	201(4): 271	2015	1179-3155	10.11646/phytotaxa.201.4.2							
 77145916-1	Kali sinkiangense	(A.J.Li) Brullo, Giusso & Hrusa	Phytotaxa	201(4): 271	2015	1179-3155	10.11646/phytotaxa.201.4.2							
-77134371-1	Oxybasis gubanovii	(Sukhor.) Sukhor. & Uotila	Phytotaxa	144(1): 8	2013	1179-3155	10.11646/1986							
-77134370-1	Oxybasis micrantha	(Trautv.) Sukhor. & Uotila	Phytotaxa	144(1): 3	2013	1179-3155	10.11646/1986							
+77134371-1	Oxybasis gubanovii	(Sukhor.) Sukhor. & Uotila	Phytotaxa	144(1): 8	2013	1179-3155								
+77134370-1	Oxybasis micrantha	(Trautv.) Sukhor. & Uotila	Phytotaxa	144(1): 3	2013	1179-3155								
 77141743-1	Acioa dolichopoda	(Prance) Sothers & Prance	Phytotaxa	172(3): 179	2014	1179-3155	10.11646/phytotaxa.172.3.2							
 77141742-1	Acioa longipendula	(Pilg.) Sothers & Prance	Phytotaxa	172(3): 178	2014	1179-3155	10.11646/phytotaxa.172.3.2							
 77150834-1	Couepia hallwachsiae	D.Santam. & Lagom.	Phytotaxa	233(1): 70	2015	1179-3155								
@@ -2248,7 +2248,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77147323-1	Aspidistra chongzuoensis	C.R.Lin & Y.S.Huang	Phytotaxa	208(3): 231	2015	1179-3155	10.11646/phytotaxa.208.3.6							
 77147208-1	Aspidistra chunxiuensis	C.R.Lin & Yan Liu	Phytotaxa	208(2): 163	2015	1179-3155	10.11646/phytotaxa.208.2.5							
 77147126-1	Aspidistra clausa	Vislobokov	Phytotaxa	207(3): 266	2015	1179-3155	10.11646/phytotaxa.207.3.4							
-77145935-1	Aspidistra guizhouensis	S.Z.He & W.F.Xu	Phytotaxa	202(2): 150	2015	1179-3155	10.11646/7215							
+77145935-1	Aspidistra guizhouensis	S.Z.He & W.F.Xu	Phytotaxa	202(2): 150	2015	1179-3155	10.11646/phytotaxa.202.2.7							
 77144888-1	Aspidistra lingchuanensis	C.R.Lin & L.F.Guo	Phytotaxa	195(1): 86	2015	1179-3155	10.11646/phytotaxa.195.1.7							
 77147209-1	Aspidistra longshengensis	C.R.Lin & W.B.Xu	Phytotaxa	208(2): 166	2015	1179-3155	10.11646/phytotaxa.208.2.5							
 77138487-1	Aspidistra paucitepala	Vislobokov, Nuraliev & D.D.Sokoloff	Phytotaxa	161(4): 272	2014	1179-3155	10.11646/phytotaxa.161.4.2							
@@ -2500,13 +2500,13 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77133181-1	Manihot kalungae	M.J.Silva & Sodré	Phytotaxa	131(1): 54	2013	1179-3155	10.11646/phytotaxa.131.1.10							
 77147866-1	Manihot luxurians	M.J.Silva	Phytotaxa	213(2): 135	2015	1179-3155	10.11646/phytotaxa.213.2.6							
 77133639-1	Phyllanthus myrsinites subsp. platyphyllus	G.L.Webster ex Secco	Phytotaxa	142(1): 52	2013	1179-3155	10.11646/phytotaxa.142.1.6							
-77145938-1	Tragia chiltepeca	Urtecho ex Mart.Gord. & R.Torres	Phytotaxa	202(2): 162	2015	1179-3155	10.11646/7077							
+77145938-1	Tragia chiltepeca	Urtecho ex Mart.Gord. & R.Torres	Phytotaxa	202(2): 162	2015	1179-3155	10.11646/phytotaxa.202.2.9							
 77143631-1	Aeschynomene veadeirana	M.J.Silva & L.L.C.Antunes	Phytotaxa	184(1): 32	2014	1179-3155	10.11646/phytotaxa.184.1.4							
 77141759-1	Ancistrotropis serrana	Snak, J.L.A.Moreira & A.M.G.Azevedo	Phytotaxa	172(3): 280	2014	1179-3155	10.11646/phytotaxa.172.3.9							
 77148776-1	Bituminaria kyreniae	Giusso, C.Brullo, Brullo, Cambria & Miniss.	Phytotaxa	220(3): 288	2015	1179-3155	10.11646/phytotaxa.220.3.7							
 77143648-1	Deguelia decorticans	R.A.Camargo & A.M.G.Azevedo	Phytotaxa	184(3): 161	2014	1179-3155	10.11646/phytotaxa.184.3.6							
 77133200-1	Galactia cordifolia	Ceolin & Miotto	Phytotaxa	134(1): 5	2013	1179-3155	10.11646/phytotaxa.134.1.1							
-77145939-1	Lespedeza hengduanshanensis	(C.J.Chen) Bo Xu, X.F.Gao & Li Bing Zhang	Phytotaxa	202(2): 166	2015	1179-3155	10.11646/7652							
+77145939-1	Lespedeza hengduanshanensis	(C.J.Chen) Bo Xu, X.F.Gao & Li Bing Zhang	Phytotaxa	202(2): 166	2015	1179-3155	10.11646/phytotaxa.202.2.10							
 77142925-1	Rhynchosia ravii	K.Prasad & A.Naray.	Phytotaxa	175(3): 156	2014	1179-3155	10.11646/phytotaxa.175.3.5							
 77133198-1	Senegalia hoehnei	Seigler, M.P.Lima, M.J.F.Barros & Ebinger	Phytotaxa	132(1): 60	2013	1179-3155	10.11646/phytotaxa.132.1.6							
 77147580-1	Amburana erythrosperma	Seleme, C.H.Stirt. & Mansano	Phytotaxa	212(4): 213	2015	1179-3155	10.11646/phytotaxa.212.3.3							
@@ -2597,21 +2597,21 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77148236-1	Toxicopueraria peduncularis	(Benth.) A.N.Egan & B.Pan	Phytotaxa	218(3): 215	2015	1179-3155	10.11646/phytotaxa.218.3.1							
 77148237-1	Toxicopueraria yunnanensis	(Franch.) A.N.Egan & B.Pan	Phytotaxa	218(3): 218	2015	1179-3155	10.11646/phytotaxa.218.3.1							
 77145924-1	Trigonella bakhtiarica	Ranjbar & Z.Hajmoradi	Phytotaxa	202(1): 31	2015	1179-3155	10.11646/phytotaxa.202.1.3							
-77138716-1	Vachellia gerrardii var. najdensis	(Chaudhary) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138715-1	Vachellia gerrardii subsp. negevensis	(Zohary) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138717-1	Vachellia harala	(Thulin & Al-Gifri) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138718-1	Vachellia hunteri	(Oliv.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138719-1	Vachellia hydaspica	(J.R.Drumm. ex R.Parker) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138720-1	Vachellia jacquemontii	(Benth.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138721-1	Vachellia johnwoodii	(Boulos) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155								
-77138722-1	Vachellia nilotica subsp. cupressiformis	(J.L.Stewart) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138723-1	Vachellia nilotica subsp. hemispherica	(Ali & Faruqi) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138724-1	Vachellia planifrons	(Wight & Arn.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138725-1	Vachellia pseudoeburnea	(J.R.Drumm. ex Dunn) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138726-1	Vachellia tanjorensis	(Ragup., Thoth. & A.Mahad.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138727-1	Vachellia tortilis subsp. campoptila	(Schweinf.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138728-1	Vachellia wightii	Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155								
-77138729-1	Vachellia yemenensis	(Boulos) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 178	2014	1179-3155								
+77138716-1	Vachellia gerrardii var. najdensis	(Chaudhary) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138715-1	Vachellia gerrardii subsp. negevensis	(Zohary) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138717-1	Vachellia harala	(Thulin & Al-Gifri) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138718-1	Vachellia hunteri	(Oliv.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138719-1	Vachellia hydaspica	(J.R.Drumm. ex R.Parker) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138720-1	Vachellia jacquemontii	(Benth.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138721-1	Vachellia johnwoodii	(Boulos) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 176	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138722-1	Vachellia nilotica subsp. cupressiformis	(J.L.Stewart) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138723-1	Vachellia nilotica subsp. hemispherica	(Ali & Faruqi) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138724-1	Vachellia planifrons	(Wight & Arn.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138725-1	Vachellia pseudoeburnea	(J.R.Drumm. ex Dunn) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138726-1	Vachellia tanjorensis	(Ragup., Thoth. & A.Mahad.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138727-1	Vachellia tortilis subsp. campoptila	(Schweinf.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138728-1	Vachellia wightii	Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 177	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138729-1	Vachellia yemenensis	(Boulos) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 178	2014	1179-3155	10.11646/phytotaxa.162.3.6							
 77136289-1	Weberbauerella chilensis	Faúndez & Saldivia	Phytotaxa	156(1): 42	2014	1179-3155	10.11646/phytotaxa.156.1.2							
 77137265-1	Pinguicula filifolia subsp. alba	Y.Domínguez, Panfet & V.Miranda	Phytotaxa	158(1): 87	2014	1179-3155	10.11646/phytotaxa.158.1.6							
 77143925-1	Pinguicula sehuensis	Bacch., Cannas & Peruzzi	Phytotaxa	186(5): 280	2014	1179-3155	10.11646/phytotaxa.186.5.5							
@@ -2736,12 +2736,12 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77149473-1	Sonerila bokorense	S.H.Cho & Y.D.Kim	Phytotaxa	222(4): 295	2015	1179-3155	10.11646/phytotaxa.222.4.8							
 77145884-1	Sonerila metallica	C.W.Lin, Chien F.Chen & T.Y.A.Yang	Phytotaxa	201(2): 127	2015	1179-3155	10.11646/phytotaxa.201.2.2							
 77143650-1	Nymphoides coronata	(Dunn) Chun ex Y.D.Zhou & G.W.Hu	Phytotaxa	184(3): 171	2014	1179-3155	10.11646/phytotaxa.184.3.8							
-77138708-1	Senegalia diadenia	(R.Parker) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155								
-77138709-1	Senegalia donaldii	(Haines) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155								
-77138710-1	Senegalia hohenackeri	(Craib) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155								
-77138711-1	Senegalia lankaensis	(Kosterm.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155								
-77138712-1	Senegalia lenticularis	(Buch.-Ham.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155								
-77138713-1	Senegalia mahrana	(Thulin & Al-Gifri) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155								
+77138708-1	Senegalia diadenia	(R.Parker) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138709-1	Senegalia donaldii	(Haines) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138710-1	Senegalia hohenackeri	(Craib) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138711-1	Senegalia lankaensis	(Kosterm.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138712-1	Senegalia lenticularis	(Buch.-Ham.) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155	10.11646/phytotaxa.162.3.6							
+77138713-1	Senegalia mahrana	(Thulin & Al-Gifri) Ragup., Seigler, Ebinger & Maslin	Phytotaxa	162(3): 175	2014	1179-3155	10.11646/phytotaxa.162.3.6							
 77148238-1	Corbichonia exellii	Sukhor.	Phytotaxa	218(3): 230	2015	1179-3155	10.11646/phytotaxa.218.3.2							
 77147576-1	Dorstenia marijan-matokii	Eb.Fisch. & Killmann	Phytotaxa	212(3): 213	2015	1179-3155	10.11646/phytotaxa.212.3.3							
 77143937-1	Ficus nebulosilvana	N.Medina	Phytotaxa	188(1): 22	2014	1179-3155	10.11646/phytotaxa.188.1.3							
@@ -3019,11 +3019,11 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77146197-1	Lepanthes spiculifera	Thoerle & Hirtz	Phytotaxa	201(1): 59	2015	1179-3155	10.11646/phytotaxa.201.1.3							
 77141198-1	Liparis funingensis	Y.Y.Su, Yuan Meng & Z.J.Liu	Phytotaxa	166(1): 90	2014	1179-3155	10.11646/phytotaxa.166.1.6							
 77146844-1	Liparis wenshanensis	Y.Y.Su, Yi L.Huang & G.Q.Zhang	Phytotaxa	204(4): 262	2015	1179-3155								
-77138705-1	Lockhartia compacta	M.A.Blanco & R.Vásquez	Phytotaxa	162(3): 135	2014	1179-3155								
-77138701-1	Lockhartia endresiana	M.A.Blanco	Phytotaxa	162(3): 137	2014	1179-3155								
-77138703-1	Lockhartia rugosifolia	M.A.Blanco	Phytotaxa	162(3): 139	2014	1179-3155								
-77138704-1	Lockhartia tenuiflora	M.A.Blanco	Phytotaxa	162(3): 142	2014	1179-3155								
-77138707-1	Lophiaris silverarum	Carnevali & Cetzal	Phytotaxa	162(3): 166	2014	1179-3155								
+77138705-1	Lockhartia compacta	M.A.Blanco & R.Vásquez	Phytotaxa	162(3): 135	2014	1179-3155	10.11646/phytotaxa.162.3.2							
+77138701-1	Lockhartia endresiana	M.A.Blanco	Phytotaxa	162(3): 137	2014	1179-3155	10.11646/phytotaxa.162.3.2							
+77138703-1	Lockhartia rugosifolia	M.A.Blanco	Phytotaxa	162(3): 139	2014	1179-3155	10.11646/phytotaxa.162.3.2							
+77138704-1	Lockhartia tenuiflora	M.A.Blanco	Phytotaxa	162(3): 142	2014	1179-3155	10.11646/phytotaxa.162.3.2							
+77138707-1	Lophiaris silverarum	Carnevali & Cetzal	Phytotaxa	162(3): 166	2014	1179-3155	10.11646/phytotaxa.162.3.5							
 77146183-1	Macradenia grandiflora	A.K.Koch, Ilk.-Borg. & F.Barros	Phytotaxa	204(2): 172	2015	1179-3155	10.11646/phytotaxa.204.2.9							
 77142923-1	Malaxis irmae	Radins & Salazar	Phytotaxa	175(3): 126	2014	1179-3155	10.11646/phytotaxa.175.3.1							
 77140780-1	Malaxis malipoensis	Y.F.Meng, A.Q.Hu & F.W.Xing	Phytotaxa	167(2): 195	2014	1179-3155	10.11646/phytotaxa.167.2.6							
@@ -3269,7 +3269,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77145965-1	Paspalum cerradoense	R.C.Oliveira & Valls	Phytotaxa	203(2): 160	2015	1179-3155	10.11646/phytotaxa.203.2.5							
 77146192-1	Paspalum chilense	Catanzaro & G.H.Rua	Phytotaxa	197(4): 247	2015	1179-3155	10.11646/phytotaxa.197.4.2							
 77143644-1	Schizostachyum longinternodium	N.H.Xia, R.S.Lin & C.H.Zheng	Phytotaxa	184(3): 158	2014	1179-3155	10.11646/phytotaxa.184.3.5							
-77134372-1	Sporobolus nesiotioides	Longhi-Wagner, R.J.V.Alves & N.G.Silva	Phytotaxa	144(1): 13	2013	1179-3155	10.11646/1132							
+77134372-1	Sporobolus nesiotioides	Longhi-Wagner, R.J.V.Alves & N.G.Silva	Phytotaxa	144(1): 13	2013	1179-3155								
 77144935-1	Stipa aliena var. macrocarpa	(Martinovský) M.Nobis	Phytotaxa	195(3): 238	2015	1179-3155	10.11646/phytotaxa.195.3.3							
 77142387-1	Stipa klimesii	M.Nobis	Phytotaxa	174(3): 166	2014	1179-3155	10.11646/phytotaxa.174.3.5							
 77142388-1	Stipa klimesii var. pubescens	M.Nobis	Phytotaxa	174(3): 168	2014	1179-3155	10.11646/phytotaxa.174.3.5							
@@ -3380,9 +3380,9 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77146981-1	Hedyotis nanlingensis	R.J.Wang	Phytotaxa	206(1): 37	2015	1179-3155	10.11646/phytotaxa.206.1.6							
 77146983-1	Hedyotis puffii	Wangwasit & Chantar.	Phytotaxa	206(1): 49	2015	1179-3155	10.11646/phytotaxa.206.1.8							
 77145936-1	Ixora alejandroi	Banag & Tandang	Phytotaxa	202(2): 156	2015	1179-3155	10.11646/phytotaxa.202.2.8							
-77138681-1	Ixora homolleae	Govaerts ex De Block	Phytotaxa	162(3): 122	2014	1179-3155								
-77138682-1	Ixora lagenifructa	De Block	Phytotaxa	162(3): 125	2014	1179-3155								
-77138683-1	Ixora quadrilocularis	De Block	Phytotaxa	162(3): 127	2014	1179-3155								
+77138681-1	Ixora homolleae	Govaerts ex De Block	Phytotaxa	162(3): 122	2014	1179-3155	10.11646/phytotaxa.162.3.1							
+77138682-1	Ixora lagenifructa	De Block	Phytotaxa	162(3): 125	2014	1179-3155	10.11646/phytotaxa.162.3.1							
+77138683-1	Ixora quadrilocularis	De Block	Phytotaxa	162(3): 127	2014	1179-3155	10.11646/phytotaxa.162.3.1							
 77145937-1	Ixora reynaldoi	Banag	Phytotaxa	202(2): 158	2015	1179-3155	10.11646/phytotaxa.202.2.8							
 77145970-1	Massularia stevartiana	Sonké, E.Bidault & Droissart	Phytotaxa	203(3): 267	2015	1179-3155	10.11646/phytotaxa.203.3.5							
 77146991-1	Neobertiera glomerata	Delprete	Phytotaxa	206(1): 124	2015	1179-3155	10.11646/phytotaxa.206.1.13							
@@ -3683,7 +3683,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 77153608-1	Heliotropium khayyamii	Akhani	Phytotaxa	249(1): 41	2016	1179-3155	10.11646/phytotaxa.249.1.5							
 77153856-1	Microula roseiflora	W.T.Yu	Phytotaxa	252(2): 149	2016	1179-3155	10.11646/phytotaxa.252.2.8							
 77152011-1	Dyckia nobilis	Büneker, K.Soares & L.C.Assis	Phytotaxa	244(1): 60	2016	1179-3155	10.11646/phytotaxa.244.1.4							
-77154001-1	Chamaecrista rossicorum	(H.S.Irwin & Barneby) Rando	Phytotaxa	97(1): 23	2013	1179-3155								
+77154001-1	Chamaecrista rossicorum	(H.S.Irwin & Barneby) Rando	Phytotaxa	97(1): 23	2013	1179-3155	10.11646/phytotaxa.97.1.2							
 77153739-1	Schizotechium devendrae	(Pusalkar & S.K.Srivast.) Pusalkar & S.K.Srivast.	Phytotaxa	252(1): 82	2016	1179-3155	10.11646/phytotaxa.252.1.10							
 77153740-1	Schizotechium monospermum	(Buch.-Ham. ex D.Don) Pusalkar & S.K.Srivast.	Phytotaxa	252(1): 83	2016	1179-3155	10.11646/phytotaxa.252.1.10							
 77153741-1	Schizotechium paniculatum	(Edgew.) Pusalkar & S.K.Srivast.	Phytotaxa	252(1): 83	2016	1179-3155	10.11646/phytotaxa.252.1.10							

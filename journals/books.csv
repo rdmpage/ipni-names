@@ -44,6 +44,7 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1032390-2	Basiphyllaea wrightii	(Acuña) Nir	Orchidaceae Antill.	35	2000									
 1032857-2	Inga sect. Longiflorae	(Benth.) T.D.Penn.	Gen. Inga, Bot.	629	1997									
 1039260-2	Inga subnuda subsp. luschnathiana	(Benth.) T.D.Penn.	Gen. Inga, Bot.	753	1997									
+1041304-2	Piper artanthe var. strigosum	(Trel. & Yunck.)	Piperac. N. South Amer.	vol. 1: 359	1950									
 1048981-2	Inga pleiogyna	T.D.Penn.	Gen. Inga, Bot.	683	1997									
 1049563-2	Tolumnia subsect. Variegata	(Braem) Nir	Orchidaceae Antill.	370	2000									
 1061576-2	Tolumnia acunae	(M.A.Díaz) Nir	Orchidaceae Antill.	372	2000									
@@ -60,8 +61,10 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 1106326-2	Oerstedella hansenii	(C.D.Adams) Nir	Orchidaceae Antill.	259	2000									
 1106854-2	Inga vera subsp. affinis	(DC.) T.D.Penn.	Gen. Inga, Bot.	716	1997									
 1130241-2	Inga globularis	T.D.Penn.	Gen. Inga, Bot.	690	1997									
+1142340-2	Piper nobile var. glabratum		Piperac. N. South Amer.	1: 150	1950 (1984)									
 1153296-2	Dendrophylax serpentilingua	(Dod) Nir	Orchidaceae Antill.	86	2000									
 1160948-2	Inga sect. Multijugae	T.D.Penn.	Gen. Inga, Bot.	473	1997									
+1177402-2	Piper hispidum var. lanceolatum	(Trel. & Yunck.)	Piperac. N. South Amer.	vol. 1: 274	1950									
 1180734-2	Inga pedunculata	(Vinha) T.D.Penn.	Gen. Inga, Bot.	692	1997									
 1198246-2	Inga gereauana	(Pipoly & Vásquez) T.D.Penn.	Gen. Inga, Bot.	781	1997									
 1205349-2	Inga sect. Spectabiles	T.D.Penn.	Gen. Inga, Bot.	466	1997									
@@ -100,9 +103,573 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 17558560-1	Polystichum munitum subsp. imbricans	(D.C.Eaton) Munz	Fl. S. Calif. (Munz)	21	1974									
 17573170-1	Blotiella coriacea	Verdc.	Fl. Trop. E. Africa, Dennstaedt.	21	2000									
 179493-2	Oxytheca parishii subsp. abramsii	(McGregor) Munz	Fl. S. Calif. (Munz)	700	1974									
+188205-2	Peperomia abbreviatipes	Trel. & Yunck.	Piperac. N. South Amer.	2: 655, fig. 573	1950									
+188207-2	Peperomia abrupte-acutata	Trel. & Yunck.	Piperac. N. South Amer.	2: 683, fig. 598	1950									
+188208-2	Peperomia abrupte-acutata var. membranacea	Trel. & Yunck.	Piperac. N. South Amer.	2: 683	1950									
+188223-2	Peperomia aguabonitensis	Yunck.	Piperac. N. South Amer.	2: 708, fig. 630	1950									
+188228-2	Peperomia aguaditana	Trel. & Yunck.	Piperac. N. South Amer.	2: 576, fig. 500	1950									
+188229-2	Peperomia aguilae	Trel. & Yunck.	Piperac. N. South Amer.	2: 723, fig. 646	1950									
+188234-2	Peperomia albert-smithii	Trel. & Yunck.	Piperac. N. South Amer.	2: 495, fig. 439	1950									
+188235-2	Peperomia albert-smithii var. alipetiolata	Trel. & Yunck.	Piperac. N. South Amer.	2: 496	1950									
+188236-2	Peperomia albert-smithii var. epunctata	Trel. & Yunck.	Piperac. N. South Amer.	2: 496, fig. 440	1950									
+188237-2	Peperomia albert-smithii var. villosa	Trel. & Yunck.	Piperac. N. South Amer.	2: 496, fig. 411	1950									
+188246-2	Peperomia alibacophylla	Trel. & Yunck.	Piperac. N. South Amer.	2: 553, fig. 484	1950									
+188255-2	Peperomia ambiguifolia	Trel. & Yunck.	Piperac. N. South Amer.	2: 571, fig. 495	1950									
+188269-2	Peperomia aneura	Yunck.	Piperac. N. South Amer.	2: 601, fig. 525	1950									
+188271-2	Peperomia angularis var. noveninervia	Yunck.	Piperac. N. South Amer.	2: 614	1950									
+188287-2	Peperomia apodophylla	Trel. & Yunck.	Piperac. N. South Amer.	2: 580, fig. 504	1950									
+188288-2	Peperomia apodophylla var. hirtella	Trel. & Yunck.	Piperac. N. South Amer.	2: 581	1950									
+188299-2	Peperomia arenillasensis	Yunck.	Piperac. N. South Amer.	2: 626, fig. 548	1950									
+188301-2	Peperomia argenteobracteata	Trel. & Yunck.	Piperac. N. South Amer.	2: 518, fig. 457	1950									
+188313-2	Peperomia arthurii	Trel. & Yunck.	Piperac. N. South Amer.	2: 640, fig. 562	1950									
+188324-2	Peperomia bajana	Trel. & Yunck.	Piperac. N. South Amer.	2: 581	1950									
+188341-2	Peperomia bella	Yunck.	Piperac. N. South Amer.	2: 690, fig. 606	1950									
+188342-2	Peperomia bella var. subcordata	Yunck.	Piperac. N. South Amer.	2: 691, fig. 607	1950									
+188343-2	Peperomia bellatula	Yunck.	Piperac. N. South Amer.	2: 478, fig. 420	1950									
+188347-2	Peperomia bethaniana	Trel. & Yunck.	Piperac. N. South Amer.	2: 612, fig. 536	1950									
+188348-2	Peperomia biamenta	Trel. & Yunck.	Piperac. N. South Amer.	2: 700, fig. 622	1950									
+188349-2	Peperomia bicolor var. peduncularis	(Sodiro) Trel. & Yunck.	Piperac. N. South Amer.	2: 584	1950									
+188362-2	Peperomia blanda var. sericea	Yunck.	Piperac. N. South Amer.	2: 559	1950									
+188364-2	Peperomia blephariphylla	Trel. & Yunck.	Piperac. N. South Amer.	2: 665, fig. 580	1950									
+188395-2	Peperomia cacaophila	Trel. & Yunck.	Piperac. N. South Amer.	2: 610, fig. 534	1950									
+188404-2	Peperomia calimana	Trel. & Yunck.	Piperac. N. South Amer.	2: 617, fig. 541	1950									
+188405-2	Peperomia calinigaudens	Trel. & Yunck.	Piperac. N. South Amer.	2: 695, fig. 614	1950									
+188437-2	Peperomia castanoensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 675, fig. 591	1950									
+188462-2	Peperomia chicamochana	Trel. in Yunck.	Piperac. N. South Amer.	2: 470, fig. 411	1950									
+188464-2	Peperomia chigorodoana	Yunck.	Piperac. N. South Amer.	2: 654, fig. 571	1950									
+188473-2	Peperomia choroniana var. puberulenta	Yunck.	Piperac. N. South Amer.	2: 730	1950									
+188499-2	Peperomia clavatispica	Trel. & Yunck.	Piperac. N. South Amer.	2: 477, fig. 419	1950									
+188521-2	Peperomia condotoana	Trel. & Yunck.	Piperac. N. South Amer.	2: 667, fig. 583	1950									
+188524-2	Peperomia congerro	Trel. & Yunck.	Piperac. N. South Amer.	2: 480, fig. 422	1950									
+188529-2	Peperomia connixa	Trel. & Yunck.	Piperac. N. South Amer.	2: 717, fig. 639	1950									
+188534-2	Peperomia conturbans	Trel. & Yunck.	Piperac. N. South Amer.	2: 750, fig. 674	1950									
+188542-2	Peperomia cordata	Trel. & Yunck.	Piperac. N. South Amer.	2: 485, fig. 429	1950									
+188570-2	Peperomia cryptostachya	Trel. & Yunck.	Piperac. N. South Amer.	2: 674, fig. 589	1950									
+188573-2	Peperomia cubugonana	Trel. & Yunck.	Piperac. N. South Amer.	2: 522, fig. 462	1950									
+188576-2	Peperomia cumbreana	Trel. & Yunck.	Piperac. N. South Amer.	2: 692, fig. 610	1950									
+188577-2	Peperomia cundinamarcana	Trel. & Yunck.	Piperac. N. South Amer.	2: 456	1950									
+188591-2	Peperomia daguana	Trel. & Yunck.	Piperac. N. South Amer.	2: 696, fig. 615	1950									
+188625-2	Peperomia discilimba	Trel. & Yunck.	Piperac. N. South Amer.	2: 489, fig. 433	1950									
+188657-2	Peperomia duendensis	Yunck.	Piperac. N. South Amer.	2: 578, fig. 502	1950									
+188668-2	Peperomia eburnea var. robustior	Yunck.	Piperac. N. South Amer.	2: 725	1950									
+188677-2	Peperomia ellsworthii	Trel. & Yunck.	Piperac. N. South Amer.	2: 486, fig. 430	1950									
+188679-2	Peperomia elongata var. piliramea	Trel. & Yunck.	Piperac. N. South Amer.	2: 659	1950									
+188680-2	Peperomia elsana	Trel. & Yunck.	Piperac. N. South Amer.	2: 498, fig. 433	1950									
+188685-2	Peperomia emarginella var. ovalis	Trel. & Yunck.	Piperac. N. South Amer.	2: 711, fig. 634	1950									
+188693-2	Peperomia epilobioides	Trel. & Yunck.	Piperac. N. South Amer.	2: 551, fig. 483	1950									
+188694-2	Peperomia epilobioides var. glabrilimba	Yunck.	Piperac. N. South Amer.	2: 552	1950									
+188709-2	Peperomia ewanii	Trel. & Yunck.	Piperac. N. South Amer.	2: 573, fig. 497	1950									
+188715-2	Peperomia falanana	Trel. & Yunck.	Piperac. N. South Amer.	2: 454, fig. 399	1950									
+188718-2	Peperomia farctifolia	Trel. in Yunck.	Piperac. N. South Amer.	2: 653, fig. 570	1950									
+188762-2	Peperomia fragilis	Yunck.	Piperac. N. South Amer.	2: 551, fig. 482	1950									
+188764-2	Peperomia fragrantissima	Trel. & Yunck.	Piperac. N. South Amer.	2: 449, fig. 395	1950									
+188768-2	Peperomia fraseri var. peltata	Yunck.	Piperac. N. South Amer.	2: 740	1950									
+188772-2	Peperomia fruticetorum var. subanomala	(Trel.) Trel. & Yunck.	Piperac. N. South Amer.	2: 548	1950									
+188774-2	Peperomia fulvescens	Yunck.	Piperac. N. South Amer.	2: 674, fig. 590	1950									
+188780-2	Peperomia gabinetensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 593, fig. 515	1950									
+188791-2	Peperomia garcia-barrigana	Trel. & Yunck.	Piperac. N. South Amer.	2: 591, fig. 514	1950									
+188796-2	Peperomia gazauntana	Yunck.	Piperac. N. South Amer.	2: 715	1950									
+188797-2	Peperomia gehrigeri	Trel. & Yunck.	Piperac. N. South Amer.	2: 527	1950									
+188798-2	Peperomia geminispica	Trel. & Yunck.	Piperac. N. South Amer.	2: 700, fig. 621	1950									
+188810-2	Peperomia glabella var. nudipetiolata	Trel. & Yunck.	Piperac. N. South Amer.	2: 590	1950									
+188826-2	Peperomia gorgonillana	Trel. & Yunck.	Piperac. N. South Amer.	2: 632, fig. 554	1950									
+188827-2	Peperomia gorgonillana var. hirsutula	Trel. & Yunck.	Piperac. N. South Amer.	2: 632	1950									
+188833-2	Peperomia granulata	Trel. & Yunck.	Piperac. N. South Amer.	2: 654, fig. 572	1950									
+188844-2	Peperomia guadalupana	Trel. & Yunck.	Piperac. N. South Amer.	2: 533, fig. 472	1950									
+188845-2	Peperomia guaiquinimana	Trel. & Yunck.	Piperac. N. South Amer.	2: 596, fig. 518	1950									
+188855-2	Peperomia gutierrezana	Yunck.	Piperac. N. South Amer.	2: 728, fig. 651	1950									
+188867-2	Peperomia haughtii	Trel. & Yunck.	Piperac. N. South Amer.	2: 523, fig. 463	1950									
+188868-2	Peperomia hebetata	Trel. & Yunck.	Piperac. N. South Amer.	2: 529, fig. 468	1950									
+188870-2	Peperomia herbert-smithii	Trel. & Yunck.	Piperac. N. South Amer.	2: 630, fig. 552	1950									
+188890-2	Peperomia hirtellicaulis	Yunck.	Piperac. N. South Amer.	2: 554, fig. 485	1950									
+188895-2	Peperomia hispidula var. ellipticifolia	Trel. & Yunck.	Piperac. N. South Amer.	2: 705, fig. 626	1950									
+188902-2	Peperomia hodgei	Yunck.	Piperac. N. South Amer.	2: 487	1950									
+188924-2	Peperomia duendensis	Yunck.	Piperac. N. South Amer.	2: 578, fig. 502	1950									
+188935-2	Peperomia eburnea var. robustior	Yunck.	Piperac. N. South Amer.	2: 725	1950									
+188944-2	Peperomia ellsworthii	Trel. & Yunck.	Piperac. N. South Amer.	2: 486, fig. 430	1950									
+188956-2	Peperomia immolata	Trel. & Yunck.	Piperac. N. South Amer.	2: 718, fig. 640	1950									
+188967-2	Peperomia infralutea	Trel. & Yunck.	Piperac. N. South Amer.	2: 644, fig. 567	1950									
+188973-2	Peperomia ioeides	Trel. & Yunck.	Piperac. N. South Amer.	2: 562, fig. 490	1950									
+188982-2	Peperomia jamesoniana var. longifolia	Trel. & Yunck.	Piperac. N. South Amer.	2: 605, fig. 530	1950									
+188989-2	Peperomia josei	Yunck.	Piperac. N. South Amer.	2: 631, fig. 533	1950									
+188993-2	Peperomia klugiana	Trel. & Yunck.	Piperac. N. South Amer.	2: 616, fig. 540	1950									
+188998-2	Peperomia lanceolatopeltata var. carlosiana	(C.DC.) Yunck.	Piperac. N. South Amer.	2: 599	1950									
+189011-2	Peperomia larana	Yunck.	Piperac. N. South Amer.	2: 546, fig. 476	1950									
+189013-2	Peperomia la-sierrana	Trel. & Yunck.	Piperac. N. South Amer.	2: 530, fig. 469	1950									
+189016-2	Peperomia latilimba	Yunck.	Piperac. N. South Amer.	2: 686, fig. 601	1950									
+189019-2	Peperomia lawrancei	Trel. & Yunck.	Piperac. N. South Amer.	2: 720, fig. 643	1950									
+189020-2	Peperomia laxiflora var. perrubescens	Trel. & Yunck.	Piperac. N. South Amer.	2: 481	1950									
+189036-2	Peperomia leucostachya var. tolimensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 465	1950									
+189046-2	Peperomia litana	Trel. & Yunck.	Piperac. N. South Amer.	2: 614	1950									
+189047-2	Peperomia llewelynii	Trel. & Yunck.	Piperac. N. South Amer.	2: 695, fig. 613	1950									
+189054-2	Peperomia longipetiolata	Trel. & Yunck.	Piperac. N. South Amer.	2: 644, fig. 579	1950									
+189056-2	Peperomia longirostrata	Yunck.	Piperac. N. South Amer.	2: 676, fig. 592	1950									
+189078-2	Peperomia macrostachya var. nematostachya	(Link) Trel. & Yunck.	Piperac. N. South Amer.	2: 661	1950									
+189097-2	Peperomia manabina var. minor	Trel. & Yunck.	Piperac. N. South Amer.	2: 472	1950									
+189132-2	Peperomia mesitasana	Trel. & Yunck.	Piperac. N. South Amer.	2: 469, fig. 410	1950									
+189134-2	Peperomia metcalfii	Trel. & Yunck.	Piperac. N. South Amer.	2: 724, fig. 647	1950									
+189139-2	Peperomia microphyllophora	Trel. & Yunck.	Piperac. N. South Amer.	2: 577, fig. 501	1950									
+189147-2	Peperomia mocoana	Yunck.	Piperac. N. South Amer.	2: 488, fig. 431	1950									
+189151-2	Peperomia mollisoides	Yunck.	Piperac. N. South Amer.	2: 633, fig. 555	1950									
+189169-2	Peperomia multiplinervia	Trel. & Yunck.	Piperac. N. South Amer.	2: 691, fig. 608	1950									
+189175-2	Peperomia muscipara	Trel. & Yunck.	Piperac. N. South Amer.	2: 731, fig. 654	1950									
+189206-2	Peperomia nigro-ungulata	Trel. & Yunck.	Piperac. N. South Amer.	2: 749, fig. 673	1950									
+189234-2	Peperomia obovalis	Trel. & Yunck.	Piperac. N. South Amer.	2: 630, fig. 551	1950									
+189258-2	Peperomia ocumarana	Trel. & Yunck.	Piperac. N. South Amer.	2: 512, fig. 452	1950									
+189273-2	Peperomia oscarii	Trel. & Yunck.	Piperac. N. South Amer.	2: 656, fig. 574	1950									
+189278-2	Peperomia ovato-lanceolata	Trel. & Yunck.	Piperac. N. South Amer.	2: 701, fig. 623	1950									
+189279-2	Peperomia ovato-lanceolata var. pubescens	Trel. & Yunck.	Piperac. N. South Amer.	2: 702	1950									
+189303-2	Peperomia panamensis var. brevibacca	Yunck.	Piperac. N. South Amer.	2: 473	1950									
+189309-2	Peperomia parasitica var. longicaulis	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	2: 627	1950									
+189328-2	Peperomia peltaphylla	Trel. & Yunck.	Piperac. N. South Amer.	2: 719, fig. 641	1950									
+189335-2	Peperomia penduliramea	Yunck.	Piperac. N. South Amer.	2: 732, fig. 656	1950									
+189339-2	Peperomia pennellii	Trel. & Yunck.	Piperac. N. South Amer.	2: 608, fig. 533	1950									
+189342-2	Peperomia perciliata	Yunck.	Piperac. N. South Amer.	2: 670, fig. 585	1950									
+189362-2	Peperomia perlongipedunculata	Trel. & Yunck.	Piperac. N. South Amer.	2: 451	1950									
+189375-2	Peperomia petrophila var. brevipetiola	Trel. & Yunck.	Piperac. N. South Amer.	2: 457, fig. 402	1950									
+189378-2	Peperomia phrymatopsis	Trel. & Yunck.	Piperac. N. South Amer.	2: 706, fig. 627	1950									
+189379-2	Peperomia phrymatopsis var. brevipedunculata	Trel. & Yunck.	Piperac. N. South Amer.	2: 707, fig. 628	1950									
+189380-2	Peperomia phyllanthopsis	Trel. & Yunck.	Piperac. N. South Amer.	2: 500, fig. 446	1950									
+189415-2	Peperomia popayanensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 688, fig. 604	1950									
+189417-2	Peperomia porriginifera	Trel. & Yunck.	Piperac. N. South Amer.	2: 572, fig. 496	1950									
+189424-2	Peperomia praematura	Trel. & Yunck.	Piperac. N. South Amer.	2: 672, fig. 587	1950									
+189437-2	Peperomia pseudoalternifolia	Trel. & Yunck.	Piperac. N. South Amer.	2: 547, fig. 478	1950									
+189460-2	Peperomia pseudovariegata var. sarcophylla	(Sodiro) Trel. & Yunck.	Piperac. N. South Amer.	2: 688	1950									
+189474-2	Peperomia puberulicaulis	Trel. & Yunck.	Piperac. N. South Amer.	2: 636, fig. 560	1950									
+189484-2	Peperomia pubirhachis	Yunck.	Piperac. N. South Amer.	2: 493, fig. 437	1950									
+189485-2	Peperomia puerto-ospinana	Trel. & Yunck.	Piperac. N. South Amer.	2: 520, fig. 459	1950									
+189492-2	Peperomia punctatilamina	Trel. & Yunck.	Piperac. N. South Amer.	2: 586, fig. 510	1950									
+189499-2	Peperomia putumayoensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 620, fig. 543	1950									
+189511-2	Peperomia quindioensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 555, fig. 486	1950									
+189558-2	Peperomia rhombeo-ovata	Trel. & Yunck.	Piperac. N. South Amer.	2: 574	1950									
+189567-2	Peperomia rioblancoana	Trel. & Yunck.	Piperac. N. South Amer.	2: 699, fig. 620	1950									
+189568-2	Peperomia riocaliensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 452, fig. 397	1950									
+189576-2	Peperomia robleana	Trel. & Yunck.	Piperac. N. South Amer.	2: 528, fig. 466	1950									
+189584-2	Peperomia roseocaulis	Yunck.	Piperac. N. South Amer.	2: 728, fig. 650	1950									
+189587-2	Peperomia rotundata var. anomala	(Sodiro) Trel. & Yunck.	Piperac. N. South Amer.	2: 550, fig. 481	1950									
+189605-2	Peperomia rubramenta	Trel. & Yunck.	Piperac. N. South Amer.	2: 450, fig. 396	1950									
+189630-2	Peperomia sabaletasana	Yunck.	Piperac. N. South Amer.	2: 693, fig. 611	1950									
+189631-2	Peperomia sachatzinzumba	Trel. & Yunck.	Piperac. N. South Amer.	2: 694, fig. 612	1950									
+189632-2	Peperomia salaminana	Trel. & Yunck.	Piperac. N. South Amer.	2: 476, fig. 418	1950									
+189633-2	Peperomia salangonis	Trel. & Yunck.	Piperac. N. South Amer.	2: 494, fig. 438	1950									
+189635-2	Peperomia saligna var. majuscula	Yunck.	Piperac. N. South Amer.	2: 580	1950									
+189646-2	Peperomia sanquininiana	Trel. & Yunck.	Piperac. N. South Amer.	2: 638, fig. 561	1950									
+189655-2	Peperomia santanderana	Trel. & Yunck.	Piperac. N. South Amer.	2: 742, fig. 666	1950									
+189674-2	Peperomia schultzei	Trel. & Yunck.	Piperac. N. South Amer.	2: 526	1950									
+189690-2	Peperomia semipuberula	Trel. & Yunck.	Piperac. N. South Amer.	2: 639	1950									
+189715-2	Peperomia sneidernii	Yunck.	Piperac. N. South Amer.	2: 625, fig. 547	1950									
+189741-2	Peperomia stilifera	Yunck.	Piperac. N. South Amer.	2: 484, fig. 426	1950									
+189774-2	Peperomia subrenifolia var. microphylla	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	2: 480	1950									
+189777-2	Peperomia subrubescens	Yunck.	Piperac. N. South Amer.	2: 483, fig. 425	1950									
+189784-2	Peperomia subspathulata	Yunck.	Piperac. N. South Amer.	2: 515, fig. 455	1950									
+189790-2	Peperomia sucumbiosensis	Yunck.	Piperac. N. South Amer.	2: 692, fig. 609	1950									
+189794-2	Peperomia suratana	Trel. & Yunck.	Piperac. N. South Amer.	2: 615, fig. 539	1950									
+189796-2	Peperomia sympodialis	Trel. & Yunck.	Piperac. N. South Amer.	2: 687, fig. 602	1950									
+189803-2	Peperomia tamayoi	Trel. & Yunck.	Piperac. N. South Amer.	2: 484, fig. 427	1950									
+189804-2	Peperomia tambitoensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 475, fig. 416	1950									
+189805-2	Peperomia tamboana	Yunck.	Piperac. N. South Amer.	2: 498, fig. 444	1950									
+189812-2	Peperomia tejana	Trel. & Yunck.	Piperac. N. South Amer.	2: 611, fig. 535	1950									
+189813-2	Peperomia tenae	Trel. & Yunck.	Piperac. N. South Amer.	2: 483, fig. 424	1950									
+189821-2	Peperomia tenuimarginata	Trel. & Yunck.	Piperac. N. South Amer.	2: 697, fig. 617	1950									
+189831-2	Peperomia terraegaudens	Trel. & Yunck.	Piperac. N. South Amer.	2: 657, fig. 575	1950									
+189845-2	Peperomia tolimensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 510, fig. 451	1950									
+189846-2	Peperomia tomentella	Trel. & Yunck.	Piperac. N. South Amer.	2: 453, fig. 398	1950									
+189850-2	Peperomia topoensis	Yunck.	Piperac. N. South Amer.	2: 594, fig. 516	1950									
+189851-2	Peperomia toroi	Trel. & Yunck.	Piperac. N. South Amer.	2: 640, fig. 563	1950									
+189853-2	Peperomia tovariana var. subcaespitosa	Trel. & Yunck.	Piperac. N. South Amer.	2: 709, fig. 632	1950									
+189868-2	Peperomia trinervis var. subnudicaulis	Yunck.	Piperac. N. South Amer.	2: 646	1950									
+189869-2	Peperomia trinervula var. roraimana	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	2: 648	1950									
+189870-2	Peperomia trinervula var. suboppositifolia	Trel. & Yunck.	Piperac. N. South Amer.	2: 648	1950									
+189884-2	Peperomia turboensis	Yunck.	Piperac. N. South Amer.	2: 463, fig. 405	1950									
+189888-2	Peperomia tutunendoana	Trel. & Yunck.	Piperac. N. South Amer.	2: 660, fig. 577	1950									
+189891-2	Peperomia ubate-susanensis	Yunck.	Piperac. N. South Amer.	2: 468	1950									
+189892-2	Peperomia udimontana	Trel. & Yunck.	Piperac. N. South Amer.	2: 747, fig. 671	1950									
+189894-2	Peperomia umbellifera	Yunck.	Piperac. N. South Amer.	2: 586, fig. 509	1950									
+189908-2	Peperomia valladolidana	Yunck.	Piperac. N. South Amer.	2: 489, fig. 432	1950									
+189909-2	Peperomia vallensis	Trel. & Yunck.	Piperac. N. South Amer.	2: 615, fig. 538	1950									
+189919-2	Peperomia veneciana	Trel. & Yunck.	Piperac. N. South Amer.	2: 545, fig. 475	1950									
+189920-2	Peperomia venezueliana var. aterrima	Trel. & Yunck.	Piperac. N. South Amer.	2: 598	1950									
+189921-2	Peperomia venosa	Yunck.	Piperac. N. South Amer.	2: 463, fig. 406	1950									
+189931-2	Peperomia verticillatispica	Trel. & Yunck.	Piperac. N. South Amer.	2: 745, fig. 699	1950									
+189935-2	Peperomia villarrealii	Yunck.	Piperac. N. South Amer.	2: 600, fig. 524	1950									
+189936-2	Peperomia villibacca	Yunck.	Piperac. N. South Amer.	2: 715, fig. 636	1950									
+189949-2	Peperomia vulcanicola var. punctatissima	Trel. & Yunck.	Piperac. N. South Amer.	2: 607	1950									
+189967-2	Peperomia yeracuiana	Trel. & Yunck.	Piperac. N. South Amer.	2: 722, fig. 645	1950									
+189972-2	Peperomia zarzalana	Trel. & Yunck.	Piperac. N. South Amer.	2: 642, fig. 565	1950									
+189973-2	Peperomia zipaquirana	Trel. & Yunck.	Piperac. N. South Amer.	2: 561, fig. 489	1950									
+197139-2	Piper abellinum	Trel. & Yunck.	Piperac. N. South Amer.	1: 322, fig. 288	1950									
+197142-2	Piper achotense	Trel. & Yunck.	Piperac. N. South Amer.	1: 262, fig. 225	1950									
+197144-2	Piper achupallasense	Yunck.	Piperac. N. South Amer.	1: 288, fig. 253	1950									
+197166-2	Piper aduncum var. garcia-barrigae	Trel. & Yunck.	Piperac. N. South Amer.	1: 251	1950									
+197173-2	Piper aequale var. fimbribracteatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 220	1950									
+197174-2	Piper aequale var. hirtinervulum	Yunck.	Piperac. N. South Amer.	1: 220	1950									
+197179-2	Piper aequale var. santa-martanum	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 219	1950									
+197194-2	Piper aguadulcense	Yunck.	Piperac. N. South Amer.	1: 108, fig. 80	1950									
+197197-2	Piper alatabaccum	Trel. & Yunck.	Piperac. N. South Amer.	1: 408, fig. 371	1950									
+197199-2	Piper albanense	Yunck.	Piperac. N. South Amer.	1: 398, fig. 360	1950									
+197200-2	Piper albert-smithii	Trel. & Yunck.	Piperac. N. South Amer.	1: 413, fig. 375	1950									
+197226-2	Piper amazonasense	Trel. & Yunck.	Piperac. N. South Amer.	1: 392, fig. 352	1950									
+197228-2	Piper amoenum	Yunck.	Piperac. N. South Amer.	1: 293, fig. 259	1950									
+197236-2	Piper amplectenticaule	Trel. & Yunck.	Piperac. N. South Amer.	1: 325, fig. 290	1950									
+197256-2	Piper annulatispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 329, fig. 297	1950									
+197266-2	Piper antioquiense var. pitaense	Yunck.	Piperac. N. South Amer.	1: 319	1950									
+197274-2	Piper araguense	Trel. & Yunck.	Piperac. N. South Amer.	1: 138, fig. 114	1950									
+197278-2	Piper arbelaezii	Trel. & Yunck.	Piperac. N. South Amer.	1: 155, fig. 134	1950									
+197279-2	Piper arbelaezii var. flavibracteum	Trel. & Yunck.	Piperac. N. South Amer.	1: 156	1950									
+197283-2	Piper arboreum var. giganteum	Trel. & Yunck.	Piperac. N. South Amer.	1: 374	1950									
+197287-2	Piper arboreum var. paucinervium	Trel. & Yunck.	Piperac. N. South Amer.	1: 374	1950									
+197292-2	Piper archeri	Trel. & Yunck.	Piperac. N. South Amer.	1: 111, fig. 84	1950									
+197299-2	Piper argentamentum	Trel. & Yunck.	Piperac. N. South Amer.	1: 256, fig. 218	1950									
+197306-2	Piper armatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 243, fig. 211	1950									
+197311-2	Piper artanthe var. strigosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 359	1950									
+197321-2	Piper asperiusculum var. glabricaule	Trel. & Yunck.	Piperac. N. South Amer.	1: 259	1950									
+197324-2	Piper asperulibaccum var. cuacoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 51	1950									
+197335-2	Piper atrobaccum	Trel. & Yunck.	Piperac. N. South Amer.	1: 234, fig. 202	1950									
+197336-2	Piper atrobaccum var. pubinervulum	Trel. & Yunck.	Piperac. N. South Amer.	1: 235	1950									
+197342-2	Piper augustum var. pubinerve	Trel. & Yunck.	Piperac. N. South Amer.	1: 405	1950									
+197355-2	Piper avellanum var. angustifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 320	1950									
+197363-2	Piper bajanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 390, fig. 350	1950									
+197373-2	Piper barbatum var. andicola	(Kunth) Trel. & Yunck.	Piperac. N. South Amer.	1: 92	1950									
+197377-2	Piper barbosanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 357, fig. 325	1950									
+197380-2	Piper barcoense	Yunck.	Piperac. N. South Amer.	1: 103, fig. 76	1950									
+197384-2	Piper basilobatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 369	1950									
+197386-2	Piper begoniicolor	Trel. & Yunck.	Piperac. N. South Amer.	1: 140, fig. 117	1950									
+197387-2	Piper begoniicolor var. lobatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 141	1950									
+197391-2	Piper bella	Yunck.	Piperac. N. South Amer.	1: 57, fig. 48	1950									
+197397-2	Piper bermejanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 221, fig. 183	1950									
+197410-2	Piper boconoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 114, fig. 87	1950									
+197411-2	Piper bogotense var. foetans	Trel. & Yunck.	Piperac. N. South Amer.	1: 96, fig. 75	1950									
+197412-2	Piper bogotense var. ovalilimbum	Trel. & Yunck.	Piperac. N. South Amer.	1: 95	1950									
+197416-2	Piper boquianum	Trel. & Yunck.	Piperac. N. South Amer.	1: 340, fig. 311	1950									
+197424-2	Piper brachypodon var. hirsuticaule	Yunck.	Piperac. N. South Amer.	1: 213	1950									
+197426-2	Piper brachypodon var. radicescens	Trel. & Yunck.	Piperac. N. South Amer.	1: 213	1950									
+197432-2	Piper bredemeyeri var. angustifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 186	1950									
+197433-2	Piper bredemeyeri var. flexuosum	(Jacq.) Trel. & Yunck.	Piperac. N. South Amer.	1: 187	1950									
+197448-2	Piper brisasense	Yunck.	Piperac. N. South Amer.	1: 311, fig. 278	1950									
+197451-2	Piper brownsbergense	Yunck.	Piperac. N. South Amer.	1: 37	1950									
+197467-2	Piper cajambrense	Trel. & Yunck.	Piperac. N. South Amer.	1: 26, fig. 16	1950									
+197468-2	Piper cajambrense var. caquetanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 27	1950									
+197470-2	Piper calanyanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 66, fig. 59	1950									
+197471-2	Piper calanyanum var. sardinanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 67	1950									
+197490-2	Piper camiloi	Yunck.	Piperac. N. South Amer.	1: 64, fig. 57	1950									
+197505-2	Piper canelosense	Trel. & Yunck.	Piperac. N. South Amer.	1: 264, fig. 228	1950									
+197518-2	Piper cararense	Trel. & Yunck.	Piperac. N. South Amer.	1: 208, fig. 170	1950									
+197519-2	Piper cararense var. productipes	Trel. & Yunck.	Piperac. N. South Amer.	1: 209, fig. 171	1950									
+197523-2	Piper carlosii	Trel. & Yunck.	Piperac. N. South Amer.	1: 197, fig. 157	1950									
+197536-2	Piper castroanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 221, fig. 182	1950									
+197542-2	Piper catripense	Yunck.	Piperac. N. South Amer.	1: 108, fig. 81	1950									
+197543-2	Piper catucheanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 257, fig. 219	1950									
+197544-2	Piper caucaense	Yunck.	Piperac. N. South Amer.	1: 110, fig. 83	1950									
+197546-2	Piper caudefactum	Trel. & Yunck.	Piperac. N. South Amer.	1: 124, fig. 99	1950									
+197548-2	Piper cavendishioides	Trel. & Yunck.	Piperac. N. South Amer.	1: 85, fig. 70	1950									
+197552-2	Piper cejanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 193, fig. 152	1950									
+197558-2	Piper centroense	Trel. & Yunck.	Piperac. N. South Amer.	1: 298, fig. 264	1950									
+197563-2	Piper certeguiense	Trel. & Yunck.	Piperac. N. South Amer.	1: 214, fig. 177	1950									
+197572-2	Piper chiadoense	Yunck.	Piperac. N. South Amer.	1: 337, fig. 307	1950									
+197585-2	Piper churruyacoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 328, fig. 296	1950									
+197586-2	Piper churruyacoanum var. machinense	Trel. & Yunck.	Piperac. N. South Amer.	1: 329	1950									
+197587-2	Piper cicatriculosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 394, fig. 354	1950									
+197598-2	Piper cisnerosense	Trel. & Yunck.	Piperac. N. South Amer.	1: 304, fig. 269	1950									
+197602-2	Piper citrifolium var. parkerianum	(Miq.) Trel. & Yunck.	Piperac. N. South Amer.	1: 385	1950									
+197616-2	Piper cobarianum	Trel. & Yunck.	Piperac. N. South Amer.	1: 63, fig. 54	1950									
+197618-2	Piper cocornanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 297, fig. 262	1950									
+197625-2	Piper colligatispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 315	1950									
+197643-2	Piper condotoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 222, fig. 184	1950									
+197644-2	Piper conejoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 46, fig. 35	1950									
+197674-2	Piper corpulentispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 407, fig. 369	1950									
+197691-2	Piper crenatifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 59, fig. 50	1950									
+197696-2	Piper cristalinanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 129, fig. 104	1950									
+197700-2	Piper cryptocarpum	Trel. & Yunck.	Piperac. N. South Amer.	1: 281, fig. 245	1950									
+197708-2	Piper cumanense var. pubinerve	Trel. & Yunck.	Piperac. N. South Amer.	1: 237	1950									
+197709-2	Piper cumanense var. subvillosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 237	1950									
+197711-2	Piper cuniculorum	Trel. & Yunck.	Piperac. N. South Amer.	1: 234, fig. 201	1950									
+197727-2	Piper cyphophyllopse	Trel. & Yunck.	Piperac. N. South Amer.	1: 334, fig. 303	1950									
+197728-2	Piper cyphophyllopse var. brevipes	Trel. & Yunck.	Piperac. N. South Amer.	1: 335	1950									
+197730-2	Piper cyprium	Trel. & Yunck.	Piperac. N. South Amer.	1: 115, fig. 89	1950									
+197735-2	Piper daniel-gonzalezii var. misellum	Trel. & Yunck.	Piperac. N. South Amer.	1: 201	1950									
+197736-2	Piper daniel-gonzalezii var. moniquiranum	Trel. & Yunck.	Piperac. N. South Amer.	1: 201	1950									
+197745-2	Piper debilicaule	Trel. & Yunck.	Piperac. N. South Amer.	1: 333, fig. 302	1950									
+197746-2	Piper decorticans	Trel. & Yunck.	Piperac. N. South Amer.	1: 125, fig. 100	1950									
+197754-2	Piper demeraranum var. rubescens	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 380	1950									
+197766-2	Piper dichroostachyum	Trel. & Yunck.	Piperac. N. South Amer.	1: 294, fig. 260	1950									
+197767-2	Piper dichroostachyum var. mayasqueranum	Trel. & Yunck.	Piperac. N. South Amer.	1: 295	1950									
+197768-2	Piper diffamatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 360, fig. 327	1950									
+197769-2	Piper diffamatum var. favifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 361	1950									
+197771-2	Piper diguaense	Yunck.	Piperac. N. South Amer.	1: 305, fig. 270	1950									
+197774-2	Piper dilatatifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 267, fig. 232	1950									
+197794-2	Piper discriminatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 341, fig. 313	1950									
+197802-2	Piper distichum	Trel. & Yunck.	Piperac. N. South Amer.	1: 206, fig. 167	1950									
+197805-2	Piper divortans	Trel. & Yunck.	Piperac. N. South Amer.	1: 189, fig. 148	1950									
+197806-2	Piper divulgatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 153, fig. 130	1950									
+197819-2	Piper duidaense var. eciliatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 401	1950									
+197845-2	Piper el-bancoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 90	1950									
+197846-2	Piper el-bancoanum var. tomentosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 91	1950									
+197847-2	Piper el-caranyanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 246, fig. 214	1950									
+197852-2	Piper el-metanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 160, fig. 139	1950									
+197872-2	Piper enganyanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 292, fig. 258	1950									
+197874-2	Piper entradense	Trel. & Yunck.	Piperac. N. South Amer.	1: 40	1950									
+197899-2	Piper ewanii	Yunck.	Piperac. N. South Amer.	1: 278, fig. 240	1950									
+197917-2	Piper falanense	Trel. & Yunck.	Piperac. N. South Amer.	1: 268, fig. 233	1950									
+197921-2	Piper falculispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 216, fig. 179	1950									
+197927-2	Piper fastiditum	Trel. & Yunck.	Piperac. N. South Amer.	1: 299, fig. 265	1950									
+197928-2	Piper fastiditum var. pubescens	Trel. & Yunck.	Piperac. N. South Amer.	1: 299, fig. 265	1950									
+197940-2	Piper flagellicuspe	Trel. & Yunck.	Piperac. N. South Amer.	1: 58, fig. 49	1950									
+197941-2	Piper flagellicuspe var. villosulum	Trel. & Yunck.	Piperac. N. South Amer.	1: 59	1950									
+197948-2	Piper florencianum	Trel. & Yunck.	Piperac. N. South Amer.	1: 146, fig. 124	1950									
+197950-2	Piper fockei	Trel. & Yunck.	Piperac. N. South Amer.	1: 355, fig. 322	1950									
+197960-2	Piper fresnoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 237, fig. 204	1950									
+197975-2	Piper furcatipilosum	Yunck.	Piperac. N. South Amer.	1: 112, fig. 85	1950									
+197977-2	Piper fusagasuganum	Trel. & Yunck.	Piperac. N. South Amer.	1: 142, fig. 118	1950									
+197981-2	Piper futuri	Trel. & Yunck.	Piperac. N. South Amer.	1: 310, fig. 276	1950									
+198014-2	Piper glabrescens var. venezuelense	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 215	1950									
+198025-2	Piper gleasonii var. wonotoboense	Yunck.	Piperac. N. South Amer.	1: 364	1950									
+198031-2	Piper gorgonae-insulae	Trel. & Yunck.	Piperac. N. South Amer.	1: 331, fig. 299	1950									
+198032-2	Piper gorgonillense	Trel. & Yunck.	Piperac. N. South Amer.	1: 406, fig. 368	1950									
+198044-2	Piper grantii	Yunck.	Piperac. N. South Amer.	1: 23, fig. 12	1950									
+198050-2	Piper griseolimbum	Trel. & Yunck.	Piperac. N. South Amer.	1: 343, fig. 315	1950									
+198061-2	Piper guapense	Yunck.	Piperac. N. South Amer.	1: 28, fig. 19	1950									
+198062-2	Piper guaremalesanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 62, fig. 53	1950									
+198067-2	Piper guayranum var. humilius	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 302	1950									
+198071-2	Piper gutierrezii	Yunck.	Piperac. N. South Amer.	1: 142, fig. 119	1950									
+198079-2	Piper hastularum var. longipetiolatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 137	1950									
+198080-2	Piper hastularum var. puberulentum	Yunck.	Piperac. N. South Amer.	1: 137	1950									
+198082-2	Piper haughtii	Trel. & Yunck.	Piperac. N. South Amer.	1: 263, fig. 226	1950									
+198093-2	Piper hermannii	Trel. & Yunck.	Piperac. N. South Amer.	1: 397, fig. 358	1950									
+198095-2	Piper hermosanum	Yunck.	Piperac. N. South Amer.	1: 197, fig. 156	1950									
+198102-2	Piper heterotrichum var. porrectifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 290	1950									
+198124-2	Piper hirtilimbum	Trel. & Yunck.	Piperac. N. South Amer.	1: 291, fig. 256	1950									
+198132-2	Piper hispidum var. lanceolatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 274, fig. 237	1950									
+198134-2	Piper hispidum var. obliquum	Trel. & Yunck.	Piperac. N. South Amer.	1: 273, fig. 236	1950									
+198137-2	Piper hodgei	Yunck.	Piperac. N. South Amer.	1: 148, fig. 124a	1950									
+198141-2	Piper holtii	Trel. & Yunck.	Piperac. N. South Amer.	1: 356, fig. 323	1950									
+198143-2	Piper hondonadense	Trel. & Yunck.	Piperac. N. South Amer.	1: 387, fig. 347	1950									
+198144-2	Piper hondonadense var. javieri	Trel. & Yunck.	Piperac. N. South Amer.	1: 388	1950									
+198146-2	Piper hostmannianum var. glabrirameum	Trel. & Yunck.	Piperac. N. South Amer.	1: 307	1950									
+198154-2	Piper huigranum	Trel. & Yunck.	Piperac. N. South Amer.	1: 188, fig. 147	1950									
+198168-2	Piper ignacioanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 280, fig. 244	1950									
+198177-2	Piper inaequale var. magnifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 138, fig. 113	1950									
+198181-2	Piper inclemens	Trel. & Yunck.	Piperac. N. South Amer.	1: 321, fig. 286	1950									
+198189-2	Piper infidele	Trel. & Yunck.	Piperac. N. South Amer.	1: 159, fig. 138	1950									
+198196-2	Piper insignilaminum	Trel. & Yunck.	Piperac. N. South Amer.	1: 17, fig. 5	1950									
+198214-2	Piper jaboncillanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 233, fig. 200	1950									
+198229-2	Piper jericoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 397, fig. 359	1950									
+198251-2	Piper lacunosum var. angustifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 21	1950									
+198252-2	Piper lacunosum var. glabricaule	Trel. & Yunck.	Piperac. N. South Amer.	1: 21	1950									
+198253-2	Piper la-doradense	Trel. & Yunck.	Piperac. N. South Amer.	1: 244, fig. 212	1950									
+198263-2	Piper laguna-cochanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 132, fig. 108	1950									
+198264-2	Piper lagunaense	Trel. & Yunck.	Piperac. N. South Amer.	1: 344, fig. 316	1950									
+198285-2	Piper lawrancei	Trel. & Yunck.	Piperac. N. South Amer.	1: 229, fig. 195	1950									
+198289-2	Piper ledezmae	Trel. & Yunck.	Piperac. N. South Amer.	1: 82, fig. 67	1950									
+198306-2	Piper leucostachyum	Trel. & Yunck.	Piperac. N. South Amer.	1: 184, fig. 143	1950									
+198313-2	Piper lineativillosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 321, fig. 287	1950									
+198318-2	Piper lineolatifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 223, fig. 185	1950									
+198328-2	Piper longicaudatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 261, fig. 224	1950									
+198338-2	Piper longispicum var. villipetiolatum	Yunck.	Piperac. N. South Amer.	1: 140	1950									
+198343-2	Piper longivillosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 35, fig. 27	1950									
+198347-2	Piper losoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 345, fig. 317	1950									
+198355-2	Piper lunulibracteatum var. villirameum	Yunck.	Piperac. N. South Amer.	1: 106	1950									
+198363-2	Piper macerispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 404, fig. 366	1950									
+198382-2	Piper mandinganum	Trel. & Yunck.	Piperac. N. South Amer.	1: 153, fig. 131	1950									
+198402-2	Piper marsupiatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 105, fig. 78	1950									
+198409-2	Piper marturetense	Trel. & Yunck.	Piperac. N. South Amer.	1: 135, fig. 110	1950									
+198419-2	Piper medinaense	Yunck.	Piperac. N. South Amer.	1: 386, fig. 346	1950									
+198422-2	Piper medium var. ceanothifolium	(Kunth) Trel. & Yunck.	Piperac. N. South Amer.	1: 69	1950									
+198431-2	Piper meraense	Trel. & Yunck.	Piperac. N. South Amer.	1: 242, fig. 210	1950									
+198435-2	Piper metanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 342, fig. 314	1950									
+198436-2	Piper metanum var. villibracteum	Trel. & Yunck.	Piperac. N. South Amer.	1: 343	1950									
+198438-2	Piper mexiae	Trel. & Yunck.	Piperac. N. South Amer.	1: 305, fig. 271	1950									
+198445-2	Piper miguel-conejoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 287, fig. 251	1950									
+198449-2	Piper milciadesii	Trel. & Yunck.	Piperac. N. South Amer.	1: 314, fig. 280	1950									
+198451-2	Piper millepunctulatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 332, fig. 300	1950									
+198460-2	Piper miramarense	Trel. & Yunck.	Piperac. N. South Amer.	1: 119	1950									
+198464-2	Piper mituense	Trel. & Yunck.	Piperac. N. South Amer.	1: 382, fig. 344	1950									
+198467-2	Piper mocoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 126, fig. 101	1950									
+198471-2	Piper molanoi	Trel. & Yunck.	Piperac. N. South Amer.	1: 127, fig. 102	1950									
+198479-2	Piper monurum	Trel. & Yunck.	Piperac. N. South Amer.	1: 336, fig. 306	1950									
+198487-2	Piper moscopanense	Yunck.	Piperac. N. South Amer.	1: 198, fig. 158	1950									
+198491-2	Piper multiforme	Trel. & Yunck.	Piperac. N. South Amer.	1: 282, fig. 246	1950									
+198518-2	Piper mutisii	Trel. & Yunck.	Piperac. N. South Amer.	1: 414, fig. 377	1950									
+198520-2	Piper naiguatanum	Yunck.	Piperac. N. South Amer.	1: 196, fig. 154	1950									
+198521-2	Piper naiguatanum var. bullatifolium	Yunck.	Piperac. N. South Amer.	1: 196, fig. 155	1950									
+198523-2	Piper nanegalense	Trel. & Yunck.	Piperac. N. South Amer.	1: 25, fig. 15	1950									
+198525-2	Piper napo-pastazanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 266, fig. 230	1950									
+198533-2	Piper nematanthera var. sagotii	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 378	1950									
+198538-2	Piper niceforoi	Trel. & Yunck.	Piperac. N. South Amer.	1: 79, fig. 66	1950									
+198556-2	Piper nobile var. glabratum	Yunck.	Piperac. N. South Amer.	1: 150	1950									
+198558-2	Piper nobile var. parvulum	Trel. & Yunck.	Piperac. N. South Amer.	1: 151	1950									
+198564-2	Piper nubigenum var. balsapambae	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 355	1950									
+198565-2	Piper nubigenum var. brevifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 354	1950									
+198567-2	Piper nudibracteatum var. micropuberulum	Trel. & Yunck.	Piperac. N. South Amer.	1: 152	1950									
+198568-2	Piper nudibracteatum var. pubescens	Trel. & Yunck.	Piperac. N. South Amer.	1: 152	1950									
+198596-2	Piper obrutum	Trel. & Yunck.	Piperac. N. South Amer.	1: 324, fig. 289	1950									
+198602-2	Piper obumbratum var. puberulum	Trel. & Yunck.	Piperac. N. South Amer.	1: 370, fig. 333	1950									
+198620-2	Piper orenocanum var. koriaboense	Trel. & Yunck.	Piperac. N. South Amer.	1: 285	1950									
+198624-2	Piper oroense	Yunck.	Piperac. N. South Amer.	1: 182, fig. 141	1950									
+198626-2	Piper ospinense	Trel. & Yunck.	Piperac. N. South Amer.	1: 290, fig. 255	1950									
+198632-2	Piper ottoniaefolium var. frutescens	Trel. & Yunck.	Piperac. N. South Amer.	1: 87, fig. 72	1950									
+198633-2	Piper ottoniaefolium var. latifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 87	1950									
+198655-2	Piper palestinanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 230, fig. 196	1950									
+198667-2	Piper pamploanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 116, fig. 90	1950									
+198671-2	Piper papillicaule	Trel. & Yunck.	Piperac. N. South Amer.	1: 224, fig. 187	1950									
+198683-2	Piper parcum	Trel. & Yunck.	Piperac. N. South Amer.	1: 311, fig. 277	1950									
+198712-2	Piper peculiare	Trel. & Yunck.	Piperac. N. South Amer.	1: 54, fig. 44	1950									
+198725-2	Piper pendentispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 157, fig. 136	1950									
+198726-2	Piper pendentispicum var. tejamesmeanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 158	1950									
+198727-2	Piper pendulirameum	Trel. & Yunck.	Piperac. N. South Amer.	1: 203, fig. 164	1950									
+198728-2	Piper pennellii	Trel. & Yunck.	Piperac. N. South Amer.	1: 121, fig. 95	1950									
+198730-2	Piper penyasense	Trel. & Yunck.	Piperac. N. South Amer.	1: 207	1950									
+198736-2	Piper perbrevispicum	Yunck.	Piperac. N. South Amer.	1: 226, fig. 190	1950									
+198737-2	Piper perciliatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 326, fig. 293	1950									
+198754-2	Piper permolle	Trel. & Yunck.	Piperac. N. South Amer.	1: 29, fig. 20	1950									
+198757-2	Piper pernodosum	Yunck.	Piperac. N. South Amer.	1: 206, fig. 168	1950									
+198758-2	Piper pernodulosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 120, fig. 94	1950									
+198769-2	Piper pertomentellum	Trel. & Yunck.	Piperac. N. South Amer.	1: 335, fig. 304	1950									
+198774-2	Piper pervenulosum	Yunck.	Piperac. N. South Amer.	1: 376, fig. 336	1950									
+198775-2	Piper perverrucosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 282, fig. 247	1950									
+198779-2	Piper pervulsum	Trel. & Yunck.	Piperac. N. South Amer.	1: 338, fig. 308	1950									
+198780-2	Piper pervulsum var. santosense	Trel. & Yunck.	Piperac. N. South Amer.	1: 338	1950									
+198791-2	Piper phytolaccaefolium var. peltobryon	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 52	1950									
+198798-2	Piper piedecuestanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 227, fig. 191	1950									
+198803-2	Piper pilibracteum	Trel. & Yunck.	Piperac. N. South Amer.	1: 24, fig. 13	1950									
+198810-2	Piper piluliferifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 315, fig. 281	1950									
+198811-2	Piper pinaresanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 202, fig. 162	1950									
+198814-2	Piper pinuna-negroense	Trel. & Yunck.	Piperac. N. South Amer.	1: 238, fig. 205	1950									
+198817-2	Piper piscatorum	Trel. & Yunck.	Piperac. N. South Amer.	1: 395, fig. 356	1950									
+198818-2	Piper pitalitoense	Yunck.	Piperac. N. South Amer.	1: 309, fig. 275	1950									
+198825-2	Piper planitiei	Trel. & Yunck.	Piperac. N. South Amer.	1: 284, fig. 248	1950									
+198846-2	Piper poporense	Trel. & Yunck.	Piperac. N. South Amer.	1: 403, fig. 365	1950									
+198847-2	Piper portachueloense	Trel. & Yunck.	Piperac. N. South Amer.	1: 327, fig. 294	1950									
+198851-2	Piper poscitum	Trel. & Yunck.	Piperac. N. South Amer.	1: 279, fig. 242	1950									
+198854-2	Piper potamophilum	Trel. & Yunck.	Piperac. N. South Amer.	1: 231, fig. 197	1950									
+198861-2	Piper praesagium	Trel. & Yunck.	Piperac. N. South Amer.	1: 308, fig. 273	1950									
+198873-2	Piper protracticuspidatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 232, fig. 199	1950									
+198874-2	Piper provulgatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 277, fig. 239	1950									
+198886-2	Piper pseudoeucalyptifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 399, fig. 361	1950									
+198890-2	Piper pseudoglabrescens	Trel. & Yunck.	Piperac. N. South Amer.	1: 228, fig. 193	1950									
+198901-2	Piper pseudopopayanense	Trel. & Yunck.	Piperac. N. South Amer.	1: 191, fig. 150	1950									
+198918-2	Piper puberulibracteum var. monticola	Trel. & Yunck.	Piperac. N. South Amer.	1: 144, fig. 122	1950									
+198934-2	Piper pulleanum	Yunck.	Piperac. N. South Amer.	1: 323	1950									
+198942-2	Piper puraceanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 205, fig. 166	1950									
+198944-2	Piper purulentum	Trel. & Yunck.	Piperac. N. South Amer.	1: 357, fig. 324	1950									
+198947-2	Piper pustulatum	Yunck.	Piperac. N. South Amer.	1: 199, fig. 159	1950									
+198949-2	Piper putumayoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 47, fig. 37	1950									
+198958-2	Piper raizudoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 291, fig. 257	1950									
+198959-2	Piper ramosense	Yunck.	Piperac. N. South Amer.	1: 145, fig. 123	1950									
+198976-2	Piper regresivanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 239, fig. 207	1950									
+198999-2	Piper riitosense	Trel. & Yunck.	Piperac. N. South Amer.	1: 396, fig. 357	1950									
+199001-2	Piper riocajambrense	Trel. & Yunck.	Piperac. N. South Amer.	1: 117, fig. 91	1950									
+199002-2	Piper riocauchosanum	Yunck.	Piperac. N. South Amer.	1: 30, fig. 22	1950									
+199003-2	Piper riochiadoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 229, fig. 194	1950									
+199006-2	Piper riomarguanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 330, fig. 298	1950									
+199007-2	Piper rionechianum	Yunck.	Piperac. N. South Amer.	1: 211, fig. 174	1950									
+199008-2	Piper riotintasense	Yunck.	Piperac. N. South Amer.	1: 49, fig. 39	1950									
+199009-2	Piper riozulianum	Trel. & Yunck.	Piperac. N. South Amer.	1: 50, fig. 40	1950									
+199014-2	Piper rivialbi	Trel. & Yunck.	Piperac. N. South Amer.	1: 265, fig. 229	1950									
+199018-2	Piper roblalense	Yunck.	Piperac. N. South Amer.	1: 17, fig. 6	1950									
+199019-2	Piper robleanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 270, fig. 235	1950									
+199024-2	Piper romboutsii	Yunck.	Piperac. N. South Amer.	1: 395	1950									
+199032-2	Piper rotundistipulum	Trel. & Yunck.	Piperac. N. South Amer.	1: 408, fig. 370	1950									
+199044-2	Piper rupununianum	Trel. & Yunck.	Piperac. N. South Amer.	1: 303, fig. 268	1950									
+199048-2	Piper rusticum	Trel. & Yunck.	Piperac. N. South Amer.	1: 190, fig. 149	1950									
+199049-2	Piper sabaletasanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 104, fig. 77	1950									
+199052-2	Piper sacchamatesense	Yunck.	Piperac. N. South Amer.	1: 135, fig. 111	1950									
+199059-2	Piper salentoi	Trel. & Yunck.	Piperac. N. South Amer.	1: 241, fig. 209	1950									
+199060-2	Piper salentoi var. cajamarcanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 241	1950									
+199061-2	Piper salgaranum	Trel. & Yunck.	Piperac. N. South Amer.	1: 269, fig. 234	1950									
+199068-2	Piper saloyanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 62, fig. 52	1950									
+199074-2	Piper sanandresense	Trel. & Yunck.	Piperac. N. South Amer.	1: 240, fig. 208	1950									
+199095-2	Piper sanmartinense	Trel. & Yunck.	Piperac. N. South Amer.	1: 410, fig. 373	1950									
+199096-2	Piper sanmiguelense	Trel. & Yunck.	Piperac. N. South Amer.	1: 280, fig. 243	1950									
+199109-2	Piper sanvicentense	Trel. & Yunck.	Piperac. N. South Amer.	1: 19, fig. 7	1950									
+199114-2	Piper sararense	Trel. & Yunck.	Piperac. N. South Amer.	1: 203, fig. 163	1950									
+199115-2	Piper sasaimanum	Yunck.	Piperac. N. South Amer.	1: 123, fig. 98	1950									
+199123-2	Piper scabridulilimbum	Trel. & Yunck.	Piperac. N. South Amer.	1: 279, fig. 241	1950									
+199132-2	Piper scansum	Trel. & Yunck.	Piperac. N. South Amer.	1: 32, fig. 24	1950									
+199136-2	Piper schultesii	Yunck.	Piperac. N. South Amer.	1: 34, fig. 26	1950									
+199158-2	Piper seminervosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 53	1950									
+199161-2	Piper semitarium	Trel. & Yunck.	Piperac. N. South Amer.	1: 187, fig. 146	1950									
+199176-2	Piper setosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 38, fig. 29	1950									
+199186-2	Piper silvaense	Yunck.	Piperac. N. South Amer.	1: 14, fig. 1	1950									
+199189-2	Piper silvarum var. minus	Trel. & Yunck.	Piperac. N. South Amer.	1: 185, fig. 144	1950									
+199201-2	Piper sipenanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 225, fig. 188	1950									
+199203-2	Piper skutchii	Trel. & Yunck.	Piperac. N. South Amer.	1: 332, fig. 301	1950									
+199204-2	Piper sneidernii	Yunck.	Piperac. N. South Amer.	1: 336, fig. 305	1950									
+199206-2	Piper sociorum	Trel. & Yunck.	Piperac. N. South Amer.	1: 225, fig. 189	1950									
+199222-2	Piper spoliatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 118, fig. 92	1950									
+199229-2	Piper statarium	Trel. & Yunck.	Piperac. N. South Amer.	1: 339, fig. 310	1950									
+199230-2	Piper statum	Trel. & Yunck.	Piperac. N. South Amer.	1: 161, fig. 140	1950									
+199283-2	Piper subflavum var. espejuelanum	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 313	1950									
+199284-2	Piper subflavum var. longipedunculatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 313	1950									
+199285-2	Piper subfrutescens	Trel. & Yunck.	Piperac. N. South Amer.	1: 39, fig. 30	1950									
+199306-2	Piper subpedale	Trel. & Yunck.	Piperac. N. South Amer.	1: 53, fig. 43	1950									
+199326-2	Piper subtomentosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 154, fig. 132	1950									
+199334-2	Piper sucreense	Trel. & Yunck.	Piperac. N. South Amer.	1: 239, fig. 206	1950									
+199342-2	Piper supernum	Trel. & Yunck.	Piperac. N. South Amer.	1: 192, fig. 151	1950									
+199343-2	Piper suratanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 210, fig. 172	1950									
+199359-2	Piper tachiranum	Yunck.	Piperac. N. South Amer.	1: 298, fig. 263	1950									
+199382-2	Piper tenuilimbum var. villosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 300	1950									
+199405-2	Piper tomas-albertoi	Trel. & Yunck.	Piperac. N. South Amer.	1: 113, fig. 86	1950									
+199408-2	Piper tonoroanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 328, fig. 295	1950									
+199415-2	Piper tovarense	Trel. & Yunck.	Piperac. N. South Amer.	1: 27, fig. 17	1950									
+199441-2	Piper tristemon var. pilosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 128	1950									
+199452-2	Piper tuberculatum var. scandens	Trel. & Yunck.	Piperac. N. South Amer.	1: 367	1950									
+199480-2	Piper umbriense	Trel. & Yunck.	Piperac. N. South Amer.	1: 260, fig. 222	1950									
+199481-2	Piper umbriense var. caudatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 261, fig. 223	1950									
+199491-2	Piper unillanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 264, fig. 227	1950									
+199500-2	Piper valladolidense	Yunck.	Piperac. N. South Amer.	1: 56, fig. 46	1950									
+199511-2	Piper veneralense	Trel. & Yunck.	Piperac. N. South Amer.	1: 36, fig. 28	1950									
+199533-2	Piper villalobosense	Yunck.	Piperac. N. South Amer.	1: 208, fig. 169	1950									
+199534-2	Piper villarrealii	Yunck.	Piperac. N. South Amer.	1: 30, fig. 21	1950									
+199544-2	Piper virgenense	Trel. & Yunck.	Piperac. N. South Amer.	1: 353, fig. 320	1950									
+199552-2	Piper viridstachyum	Yunck.	Piperac. N. South Amer.	1: 18	1950									
+199554-2	Piper viscaianum	Trel. & Yunck.	Piperac. N. South Amer.	1: 139, fig. 115	1950									
+199579-2	Piper yanaconasense	Trel. & Yunck.	Piperac. N. South Amer.	1: 41, fig. 32	1950									
+199580-2	Piper yanaconasense var. glabratum	Yunck.	Piperac. N. South Amer.	1: 42	1950									
 205464-2	Polygala cornuta subsp. fishiae	(Parry) Munz	Fl. S. Calif. (Munz)	669	1974									
 205466-2	Polygala cornuta subsp. pollardii	(Munz) Munz	Fl. S. Calif. (Munz)	669	1974									
 208039-2	Polystichum munitum subsp. imbricans	(D.C.Eaton) Munz	Fl. S. Calif. (Munz)	21	1974									
+209603-2	Pothomorphe peltata var. colombiana	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	2: 438	1950									
+209607-2	Pothomorphe umbellata var. cuernavacana	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	2: 441	1950									
+209608-2	Pothomorphe umbellata var. glabra	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	2: 440	1950									
+256596-2	Trianaeopiper bullatum var. archeri	Trel. & Yunck.	Piperac. N. South Amer.	1: 425, fig. 385	1950									
+256597-2	Trianaeopiper confertinodum	Trel. & Yunck.	Piperac. N. South Amer.	1: 423, fig. 381	1950									
+256600-2	Trianaeopiper cuatrecasasii	Trel. & Yunck.	Piperac. N. South Amer.	1: 424, fig. 383	1950									
+256601-2	Trianaeopiper ellsworthii	Trel. & Yunck.	Piperac. N. South Amer.	1: 433, fig. 393	1950									
+256602-2	Trianaeopiper enckeaespicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 424, fig. 382	1950									
+256603-2	Trianaeopiper filistilum	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	1: 431	1950									
+256604-2	Trianaeopiper filistilum var. obovatum	(Sodiro) Trel. & Yunck.	Piperac. N. South Amer.	1: 431	1950									
+256605-2	Trianaeopiper garciae	Trel. & Yunck.	Piperac. N. South Amer.	1: 430, fig. 390	1950									
+256606-2	Trianaeopiper garciae var. decurtispicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 430	1950									
+256609-2	Trianaeopiper mexiae	Trel. & Yunck.	Piperac. N. South Amer.	1: 432, fig. 392	1950									
+282344-2	Peperomia abrupte-acutata	Trel. & Yunck.	Piperac. N. South Amer.	2: 683, fig	1950									
+282355-2	Peperomia bethaniana	Trel. & Yunck.	Piperac. N. South Amer.	2: 612, fig	1950									
+282377-2	Peperomia epilobioides var. glabrilimba	Yunck. in Trel. & Yunck.	Piperac. N. South Amer.	2: 552	1950									
+282384-2	Peperomia geminispica	Trel. & Yunck.	Piperac. N. South Amer.	2: 700	1950									
+282395-2	Peperomia longirostrata	Yunck. in Trel. & Yunck.	Piperac. N. South Amer.	2: 676	1950									
+282403-2	Peperomia microphyllophora	Trel. & Yunck.	Piperac. N. South Amer.	2: 577, fig	1950									
+282417-2	Peperomia porriginifera	Trel. & Yunck.	Piperac. N. South Amer.	2: 572, fig	1950									
+282918-2	Piper antioquense var. pitaense	Yunck. in Trel. & Yunck.	Piperac. N. South Amer.	1: 319	1950									
+282921-2	Piper araguense	Trel. & Yunck.	Piperac. N. South Amer.	1: 138, fig	1950									
+282930-2	Piper artanthe var. strigosum	Trel. & Yunck.	Piperac. N. South Amer.	1: 359	1950									
+282961-2	Piper dilatatifolium	Trel. & Yunck.	Piperac. N. South Amer.	1: 267, fig	1950									
+282973-2	Piper furcatipilosum	Yunck. in Trel. & Yunck.	Piperac. N. South Amer.	1: 112, fig	1950									
+282981-2	Piper hispidum var. lanceolatum	Trel. & Yunck.	Piperac. N. South Amer.	1: 274	1950									
+282987-2	Piper insignilaminum	Trel. & Yunck.	Piperac. N. South Amer.	1: 17, fig	1950									
+283000-2	Piper molanoi	Trel. & Yunck.	Piperac. N. South Amer.	1: 127, fig	1950									
+283003-2	Piper mutisii	Trel. & Yunck.	Piperac. N. South Amer.	1: 414	1950									
+283004-2	Piper nanegalense	Trel. & Yunck.	Piperac. N. South Amer.	1: 25, fig	1950									
+283006-2	Piper niceforoi	Trel. & Yunck.	Piperac. N. South Amer.	1: 79, fig	1950									
+283007-2	Piper nobile var. glabratum		Piperac. N. South Amer.	1: 150	1950 (1984)									
+283041-2	Piper regresivanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 239, fig	1950									
+283043-2	Piper riochiadoense	Trel. & Yunck.	Piperac. N. South Amer.	1: 229, fig	1950									
+283055-2	Piper tachiranum	Yunck. in Trel. & Yunck.	Piperac. N. South Amer.	1: 298, fig	1950									
+286299-2	Trianaeopiper enckeaespicum	Trel. & Yunck.	Piperac. N. South Amer.	1: 424, fig.382	1950									
+290047-2	Peperomia subrenifolia	Trel. & Yunck.	Piperac. N. South Amer.	2: 479	1950									
+290058-2	Peperomia dimota	Trel. & Yunck.	Piperac. N. South Amer.	2: 621	1950									
+299067-2	Piper capillipes	Trel. & Yunck.	Piperac. N. South Amer.	1: 316, fig. 282	1950									
+299068-2	Piper insipiens	Trel. & Yunck.	Piperac. N. South Amer.	1: 224	1950									
+299069-2	Piper pertinax	Trel. & Yunck.	Piperac. N. South Amer.	1: 326	1950									
+299070-2	Piper piojoanum	Trel. & Yunck.	Piperac. N. South Amer.	1: 267	1950									
 313733-2	Inga salicifolia	T.D.Penn.	Gen. Inga, Bot.	188, fig	1997									
 313735-2	Inga porcata	T.D.Penn.	Gen. Inga, Bot.	243, fig	1997									
 313736-2	Inga exfoliata	T.D.Penn.	Gen. Inga, Bot.	245, fig	1997									
@@ -265,6 +832,420 @@ Id	Full_name_without_family_and_authors	Authors	Publication	Collation	Publicatio
 60461141-2	Magnolia talamanacana	A.Vázquez	Recursos Forest. Occid. México	124, fig. 1.5.18	2012									
 60461142-2	Magnolia vallartensis	A.Vázquez & Muñiz-Castro	Recursos Forest. Occid. México	124, fig. 1.5.19	2012									
 60461143-2	Magnolia wetteri	A.Vázquez	Recursos Forest. Occid. México	127, fig. 1.5.20	2012									
+677904-1	Peperomia abbreviatipes	Trel. & Yunck.	Piperac. N. South Amer.	655 (1950).										
+677906-1	Peperomia abrupte-acutata	Trel. & Yunck.	Piperac. N. South Amer.	683 (1950).										
+677934-1	Peperomia aguabonitensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	708 (1950)										
+677937-1	Peperomia aguaditana	Trel. & Yunck.	Piperac. N. South Amer.	576 (1950)										
+677938-1	Peperomia aguilae	Trel. & Yunck.	Piperac. N. South Amer.	723 (1950)										
+677943-1	Peperomia albert-smithii	Trel. & Yunck.	Piperac. N. South Amer.	495 (1950)										
+677954-1	Peperomia alibacophylla	Trel. & Yunck.	Piperac. N. South Amer.	553 (1950).										
+677966-1	Peperomia ambiguifolia	Trel. & Yunck.	Piperac. N. South Amer.	571 (1950).										
+677982-1	Peperomia aneura	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	601 (1950)										
+678004-1	Peperomia apodophylla	Trel. & Yunck.	Piperac. N. South Amer.	580 (1950).										
+678016-1	Peperomia arenillasensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	626 (1950)										
+678018-1	Peperomia argenteobracteata	Trel. & Yunck.	Piperac. N. South Amer.	518 (1950).										
+678031-1	Peperomia arthurii	Trel. & Yunck.	Piperac. N. South Amer.	640	1950									
+678055-1	Peperomia bajana	Trel. & Yunck.	Piperac. N. South Amer.	581 (1950).										
+678084-1	Peperomia bella	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	690 (1950)										
+678085-1	Peperomia bellatula	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	478 (1950)										
+678095-1	Peperomia bethaniana	Trel. & Yunck.	Piperac. N. South Amer.	612 (1950).										
+678096-1	Peperomia biamenta	Trel. & Yunck.	Piperac. N. South Amer.	700 (1950).										
+678110-1	Peperomia blephariphylla	Trel. & Yunck.	Piperac. N. South Amer.	665 (1950).										
+678155-1	Peperomia cacaophila	Trel. & Yunck.	Piperac. N. South Amer.	610 (1950).										
+678167-1	Peperomia caliginigaudens	Trel. & Yunck.	Piperac. N. South Amer.	695 (1950).										
+678168-1	Peperomia calimana	Trel. & Yunck.	Piperac. N. South Amer.	617 (1950).										
+678210-1	Peperomia castanoensis	Trel. & Yunck.	Piperac. N. South Amer.	675 (1950).										
+678233-1	Peperomia chicamochana	Trel. & Yunck.	Piperac. N. South Amer.	470 (1950).										
+678235-1	Peperomia chigorodoana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	654 (1950)										
+678275-1	Peperomia clavatispica	Trel. & Yunck.	Piperac. N. South Amer.	477 (1950).										
+678306-1	Peperomia condotoana	Trel. & Yunck.	Piperac. N. South Amer.	667 (1950).										
+678309-1	Peperomia congerro	Trel. & Yunck.	Piperac. N. South Amer.	480 (1950).										
+678316-1	Peperomia connixa	Trel. & Yunck.	Piperac. N. South Amer.	717 (1950).										
+678323-1	Peperomia conturbans	Trel. & Yunck.	Piperac. N. South Amer.	750 (1950).										
+678334-1	Peperomia cordata	Trel. & Yunck.	Piperac. N. South Amer.	485 (1950).										
+678374-1	Peperomia cryptostachya	Trel. & Yunck.	Piperac. N. South Amer.	674 (1950).										
+678383-1	Peperomia cubugonana	Trel. & Yunck.	Piperac. N. South Amer.	522	1950									
+678384-1	Peperomia cumbreana	Trel. & Yunck.	Piperac. N. South Amer.	692 (1950).										
+678386-1	Peperomia cundinamarcana	Trel. & Yunck.	Piperac. N. South Amer.	456 (1950).										
+678404-1	Peperomia daguana	Trel. & Yunck.	Piperac. N. South Amer.	696 (1950).										
+678450-1	Peperomia dimota	Trel. & Yunck.	Piperac. N. South Amer.	621 (1950)										
+678455-1	Peperomia discilimba	Trel. & Yunck.	Piperac. N. South Amer.	489 (1950).										
+678493-1	Peperomia duendensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	578 (1950)										
+678523-1	Peperomia ellsworthii	Trel. & Yunck.	Piperac. N. South Amer.	486 (1950).										
+678527-1	Peperomia elsana	Trel. & Yunck.	Piperac. N. South Amer.	498 (1950).										
+678542-1	Peperomia epilobioides	Trel. & Yunck.	Piperac. N. South Amer.	551 (1950).										
+678556-1	Peperomia espinosae	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	735 (1950)										
+678564-1	Peperomia ewanii	Trel. & Yunck.	Piperac. N. South Amer.	573 (1950).										
+678575-1	Peperomia falanana	Trel. & Yunck.	Piperac. N. South Amer.	454 (1950).										
+678579-1	Peperomia farctifolia	Trel. & Yunck.	Piperac. N. South Amer.	653 (1950).										
+678636-1	Peperomia fragilis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	551 (1950)										
+678639-1	Peperomia fragrantissima	Trel. & Yunck.	Piperac. N. South Amer.	449 (1950).										
+678648-1	Peperomia fulvescens	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	674 (1950)										
+678654-1	Peperomia gabinetensis	Trel. & Yunck.	Piperac. N. South Amer.	593 (1950)										
+678661-1	Peperomia garcia-barrigana	Trel. & Yunck.	Piperac. N. South Amer.	591 (1950)										
+678669-1	Peperomia gazauntana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	715 (1950)										
+678671-1	Peperomia gehrigeri	Trel. & Yunck.	Piperac. N. South Amer.	527 (1950)										
+678673-1	Peperomia geminispica	Trel. & Yunck.	Piperac. N. South Amer.	700 (1950)										
+678704-1	Peperomia gorgonillana	Trel. & Yunck.	Piperac. N. South Amer.	632 (1950)										
+678715-1	Peperomia granulata	Trel. & Yunck.	Piperac. N. South Amer.	654 (1950)										
+678726-1	Peperomia guadalupana	Trel. & Yunck.	Piperac. N. South Amer.	533 (1950)										
+678727-1	Peperomia guaiquinimana	Trel. & Yunck.	Piperac. N. South Amer.	596 (1950)										
+678741-1	Peperomia gutierrezana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	728 (1950)										
+678758-1	Peperomia haughtii	Trel. & Yunck.	Piperac. N. South Amer.	523 (1950)										
+678764-1	Peperomia hebetata	Trel. & Yunck.	Piperac. N. South Amer.	529 (1950).										
+678774-1	Peperomia herbertsmithii	Trel. & Yunck.	Piperac. N. South Amer.	630 (1950).										
+678803-1	Peperomia hirtellicaulis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	554 (1950)										
+678812-1	Peperomia hodgei	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	487 (1950)										
+678847-1	Peperomia immolata	Trel. & Yunck.	Piperac. N. South Amer.	718 (1950).										
+678859-1	Peperomia infralutea	Trel. & Yunck.	Piperac. N. South Amer.	644 (1950).										
+678866-1	Peperomia ioeides	Trel. & Yunck.	Piperac. N. South Amer.	562 (1950).										
+678888-1	Peperomia josei	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	631 (1950)										
+678902-1	Peperomia klugiana	Trel. & Yunck.	Piperac. N. South Amer.	616 (1950)										
+678942-1	Peperomia larana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	546 (1950)										
+678944-1	Peperomia lasierrana	Trel. & Yunck.	Piperac. N. South Amer.	530 (1950)										
+678952-1	Peperomia latilimba	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	686 (1950)										
+678956-1	Peperomia lawrancei	Trel. & Yunck.	Piperac. N. South Amer.	720 (1950)										
+678997-1	Peperomia litana	Trel. & Yunck.	Piperac. N. South Amer.	614 (1950)										
+678998-1	Peperomia llewelynii	Trel. & Yunck.	Piperac. N. South Amer.	695 (1950).										
+679012-1	Peperomia longipetiolata	Trel. & Yunck.	Piperac. N. South Amer.	664 (1950).										
+679015-1	Peperomia longirostrata	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	676 (1950)										
+679112-1	Peperomia mesitasana	Trel. & Yunck.	Piperac. N. South Amer.	469 (1950).										
+679115-1	Peperomia metcalfii	Trel. & Yunck.	Piperac. N. South Amer.	724 (1950).										
+679122-1	Peperomia microphyllophora	Trel. & Yunck.	Piperac. N. South Amer.	577 (1950).										
+679139-1	Peperomia mocoana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	488 (1950)										
+679148-1	Peperomia mollisoides	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	633 (1950)										
+679176-1	Peperomia multiplinervia	Trel. & Yunck.	Piperac. N. South Amer.	691 (1950)										
+679184-1	Peperomia muscipara	Trel. & Yunck.	Piperac. N. South Amer.	731 (1950)										
+679226-1	Peperomia nigroungulata	Trel. & Yunck.	Piperac. N. South Amer.	749 (1950).										
+679264-1	Peperomia obovalis	Trel. & Yunck.	Piperac. N. South Amer.	630 (1950).										
+679277-1	Peperomia ocumarana	Trel. & Yunck.	Piperac. N. South Amer.	512 (1950).										
+679297-1	Peperomia oscarii	Trel. & Yunck.	Piperac. N. South Amer.	656 (1950).										
+679303-1	Peperomia ovato-lanceolata	Trel. & Yunck.	Piperac. N. South Amer.	701 (1950).										
+679381-1	Peperomia peltaphylla	Trel. & Yunck.	Piperac. N. South Amer.	719 (1950).										
+679391-1	Peperomia penduliramea	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	732 (1950)										
+679394-1	Peperomia pennellii	Trel. & Yunck.	Piperac. N. South Amer.	608 (1950)										
+679399-1	Peperomia perciliata	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	670 (1950)										
+679412-1	Peperomia perlongipedunculata	Trel. & Yunck.	Piperac. N. South Amer.	451 (1950).										
+679421-1	Peperomia persulcata	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	517 (1950)										
+679431-1	Peperomia phrymatopsis	Trel. & Yunck.	Piperac. N. South Amer.	706 (1950)										
+679433-1	Peperomia phyllanthopsis	Trel. & Yunck.	Piperac. N. South Amer.	500 (1950)										
+679483-1	Peperomia popayanensis	Trel. & Yunck.	Piperac. N. South Amer.	688 (1950)										
+679485-1	Peperomia porriginifera	Trel. & Yunck.	Piperac. N. South Amer.	572 (1950)										
+679494-1	Peperomia praematura	Trel. & Yunck.	Piperac. N. South Amer.	672 (1950)										
+679520-1	Peperomia pseudoalternifolia	Trel. & Yunck.	Piperac. N. South Amer.	547 (1950)										
+679545-1	Peperomia puberulicaulis	Trel. & Yunck.	Piperac. N. South Amer.	636 (1950)										
+679560-1	Peperomia pubirhachis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	493 (1950)										
+679561-1	Peperomia puerto-ospinana	Trel. & Yunck.	Piperac. N. South Amer.	520 (1950)										
+679573-1	Peperomia punctatilamina	Trel. & Yunck.	Piperac. N. South Amer.	586 (1950)										
+679587-1	Peperomia putumayoensis	Trel. & Yunck.	Piperac. N. South Amer.	620 (1950).										
+679609-1	Peperomia quindioensis	Trel. & Yunck.	Piperac. N. South Amer.	555 (1950).										
+679664-1	Peperomia rhombeo-ovata	Trel. & Yunck.	Piperac. N. South Amer.	574 (1950).										
+679680-1	Peperomia rioblancoana	Trel. & Yunck.	Piperac. N. South Amer.	699 (1950).										
+679681-1	Peperomia riocaliensis	Trel. & Yunck.	Piperac. N. South Amer.	452 (1950).										
+679687-1	Peperomia robleana	Trel. & Yunck.	Piperac. N. South Amer.	528 (1950).										
+679699-1	Peperomia roseocaulis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	728 (1950)										
+679719-1	Peperomia rubramenta	Trel. & Yunck.	Piperac. N. South Amer.	450 (1950)										
+679748-1	Peperomia sabaletasana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	693 (1950)										
+679749-1	Peperomia sachatzinzumba	Trel. & Yunck.	Piperac. N. South Amer.	694 (1950)										
+679752-1	Peperomia salaminana	Trel. & Yunck.	Piperac. N. South Amer.	476 (1950)										
+679753-1	Peperomia salangonis	Trel. & Yunck.	Piperac. N. South Amer.	494 (1950)										
+679774-1	Peperomia sanquininiana	Trel. & Yunck.	Piperac. N. South Amer.	638 (1950).										
+679782-1	Peperomia santanderana	Trel. & Yunck.	Piperac. N. South Amer.	742 (1950).										
+679808-1	Peperomia schultzei	Trel. & Yunck.	Piperac. N. South Amer.	526 (1950).										
+679831-1	Peperomia semipuberula	Trel. & Yunck.	Piperac. N. South Amer.	639 (1950).										
+679870-1	Peperomia sneidernii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	625 (1950)										
+679904-1	Peperomia stilifera	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	484 (1950)										
+679950-1	Peperomia subrenifolia	Trel. & Yunck.	Piperac. N. South Amer.	479 (1950)										
+679955-1	Peperomia subrubescens	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	483 (1950)										
+679961-1	Peperomia subspathulata	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	515 (1950)										
+679969-1	Peperomia sucumbiosensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	692 (1950)										
+679974-1	Peperomia suratana	Trel. & Yunck.	Piperac. N. South Amer.	615 (1950)										
+679980-1	Peperomia sympodialis	Trel. & Yunck.	Piperac. N. South Amer.	687 (1950)										
+679991-1	Peperomia tamayoi	Trel. & Yunck.	Piperac. N. South Amer.	484 (1950).										
+679992-1	Peperomia tambitoensis	Trel. & Yunck.	Piperac. N. South Amer.	475 (1950).										
+679993-1	Peperomia tamboana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	498 (1950)										
+680000-1	Peperomia tejana	Trel. & Yunck.	Piperac. N. South Amer.	611 (1950)										
+680001-1	Peperomia tenae	Trel. & Yunck.	Piperac. N. South Amer.	482 (1950)										
+680012-1	Peperomia tenuimarginata	Trel. & Yunck.	Piperac. N. South Amer.	697 (1950)										
+680025-1	Peperomia terrigaudens	Trel. & Yunck.	Piperac. N. South Amer.	657 (1950)										
+680048-1	Peperomia tolimensis	Trel. & Yunck.	Piperac. N. South Amer.	510 (1950).										
+680049-1	Peperomia tomentella	Trel. & Yunck.	Piperac. N. South Amer.	453 (1950).										
+680053-1	Peperomia topoensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	594 (1950)										
+680054-1	Peperomia toroi	Trel. & Yunck.	Piperac. N. South Amer.	640 (1950)										
+680109-1	Peperomia turboensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	463 (1950)										
+680114-1	Peperomia tutunendoana	Trel. & Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	660 (1950)										
+680117-1	Peperomia ubatesusanensis	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	468 (1950)										
+680118-1	Peperomia udimontana	Trel. & Yunck.	Piperac. N. South Amer.	747 (1950).										
+680125-1	Peperomia umbellifera	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	586 (1950)										
+680146-1	Peperomia valladolidana	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	489 (1950)										
+680147-1	Peperomia vallensis	Trel. & Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	615 (1950)										
+680163-1	Peperomia veneciana	Trel. & Yunck.	Piperac. N. South Amer.	545 (1950).										
+680165-1	Peperomia venosa	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	463 (1950)										
+680180-1	Peperomia verticillatispica	Trel. & Yunck.	Piperac. N. South Amer.	745 (1950).										
+680184-1	Peperomia villarrealii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	600 (1950)										
+680185-1	Peperomia villibacca	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	715 (1950)										
+680236-1	Peperomia yeracuiana	Trel. & Yunck.	Piperac. N. South Amer.	722 (1950).										
+680241-1	Peperomia zarzalana	Trel. & Yunck.	Piperac. N. South Amer.	642 (1950).										
+680244-1	Peperomia zipaquirana	Trel. & Yunck.	Piperac. N. South Amer.	561 (1950).										
+680252-1	Piper abellinum	Trel. & Yunck.	Piperac. N. South Amer.	322 (1950).										
+680262-1	Piper achotense	Trel. & Yunck.	Piperac. N. South Amer.	262 (1950).										
+680264-1	Piper achupallasense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	288 (1950)										
+680310-1	Piper agellifolium	Trel. & Yunck.	Piperac. N. South Amer.	114 (1950)										
+680314-1	Piper aguadulcense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	108 (1950)										
+680319-1	Piper alatabaccum	Trel. & Yunck.	Piperac. N. South Amer.	408 (1950)										
+680323-1	Piper albanense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	398 (1950)										
+680324-1	Piper albert-smithii	Trel. & Yunck.	Piperac. N. South Amer.	413 (1950)										
+680361-1	Piper amazonasense	Trel. & Yunck.	Piperac. N. South Amer.	392 (1950).										
+680366-1	Piper amoenum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	293 (1950)										
+680374-1	Piper amplectenticaule	Trel. & Yunck.	Piperac. N. South Amer.	325 (1950)										
+680408-1	Piper annulatispicum	Trel. & Yunck.	Piperac. N. South Amer.	329 (1950)										
+680424-1	Piper araguense	Trel. & Yunck.	Piperac. N. South Amer.	138 (1950)										
+680428-1	Piper arbelaezii	Trel. & Yunck.	Piperac. N. South Amer.	155 (1950)										
+680441-1	Piper archeri	Trel. & Yunck.	Piperac. N. South Amer.	111 (1950)										
+680452-1	Piper argentamentum	Trel. & Yunck.	Piperac. N. South Amer.	256 (1950).										
+680465-1	Piper armatum	Trel. & Yunck.	Piperac. N. South Amer.	243 (1950).										
+680499-1	Piper atrobaccum	Trel. & Yunck.	Piperac. N. South Amer.	234 (1950).										
+680544-1	Piper bajanum	Trel. & Yunck.	Piperac. N. South Amer.	390 (1950).										
+680565-1	Piper barbosanum	Trel. & Yunck.	Piperac. N. South Amer.	357 (1950).										
+680569-1	Piper barcoense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	103 (1950)										
+680579-1	Piper basilobatum	Trel. & Yunck.	Piperac. N. South Amer.	369 (1950)										
+680586-1	Piper begoniicolor	Trel. & Yunck.	Piperac. N. South Amer.	140 (1950)										
+680593-1	Piper bellum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	57 (1950)										
+680601-1	Piper bermejanum	Trel. & Yunck.	Piperac. N. South Amer.	221 (1950)										
+680634-1	Piper boconoense	Trel. & Yunck.	Piperac. N. South Amer.	114 (1950)										
+680650-1	Piper boquianum	Trel. & Yunck.	Piperac. N. South Amer.	340 (1950)										
+680700-1	Piper brisasense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	311 (1950)										
+680704-1	Piper brownsbergense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	37 (1950)										
+680732-1	Piper cajambrense	Trel. & Yunck.	Piperac. N. South Amer.	26 (1950).										
+680735-1	Piper calanyanum	Trel. & Yunck.	Piperac. N. South Amer.	66 (1950).										
+680760-1	Piper camiloi	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	64 (1950)										
+680774-1	Piper canelosense	Trel. & Yunck.	Piperac. N. South Amer.	264 (1950).										
+680781-1	Piper capillipes	Trel. & Yunck.	Piperac. N. South Amer.	316 (1950)										
+680791-1	Piper cararense	Trel. & Yunck.	Piperac. N. South Amer.	208 (1950).										
+680797-1	Piper carlosii	Trel. & Yunck.	Piperac. N. South Amer.	197 (1950).										
+680822-1	Piper castroanum	Trel. & Yunck.	Piperac. N. South Amer.	221 (1950).										
+680828-1	Piper catripense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	108 (1950)										
+680830-1	Piper catucheanum	Trel. & Yunck.	Piperac. N. South Amer.	257 (1950)										
+680831-1	Piper caucaense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	110 (1950)										
+680834-1	Piper caudefactum	Trel. & Yunck.	Piperac. N. South Amer.	124 (1950)										
+680838-1	Piper cavendishioides	Trel. & Yunck.	Piperac. N. South Amer.	85 (1950).										
+680842-1	Piper cejanum	Trel. & Yunck.	Piperac. N. South Amer.	193 (1950).										
+680852-1	Piper centroense	Trel. & Yunck.	Piperac. N. South Amer.	298 (1950).										
+680858-1	Piper certeguiense	Trel. & Yunck.	Piperac. N. South Amer.	214 (1950).										
+680875-1	Piper chiadoense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	337 (1950)										
+680894-1	Piper churruyacoanum	Trel. & Yunck.	Piperac. N. South Amer.	328 (1950)										
+680898-1	Piper cicatriculosum	Trel. & Yunck.	Piperac. N. South Amer.	394 (1950)										
+680917-1	Piper cisnerosense	Trel. & Yunck.	Piperac. N. South Amer.	304 (1950)										
+680943-1	Piper cobarianum	Trel. & Yunck.	Piperac. N. South Amer.	63 (1950).										
+680947-1	Piper cocoranum	Trel. & Yunck.	Piperac. N. South Amer.	297 (1950).										
+680955-1	Piper colligatispicum	Trel. & Yunck.	Piperac. N. South Amer.	315 (1950).										
+680979-1	Piper condotoense	Trel. & Yunck.	Piperac. N. South Amer.	222 (1950).										
+680980-1	Piper conejoense	Trel. & Yunck.	Piperac. N. South Amer.	46 (1950).										
+681023-1	Piper corpulentispicum	Trel. & Yunck.	Piperac. N. South Amer.	407 (1950).										
+681053-1	Piper crenatifolium	Trel. & Yunck.	Piperac. N. South Amer.	59 (1950).										
+681060-1	Piper cristalinanum	Trel. & Yunck.	Piperac. N. South Amer.	129 (1950).										
+681065-1	Piper cryptocarpum	Trel. & Yunck.	Piperac. N. South Amer.	281 (1950).										
+681089-1	Piper cuniculorum	Trel. & Yunck.	Piperac. N. South Amer.	234 (1950).										
+681114-1	Piper cyphophyllopse	Trel. & Yunck.	Piperac. N. South Amer.	334 (1950).										
+681116-1	Piper cyprium	Trel. & Yunck.	Piperac. N. South Amer.	115 (1950).										
+681138-1	Piper debilicaule	Trel. & Yunck.	Piperac. N. South Amer.	333 (1950).										
+681140-1	Piper decorticans	Trel. & Yunck.	Piperac. N. South Amer.	125 (1950).										
+681184-1	Piper dichroostachyum	Trel. & Yunck.	Piperac. N. South Amer.	294 (1950).										
+681185-1	Piper diffamatum	Trel. & Yunck.	Piperac. N. South Amer.	360 (1950).										
+681189-1	Piper diguaense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	305 (1950)										
+681192-1	Piper dilatatifolium	Trel. & Yunck.	Piperac. N. South Amer.	267 (1950)										
+681210-1	Piper discriminatum	Trel. & Yunck.	Piperac. N. South Amer.	341 (1950).										
+681221-1	Piper distichum	Trel. & Yunck.	Piperac. N. South Amer.	206 (1950).										
+681228-1	Piper divortans	Trel. & Yunck.	Piperac. N. South Amer.	189 (1950).										
+681229-1	Piper divulgatum	Trel. & Yunck.	Piperac. N. South Amer.	153 (1950).										
+681271-1	Piper el-bancoanum	Trel. & Yunck.	Piperac. N. South Amer.	90 (1950).										
+681272-1	Piper el-caranyanum	Trel. & Yunck.	Piperac. N. South Amer.	246 (1950).										
+681273-1	Piper el-metanum	Trel. & Yunck.	Piperac. N. South Amer.	160 (1950).										
+681303-1	Piper enganyanum	Trel. & Yunck.	Piperac. N. South Amer.	292 (1950).										
+681305-1	Piper entradense	Trel. & Yunck.	Piperac. N. South Amer.	40 (1950).										
+681342-1	Piper ewanii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	278 (1950)										
+681365-1	Piper falanense	Trel. & Yunck.	Piperac. N. South Amer.	268 (1950).										
+681371-1	Piper falculispicum	Trel. & Yunck.	Piperac. N. South Amer.	216 (1950).										
+681380-1	Piper fastiditum	Trel. & Yunck.	Piperac. N. South Amer.	299 (1950).										
+681406-1	Piper flagellicuspe	Trel. & Yunck.	Piperac. N. South Amer.	58 (1950).										
+681420-1	Piper florencianum	Trel. & Yunck.	Piperac. N. South Amer.	146 (1950).										
+681423-1	Piper fockei	Trel. & Yunck.	Piperac. N. South Amer.	355 (1950).										
+681447-1	Piper fresnoense	Trel. & Yunck.	Piperac. N. South Amer.	237 (1950).										
+681464-1	Piper furcatipilosum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	112 (1950)										
+681467-1	Piper fusagasuganum	Trel. & Yunck.	Piperac. N. South Amer.	142 (1950)										
+681477-1	Piper futuri	Trel. & Yunck.	Piperac. N. South Amer.	310 (1950)										
+681545-1	Piper gorgonae-insulae	Trel. & Yunck.	Piperac. N. South Amer.	331 (1950).										
+681546-1	Piper gorgonillense	Trel. & Yunck.	Piperac. N. South Amer.	406 (1950).										
+681566-1	Piper grantii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	23 (1950)										
+681576-1	Piper griseolimbum	Trel. & Yunck.	Piperac. N. South Amer.	343 (1950).										
+681587-1	Piper guapense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	28 (1950)										
+681588-1	Piper guaremalesanum	Trel. & Yunck.	Piperac. N. South Amer.	62 (1950)										
+681600-1	Piper gutierrezii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	142 (1950)										
+681625-1	Piper haughtii	Trel. & Yunck.	Piperac. N. South Amer.	263 (1950).										
+681642-1	Piper hermannii	Trel. & Yunck.	Piperac. N. South Amer.	397 (1950).										
+681644-1	Piper hermosanum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	197 (1950)										
+681663-1	Piper hirtilimbum	Trel. & Yunck.	Piperac. N. South Amer.	291 (1950).										
+681677-1	Piper hodgei	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	148 (1950)										
+681684-1	Piper holtii	Trel. & Yunck.	Piperac. N. South Amer.	356 (1950).										
+681686-1	Piper hondonadense	Trel. & Yunck.	Piperac. N. South Amer.	387 (1950).										
+681700-1	Piper huigranum	Trel. & Yunck.	Piperac. N. South Amer.	188 (1950).										
+681724-1	Piper ignacioanum	Trel. & Yunck.	Piperac. N. South Amer.	280 (1950).										
+681743-1	Piper inclemens	Trel. & Yunck.	Piperac. N. South Amer.	321 (1950).										
+681755-1	Piper infidele	Trel. & Yunck.	Piperac. N. South Amer.	159 (1950).										
+681763-1	Piper insignilaminum	Trel. & Yunck.	Piperac. N. South Amer.	17 (1950).										
+681765-1	Piper insipiens	Trel. & Yunck.	Piperac. N. South Amer.	224 (1950)										
+681787-1	Piper jaboncillanum	Trel. & Yunck.	Piperac. N. South Amer.	233 (1950).										
+681809-1	Piper jericoense	Trel. & Yunck.	Piperac. N. South Amer.	397 (1950).										
+681865-1	Piper ladoradense	Trel. & Yunck.	Piperac. N. South Amer.	244 (1950).										
+681883-1	Piper lagunacochanum	Trel. & Yunck.	Piperac. N. South Amer.	132 (1950).										
+681884-1	Piper lagunaense	Trel. & Yunck.	Piperac. N. South Amer.	344 (1950).										
+681930-1	Piper lawrancei	Trel. & Yunck.	Piperac. N. South Amer.	229 (1950).										
+681939-1	Piper ledezmae	Trel. & Yunck.	Piperac. N. South Amer.	82 (1950).										
+681966-1	Piper leucostachyum	Trel. & Yunck.	Piperac. N. South Amer.	184 (1950).										
+681981-1	Piper lineativillosum	Trel. & Yunck.	Piperac. N. South Amer.	321 (1950).										
+681983-1	Piper lineolatifolium	Trel. & Yunck.	Piperac. N. South Amer.	223 (1950).										
+682007-1	Piper longicaudatum	Trel. & Yunck.	Piperac. N. South Amer.	261 (1950).										
+682028-1	Piper longivillosum	Trel. & Yunck.	Piperac. N. South Amer.	35 (1950).										
+682034-1	Piper losoense	Trel. & Yunck.	Piperac. N. South Amer.	345 (1950).										
+682055-1	Piper macerispicum	Trel. & Yunck.	Piperac. N. South Amer.	404 (1950).										
+682119-1	Piper mandinganum	Trel. & Yunck.	Piperac. N. South Amer.	153 (1950).										
+682145-1	Piper marsupiatum	Trel. & Yunck.	Piperac. N. South Amer.	105 (1950)										
+682152-1	Piper marturetense	Trel. & Yunck.	Piperac. N. South Amer.	135 (1950)										
+682172-1	Piper medinaense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	386 (1950)										
+682192-1	Piper meraense	Trel. & Yunck.	Piperac. N. South Amer.	242 (1950).										
+682201-1	Piper metanum	Trel. & Yunck.	Piperac. N. South Amer.	342 (1950).										
+682205-1	Piper mexiae	Trel. & Yunck.	Piperac. N. South Amer.	305 (1950)										
+682219-1	Piper miguelconejoanum	Trel. & Yunck.	Piperac. N. South Amer.	287 (1950).										
+682222-1	Piper milciadesii	Trel. & Yunck.	Piperac. N. South Amer.	314 (1950).										
+682224-1	Piper millepunctulatum	Trel. & Yunck.	Piperac. N. South Amer.	332 (1950).										
+682243-1	Piper miramarense	Trel. & Yunck.	Piperac. N. South Amer.	119 (1950).										
+682250-1	Piper mituense	Trel. & Yunck.	Piperac. N. South Amer.	382 (1950).										
+682252-1	Piper mocoanum	Trel. & Yunck.	Piperac. N. South Amer.	126 (1950).										
+682256-1	Piper molanoi	Trel. & Yunck.	Piperac. N. South Amer.	127 (1950).										
+682278-1	Piper monurum	Trel. & Yunck.	Piperac. N. South Amer.	336 (1950).										
+682288-1	Piper moscopanense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	198 (1950)										
+682298-1	Piper multiforme	Trel. & Yunck.	Piperac. N. South Amer.	282 (1950)										
+682316-1	Piper mutisii	Trel. & Yunck.	Piperac. N. South Amer.	414 (1950).										
+682323-1	Piper naiguatanum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	196 (1950)										
+682325-1	Piper nanegalense	Trel. & Yunck.	Piperac. N. South Amer.	25 (1950)										
+682327-1	Piper napopastazanum	Trel. & Yunck.	Piperac. N. South Amer.	266 (1950)										
+682351-1	Piper niceforoi	Trel. & Yunck.	Piperac. N. South Amer.	79 (1950)										
+682448-1	Piper obrutum	Trel. & Yunck.	Piperac. N. South Amer.	324 (1950).										
+682496-1	Piper oroense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	182 (1950)										
+682499-1	Piper ospinense	Trel. & Yunck.	Piperac. N. South Amer.	290 (1950).										
+682541-1	Piper palestinanum	Trel. & Yunck.	Piperac. N. South Amer.	230 (1950).										
+682559-1	Piper pamploanum	Trel. & Yunck.	Piperac. N. South Amer.	116 (1950).										
+682569-1	Piper papillicaule	Trel. & Yunck.	Piperac. N. South Amer.	224 (1950).										
+682589-1	Piper parcum	Trel. & Yunck.	Piperac. N. South Amer.	311 (1950).										
+682632-1	Piper peculiare	Trel. & Yunck.	Piperac. N. South Amer.	54 (1950).										
+682656-1	Piper pendentispicum	Trel. & Yunck.	Piperac. N. South Amer.	157 (1950).										
+682658-1	Piper pendulirameum	Trel. & Yunck.	Piperac. N. South Amer.	203 (1950).										
+682662-1	Piper pennellii	Trel. & Yunck.	Piperac. N. South Amer.	121 (1950).										
+682666-1	Piper penyasense	Trel. & Yunck.	Piperac. N. South Amer.	207 (1950).										
+682676-1	Piper perbrevispicum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	226 (1950)										
+682677-1	Piper perciliatum	Trel. & Yunck.	Piperac. N. South Amer.	326 (1950).										
+682695-1	Piper permolle	Trel. & Yunck.	Piperac. N. South Amer.	29 (1950).										
+682698-1	Piper pernodosum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	206 (1950)										
+682699-1	Piper pernodulosum	Trel. & Yunck.	Piperac. N. South Amer.	120 (1950).										
+682715-1	Piper pertinax	Trel. & Yunck.	Piperac. N. South Amer.	326 (1950).										
+682716-1	Piper pertomentellum	Trel. & Yunck.	Piperac. N. South Amer.	335 (1950).										
+682721-1	Piper pervenulosum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	376 (1950)										
+682722-1	Piper perverrucosum	Trel. & Yunck.	Piperac. N. South Amer.	282 (1950).										
+682726-1	Piper pervulsum	Trel. & Yunck.	Piperac. N. South Amer.	338 (1950).										
+682752-1	Piper piedecuestanum	Trel. & Yunck.	Piperac. N. South Amer.	227 (1950).										
+682757-1	Piper pilibracteum	Trel. & Yunck.	Piperac. N. South Amer.	24 (1950).										
+682770-1	Piper piluliferifolium	Trel. & Yunck.	Piperac. N. South Amer.	315 (1950).										
+682772-1	Piper pinaresanum	Trel. & Yunck.	Piperac. N. South Amer.	202 (1950).										
+682779-1	Piper pinuna-negroense	Trel. & Yunck.	Piperac. N. South Amer.	238 (1950).										
+682780-1	Piper piojoanum	Trel. & Yunck.	Piperac. N. South Amer.	267 (1950).										
+682784-1	Piper piscatorum	Trel. & Yunck.	Piperac. N. South Amer.	395 (1950).										
+682786-1	Piper pitalitoense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	309 (1950)										
+682794-1	Piper planitiei	Trel. & Yunck.	Piperac. N. South Amer.	284 (1950)										
+682840-1	Piper poporense	Trel. & Yunck.	Piperac. N. South Amer.	403 (1950)										
+682846-1	Piper portachueloense	Trel. & Yunck.	Piperac. N. South Amer.	327 (1950)										
+682851-1	Piper poscitum	Trel. & Yunck.	Piperac. N. South Amer.	279 (1950)										
+682856-1	Piper potamophilum	Trel. & Yunck.	Piperac. N. South Amer.	231 (1950)										
+682869-1	Piper praesagium	Trel. & Yunck.	Piperac. N. South Amer.	308 (1950).										
+682881-1	Piper protracticuspidatum	Trel. & Yunck.	Piperac. N. South Amer.	232 (1950).										
+682884-1	Piper provulgatum	Trel. & Yunck.	Piperac. N. South Amer.	277 (1950).										
+682924-1	Piper pseudoeucalyptifolium	Trel. & Yunck.	Piperac. N. South Amer.	399 (1950).										
+682925-1	Piper pseudoglabrescens	Trel. & Yunck.	Piperac. N. South Amer.	228 (1950).										
+682931-1	Piper pseudopopayanense	Trel. & Yunck.	Piperac. N. South Amer.	191 (1950).										
+682975-1	Piper pulleanum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	323 (1950)										
+682992-1	Piper puraceanum	Trel. & Yunck.	Piperac. N. South Amer.	205 (1950)										
+682998-1	Piper purulentum	Trel. & Yunck.	Piperac. N. South Amer.	357 (1950)										
+683002-1	Piper pustulatum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	199 (1950)										
+683004-1	Piper putumayoense	Trel. & Yunck.	Piperac. N. South Amer.	47 (1950).										
+683031-1	Piper raizudoanum	Trel. & Yunck.	Piperac. N. South Amer.	291 (1950)										
+683033-1	Piper ramosense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	145 (1950)										
+683058-1	Piper regresivanum	Trel. & Yunck.	Piperac. N. South Amer.	239 (1950).										
+683103-1	Piper riitosense	Trel. & Yunck.	Piperac. N. South Amer.	396 (1950).										
+683107-1	Piper riocajambrense	Trel. & Yunck.	Piperac. N. South Amer.	117 (1950).										
+683108-1	Piper riocauchosanum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	30 (1950)										
+683109-1	Piper riochiadoense	Trel. & Yunck.	Piperac. N. South Amer.	229 (1950)										
+683112-1	Piper riomarguanum	Trel. & Yunck.	Piperac. N. South Amer.	330 (1950)										
+683113-1	Piper rionechianum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	211 (1950)										
+683114-1	Piper riotintasense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	49 (1950)										
+683115-1	Piper riozulianum	Trel. & Yunck.	Piperac. N. South Amer.	50 (1950)										
+683122-1	Piper rivialbi	Trel. & Yunck.	Piperac. N. South Amer.	265 (1950)										
+683126-1	Piper roblalense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	17 (1950)										
+683127-1	Piper robleanum	Trel. & Yunck.	Piperac. N. South Amer.	270 (1950)										
+683135-1	Piper romboutsii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	395 (1950)										
+683149-1	Piper rotundistipulum	Trel. & Yunck.	Piperac. N. South Amer.	408 (1950)										
+683195-1	Piper rupununianum	Trel. & Yunck.	Piperac. N. South Amer.	303 (1950)										
+683199-1	Piper rusticum	Trel. & Yunck.	Piperac. N. South Amer.	190 (1950)										
+683200-1	Piper sabaletasanum	Trel. & Yunck.	Piperac. N. South Amer.	104 (1950)										
+683204-1	Piper sacchamatesense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	135 (1950)										
+683214-1	Piper salentoi	Trel. & Yunck.	Piperac. N. South Amer.	241 (1950)										
+683215-1	Piper salgaranum	Trel. & Yunck.	Piperac. N. South Amer.	269 (1950)										
+683223-1	Piper saloyanum	Trel. & Yunck.	Piperac. N. South Amer.	62 (1950)										
+683233-1	Piper sanandresense	Trel. & Yunck.	Piperac. N. South Amer.	240 (1950)										
+683240-1	Piper sanmartinense	Trel. & Yunck.	Piperac. N. South Amer.	410 (1950)										
+683241-1	Piper sanmiguelense	Trel. & Yunck.	Piperac. N. South Amer.	280 (1950)										
+683246-1	Piper sanvicentense	Trel. & Yunck.	Piperac. N. South Amer.	19 (1950)										
+683271-1	Piper sararense	Trel. & Yunck.	Piperac. N. South Amer.	203 (1950).										
+683279-1	Piper sasaimanum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	123 (1950)										
+683293-1	Piper scabridulilimbum	Trel. & Yunck.	Piperac. N. South Amer.	279 (1950)										
+683312-1	Piper scansum	Trel. & Yunck.	Piperac. N. South Amer.	32 (1950)										
+683326-1	Piper schultesii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	34 (1950)										
+683367-1	Piper seminervosum	Trel. & Yunck.	Piperac. N. South Amer.	53 (1950).										
+683370-1	Piper semitarium	Trel. & Yunck.	Piperac. N. South Amer.	187 (1950).										
+683388-1	Piper setosum	Trel. & Yunck.	Piperac. N. South Amer.	38 (1950).										
+683401-1	Piper silvaense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	14 (1950)										
+683424-1	Piper sipenanum	Trel. & Yunck.	Piperac. N. South Amer.	225 (1950)										
+683430-1	Piper skutchii	Trel. & Yunck.	Piperac. N. South Amer.	332 (1950)										
+683433-1	Piper sneidernii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	336 (1950)										
+683435-1	Piper sociorum	Trel. & Yunck.	Piperac. N. South Amer.	225 (1950)										
+683457-1	Piper spoliatum	Trel. & Yunck.	Piperac. N. South Amer.	118 (1950).										
+683470-1	Piper statarium	Trel. & Yunck.	Piperac. N. South Amer.	339 (1950).										
+683471-1	Piper statum	Trel. & Yunck.	Piperac. N. South Amer.	161 (1950).										
+683551-1	Piper subfrutescens	Trel. & Yunck.	Piperac. N. South Amer.	39 (1950).										
+683575-1	Piper subpedale	Trel. & Yunck.	Piperac. N. South Amer.	53 (1950).										
+683605-1	Piper subtomentosum	Trel. & Yunck.	Piperac. N. South Amer.	154 (1950).										
+683612-1	Piper sucreense	Trel. & Yunck.	Piperac. N. South Amer.	239 (1950).										
+683625-1	Piper supernum	Trel. & Yunck.	Piperac. N. South Amer.	192 (1950).										
+683626-1	Piper suratanum	Trel. & Yunck.	Piperac. N. South Amer.	210 (1950).										
+683649-1	Piper tachiranum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	298 (1950)										
+683736-1	Piper tomas-albertoi	Trel. & Yunck.	Piperac. N. South Amer.	113 (1950).										
+683742-1	Piper tonoroanum	Trel. & Yunck.	Piperac. N. South Amer.	328 (1950).										
+683750-1	Piper tovarense	Trel. & Yunck.	Piperac. N. South Amer.	27 (1950).										
+683842-1	Piper umbriense	Trel. & Yunck.	Piperac. N. South Amer.	260 (1950).										
+683856-1	Piper unillanum	Trel. & Yunck.	Piperac. N. South Amer.	264 (1950).										
+683871-1	Piper valladolidense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	56 (1950)										
+683893-1	Piper veneralense	Trel. & Yunck.	Piperac. N. South Amer.	36 (1950).										
+683926-1	Piper villalobosense	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	208 (1950)										
+683927-1	Piper villarrealii	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	30 (1950)										
+683946-1	Piper virgenense	Trel. & Yunck.	Piperac. N. South Amer.	353 (1950)										
+683955-1	Piper viridistachyum	Yunck.	Trelease & Yuncker, Piperac. Northern S. Amer.	18 (1950)										
+683957-1	Piper viscaianum	Trel. & Yunck.	Piperac. N. South Amer.	139 (1950)										
+684000-1	Piper yanaconasense	Trel. & Yunck.	Piperac. N. South Amer.	41 (1950).										
+684202-1	Trianaeopiper confertinodum	Trel. & Yunck.	Piperac. N. South Amer.	423 (1950).										
+684205-1	Trianaeopiper cuatrecasasii	Trel. & Yunck.	Piperac. N. South Amer.	424 (1950).										
+684206-1	Trianaeopiper ellsworthii	Trel. & Yunck.	Piperac. N. South Amer.	433 (1950).										
+684207-1	Trianaeopiper enckeispicum	Trel. & Yunck.	Piperac. N. South Amer.	424 (1950).										
+684208-1	Trianaeopiper filistilum	(C.DC.) Trel. & Yunck.	Piperac. N. South Amer.	431 (1950)										
+684209-1	Trianaeopiper garciae	Trel. & Yunck.	Piperac. N. South Amer.	430 (1950).										
+684212-1	Trianaeopiper mexiae	Trel. & Yunck.	Piperac. N. South Amer.	432 (1950).										
 77062447-1	Dendromyza pachydisca	(Danser) J.M.Macklin ex Beaman & C.E.Anderson	Pl. Mt. Kinabalu [J.H. Beaman et al.]	5: 368	2004 [23 Sept 2004]									
 77062513-1	Ficus crassiramea subsp. stupenda	(Miq.) C.C.Berg	Pl. Mt. Kinabalu [J.H. Beaman et al.]	5: 150	2004 [23 Sept 2004]									
 77067402-1	Begonia tigrina	Kiew	Begonias Penins. Malaysia	50 (-53; fig., photos)	2005 [1 Feb 2005]									
