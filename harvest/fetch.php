@@ -815,11 +815,133 @@ $families=array(
 
 //$families=array('Verbenaceae');
 
-/*
+
 $families = array(
-'Acanthaceae'
+/*
+'Selaginellaceae',
+'Sempervivaceae',
+'Sequoiaceae',
+'Setchellanthaceae',
+'Simaroubaceae',
+'Simmondsiaceae',
+'Sinofranchetiaceae',
+'Smilacaceae',*/
+'Solanaceae',
+'Sonneratiaceae',
+'Sparganiaceae',
+'Spergulaceae',
+'Sphaerosepalaceae',
+'Sphenocleaceae',
+'Sphenostemonaceae',
+'Spiraeanthemaceae',
+'Stachyuraceae',
+'Stackhousiaceae',
+'Stangeriaceae',
+'Staphyleaceae',
+'Stegnospermataceae',
+'Stemonaceae',
+'Stemonuraceae',
+'Stenochlaenaceae',
+'Sterculiaceae',
+'Stilbaceae',
+'Stipaceae',
+'Stixaceae',
+'Strasburgeriaceae',
+'Strelitziaceae',
+'Strephonemataceae',
+'Stromatopteridaceae',
+'Stylidiaceae',
+'Stylobasiaceae',
+'Stylocerataceae',
+'Styracaceae',
+'Surianaceae',
+'Symphoremataceae',
+'Symplocaceae',
+'Taccaceae',
+'Taenitidaceae',
+'Taiwaniaceae',
+'Takhtajaniaceae',
+'Talinaceae',
+'Tamaricaceae',
+'Tapisciaceae',
+'Taxaceae',
+'Taxodiaceae',
+'Tecophilaeaceae',
+'Tectariaceae',
+'Tepuianthaceae',
+'Ternstroemiaceae',
+'Tetracentraceae',
+'Tetrachondraceae',
+'Tetradiclidaceae',
+'Tetrameristaceae',
+'Thalictraceae',
+'Theaceae',
+'Thelypteridaceae',
+'Themidaceae',
+'Theophrastaceae',
+'Thomandersiaceae',
+'Thurniaceae',
+'Thymelaeaceae',
+'Ticodendraceae',
+'Tiliaceae',
+'Tofieldiaceae',
+'Toricelliaceae',
+'Torricelliaceae',
+'Tovariaceae',
+'Trapaceae',
+'Tremandraceae',
+'Tribulaceae',
+'Trichomanaeaceae',
+'Trichopodaceae',
+'Tricyrtidaceae',
+'Trigoniaceae',
+'Trilliaceae',
+'Trimeniaceae',
+'Triplostegiaceae',
+'Tristichaceae',
+'Triuridaceae',
+'Trochodendraceae',
+'Tropaeolaceae',
+'Turneraceae',
+'Typhaceae',
+'Ulmaceae',
+'Umbelliferae',
+'Unknown',
+'Urostachyaceae',
+'Urticaceae',
+'Vacciniaceae',
+'Vahliaceae',
+'Valerianaceae',
+'Vallisneriaceae',
+'Vanillaceae',
+'Velloziaceae',
+'Verbenaceae',
+'Veronicaceae',
+'Violaceae',
+'Viscaceae',
+'Vitaceae',
+'Vittariaceae',
+'Vochysiaceae',
+'Walleriaceae',
+'Welwitschiaceae',
+'Widdringtoniaceae',
+'Winteraceae',
+'Wolffiaceae',
+'Woodsiaceae',
+'Xanthoceraceae',
+'Xanthophyllaceae',
+'Xanthopyreniaceae',
+'Xanthorrhoeaceae',
+'Xeronemataceae',
+'Xerophyllaceae',
+'Xyridaceae',
+'Zamiaceae',
+'Zannichelliaceae',
+'Zingiberaceae',
+'Zosteraceae',
+'Zygophyllaceae'
 );
-*/
+
 
 $count = 0;
 
@@ -838,7 +960,8 @@ foreach ($families as $family)
 //	 . '2016-08-08'	
 //	 . '2016-12-01'		 	 
 //     . '2017-04-16'
-     . '2017-08-29' // run 2018-04-08
+//     . '2017-08-29' // run 2018-04-08
+     . '2018-04-08' // run 2019-01-21
 
 	 . '&find_modifiedSince=&find_isAPNIRecord=on&find_isAPNIRecord=false&find_isGCIRecord=on&find_isGCIRecord=false&find_isIKRecord=on&find_isIKRecord=false&find_rankToReturn=all&output_format=delimited&find_sortByFamily=on&find_sortByFamily=off&query_type=by_query&back_page=plantsearch';
 
@@ -928,7 +1051,7 @@ foreach ($families as $family)
 		
 		
 		// DOI
-		if (preg_match('/doi:(?<doi>10\.\d+\/[a-zA-Z0-9\-\[\(\)\];\.]+)/i', $parts[$heading["Remarks"]], $m))
+		if (preg_match('/doi:(?<doi>10\.\d+\/[a-zA-Z0-9\-\[\(\)\];\.\\/]+)/i', $parts[$heading["Remarks"]], $m))
 		{
 			//print_r($m);exit();
 			$obj->doi = $m['doi'];

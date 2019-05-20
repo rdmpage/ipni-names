@@ -1,6 +1,8 @@
 config.inc.php
 
 harvest/*.sql
+harvest/rdf-more
+harvest/sql
 
 junk
 
@@ -11,3 +13,7 @@ dump.db
 ipni.csv
 ipni.db
 
+harvest/.DS_Store
+c.sql
+e.sql
+d.sql

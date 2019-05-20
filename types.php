@@ -10,7 +10,6 @@ function clean($code)
 {
 	$code = preg_replace('/et al/u', '', $code);
 
-
 	$code = preg_replace('/[A-Z]\./u', '', $code);
 	//$code = preg_replace('/\s[A-Z][A-Z]+\b/u', '', $code);
 	//$code = preg_replace('/\b[A-Z]\b/u', '', $code);
@@ -22,6 +21,8 @@ function clean($code)
 
 	return $code;
 }
+
+//----------------------------------------------------------------------------------------
 
 
 $debug = true;
@@ -63,7 +64,7 @@ $api_obj->results = array();
 // Type data from IPNI
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", "root", "", "ipni");
 
 // Ensure fields are (only) indexed by column name
@@ -99,6 +100,7 @@ while (!$result->EOF)
 
 if ($debug)
 {
+	echo '<h2>IPNI types</h2>';
 	echo '<pre>';
 	print_r($ipni_types);
 	echo '</pre>';
@@ -138,6 +140,8 @@ if ($id != 0)
 	
 	$url = 'http://api.gbif.org/v1/occurrence/search?taxonKey=' . $id . '&typeStatus=*';
 	
+	//$url = 'http://api.gbif.org/v1/occurrence/search?taxonKey=' . $id;
+	
 	//echo $url;
 	
 	$json = get($url);
@@ -153,7 +157,7 @@ if ($id != 0)
 	
 	foreach ($obj->results as $occurrence)
 	{
-		$code = '';
+		$code = array();
 		
 		$institutionCode = $occurrence->institutionCode;
 		
@@ -163,28 +167,28 @@ if ($id != 0)
 				$institutionCode ='BISH';
 				if (isset($occurrence->recordedBy))
 				{
-					$code = $occurrence->recordedBy;
+					$code[] = $occurrence->recordedBy;
 				}
 				if (isset($occurrence->recordNumber))
 				{
-					$code .= ' ' . $occurrence->recordNumber;
+					$code[] = $occurrence->recordNumber;
 				}
-				$code = str_replace('Collector Number:', '', $code);
+				//$code = str_replace('Collector Number:', '', $code);
 				break;
 		
 			case 'UEFS':
 				$institutionCode ='HUEFS';
 				if (isset($occurrence->recordedBy))
 				{
-					$code = $occurrence->recordedBy;
+					$code[] = $occurrence->recordedBy;
 				}
 				if (isset($occurrence->recordNumber))
 				{
-					$code .= ' ' . $occurrence->recordNumber;
+					$code[] =' ' . $occurrence->recordNumber;
 				}
 				if (isset($occurrence->fieldNumber))
 				{
-					$code .= ' ' . $occurrence->fieldNumber;
+					$code[] = ' ' . $occurrence->fieldNumber;
 				}
 				break;				
 		
@@ -192,7 +196,7 @@ if ($id != 0)
 			case 'MO':
 				if (isset($occurrence->recordNumber))
 				{
-					$code = $occurrence->recordNumber;
+					$code[] = $occurrence->recordNumber;
 				}
 				break;
 				
@@ -200,15 +204,15 @@ if ($id != 0)
 				$institutionCode ='P';
 				if (isset($occurrence->recordedBy))
 				{
-					$code = $occurrence->recordedBy;
+					$code[] = $occurrence->recordedBy;
 				}
 				if (isset($occurrence->recordNumber))
 				{
-					$code .= ' ' . $occurrence->recordNumber;
+					$code[] = ' ' . $occurrence->recordNumber;
 				}
 				if (isset($occurrence->fieldNumber))
 				{
-					$code .= ' ' . $occurrence->fieldNumber;
+					$code[] = ' ' . $occurrence->fieldNumber;
 				}
 				break;				
 				
@@ -224,41 +228,72 @@ if ($id != 0)
 				}
 				if (isset($occurrence->recordedBy))
 				{
-					$code = $occurrence->recordedBy;
+					$code[] = $occurrence->recordedBy;
 				}
 				if (isset($occurrence->recordNumber))
 				{
-					$code .= ' ' . $occurrence->recordNumber;
+					$code[] = ' ' . $occurrence->recordNumber;
 				}
-				break;				
+				break;		
+				
+			case 'NHMUK':
+				$institutionCode = 'BM';
+				if (isset($occurrence->recordedBy))
+				{
+					$code[] = $occurrence->recordedBy;
+				}
+				if (isset($occurrence->recordNumber))
+				{
+					$code[] = ' ' . $occurrence->recordNumber;
+				}
+				if (isset($occurrence->fieldNumber))
+				{
+					$code[] = ' ' . $occurrence->fieldNumber;
+				}
+				break;
+						
 				
 			case 'F':
 			case 'K':
 			default:
 				if (isset($occurrence->recordedBy))
 				{
-					$code = $occurrence->recordedBy;
+					$code[] = $occurrence->recordedBy;
 				}
 				if (isset($occurrence->recordNumber))
 				{
-					$code .= ' ' . $occurrence->recordNumber;
+					$code[] = ' ' . $occurrence->recordNumber;
 				}
 				if (isset($occurrence->fieldNumber))
 				{
-					$code .= ' ' . $occurrence->fieldNumber;
+					$code[] = ' ' . $occurrence->fieldNumber;
 				}
 				break;
+				
+				
 		}
 		
-		if ($code != '')
+		
 		{
+
+			if ($debug)
+			{
+				echo '<pre>';
+				echo '<h2>Code</h2>';
+				print_r($code);
+				echo '</pre>';
+			}
+			
+			$code = array_unique($code);
+			$c = join(' ', $code);
+
 			// clean
-			$code = clean($code);
+			$c = clean($c);
 			
 			$type = new stdclass;
 			$type->occurrence = $occurrence;
 			$type->id = $occurrence->key;
-			$type->code = $code;
+			$type->code = $c;
 			
 			$gbif_types[$institutionCode][] = $type;
 		}
@@ -272,6 +307,7 @@ if ($id != 0)
 
 if ($debug)
 {
+	echo '<h2>GBIF types</h2>';
 	echo '<pre>';
 	print_r($gbif_types);
 	echo '</pre>';
@@ -283,8 +319,18 @@ if ($debug)
 
 foreach ($ipni_types as $k => $v)
 {
+	if ($debug)
+	{
+		echo $k . '<br />';
+	}
+	
 	if (isset($gbif_types[$k]))
 	{
+		if ($debug)
+		{
+			echo $v . '<br />';
+		}
+	
 		foreach ($v as $ipni_code)
 		{
 			foreach($gbif_types[$k] as $type)
@@ -303,15 +349,17 @@ foreach ($ipni_types as $k => $v)
 					}
 				}
 				
-				/*
-				echo '<pre>';
-				echo "ipni code";
-				print_r($one);
-				echo "code";
-				print_r($two);
-				echo $count;
-				echo '</pre>';exit();
-				*/
+				
+				if ($debug)
+				{
+					echo '<pre>';
+					echo "ipni code";
+					print_r($one);
+					echo "code";
+					print_r($two);
+					echo $count;
+					echo '</pre>';
+				}				
 				
 				
 				

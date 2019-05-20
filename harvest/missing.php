@@ -8,6 +8,13 @@ require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
 $names = array('Seringia');
 
+
+$names = array('Lepechinia leucophylloides');
+$names = array('Oreocharis glandulosa');
+
+$names = array('Oreocharis yunnanensis');
+
+
 $count = 0;
 
 

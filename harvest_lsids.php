@@ -244,6 +244,9 @@ function rdf2obj($rdf)
 $basedir = '/Volumes/G-DRIVE slim/ipni-rdf';
 $basedir = 'rdf';
 $basedir = 'rdf-1';
+$basedir = '/Users/rpage/Sites/linked-data-fragments/resolvers/cache/ipni/names/';
+
+
 
 $ids_filename 			= 'rdf_ids.txt';
 $specimens_filename 	= 'rdf_specimens.txt';
