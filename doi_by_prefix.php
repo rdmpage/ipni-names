@@ -6,7 +6,7 @@ require_once(dirname(__FILE__) . '/config.inc.php');
 require_once(dirname(__FILE__) . '/adodb5/adodb.inc.php');
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
@@ -20,6 +20,9 @@ $prefixes = array();
 
 
 $sql = 'SELECT DISTINCT LEFT(doi,INSTR(doi,"/")-1) AS prefix FROM names_indexfungorum WHERE doi IS NOT NULL AND doi <> "";';
+
+$sql = 'SELECT DISTINCT LEFT(doi,INSTR(doi,"/")-1) AS prefix FROM names WHERE doi IS NOT NULL AND doi <> "" AND doi_agency IS NULL;';
+
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
@@ -35,7 +38,8 @@ $dois = array();
 
 foreach ($prefixes as $prefix)
 {
-	$sql = 'SELECT doi FROM names_indexfungorum WHERE doi LIKE "' . $prefix . '%" LIMIT 1';
+	//$sql = 'SELECT doi FROM names_indexfungorum WHERE doi LIKE "' . $prefix . '%" LIMIT 1';
+	$sql = 'SELECT doi FROM names WHERE doi LIKE "' . $prefix . '%" LIMIT 1';
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);

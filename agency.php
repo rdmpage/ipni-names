@@ -211,17 +211,78 @@ $dois=array(
 '10.4102/abc.v45i1.883'
 );
 
+$dois=array();
+
+$dois=array('10.14203/reinwardtia.v17i1.3517',
+'10.1640/0002-8444-108.1.27',
+'10.3417/2018170',
+'10.1093/botlinnean/boy055',
+'10.3417/2018053',
+'10.3417/D1700005',
+'10.3417/2018066',
+'10.1640/0002-8444-108.3.65',
+'10.3417/2018278',
+'10.3417/2018056',
+'10.3417/2018106',
+'10.1002/fedr.201700020',
+'10.1093/botlinnean/boy030',
+'10.1093/botlinnean/boy056',
+'10.3417/2018064',
+'10.3417/2018039',
+'10.1002/fedr.201800002',
+'10.3417/2017049',
+'10.3119/17-08',
+'10.1093/botlinnean/boy040',
+'10.1002/fedr.201700004',
+'10.3417/2018209',
+'10.3417/2018131',
+'10.3417/D1700007',
+'10.3417/2017043',
+'10.3417/2017058',
+'10.1093/aob',
+'10.1002/fedr.201700018',
+'10.3417/2018201',
+'10.3417/2017018',
+'10.1002/fedr.201700003',
+'10.3417/2018037',
+'10.3417/2018078',
+'10.22244/rheedea.2018.28.1.05',
+'10.1002/fedr.201700007',
+'10.3417/D1700002',
+'10.3417/2018264',
+'10.1093/botlinnean/box088',
+'10.1093/botlinnean/box089',
+'10.15517/lank.v18i1.33098',
+'10.15517/lank.v18i3.35123',
+'10.3417/2018063',
+'10.15517/lank.v18i2.34050',
+'10.15517/lank.v18i2.33398',
+'10.3417/2018121',
+'10.15517/lank.v18i2.33322',
+'10.3417/2017041',
+'10.14203/reinwardtia.v17i1.3489',
+'10.3417/D1700008',
+'10.1640/0002-8444-108.1.1',
+'10.3417/2018040',
+'10.1640/0002-8444-108.3.107',
+'10.3417/2017033',);
+
 $count = 1;
 
 foreach ($dois as $doi)
 {
-	//echo "-- $doi\n";
+	echo "-- $doi\n";
 	
 	$prefix = substr($doi, 0, strpos($doi, "/"));
 	
-	$url = 'http://api.crossref.org/works/' . $doi . '/agency';
+	//$url = 'http://api.crossref.org/works/' . $doi . '/agency';
+	
+	$url = 'http://doi.org/ra/' . $doi;
 	
 	$json = get($url);
+	
+	//echo $url . "\n";
+	//echo $json;
 	
 	if ($json != '')
 	{
@@ -231,8 +292,18 @@ foreach ($dois as $doi)
 		{
 			echo "-- $prefix " . $obj->message->agency->id . "\n";
 			
-			echo 'UPDATE names_indexfungorum SET doi_agency="' . $obj->message->agency->id . '" WHERE doi LIKE "' . $prefix . '%";' . "\n";
+			//echo 'UPDATE names_indexfungorum SET doi_agency="' . $obj->message->agency->id . '" WHERE doi LIKE "' . $prefix . '%";' . "\n";
+			echo 'UPDATE names SET doi_agency="' . $obj->message->agency->id . '" WHERE doi LIKE "' . $prefix . '%";' . "\n";
 		}
+		
+		if (isset($obj[0]->RA))
+		{
+			echo "-- $prefix " . $obj[0]->RA . "\n";
+			
+			//echo 'UPDATE names_indexfungorum SET doi_agency="' . $obj->message->agency->id . '" WHERE doi LIKE "' . $prefix . '%";' . "\n";
+			echo 'UPDATE names SET doi_agency="' . strtolower($obj[0]->RA) . '" WHERE doi LIKE "' . $prefix . '%";' . "\n";
+		}
+		
 	}
 	
 	if (($count++ % 10) == 0)

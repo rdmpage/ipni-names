@@ -119,6 +119,9 @@ function get_gbif_specimens($name, $types = true)
 	
 		foreach ($obj->results as $occurrence)
 		{
+		
+			//print_r($occurrence);
+		
 			$code = array();
 			
 			if (isset($occurrence->institutionCode))
@@ -234,6 +237,95 @@ function get_gbif_specimens($name, $types = true)
 							$code[] = ' ' . $occurrence->fieldNumber;
 						}
 						break;
+						
+					case 'Instituto de Botânica, IBT':
+						if (isset($occurrence->collectionCode))
+						{
+							if ($occurrence->collectionCode == 'SP')
+							{
+								$institutionCode = 'SP';
+								if (isset($occurrence->recordedBy))
+								{
+									$code[] = $occurrence->recordedBy;
+								}
+								if (isset($occurrence->recordNumber))
+								{
+									$code[] = ' ' . $occurrence->recordNumber;
+								}
+								if (isset($occurrence->fieldNumber))
+								{
+									$code[] = ' ' . $occurrence->fieldNumber;
+								}																
+							}
+						}
+						break;
+						
+					case 'USP':
+						if (isset($occurrence->collectionCode))
+						{
+							if ($occurrence->collectionCode == 'SPF')
+							{
+								$institutionCode = 'SPF';
+								if (isset($occurrence->recordedBy))
+								{
+									$code[] = $occurrence->recordedBy;
+								}
+								if (isset($occurrence->recordNumber))
+								{
+									$code[] = ' ' . $occurrence->recordNumber;
+								}
+								if (isset($occurrence->fieldNumber))
+								{
+									$code[] = ' ' . $occurrence->fieldNumber;
+								}																
+							}
+						}
+						break;
+						
+					case 'JBRJ':
+						if (isset($occurrence->collectionCode))
+						{
+							if ($occurrence->collectionCode == 'RB')
+							{
+								$institutionCode = 'RB';
+								if (isset($occurrence->recordedBy))
+								{
+									$code[] = $occurrence->recordedBy;
+								}
+								if (isset($occurrence->recordNumber))
+								{
+									$code[] = ' ' . $occurrence->recordNumber;
+								}
+								if (isset($occurrence->fieldNumber))
+								{
+									$code[] = ' ' . $occurrence->fieldNumber;
+								}																
+							}
+						}
+						break;
+						
+					case 'MN':
+						if (isset($occurrence->collectionCode))
+						{
+							if ($occurrence->collectionCode == 'R-TIPOS')
+							{
+								$institutionCode = 'R';
+								if (isset($occurrence->recordedBy))
+								{
+									$code[] = $occurrence->recordedBy;
+								}
+								if (isset($occurrence->recordNumber))
+								{
+									$code[] = ' ' . $occurrence->recordNumber;
+								}
+								if (isset($occurrence->fieldNumber))
+								{
+									$code[] = ' ' . $occurrence->fieldNumber;
+								}																
+							}
+						}
+						break;
+						
 				
 				
 				}
@@ -312,6 +404,10 @@ $sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Miliusa %"';
 
 $sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Zingiber %"';
 
+$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa dardanoi%"';
+$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa bifurcata%"';
+$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa endoleuca%"';
+
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
 while (!$result->EOF) 
@@ -367,7 +463,24 @@ while (!$result->EOF)
 				
 					case 'E':
 					case 'K':
+					case 'RB':
 						$jstor = $jstor_prefix . strtolower($specimen->occurrence->catalogNumber);
+						break;
+						
+					case 'F':
+						$c = $specimen->occurrence->catalogNumber;
+						$c = preg_replace('/^V/', '', $c);
+						$jstor = $jstor_prefix . 'f' . strtolower($c);						
+						break;
+						
+					case 'MBM':
+						$jstor = $jstor_prefix . 'mbm' . str_pad($specimen->occurrence->catalogNumber, 6, '0', STR_PAD_LEFT); 
+						break;
+						
+						
+					// https://plants.jstor.org/stable/10.5555/al.ap.specimen.spf00133058
+					case 'SPF':
+						$jstor = $jstor_prefix . 'spf' . str_pad($specimen->occurrence->catalogNumber, 8, '0', STR_PAD_LEFT); 
 						break;
 						
 					case 'US':
