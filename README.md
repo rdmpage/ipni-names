@@ -115,6 +115,22 @@ BHL PageID          73,609
 Any								 360,917
 ```
 
+Date: 2019-11-16
+
+Identifier | Number of names
+-- | -- 
+DOI | 209189
+JSTOR | 129705
+BioStor | 50402
+BHL | 81078
+Any | 418615
+
+## Coverage by journal
+
+```
+SELECT COUNT(Id) AS c, Publication, issn FROM names GROUP BY Publication, issn ORDER BY c DESC LIMIT 100;
+```
+
 ## Browser
 
 There is a simple PHP script index.php for a genus-level browser of the IPNI data (the full dataset isn't included in this repository).
