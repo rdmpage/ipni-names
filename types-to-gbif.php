@@ -404,9 +404,10 @@ $sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Miliusa %"';
 
 $sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Zingiber %"';
 
-$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa dardanoi%"';
-$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa bifurcata%"';
-$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa endoleuca%"';
+//$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa dardanoi%"';
+//$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa bifurcata%"';
+//$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Ditassa endoleuca%"';
+//$sql = 'SELECT * FROM rdf_specimens WHERE nameComplete LIKE "Lessingianthus paraguariensis%"';
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __LINE__ . "]: " . $sql);
