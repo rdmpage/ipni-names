@@ -12,6 +12,32 @@ This repository stores the current mapping for a subset of the  journals in IPNI
 Hughes, M., Coyle, C., & Rubite, R. R. (2010, March). A REVISION OF BEGONIA SECTION DIPLOCLINIUM (BEGONIACEAE) ON THE PHILIPPINE ISLAND OF PALAWAN, INCLUDING FIVE NEW SPECIES. Edinburgh Journal of Botany. Cambridge University Press (CUP). doi:10.1017/s0960428609990266
 ```
 
+## Exports of data
+
+To output just names linked to at least one bibliographic identifier:
+
+```
+SELECT Id, 
+Full_name_without_family_and_authors, 
+Authors,
+Publication,
+Collation,
+Publication_year_full,
+IFNULL(doi,'') AS doi, 
+IFNULL(handle,'') AS handle, 
+IFNULL(jstor,'') AS jstor, 
+IFNULL(biostor,'') AS biostor, 
+IFNULL(bhl,'') AS bhl, 
+IFNULL(url,'') AS url, 
+IFNULL(pdf,'') AS pdf, 
+IFNULL(isbn,'') AS isbn 
+FROM names 
+WHERE (doi IS NOT NULL) OR (handle IS NOT NULL) OR (jstor IS NOT NULL)  OR (biostor IS NOT NULL) OR (bhl IS NOT NULL) OR (url IS NOT NULL) OR (pdf IS NOT NULL) OR (isbn IS NOT NULL);
+```
+
+Export is available at https://doi.org/10.6084/m9.figshare.13055804.v1
+
+
 ## Possible interface idea
 
 Use [DataTables](https://datatables.net) to display the table of data.
@@ -124,6 +150,21 @@ JSTOR | 129705
 BioStor | 50402
 BHL | 81078
 Any | 418615
+
+Date: 2020-10-06
+
+Identifier | Number of names
+-- | -- 
+DOI | 211706
+JSTOR | 129727
+BioStor | 50416
+BHL | 104919
+Any | 446034
+
+```
+SELECT COUNT(Id) FROM names WHERE (doi IS NOT NULL) OR (handle IS NOT NULL) OR (jstor IS NOT NULL)  OR (biostor IS NOT NULL) OR (bhl IS NOT NULL) OR (url IS NOT NULL) OR (pdf IS NOT NULL) OR (isbn IS NOT NULL);
+```
+
 
 ## Coverage by journal
 
